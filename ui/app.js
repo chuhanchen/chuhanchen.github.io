@@ -4,9 +4,11 @@ var $=function(id){return document.getElementById(id);};
 var CHANNELS=[{id:'home',name:'今日荐读',short:'荐读'},{id:'news',name:'天下观察',short:'天下'},{id:'military',name:'军情与战史',short:'军事'},{id:'history',name:'百年中国',short:'历史'},{id:'culture',name:'文娱故事',short:'文娱'}];
 var state={articles:[],channel:'home',reading:null,refreshing:false,saved:[],read:[],font:24,night:false,lastUpdate:0,revision:'',editionIds:[],pendingRender:false};
 var db=null,toastTimer=0,homeScroll=0;
+var bundledImages={};
+(window.CJ_SEED||[]).forEach(function(a){[a.cover].concat((a.blocks||[]).filter(function(b){return b.type==='image';}).map(function(b){return b.src;})).forEach(function(u){if(/^assets\/[a-f0-9]{64}\.jpg$/.test(u||''))bundledImages['/media/'+u.slice(7)]=u;});});
 function text(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
 function safeUrl(u){return /^https?:\/\//i.test(u||'')?u:'';}
-function imgSrc(u){return typeof u==='string'&&(/^(?:assets\/[a-zA-Z0-9_.-]+|\/media\/[a-f0-9]{64}\.(?:jpg|png|webp|gif|avif))$/.test(u))?u:'';}
+function imgSrc(u){return typeof u==='string'&&(/^(?:assets\/[a-zA-Z0-9_.-]+|\/media\/[a-f0-9]{64}\.(?:jpg|png|webp|gif|avif))$/.test(u))?(bundledImages[u]||u):'';}
 function idFor(u){var h=2166136261;for(var i=0;i<u.length;i++){h^=u.charCodeAt(i);h=Math.imul(h,16777619);}return'a'+(h>>>0).toString(36);}
 function channelName(id){return(CHANNELS.find(function(c){return c.id===id;})||{name:'精选文章'}).name;}
 function isValid(a){return a&&a.selectionVersion===2&&a.complete===true&&a.title&&safeUrl(a.url)&&Array.isArray(a.blocks)&&a.blocks.filter(function(b){return b.type==='p'&&b.text&&b.text.trim().length>3;}).length>=2&&a.blocks.reduce(function(n,b){return n+((b.type==='p'||b.type==='h2')&&b.text?b.text.length:0);},0)>=180;}
