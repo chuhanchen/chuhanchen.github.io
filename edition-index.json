@@ -1,10 +1,10 @@
 {
-  "revision": "d33490bc494cb9c6a67bba45",
+  "revision": "986d696a690df46c4292c48b",
   "channels": {
-    "news": 10,
-    "military": 8,
-    "history": 11,
-    "culture": 12
+    "news": 9,
+    "military": 7,
+    "history": 10,
+    "culture": 9
   },
   "articles": [
     {
@@ -16,12 +16,12 @@
       "genre": "分析评论"
     },
     {
-      "id": "a8a86bef7c66085baa3b5",
-      "title": "金门战役失利后，萧峰先后四次作检讨，粟裕四次帮他开脱",
-      "source": "历史客栈",
-      "url": "https://www.sohu.com/a/729880985_247380",
-      "published": "2023-10-20 16:00",
-      "genre": "战史回忆"
+      "id": "ab9eebd2d8c252d688e07",
+      "title": "巴里·希利：“澳大利亚拿24枚导弹‘威慑中国’？这不是战略，是愚蠢”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/BarryHealy/2026_10_16_903500_s.shtml",
+      "published": "2026-10-16 08:13:05",
+      "genre": "分析评论"
     },
     {
       "id": "aeb3be9bd42ddcba0b550",
@@ -32,11 +32,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "add29d9ba2a4bb8b2097a",
-      "title": "红星特稿丨刀郎和他的音乐追梦人生……",
-      "source": "红星新闻",
-      "url": "https://www.sohu.com/a/709729294_116237",
-      "published": "2023-08-07 22:07",
+      "id": "a6f7b642122aca20482ed",
+      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088405947_100115139",
+      "published": "2026-10-19 07:56",
       "genre": "人物与往事"
     },
     {
@@ -45,38 +45,6 @@
       "source": "观察者网",
       "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
       "published": "2026-10-19 13:10:58",
-      "genre": "分析评论"
-    },
-    {
-      "id": "ab9eebd2d8c252d688e07",
-      "title": "巴里·希利：“澳大利亚拿24枚导弹‘威慑中国’？这不是战略，是愚蠢”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/BarryHealy/2026_10_16_903500_s.shtml",
-      "published": "2026-10-16 08:13:05",
-      "genre": "分析评论"
-    },
-    {
-      "id": "a4553443ed9bfb631ba85",
-      "title": "粟裕秘书鞠开回忆文章，第一大将一生与“三”结缘",
-      "source": "天地史话",
-      "url": "https://www.sohu.com/a/415541729_717027",
-      "published": "2020-08-29 21:28",
-      "genre": "历史故事"
-    },
-    {
-      "id": "af187e22db366ff1c65e6",
-      "title": "费玉清：告别初恋后终生未娶跟56岁红颜知己不离不弃",
-      "source": "飘然心甜",
-      "url": "https://www.sohu.com/a/793200999_121687421",
-      "published": "2024-07-14 10:37",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "aa48a3a38a019068643f4",
-      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
-      "published": "2026-10-18 08:29:20",
       "genre": "分析评论"
     },
     {
@@ -96,19 +64,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6f7b642122aca20482ed",
-      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088405947_100115139",
-      "published": "2026-10-19 07:56",
-      "genre": "人物与往事"
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
     },
     {
-      "id": "a5425508766805bcb197f",
-      "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
+      "id": "aa48a3a38a019068643f4",
+      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
-      "published": "2026-10-18 08:19:36",
+      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
+      "published": "2026-10-18 08:29:20",
       "genre": "分析评论"
     },
     {
@@ -128,19 +96,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ac287ddfa540b6ba000ff",
-      "title": "从被骂“不务正业”逆袭成双料视帝！71岁白发不染仍是“皇帝专业户”，他的底气到底从哪来？",
-      "source": "娱乐聊不停",
-      "url": "https://www.sohu.com/a/1022102621_121124875",
-      "published": "2026-05-13 17:04",
+      "id": "a39446a15b4e063d40586",
+      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089953123_120617247",
+      "published": "2026-10-20 06:56",
       "genre": "人物与往事"
     },
     {
-      "id": "a63ee5ce130f9288f4282",
-      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
+      "id": "a5425508766805bcb197f",
+      "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
-      "published": "2026-10-15 13:23:50",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
+      "published": "2026-10-18 08:19:36",
       "genre": "分析评论"
     },
     {
@@ -160,19 +128,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "aa4e66a433590ef11309d",
+      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
+      "source": "姩姩有娱",
+      "url": "https://www.sohu.com/a/1089811657_122430278",
+      "published": "2026-10-19 19:13",
+      "genre": "人物与往事"
     },
     {
-      "id": "a6ed0f1537799852f1190",
-      "title": "余淳于：釜山想成为北极航运枢纽，对中国意味着什么？",
+      "id": "a63ee5ce130f9288f4282",
+      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/yuchunyu/2026_10_14_903985_s.shtml",
-      "published": "2026-10-14 08:36:24",
+      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
+      "published": "2026-10-15 13:23:50",
       "genre": "分析评论"
     },
     {
@@ -192,20 +160,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a622b7b8dfe86a7f8b50f",
-      "title": "“唐僧”迟重瑞：娶女富豪陈丽华为妻，没有孩子，他过得怎样？",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/666497453_120617247",
-      "published": "2023-04-13 23:34",
+      "id": "afbe58853559e7f02627c",
+      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1034545965_100289291",
+      "published": "2026-06-11 11:53",
       "genre": "人物与往事"
     },
     {
-      "id": "af0696db52e3476b5aefe",
-      "title": "万斯发警告：希望美国人注意法国骚乱，这就是民主党人寻求的未来",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xMtGPaQbwz",
-      "published": "2026-10-20T07:16:05+08:00",
-      "genre": "新闻动态"
+      "id": "a6ed0f1537799852f1190",
+      "title": "余淳于：釜山想成为北极航运枢纽，对中国意味着什么？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/yuchunyu/2026_10_14_903985_s.shtml",
+      "published": "2026-10-14 08:36:24",
+      "genre": "分析评论"
     },
     {
       "id": "a57bd18dacf02c7d400a2",
@@ -224,19 +192,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a506f3decf285b59a2c03",
-      "title": "原创 《西游记》选角花絮，邂逅何晴，错过刘晓庆，捧红李玲玉",
+      "id": "a2426393970f6f9125de9",
+      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
       "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/341028843_100289291",
-      "published": "2019-09-15 19:58",
+      "url": "https://www.sohu.com/a/1032651147_100289291",
+      "published": "2026-06-06 17:40",
       "genre": "人物与往事"
     },
     {
-      "id": "a87cc6c3b2b2d5b94b750",
-      "title": "“俄罗斯袭击乌克兰，美国在开打前1分钟才告知”",
+      "id": "af0696db52e3476b5aefe",
+      "title": "万斯发警告：希望美国人注意法国骚乱，这就是民主党人寻求的未来",
       "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xMk4TDmwX5",
-      "published": "2026-10-20T05:44:27+08:00",
+      "url": "https://original.ifeng.com/c/8xMtGPaQbwz",
+      "published": "2026-10-20T07:16:05+08:00",
       "genre": "新闻动态"
     },
     {
@@ -256,19 +224,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a39446a15b4e063d40586",
-      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089953123_120617247",
-      "published": "2026-10-20 06:56",
+      "id": "a0d6d99ff52e800d1d7da",
+      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1031305344_100289291",
+      "published": "2026-06-03 21:33",
       "genre": "人物与往事"
     },
     {
-      "id": "a738543c48bd6fa103834",
-      "title": "日本民众举行抗议集会反对高市政府扩军修宪",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xMZXWxAXJJ",
-      "published": "2026-10-20T02:20:40+08:00",
+      "id": "a87cc6c3b2b2d5b94b750",
+      "title": "“俄罗斯袭击乌克兰，美国在开打前1分钟才告知”",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xMk4TDmwX5",
+      "published": "2026-10-20T05:44:27+08:00",
       "genre": "新闻动态"
     },
     {
@@ -280,27 +248,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "aa4e66a433590ef11309d",
-      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
-      "source": "姩姩有娱",
-      "url": "https://www.sohu.com/a/1089811657_122430278",
-      "published": "2026-10-19 19:13",
+      "id": "a02fdc27e2c586b6f8a34",
+      "title": "原创 李泽钜遭绑架！父亲李嘉诚将他的伤害降到最低，他比郭炳湘幸运",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089954639_120617247",
+      "published": "2026-10-20 07:02",
       "genre": "人物与往事"
     },
     {
-      "id": "a7fe77b654f847e97a039",
-      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
-      "published": "2026-05-11T10:39:55+08:00",
+      "id": "aea50d86c8ff121842b6b",
+      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
+      "published": "2026年10月19日 22:14",
       "genre": "历史故事"
     },
     {
-      "id": "afbe58853559e7f02627c",
-      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1034545965_100289291",
-      "published": "2026-06-11 11:53",
+      "id": "aac4f698f3995b8d2eb1c",
+      "title": "原创 长实否认李嘉诚逝世！他丧偶36年仍单身，曾为两个儿子焦虑",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089499416_120617247",
+      "published": "2026-10-19 07:17",
       "genre": "人物与往事"
     },
     {
@@ -312,28 +280,12 @@
       "genre": "分析评论"
     },
     {
-      "id": "aea50d86c8ff121842b6b",
-      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
-      "published": "2026年10月19日 22:14",
+      "id": "a7fe77b654f847e97a039",
+      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
+      "published": "2026-05-11T10:39:55+08:00",
       "genre": "历史故事"
-    },
-    {
-      "id": "a2426393970f6f9125de9",
-      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1032651147_100289291",
-      "published": "2026-06-06 17:40",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a02fdc27e2c586b6f8a34",
-      "title": "原创 李泽钜遭绑架！父亲李嘉诚将他的伤害降到最低，他比郭炳湘幸运",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089954639_120617247",
-      "published": "2026-10-20 07:02",
-      "genre": "人物与往事"
     }
   ]
 }
