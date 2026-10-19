@@ -1,6 +1,6 @@
 'use strict';
-const CACHE='chenjiang-v4-editorial-3';
-const SHELL=['/','/index.html','/style.css','/host.js','/config.js','/seed.js','/app.js'];
+const CACHE='chenjiang-v4-rotation-1';
+const SHELL=['/','/index.html','/style.css','/host.js','/config.js','/seed.js','/rotation.js','/app.js'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{
   const cache=await caches.open(CACHE);await cache.addAll(SHELL);
   const response=await fetch('/seed-assets.json'),assets=await response.json();let next=0;
