@@ -1,0 +1,136 @@
+Option Explicit
+Dim shl, fso, src, root, stage, previous, appdir, desktop, programs, link, n, desc, regkey, marker
+Set shl = CreateObject("WScript.Shell")
+Set fso = CreateObject("Scripting.FileSystemObject")
+src = fso.GetParentFolderName(WScript.ScriptFullName)
+root = shl.ExpandEnvironmentStrings("%LOCALAPPDATA%") & "\ChenJiangMagazine"
+appdir = root & "\app"
+previous = root & "\previous"
+Randomize
+stage = root & "\pending-" & Hex(CLng(Timer * 100)) & "-" & Hex(Int(Rnd * 65535))
+regkey = "HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\ChenJiangMagazine\"
+
+If Not fso.FileExists(src & "\app\ChenJiangMagazine.exe") Or Not fso.FileExists(src & "\app\resources\app\ui\index.html") Then
+  Fail "安装文件不完整。请把完整安装包复制到电脑后重新运行。"
+End If
+
+On Error Resume Next
+If Not fso.FolderExists(root) Then fso.CreateFolder root
+fso.CopyFolder src & "\app", stage, True
+n = Err.Number
+desc = Err.Description
+On Error GoTo 0
+If n <> 0 Or Not fso.FileExists(stage & "\ChenJiangMagazine.exe") Then
+  Fail "无法复制程序文件。请检查硬盘剩余空间。" & vbCrLf & desc
+End If
+
+If AppRunning(appdir) Then
+  If MsgBox("辰江网络杂志正在运行。安装需要先关闭杂志窗口。" & vbCrLf & vbCrLf & "点击“确定”关闭并继续安装；“取消”保留当前版本。", vbOKCancel + vbInformation, "更新辰江网络杂志") <> vbOK Then
+    On Error Resume Next
+    fso.DeleteFolder stage, True
+    WScript.Quit 0
+  End If
+  StopApp appdir
+End If
+
+On Error Resume Next
+If fso.FolderExists(previous) Then fso.DeleteFolder previous, True
+Err.Clear
+If fso.FolderExists(appdir) Then fso.MoveFolder appdir, previous
+n = Err.Number
+desc = Err.Description
+On Error GoTo 0
+If n <> 0 Then Fail "旧版程序仍被占用，请关闭所有杂志窗口后再安装。" & vbCrLf & desc
+
+On Error Resume Next
+fso.MoveFolder stage, appdir
+n = Err.Number
+desc = Err.Description
+If n <> 0 And fso.FolderExists(previous) Then
+  Err.Clear
+  fso.MoveFolder previous, appdir
+End If
+On Error GoTo 0
+If n <> 0 Then Fail "新版本未能安装，已尝试恢复原版本。" & vbCrLf & desc
+
+On Error Resume Next
+fso.CopyFile src & "\uninstall.vbs", root & "\uninstall.vbs", True
+fso.CopyFile src & "\magazine.ico", root & "\magazine.ico", True
+Set marker = fso.CreateTextFile(root & "\.chenjiang-install", True)
+marker.WriteLine "ChenJiangMagazine/4/8d358ec6-1378-47fa-b2c6-527fae872420"
+marker.Close
+desktop = shl.SpecialFolders("Desktop")
+Set link = shl.CreateShortcut(desktop & "\辰江网络杂志.lnk")
+link.TargetPath = appdir & "\ChenJiangMagazine.exe"
+link.WorkingDirectory = appdir
+link.IconLocation = root & "\magazine.ico"
+link.Description = "辰江网络杂志：时事、军事、历史与文娱"
+link.Save
+programs = shl.SpecialFolders("Programs") & "\辰江网络杂志"
+If Not fso.FolderExists(programs) Then fso.CreateFolder programs
+Set link = shl.CreateShortcut(programs & "\辰江网络杂志.lnk")
+link.TargetPath = appdir & "\ChenJiangMagazine.exe"
+link.WorkingDirectory = appdir
+link.IconLocation = root & "\magazine.ico"
+link.Save
+Set link = shl.CreateShortcut(programs & "\卸载辰江网络杂志.lnk")
+link.TargetPath = shl.ExpandEnvironmentStrings("%SystemRoot%") & "\System32\wscript.exe"
+link.Arguments = "//Nologo " & Quote(root & "\uninstall.vbs")
+link.IconLocation = root & "\magazine.ico"
+link.Save
+shl.RegWrite regkey & "DisplayName", "辰江网络杂志", "REG_SZ"
+shl.RegWrite regkey & "DisplayVersion", "4.0.1", "REG_SZ"
+shl.RegWrite regkey & "Publisher", "辰江网络杂志", "REG_SZ"
+shl.RegWrite regkey & "InstallLocation", root, "REG_SZ"
+shl.RegWrite regkey & "DisplayIcon", root & "\magazine.ico", "REG_SZ"
+shl.RegWrite regkey & "UninstallString", Quote(shl.ExpandEnvironmentStrings("%SystemRoot%") & "\System32\wscript.exe") & " //Nologo " & Quote(root & "\uninstall.vbs"), "REG_SZ"
+shl.RegWrite regkey & "NoModify", 1, "REG_DWORD"
+shl.RegWrite regkey & "NoRepair", 1, "REG_DWORD"
+shl.RegWrite regkey & "EstimatedSize", CLng(fso.GetFolder(appdir).Size / 1024), "REG_DWORD"
+n = Err.Number
+desc = Err.Description
+If fso.FolderExists(previous) Then fso.DeleteFolder previous, True
+On Error GoTo 0
+If n <> 0 Then
+  MsgBox "程序文件已经安装，但快捷方式或卸载登记未能全部完成。" & vbCrLf & "可在此处打开：" & appdir & "\ChenJiangMagazine.exe" & vbCrLf & desc, vbExclamation, "安装提示"
+Else
+  MsgBox "安装完成，桌面已生成“辰江网络杂志”图标。" & vbCrLf & vbCrLf & "程序已装到电脑，可以拔掉 U 盘。" & vbCrLf & "首次打开即可阅读内置图文，在线更新地址配置后会自动添新。", vbInformation, "辰江网络杂志"
+End If
+shl.Run Quote(appdir & "\ChenJiangMagazine.exe"), 1, False
+
+Function Quote(s)
+  Quote = Chr(34) & s & Chr(34)
+End Function
+
+Function AppRunning(folder)
+  Dim svc, ps, p, exe
+  AppRunning = False
+  On Error Resume Next
+  Set svc = GetObject("winmgmts:\\.\root\cimv2")
+  Set ps = svc.ExecQuery("SELECT ExecutablePath FROM Win32_Process WHERE Name='ChenJiangMagazine.exe'")
+  For Each p In ps
+    exe = ""
+    If Not IsNull(p.ExecutablePath) Then exe = LCase(CStr(p.ExecutablePath))
+    If Left(exe, Len(folder) + 1) = LCase(folder & "\") Then AppRunning = True
+  Next
+  On Error GoTo 0
+End Function
+
+Sub StopApp(folder)
+  Dim svc, ps, p, exe
+  On Error Resume Next
+  Set svc = GetObject("winmgmts:\\.\root\cimv2")
+  Set ps = svc.ExecQuery("SELECT ExecutablePath FROM Win32_Process WHERE Name='ChenJiangMagazine.exe'")
+  For Each p In ps
+    exe = ""
+    If Not IsNull(p.ExecutablePath) Then exe = LCase(CStr(p.ExecutablePath))
+    If Left(exe, Len(folder) + 1) = LCase(folder & "\") Then p.Terminate
+  Next
+  WScript.Sleep 1800
+  On Error GoTo 0
+End Sub
+
+Sub Fail(message)
+  MsgBox message, vbExclamation, "辰江网络杂志安装未完成"
+  WScript.Quit 1
+End Sub

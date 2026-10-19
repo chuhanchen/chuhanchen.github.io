@@ -1,0 +1,59 @@
+name: Update Chenjiang magazine
+on:
+  push:
+    branches: [main]
+    paths: ['service/**', 'ui/**', 'package*.json', '.github/workflows/pages.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */2 * * *'
+concurrency:
+  group: chenjiang-pages
+  cancel-in-progress: false
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: npm test
+      - uses: actions/cache@v4
+        with:
+          path: data
+          key: reading-edition-v1-${{ github.run_id }}
+          restore-keys: reading-edition-v1-
+      - run: npm run collect
+      - run: node service/export-seed.js
+      - run: npm run export
+      - run: node service/compact-data.js
+      - name: Save actual edition catalogue
+        run: |
+          node service/edition-index.js
+          git add edition-index.json
+          if ! git diff --cached --quiet; then
+            git config user.name github-actions
+            git config user.email actions@users.noreply.github.com
+            git commit -m "Update prepared edition catalogue [skip ci]"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  publish:
+    needs: prepare
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

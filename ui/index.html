@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="color-scheme" content="light dark">
+  <title>辰江网络杂志</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="magazine">
+    <header class="masthead">
+      <div class="masthead-inner">
+        <div class="brand"><span class="seal" aria-hidden="true">辰<br>江</span><div><h1>辰江网络杂志</h1><div class="brand-sub">看天下事 · 读百年史 · 品生活趣</div></div></div>
+        <div class="header-tools"><span id="date" class="date"></span><button id="saved" class="plain-btn" aria-label="查看收藏">☆ 收藏</button><button id="refresh" class="refresh-btn">更新文章 <span aria-hidden="true">↻</span></button></div>
+      </div>
+    </header>
+    <nav id="channels" class="channels" aria-label="杂志栏目"></nav>
+    <main id="main" class="page">
+      <div class="page-heading"><div><div id="eyebrow" class="eyebrow">CHENJIANG MAGAZINE</div><h2 id="channel-title">今日荐读</h2></div><p id="status" class="status" role="status">好文章已经备好</p></div>
+      <div id="feed" class="feed"></div>
+      <footer class="page-footer"><span class="footer-mark">辰江</span><p>好文章，慢慢读。<br><span>已收录的文章保存在本机，下次打开继续阅读。</span></p><button id="more" class="plain-btn">看看有没有新文章 ↻</button></footer>
+    </main>
+  </div>
+  <section id="reader" class="reader" aria-label="文章阅读" hidden>
+    <header class="reader-toolbar"><div class="reader-tools-inner"><button id="back" class="back-btn">‹ 返回杂志</button><div class="reader-tools"><button id="smaller" title="缩小正文字号">小字</button><button id="larger" title="放大正文字号">大字</button><button id="theme" title="切换夜间阅读">☾ 夜间</button><button id="bookmark" title="收藏文章">☆ 收藏</button></div></div><div class="progress"><div id="progress-bar"></div></div></header>
+    <div id="article-scroll" class="article-scroll"><article id="article" class="article"></article><div class="article-bottom"><div class="end-mark">全文完</div><button id="next-article" class="primary-btn">再读一篇 →</button><button id="return-bottom" class="plain-btn">返回杂志</button></div></div>
+  </section>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script src="host.js"></script>
+  <script src="config.js"></script>
+  <script src="seed.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

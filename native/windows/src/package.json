@@ -1,0 +1,8 @@
+{
+  "name": "chenjiang-magazine",
+  "productName": "辰江网络杂志",
+  "version": "4.0.1",
+  "description": "面向日常阅读的图文新闻杂志",
+  "main": "main.js",
+  "private": true
+}

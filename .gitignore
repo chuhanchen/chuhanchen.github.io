@@ -1,0 +1,10 @@
+node_modules/
+data/
+dist/
+native/android/build/
+native/android/private/
+native/windows/cache/
+native/windows/dist/
+native/windows/src/ui
+.playwright-cli/
+.DS_Store
