@@ -19,7 +19,6 @@ const SOURCES=[
   {id:'sohu-ent',platform:'sohu',name:'搜狐娱乐',channel:'culture',url:'https://yule.sohu.com/'},
   {id:'sohu-people',platform:'sohu',name:'细品名人 · 作者主页',channel:'culture',authorFeed:true,url:'https://mp.sohu.com/profile?xpt=NDc3N2UyZGEtM2ZhZi00YjA5LThhZjMtYTk2ZWIyNzRhYTMz'},
   {id:'sohu-backstage',platform:'sohu',name:'我是个码字的 · 作者主页',channel:'culture',authorFeed:true,url:'https://mp.sohu.com/profile?xpt=MTA0NzQ2ODUyMzM5MzI0MTA4OEBzb2h1LmNvbQ=='},
-  {id:'reading-shelf',platform:'sohu',name:'人物与历史选读',channel:'culture',kind:'curated',url:'https://www.sohu.com/',articles:require('./reading-shelf.json')},
   {id:'chinanews-news',platform:'chinanews',name:'中国新闻网',channel:'news',filter:'news',url:'https://www.chinanews.com.cn/scroll-news/news1.html'}
 ];
 const TOPICS={
@@ -116,7 +115,7 @@ function similarity(a,b){return legacy.titleSimilarity(a,b);}
 function titleKey(t){return t.replace(/[\s\p{P}\p{S}]/gu,'').toLowerCase();}
 function score(a,now=Date.now()){
   const e=a.editorial||editorial.evaluate(a);
-  let s=(a.cover?8:0)+(e.priority||0)+(a.selectedReading?8:0);const time=Date.parse(a.published||'');
+  let s=(a.cover?8:0)+(e.priority||0);const time=Date.parse(a.published||'');
   if(Number.isFinite(time)){const days=Math.max(0,(now-time)/86400000);s+=a.channel==='news'?Math.max(-60,24-days*8):Math.max(0,6-days*.02);}
   if(TOPICS[a.channel]?.test(a.title))s+=12;
   if(a.channel==='history'&&/近代|抗战|解放|民国|共和国|党史|新中国|长征|革命|国民党|开国|抗日/.test(a.title))s+=18;

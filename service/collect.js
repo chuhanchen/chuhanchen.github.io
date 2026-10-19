@@ -80,12 +80,15 @@ async function collect({budgetMs=60000}={}){
         accepted.push(record);status.accepted++;
       }catch(e){status.failed++;if(report.rejections.length<80)report.rejections.push({source:candidate.sourceId,title:candidate.title,url:candidate.url,reason:deadline.signal.aborted?'本轮时间预算已到':String(e.message).slice(0,160)});}
     });
-    const merged=new Map();
+    const merged=new Map(),discoveredThisRun=new Set(accepted.map(a=>a.url));
     for(const a of [...accepted,...prior.articles]){
       if(merged.has(a.url)||!a.complete)continue;
+      // Manual taste examples bootstrap the first reading only. A later issue keeps
+      // one only if a normal source independently discovers it again this round.
+      if(a.selectedReading&&!discoveredThisRun.has(a.url))continue;
       const when=Date.parse(a.published||'');
       if(a.channel==='news'&&(!Number.isFinite(when)||Date.now()-when>7*86400000))continue;
-      const reviewed=annotate({...a,channel:classify(a.title,a.channel)});
+      const reviewed=annotate({...a,selectedReading:undefined,channel:classify(a.title,a.channel)});
       if(!reviewed.editorial.eligible)continue;
       merged.set(a.url,{...reviewed,discoveries:(a.discoveries||[a.discovery]).filter(x=>x!=='今日头条热榜'),hotTopic:undefined});
     }

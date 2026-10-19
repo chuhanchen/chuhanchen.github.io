@@ -61,3 +61,8 @@ test('作者主页只读标题，不把简介拼进标题；百年中国排除�
   assert.equal(list[0].title,'一位演员的成名往事');
   assert.equal(evaluate({title:'汉武帝时期，太子刘据起兵造反，为什么没有成功？',channel:'history',textLength:2000}).eligible,false);
 });
+test('首期口味示例不是持续采集来源，也不获得固定推荐加分',()=>{
+  assert.equal(SOURCES.some(s=>s.kind==='curated'),false);
+  const a={title:'一位演员的婚姻往事',channel:'culture',textLength:2000};
+  assert.equal(score({...a,selectedReading:true}),score({...a,selectedReading:false}));
+});
