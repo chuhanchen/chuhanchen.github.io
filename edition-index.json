@@ -1,5 +1,5 @@
 {
-  "revision": "986d696a690df46c4292c48b",
+  "revision": "03d90eb39fa4e1001a89d501",
   "channels": {
     "news": 9,
     "military": 7,
@@ -256,22 +256,6 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aea50d86c8ff121842b6b",
-      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
-      "published": "2026年10月19日 22:14",
-      "genre": "历史故事"
-    },
-    {
-      "id": "aac4f698f3995b8d2eb1c",
-      "title": "原创 长实否认李嘉诚逝世！他丧偶36年仍单身，曾为两个儿子焦虑",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089499416_120617247",
-      "published": "2026-10-19 07:17",
-      "genre": "人物与往事"
-    },
-    {
       "id": "abe22b34b6a85716ec8a4",
       "title": "刘燕婷：如果美国不救，沙特应对胡塞武装还有三条路？",
       "source": "观察者网",
@@ -285,6 +269,22 @@
       "source": "凤凰网历史",
       "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
       "published": "2026-05-11T10:39:55+08:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "aac4f698f3995b8d2eb1c",
+      "title": "原创 长实否认李嘉诚逝世！他丧偶36年仍单身，曾为两个儿子焦虑",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089499416_120617247",
+      "published": "2026-10-19 07:17",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "aea50d86c8ff121842b6b",
+      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
+      "published": "2026年10月19日 22:14",
       "genre": "历史故事"
     }
   ]
