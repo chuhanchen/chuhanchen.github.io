@@ -1,18 +1,18 @@
 {
-  "revision": "03d90eb39fa4e1001a89d501",
+  "revision": "f53f3a9646dafe9619d7814f",
   "channels": {
     "news": 9,
-    "military": 7,
+    "military": 8,
     "history": 10,
-    "culture": 9
+    "culture": 10
   },
   "articles": [
     {
-      "id": "aad05b6bcf72670e07ae5",
-      "title": "总编辑时间丨高市最担心中美关起门来把事儿谈了，自己连个旁听的凳子都没有",
-      "source": "总编辑时间",
-      "url": "https://original.ifeng.com/c/8xML5onjmWG",
-      "published": "2026-10-19T23:14:57+08:00",
+      "id": "a2c33b435fcd4bb24635c",
+      "title": "蕙风若宇：在大英博物馆遇见乾隆，为什么中国文物会在这里？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/huifengruoyu/2026_10_20_903731_s.shtml",
+      "published": "2026-10-20 09:07:34",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5d5b9bffc2e31040b0aa",
-      "title": "罗伯特·赖特：有些人老操心，要是中国赢了，会强加给美国一套新制度",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
-      "published": "2026-10-19 13:10:58",
+      "id": "aad05b6bcf72670e07ae5",
+      "title": "总编辑时间丨高市最担心中美关起门来把事儿谈了，自己连个旁听的凳子都没有",
+      "source": "总编辑时间",
+      "url": "https://original.ifeng.com/c/8xML5onjmWG",
+      "published": "2026-10-19T23:14:57+08:00",
       "genre": "分析评论"
     },
     {
@@ -72,19 +72,19 @@
       "genre": "作品解读"
     },
     {
-      "id": "aa48a3a38a019068643f4",
-      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
+      "id": "a5d5b9bffc2e31040b0aa",
+      "title": "罗伯特·赖特：有些人老操心，要是中国赢了，会强加给美国一套新制度",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
-      "published": "2026-10-18 08:29:20",
+      "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
+      "published": "2026-10-19 13:10:58",
       "genre": "分析评论"
     },
     {
-      "id": "a077b3e0240491a732766",
-      "title": "日专家：日美大规模联合军演加剧地区紧张局势",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xLkCJjc13J",
-      "published": "2026-10-19T14:09:25+08:00",
+      "id": "a94c7502020d8bc4ac1db",
+      "title": "双石| 向北，再向东：长征路上最要紧的一次抉择",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShuangShi/2026_10_20_901446_s.shtml",
+      "published": "2026-10-20 09:58:55",
       "genre": "新闻动态"
     },
     {
@@ -104,19 +104,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5425508766805bcb197f",
-      "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
+      "id": "aa48a3a38a019068643f4",
+      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
-      "published": "2026-10-18 08:19:36",
+      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
+      "published": "2026-10-18 08:29:20",
       "genre": "分析评论"
     },
     {
-      "id": "aaf6b45fc50f876708369",
-      "title": "日美将举行大规模联合军演，投入兵力接近6万人",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xLGtqVJ3D4",
-      "published": "2026-10-19T07:25:48+08:00",
+      "id": "ab789c615c9846823bba7",
+      "title": "长年深耕导弹工业，美以追杀他35年，伊朗新防长是啥来头？",
+      "source": "上观新闻",
+      "url": "https://news.ifeng.com/c/8xNHZ3iEWTS",
+      "published": "2026-10-20T12:47:27+08:00",
       "genre": "新闻动态"
     },
     {
@@ -125,6 +125,38 @@
       "source": "社会生活新鲜事",
       "url": "https://www.360kuai.com/982f720f87110f7de",
       "published": "2026-09-28T23:31:39.000Z",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a52fec0a40f578487c33e",
+      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088886650_100115139",
+      "published": "2026-10-20 06:02",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a5425508766805bcb197f",
+      "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
+      "published": "2026-10-18 08:19:36",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a077b3e0240491a732766",
+      "title": "日专家：日美大规模联合军演加剧地区紧张局势",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xLkCJjc13J",
+      "published": "2026-10-19T14:09:25+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a73c0c87e07d5a73e47c2",
+      "title": "建党前后，毛泽东在做什么？",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8gITZl6BMQf",
+      "published": "2026-06-29T15:32:37+08:00",
       "genre": "历史故事"
     },
     {
@@ -144,19 +176,19 @@
       "genre": "分析评论"
     },
     {
-      "id": "af9cf32f209b909a556a3",
-      "title": "伊朗新任国防部长回应美国“炸弹之母”威胁",
+      "id": "aaf6b45fc50f876708369",
+      "title": "日美将举行大规模联合军演，投入兵力接近6万人",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xKNgcaTZq0",
-      "published": "2026-10-18T18:46:23+08:00",
+      "url": "https://mil.ifeng.com/c/8xLGtqVJ3D4",
+      "published": "2026-10-19T07:25:48+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a73c0c87e07d5a73e47c2",
-      "title": "建党前后，毛泽东在做什么？",
+      "id": "a43ab9b6b536a534b039a",
+      "title": "历史上美国总统一共有过多少次访华？",
       "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8gITZl6BMQf",
-      "published": "2026-06-29T15:32:37+08:00",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjP6",
+      "published": "2026-05-13T17:37:23+08:00",
       "genre": "历史故事"
     },
     {
@@ -176,43 +208,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a57bd18dacf02c7d400a2",
-      "title": "加拿大韦恩赖特军事基地发生爆炸，至少7人死亡",
+      "id": "af9cf32f209b909a556a3",
+      "title": "伊朗新任国防部长回应美国“炸弹之母”威胁",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xKGbErRNXX",
-      "published": "2026-10-18T16:52:15+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a43ab9b6b536a534b039a",
-      "title": "历史上美国总统一共有过多少次访华？",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjP6",
-      "published": "2026-05-13T17:37:23+08:00",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a2426393970f6f9125de9",
-      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1032651147_100289291",
-      "published": "2026-06-06 17:40",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "af0696db52e3476b5aefe",
-      "title": "万斯发警告：希望美国人注意法国骚乱，这就是民主党人寻求的未来",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xMtGPaQbwz",
-      "published": "2026-10-20T07:16:05+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "abe5f81de766aa74fc301",
-      "title": "退役导弹启封，伊朗“牛仔将军”能否撕开以军防空网？",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8kKuv4vZB4V",
-      "published": "2025-06-20T13:26:47+08:00",
+      "url": "https://news.ifeng.com/c/8xKNgcaTZq0",
+      "published": "2026-10-18T18:46:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -224,19 +224,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "a0d6d99ff52e800d1d7da",
-      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "id": "a2426393970f6f9125de9",
+      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
       "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1031305344_100289291",
-      "published": "2026-06-03 21:33",
+      "url": "https://www.sohu.com/a/1032651147_100289291",
+      "published": "2026-06-06 17:40",
       "genre": "人物与往事"
     },
     {
-      "id": "a87cc6c3b2b2d5b94b750",
-      "title": "“俄罗斯袭击乌克兰，美国在开打前1分钟才告知”",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xMk4TDmwX5",
-      "published": "2026-10-20T05:44:27+08:00",
+      "id": "aa376e5d43cafa2ab89cb",
+      "title": "美国佛州对95岁卡斯特罗发逮捕令，古巴主席：政治闹剧",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8xNGSDpFw8o",
+      "published": "2026-10-20T11:40:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a57bd18dacf02c7d400a2",
+      "title": "加拿大韦恩赖特军事基地发生爆炸，至少7人死亡",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xKGbErRNXX",
+      "published": "2026-10-18T16:52:15+08:00",
       "genre": "新闻动态"
     },
     {
@@ -248,6 +256,22 @@
       "genre": "历史故事"
     },
     {
+      "id": "a0d6d99ff52e800d1d7da",
+      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1031305344_100289291",
+      "published": "2026-06-03 21:33",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a7fe77b654f847e97a039",
+      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
+      "published": "2026-05-11T10:39:55+08:00",
+      "genre": "历史故事"
+    },
+    {
       "id": "a02fdc27e2c586b6f8a34",
       "title": "原创 李泽钜遭绑架！父亲李嘉诚将他的伤害降到最低，他比郭炳湘幸运",
       "source": "细品名人",
@@ -256,19 +280,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abe22b34b6a85716ec8a4",
-      "title": "刘燕婷：如果美国不救，沙特应对胡塞武装还有三条路？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/LiuYanTing/2026_10_13_903977_s.shtml",
-      "published": "2026-10-13 13:11:23",
-      "genre": "分析评论"
-    },
-    {
-      "id": "a7fe77b654f847e97a039",
-      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
-      "published": "2026-05-11T10:39:55+08:00",
+      "id": "aea50d86c8ff121842b6b",
+      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
+      "published": "2026年10月19日 22:14",
       "genre": "历史故事"
     },
     {
@@ -280,12 +296,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aea50d86c8ff121842b6b",
-      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
-      "published": "2026年10月19日 22:14",
-      "genre": "历史故事"
+      "id": "abe22b34b6a85716ec8a4",
+      "title": "刘燕婷：如果美国不救，沙特应对胡塞武装还有三条路？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/LiuYanTing/2026_10_13_903977_s.shtml",
+      "published": "2026-10-13 13:11:23",
+      "genre": "分析评论"
     }
   ]
 }
