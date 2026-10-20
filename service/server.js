@@ -9,7 +9,7 @@ const ROOT=path.resolve(__dirname,'..');
 const DATA=path.resolve(process.env.CJ_DATA_DIR||path.join(ROOT,'data'));
 const UI=path.join(ROOT,'ui');
 const MIME={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.gif':'image/gif','.avif':'image/avif','.svg':'image/svg+xml'};
-const publicFiles=new Set(['index.html','app.js','host.js','config.js','seed.js','seed-assets.json','style.css','sw.js','favicon.svg','manifest.webmanifest']);
+const publicFiles=new Set(['index.html','app.js','rotation.js','host.js','config.js','seed.js','seed-assets.json','style.css','sw.js','favicon.svg','manifest.webmanifest']);
 const metrics={requests:0,editionRequests:0,mediaRequests:0};
 let editionCache;
 async function edition(){

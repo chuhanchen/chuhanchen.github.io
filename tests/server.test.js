@@ -20,6 +20,7 @@ test('阅读接口仅提供已准备内容：支持条件更新、压缩、断�
   });
   const originalFetch=global.fetch;global.fetch=()=>{throw new Error('阅读时禁止访问原网站');};
   try{
+    const rotation=await get('/rotation.js');assert.equal(rotation.status,200);assert.match(rotation.headers['content-type'],/javascript/);
     const r=await get('/api/edition',{'Accept-Encoding':'gzip'});assert.equal(r.status,200);assert.equal(r.headers['content-encoding'],'gzip');assert.deepEqual(JSON.parse(gunzipSync(r.body)),doc);
     const same=await get('/api/edition',{'If-None-Match':r.headers.etag});assert.equal(same.status,304);assert.equal(same.body.length,0);
     assert.equal((await get('/__fetch?url=https://news.ifeng.com')).status,404);
