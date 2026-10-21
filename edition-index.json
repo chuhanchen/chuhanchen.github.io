@@ -1,9 +1,9 @@
 {
-  "revision": "086d8b539e5a6461e562128d",
+  "revision": "04e6a8f7147a2e49966a1438",
   "channels": {
     "news": 11,
     "military": 11,
-    "history": 14,
+    "history": 16,
     "culture": 15
   },
   "articles": [
@@ -152,11 +152,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "af8c0c33f2f4e5edce977",
-      "title": "原创 法国在燃烧，为何几乎无解？",
-      "source": "地图帝",
-      "url": "https://www.sohu.com/a/1090578310_353978",
-      "published": "2026-10-21 11:58",
+      "id": "accafedc7a38b26afd6cf",
+      "title": "原创 1966年挖开岳飞墓，棺内竟无尸骨，只有一个陶罐，八百年前那个狱卒的秘密，终于被揭开了",
+      "source": "写乎",
+      "url": "https://www.sohu.com/a/1089385160_388741",
+      "published": "2026-10-22 00:00",
       "genre": "历史故事"
     },
     {
@@ -184,11 +184,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a0e0db796aeb7ffe1a7ad",
-      "title": "德国的猪队友到底是谁？意大利只是废物了点，日本才是罪魁祸首！",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1090142508_100140957",
-      "published": "2026-10-20 13:48",
+      "id": "aaf09004df27010718346",
+      "title": "何以中国·当惊世界殊 | 一桥飞架南北，人民脚下是通途",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1090832859_119038",
+      "published": "2026-10-21 20:59",
       "genre": "历史故事"
     },
     {
@@ -216,11 +216,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a33b263e89e6fd9e2fc2c",
-      "title": "在安徽博物院读懂“天问”",
-      "source": "人民网",
-      "url": "https://www.sohu.com/a/1089955635_114731",
-      "published": "2026-10-20 05:23",
+      "id": "af8c0c33f2f4e5edce977",
+      "title": "原创 法国在燃烧，为何几乎无解？",
+      "source": "地图帝",
+      "url": "https://www.sohu.com/a/1090578310_353978",
+      "published": "2026-10-21 11:58",
       "genre": "历史故事"
     },
     {
@@ -232,12 +232,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a63ee5ce130f9288f4282",
-      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
-      "published": "2026-10-15 13:23:50",
-      "genre": "分析评论"
+      "id": "aeffb4c95a4a07003c34f",
+      "title": "凤凰记者：伊方要求美方先兑现7个条件，现在球在美国一边",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xPctbpeqJ6",
+      "published": "2026-10-21T22:35:02+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a596b13eae02747ca6ad1",
@@ -248,11 +248,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a11a4e66a743880a64af5",
-      "title": "陈独秀晚年拒绝蒋介石百万资助，宁饿死也不低头，1942年去世时连棺材都买不起",
-      "source": "社会生活新鲜事",
-      "url": "https://www.360kuai.com/982f720f87110f7de",
-      "published": "2026-09-28T23:31:39.000Z",
+      "id": "a0e0db796aeb7ffe1a7ad",
+      "title": "德国的猪队友到底是谁？意大利只是废物了点，日本才是罪魁祸首！",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1090142508_100140957",
+      "published": "2026-10-20 13:48",
       "genre": "历史故事"
     },
     {
@@ -264,12 +264,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8b2f49c59826aa1fb4b5",
-      "title": "黄仁勋直接对德国总理说：欧洲都没这个技术，谈什么监管？",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xPWqLDUxZN",
-      "published": "2026-10-21T20:52:02+08:00",
-      "genre": "新闻动态"
+      "id": "a63ee5ce130f9288f4282",
+      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
+      "published": "2026-10-15 13:23:50",
+      "genre": "分析评论"
     },
     {
       "id": "acd2bbc88785b21d6dfba",
@@ -280,11 +280,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a73c0c87e07d5a73e47c2",
-      "title": "建党前后，毛泽东在做什么？",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8gITZl6BMQf",
-      "published": "2026-06-29T15:32:37+08:00",
+      "id": "a33b263e89e6fd9e2fc2c",
+      "title": "在安徽博物院读懂“天问”",
+      "source": "人民网",
+      "url": "https://www.sohu.com/a/1089955635_114731",
+      "published": "2026-10-20 05:23",
       "genre": "历史故事"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a75bc0c67c8b0ae8cceb3",
-      "title": "环球社评：马斯克造会飞的车，是因为“被中国挤出传统赛道”？",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xPNoWXMGOF",
-      "published": "2026-10-21T18:55:34+08:00",
+      "id": "a8b2f49c59826aa1fb4b5",
+      "title": "黄仁勋直接对德国总理说：欧洲都没这个技术，谈什么监管？",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xPWqLDUxZN",
+      "published": "2026-10-21T20:52:02+08:00",
       "genre": "新闻动态"
     },
     {
@@ -312,11 +312,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a43ab9b6b536a534b039a",
-      "title": "历史上美国总统一共有过多少次访华？",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjP6",
-      "published": "2026-05-13T17:37:23+08:00",
+      "id": "a11a4e66a743880a64af5",
+      "title": "陈独秀晚年拒绝蒋介石百万资助，宁饿死也不低头，1942年去世时连棺材都买不起",
+      "source": "社会生活新鲜事",
+      "url": "https://www.360kuai.com/982f720f87110f7de",
+      "published": "2026-09-28T23:31:39.000Z",
       "genre": "历史故事"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac378d58adc839aff7ad9",
-      "title": "街头在燃烧，“总统在舞蹈”",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xPMdKKrQxz",
-      "published": "2026-10-21T18:42:43+08:00",
+      "id": "a75bc0c67c8b0ae8cceb3",
+      "title": "环球社评：马斯克造会飞的车，是因为“被中国挤出传统赛道”？",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xPNoWXMGOF",
+      "published": "2026-10-21T18:55:34+08:00",
       "genre": "新闻动态"
     },
     {
@@ -344,11 +344,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a49467156abbd67bbdfd0",
-      "title": "10位美国总统，8位访华，他们访华都干了啥",
+      "id": "a73c0c87e07d5a73e47c2",
+      "title": "建党前后，毛泽东在做什么？",
       "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjP4",
-      "published": "2026-05-13T17:32:10+08:00",
+      "url": "https://history.ifeng.com/c/8gITZl6BMQf",
+      "published": "2026-06-29T15:32:37+08:00",
       "genre": "历史故事"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a850eda82d521474e449f",
-      "title": "能否派5000名中国留学生来美国？卡特：你告诉邓小平，他可以派10万人！",
+      "id": "a43ab9b6b536a534b039a",
+      "title": "历史上美国总统一共有过多少次访华？",
       "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8szT8dH9G2o",
-      "published": "2026-05-11T11:10:08+08:00",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjP6",
+      "published": "2026-05-13T17:37:23+08:00",
       "genre": "历史故事"
     },
     {
@@ -376,11 +376,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aea50d86c8ff121842b6b",
-      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
-      "published": "2026年10月19日 22:14",
+      "id": "a49467156abbd67bbdfd0",
+      "title": "10位美国总统，8位访华，他们访华都干了啥",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjP4",
+      "published": "2026-05-13T17:32:10+08:00",
       "genre": "历史故事"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a7fe77b654f847e97a039",
-      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
+      "id": "a850eda82d521474e449f",
+      "title": "能否派5000名中国留学生来美国？卡特：你告诉邓小平，他可以派10万人！",
       "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
-      "published": "2026-05-11T10:39:55+08:00",
+      "url": "https://history.ifeng.com/c/8szT8dH9G2o",
+      "published": "2026-05-11T11:10:08+08:00",
       "genre": "历史故事"
     },
     {
@@ -408,12 +408,28 @@
       "genre": "人物与往事"
     },
     {
+      "id": "a7fe77b654f847e97a039",
+      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
+      "published": "2026-05-11T10:39:55+08:00",
+      "genre": "历史故事"
+    },
+    {
       "id": "a430fdfb27e58b1b4bfd9",
       "title": "原创 李嘉诚98岁仍健在！小儿子李泽楷一直让他头疼",
       "source": "细品名人",
       "url": "https://www.sohu.com/a/1090437346_120617247",
       "published": "2026-10-21 06:56",
       "genre": "人物与往事"
+    },
+    {
+      "id": "aea50d86c8ff121842b6b",
+      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
+      "published": "2026年10月19日 22:14",
+      "genre": "历史故事"
     }
   ]
 }
