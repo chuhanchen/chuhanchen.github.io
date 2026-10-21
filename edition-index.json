@@ -1,10 +1,10 @@
 {
-  "revision": "03c20635fdf620cfff32c558",
+  "revision": "6de72c74ace364955db176fa",
   "channels": {
-    "news": 10,
+    "news": 11,
     "military": 9,
     "history": 12,
-    "culture": 12
+    "culture": 13
   },
   "articles": [
     {
@@ -32,11 +32,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6f7b642122aca20482ed",
-      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088405947_100115139",
-      "published": "2026-10-19 07:56",
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
       "genre": "人物与往事"
     },
     {
@@ -64,11 +64,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
+      "id": "a6f7b642122aca20482ed",
+      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088405947_100115139",
+      "published": "2026-10-19 07:56",
       "genre": "人物与往事"
     },
     {
@@ -80,11 +80,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "ac6989767ebe3420a61db",
-      "title": "朝中社：韩美、日美联合军演给东北亚带来新战争乌云",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xO2dQlJn1B",
-      "published": "2026-10-20T23:04:47+08:00",
+      "id": "a147b77b2958f468e7a8b",
+      "title": "法国周末将爆发新一轮抗议活动！政府计划部署军队",
+      "source": "世界眼",
+      "url": "https://original.ifeng.com/c/8xOcOmZGanA",
+      "published": "2026-10-21T08:20:17+08:00",
       "genre": "新闻动态"
     },
     {
@@ -96,12 +96,12 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
+      "genre": "人物与往事"
     },
     {
       "id": "aad05b6bcf72670e07ae5",
@@ -112,11 +112,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a1cfe2dd786fe41ac299c",
-      "title": "韩国计划大扩军，要建8000吨核潜艇和3万吨无人机航母",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xNwrW00T7U",
-      "published": "2026-10-20T22:12:27+08:00",
+      "id": "acd2bbc88785b21d6dfba",
+      "title": "一边加强军演，一边筹备隧道，白令海峡上演竞合大戏",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xOcHQKUBe5",
+      "published": "2026-10-21T01:46:11+08:00",
       "genre": "新闻动态"
     },
     {
@@ -128,12 +128,12 @@
       "genre": "历史故事"
     },
     {
-      "id": "a39446a15b4e063d40586",
-      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089953123_120617247",
-      "published": "2026-10-20 06:56",
-      "genre": "人物与往事"
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
     },
     {
       "id": "a5d5b9bffc2e31040b0aa",
@@ -144,11 +144,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a94c7502020d8bc4ac1db",
-      "title": "双石| 向北，再向东：长征路上最要紧的一次抉择",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShuangShi/2026_10_20_901446_s.shtml",
-      "published": "2026-10-20 09:58:55",
+      "id": "ac6989767ebe3420a61db",
+      "title": "朝中社：韩美、日美联合军演给东北亚带来新战争乌云",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xO2dQlJn1B",
+      "published": "2026-10-20T23:04:47+08:00",
       "genre": "新闻动态"
     },
     {
@@ -160,11 +160,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a52fec0a40f578487c33e",
-      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088886650_100115139",
-      "published": "2026-10-20 06:02",
+      "id": "a39446a15b4e063d40586",
+      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089953123_120617247",
+      "published": "2026-10-20 06:56",
       "genre": "人物与往事"
     },
     {
@@ -176,11 +176,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "ab789c615c9846823bba7",
-      "title": "长年深耕导弹工业，美以追杀他35年，伊朗新防长是啥来头？",
-      "source": "上观新闻",
-      "url": "https://news.ifeng.com/c/8xNHZ3iEWTS",
-      "published": "2026-10-20T12:47:27+08:00",
+      "id": "a1cfe2dd786fe41ac299c",
+      "title": "韩国计划大扩军，要建8000吨核潜艇和3万吨无人机航母",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xNwrW00T7U",
+      "published": "2026-10-20T22:12:27+08:00",
       "genre": "新闻动态"
     },
     {
@@ -192,11 +192,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "ae538ef15df0ec1468576",
-      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
-      "source": "娱站",
-      "url": "https://www.sohu.com/a/1089884886_536079",
-      "published": "2026-10-20 00:45",
+      "id": "a52fec0a40f578487c33e",
+      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088886650_100115139",
+      "published": "2026-10-20 06:02",
       "genre": "人物与往事"
     },
     {
@@ -208,11 +208,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a077b3e0240491a732766",
-      "title": "日专家：日美大规模联合军演加剧地区紧张局势",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xLkCJjc13J",
-      "published": "2026-10-19T14:09:25+08:00",
+      "id": "a94c7502020d8bc4ac1db",
+      "title": "双石| 向北，再向东：长征路上最要紧的一次抉择",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShuangShi/2026_10_20_901446_s.shtml",
+      "published": "2026-10-20 09:58:55",
       "genre": "新闻动态"
     },
     {
@@ -224,11 +224,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "aa4e66a433590ef11309d",
-      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
-      "source": "姩姩有娱",
-      "url": "https://www.sohu.com/a/1089811657_122430278",
-      "published": "2026-10-19 19:13",
+      "id": "ae538ef15df0ec1468576",
+      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
+      "source": "娱站",
+      "url": "https://www.sohu.com/a/1089884886_536079",
+      "published": "2026-10-20 00:45",
       "genre": "人物与往事"
     },
     {
@@ -240,11 +240,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "aaf6b45fc50f876708369",
-      "title": "日美将举行大规模联合军演，投入兵力接近6万人",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xLGtqVJ3D4",
-      "published": "2026-10-19T07:25:48+08:00",
+      "id": "ab789c615c9846823bba7",
+      "title": "长年深耕导弹工业，美以追杀他35年，伊朗新防长是啥来头？",
+      "source": "上观新闻",
+      "url": "https://news.ifeng.com/c/8xNHZ3iEWTS",
+      "published": "2026-10-20T12:47:27+08:00",
       "genre": "新闻动态"
     },
     {
@@ -256,27 +256,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "afbe58853559e7f02627c",
-      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1034545965_100289291",
-      "published": "2026-06-11 11:53",
+      "id": "aa4e66a433590ef11309d",
+      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
+      "source": "姩姩有娱",
+      "url": "https://www.sohu.com/a/1089811657_122430278",
+      "published": "2026-10-19 19:13",
       "genre": "人物与往事"
     },
     {
-      "id": "ac66d3b91b7a1fc2c193e",
-      "title": "胡锡进：一种根本性慌张和动乱已经在法国和欧洲若隐若现",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xO0aM4CI1k",
-      "published": "2026-10-20T23:18:05+08:00",
+      "id": "a45ad5c5a4b0d005fa478",
+      "title": "现场图来了！中国向阿联酋交付首架飞行汽车",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xOXvphSFzP",
+      "published": "2026-10-21T07:03:09+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "af9cf32f209b909a556a3",
-      "title": "伊朗新任国防部长回应美国“炸弹之母”威胁",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xKNgcaTZq0",
-      "published": "2026-10-18T18:46:23+08:00",
+      "id": "a077b3e0240491a732766",
+      "title": "日专家：日美大规模联合军演加剧地区紧张局势",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xLkCJjc13J",
+      "published": "2026-10-19T14:09:25+08:00",
       "genre": "新闻动态"
     },
     {
@@ -288,12 +288,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a2426393970f6f9125de9",
-      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1032651147_100289291",
-      "published": "2026-06-06 17:40",
+      "id": "a1811365ff11eb461c45b",
+      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1090437399_120617247",
+      "published": "2026-10-21 07:01",
       "genre": "人物与往事"
+    },
+    {
+      "id": "afdfeb69b2e3159cceaeb",
+      "title": "有人鼓吹抵制中国货？菲前国安顾问反对",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xOaAXcTFNd",
+      "published": "2026-10-21T06:25:00+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a850eda82d521474e449f",
@@ -304,27 +312,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "a0d6d99ff52e800d1d7da",
-      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "id": "afbe58853559e7f02627c",
+      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
       "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1031305344_100289291",
-      "published": "2026-06-03 21:33",
+      "url": "https://www.sohu.com/a/1034545965_100289291",
+      "published": "2026-06-11 11:53",
       "genre": "人物与往事"
     },
     {
-      "id": "a7fe77b654f847e97a039",
-      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
-      "published": "2026-05-11T10:39:55+08:00",
+      "id": "aea50d86c8ff121842b6b",
+      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
+      "published": "2026年10月19日 22:14",
       "genre": "历史故事"
     },
     {
-      "id": "a02fdc27e2c586b6f8a34",
-      "title": "原创 李泽钜遭绑架！父亲李嘉诚将他的伤害降到最低，他比郭炳湘幸运",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089954639_120617247",
-      "published": "2026-10-20 07:02",
+      "id": "a2426393970f6f9125de9",
+      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1032651147_100289291",
+      "published": "2026-06-06 17:40",
       "genre": "人物与往事"
     },
     {
@@ -336,19 +344,27 @@
       "genre": "分析评论"
     },
     {
-      "id": "aea50d86c8ff121842b6b",
-      "title": "追忆张纯如：照亮历史上黑暗记忆的一束光",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717491.shtml",
-      "published": "2026年10月19日 22:14",
+      "id": "a7fe77b654f847e97a039",
+      "title": "1972年毛主席会见尼克松：你当选，我是投了一票的，我喜欢右派",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjNb",
+      "published": "2026-05-11T10:39:55+08:00",
       "genre": "历史故事"
     },
     {
-      "id": "aac4f698f3995b8d2eb1c",
-      "title": "原创 长实否认李嘉诚逝世！他丧偶36年仍单身，曾为两个儿子焦虑",
+      "id": "a0d6d99ff52e800d1d7da",
+      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1031305344_100289291",
+      "published": "2026-06-03 21:33",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a430fdfb27e58b1b4bfd9",
+      "title": "原创 李嘉诚98岁仍健在！小儿子李泽楷一直让他头疼",
       "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089499416_120617247",
-      "published": "2026-10-19 07:17",
+      "url": "https://www.sohu.com/a/1090437346_120617247",
+      "published": "2026-10-21 06:56",
       "genre": "人物与往事"
     }
   ]
