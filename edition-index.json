@@ -1,7 +1,7 @@
 {
-  "revision": "f23367f2f268ac6fe4259006",
+  "revision": "a8c215997ea30f6e6c31db56",
   "channels": {
-    "news": 13,
+    "news": 12,
     "military": 12,
     "history": 22,
     "culture": 16
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5e13ee078e0edcafd144",
-      "title": "阿根廷总统重申将以外交手段收回马岛主权",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xR6DvHb80r",
-      "published": "2026-10-22T19:22:58+08:00",
+      "id": "a5bdbbc534c009bddffba",
+      "title": "“中国比布鲁塞尔更清楚欧洲愿意付出什么代价”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_22_905447_s.shtml",
+      "published": "2026-10-22 22:57:19",
       "genre": "新闻动态"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a83fa9ee4a5c52c871178",
-      "title": "“限速”乌克兰星链，马斯克被指责让美国在乌人员生命遭遇严重威胁",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xR44cJXCrY",
-      "published": "2026-10-22T19:19:07+08:00",
+      "id": "a00b429e905582bc0587c",
+      "title": "胡锡进：“只够撑几个月”，日本恶怼中国的报应正加速兑现",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xRMNdX7dBo",
+      "published": "2026-10-22T23:32:49+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a7760c2217703d182aca1",
-      "title": "中国女留学生在韩国遇害案首次庭审，嫌犯作案后曾将受害人分尸",
-      "source": "潇湘晨报",
-      "url": "https://news.ifeng.com/c/8xR0rEzK1EK",
-      "published": "2026-10-22T18:24:23+08:00",
+      "id": "a5af1ec2d55695e6bbbd0",
+      "title": "数十名阿富汗女性因违反服装规定被捕，联合国发声",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xREqNxTtCo",
+      "published": "2026-10-22T23:03:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abeebb10cd1d7a0e12db9",
-      "title": "美媒：就算小博索纳罗赢下大选，也救不了巴西经济",
-      "source": "世界论见",
-      "url": "https://original.ifeng.com/c/8xQyTUIskkU",
-      "published": "2026-10-22T18:03:20+08:00",
+      "id": "af64ac1af304e5819d789",
+      "title": "凤凰记者：局势升级越来越明显，霍尔木兹海峡将是最危险的战争引爆点",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xRHevyztsC",
+      "published": "2026-10-22T22:41:04+08:00",
       "genre": "新闻动态"
     },
     {
@@ -422,14 +422,6 @@
       "url": "https://www.sohu.com/a/1032651147_100289291",
       "published": "2026-06-06 17:40",
       "genre": "人物与往事"
-    },
-    {
-      "id": "a63ee5ce130f9288f4282",
-      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
-      "published": "2026-10-15 13:23:50",
-      "genre": "分析评论"
     },
     {
       "id": "a33b263e89e6fd9e2fc2c",
