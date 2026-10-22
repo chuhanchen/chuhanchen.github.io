@@ -1,10 +1,10 @@
 {
-  "revision": "f7f576ac277c1067b8ed1788",
+  "revision": "f23367f2f268ac6fe4259006",
   "channels": {
     "news": 13,
     "military": 12,
-    "history": 21,
-    "culture": 15
+    "history": 22,
+    "culture": 16
   },
   "articles": [
     {
@@ -32,11 +32,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3a65a8d03704a6e920c8",
-      "title": "传奇演员，突然去世",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
-      "published": "2026-10-21T12:20:26+08:00",
+      "id": "af2b8fdb33b08b61a364e",
+      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
+      "source": "在人间",
+      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
+      "published": "2026-10-22T18:16:13+08:00",
       "genre": "人物与往事"
     },
     {
@@ -64,11 +64,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad4b1f4ad739877881533",
-      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
-      "published": "2026-10-21T01:03:15+08:00",
+      "id": "a3a65a8d03704a6e920c8",
+      "title": "传奇演员，突然去世",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
+      "published": "2026-10-21T12:20:26+08:00",
       "genre": "人物与往事"
     },
     {
@@ -96,11 +96,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6f7b642122aca20482ed",
-      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088405947_100115139",
-      "published": "2026-10-19 07:56",
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
       "genre": "人物与往事"
     },
     {
@@ -128,11 +128,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
+      "id": "a6f7b642122aca20482ed",
+      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088405947_100115139",
+      "published": "2026-10-19 07:56",
       "genre": "人物与往事"
     },
     {
@@ -144,11 +144,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "abd47c60547cbcf92f43f",
-      "title": "凤凰探访红军三大主力“会师之城”",
-      "source": "凤凰卫视资讯台",
-      "url": "https://news.ifeng.com/c/8xQY3yeIOTE",
-      "published": "2026-10-22T12:03:05+08:00",
+      "id": "a21342bf802053506a4a0",
+      "title": "知情人士称美国防部拟打造新的深度潜伏间谍项目",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xR20wmonIl",
+      "published": "2026-10-22T18:12:58+08:00",
       "genre": "新闻动态"
     },
     {
@@ -160,6 +160,38 @@
       "genre": "历史故事"
     },
     {
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a5d5b9bffc2e31040b0aa",
+      "title": "罗伯特·赖特：有些人老操心，要是中国赢了，会强加给美国一套新制度",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
+      "published": "2026-10-19 13:10:58",
+      "genre": "分析评论"
+    },
+    {
+      "id": "abd47c60547cbcf92f43f",
+      "title": "凤凰探访红军三大主力“会师之城”",
+      "source": "凤凰卫视资讯台",
+      "url": "https://news.ifeng.com/c/8xQY3yeIOTE",
+      "published": "2026-10-22T12:03:05+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a96cb5c86cc4b92dd0fb1",
+      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
+      "source": "搜狐文化",
+      "url": "https://www.sohu.com/a/1091196688_120005162",
+      "published": "2026-10-22 15:37",
+      "genre": "历史故事"
+    },
+    {
       "id": "a63de988386bd0a2695da",
       "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
       "source": "凤凰网娱乐",
@@ -168,11 +200,11 @@
       "genre": "作品解读"
     },
     {
-      "id": "a5d5b9bffc2e31040b0aa",
-      "title": "罗伯特·赖特：有些人老操心，要是中国赢了，会强加给美国一套新制度",
+      "id": "aa48a3a38a019068643f4",
+      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
-      "published": "2026-10-19 13:10:58",
+      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
+      "published": "2026-10-18 08:29:20",
       "genre": "分析评论"
     },
     {
@@ -200,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa48a3a38a019068643f4",
-      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
+      "id": "a5425508766805bcb197f",
+      "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
-      "published": "2026-10-18 08:29:20",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
+      "published": "2026-10-18 08:19:36",
       "genre": "分析评论"
     },
     {
@@ -232,12 +264,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5425508766805bcb197f",
-      "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
-      "published": "2026-10-18 08:19:36",
-      "genre": "分析评论"
+      "id": "a5e13ee078e0edcafd144",
+      "title": "阿根廷总统重申将以外交手段收回马岛主权",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xR6DvHb80r",
+      "published": "2026-10-22T19:22:58+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ac5c7707f3c129e40a413",
@@ -264,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad8c8fb5dae2de77fc72e",
-      "title": "美议员承认：没法一直领先中国，那就下重手",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xQSeOBHHaX",
-      "published": "2026-10-22T10:28:30+08:00",
+      "id": "a83fa9ee4a5c52c871178",
+      "title": "“限速”乌克兰星链，马斯克被指责让美国在乌人员生命遭遇严重威胁",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xR44cJXCrY",
+      "published": "2026-10-22T19:19:07+08:00",
       "genre": "新闻动态"
     },
     {
@@ -296,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aaecd10b1226bb2c55614",
-      "title": "剧本变了！美国中期选举爆出反常一幕",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xPvvCow162",
-      "published": "2026-10-22T05:20:57+08:00",
+      "id": "a7760c2217703d182aca1",
+      "title": "中国女留学生在韩国遇害案首次庭审，嫌犯作案后曾将受害人分尸",
+      "source": "潇湘晨报",
+      "url": "https://news.ifeng.com/c/8xR0rEzK1EK",
+      "published": "2026-10-22T18:24:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aeffb4c95a4a07003c34f",
-      "title": "凤凰记者：伊方要求美方先兑现7个条件，现在球在美国一边",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xPctbpeqJ6",
-      "published": "2026-10-21T22:35:02+08:00",
+      "id": "abeebb10cd1d7a0e12db9",
+      "title": "美媒：就算小博索纳罗赢下大选，也救不了巴西经济",
+      "source": "世界论见",
+      "url": "https://original.ifeng.com/c/8xQyTUIskkU",
+      "published": "2026-10-22T18:03:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,22 +392,6 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a63ee5ce130f9288f4282",
-      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
-      "published": "2026-10-15 13:23:50",
-      "genre": "分析评论"
-    },
-    {
-      "id": "ac6989767ebe3420a61db",
-      "title": "朝中社：韩美、日美联合军演给东北亚带来新战争乌云",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xO2dQlJn1B",
-      "published": "2026-10-20T23:04:47+08:00",
-      "genre": "新闻动态"
-    },
-    {
       "id": "af8c0c33f2f4e5edce977",
       "title": "原创 法国在燃烧，为何几乎无解？",
       "source": "地图帝",
@@ -392,14 +408,6 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8b2f49c59826aa1fb4b5",
-      "title": "黄仁勋直接对德国总理说：欧洲都没这个技术，谈什么监管？",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xPWqLDUxZN",
-      "published": "2026-10-21T20:52:02+08:00",
-      "genre": "新闻动态"
-    },
-    {
       "id": "a0e0db796aeb7ffe1a7ad",
       "title": "德国的猪队友到底是谁？意大利只是废物了点，日本才是罪魁祸首！",
       "source": "冷炮历史",
@@ -414,6 +422,14 @@
       "url": "https://www.sohu.com/a/1032651147_100289291",
       "published": "2026-06-06 17:40",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a63ee5ce130f9288f4282",
+      "title": "沙青青|德国“世纪间谍”案背后：联邦情报局与纳粹旧人、冷战对垒、美国谍影",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShaQingQing/2026_10_15_904342_s.shtml",
+      "published": "2026-10-15 13:23:50",
+      "genre": "分析评论"
     },
     {
       "id": "a33b263e89e6fd9e2fc2c",
