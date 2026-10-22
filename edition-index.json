@@ -1,18 +1,18 @@
 {
-  "revision": "95cbdf93bc914d7cdbaf8980",
+  "revision": "f7f576ac277c1067b8ed1788",
   "channels": {
-    "news": 12,
-    "military": 11,
-    "history": 18,
+    "news": 13,
+    "military": 12,
+    "history": 21,
     "culture": 15
   },
   "articles": [
     {
-      "id": "a7edb24abcb11f65cf173",
-      "title": "德国盾构机卖给印度，为什么要等中国放行？",
+      "id": "af2b93eb4727e9e37e438",
+      "title": "“世界科先声”编译：“没技术，谈啥监管？”黄仁勋点完德国，又提中国是“世界唯一”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xNx8X7ZM6w",
-      "published": "2026-10-20T22:12:27+08:00",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_22_905244_s.shtml",
+      "published": "2026-10-22 08:57:13",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a008c08af82df5b0efda1",
-      "title": "美国大萧条：胡佛究竟该负多大责任？",
+      "id": "a7edb24abcb11f65cf173",
+      "title": "德国盾构机卖给印度，为什么要等中国放行？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/MargaretHoover/2026_10_20_904294_s.shtml",
-      "published": "2026-10-20 13:33:40",
+      "url": "https://news.ifeng.com/c/8xNx8X7ZM6w",
+      "published": "2026-10-20T22:12:27+08:00",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2c33b435fcd4bb24635c",
-      "title": "蕙风若宇：在大英博物馆遇见乾隆，为什么中国文物会在这里？",
+      "id": "a008c08af82df5b0efda1",
+      "title": "美国大萧条：胡佛究竟该负多大责任？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/huifengruoyu/2026_10_20_903731_s.shtml",
-      "published": "2026-10-20 09:07:34",
+      "url": "https://www.guancha.cn/MargaretHoover/2026_10_20_904294_s.shtml",
+      "published": "2026-10-20 13:33:40",
       "genre": "分析评论"
     },
     {
@@ -88,11 +88,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a8ca724aedd5c59e2a9f0",
-      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1090281990_161795",
-      "published": "2026-10-20 18:26",
+      "id": "a9638ac5b17922fc0ae4e",
+      "title": "原创 事态升级！解放军怒批，南京披日旗陈某黑料越扒越狠，家庭被曝光",
+      "source": "小鋭有话说",
+      "url": "https://www.sohu.com/a/1090614449_122536964",
+      "published": "2026-10-21 13:24",
       "genre": "历史故事"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aad05b6bcf72670e07ae5",
-      "title": "总编辑时间丨高市最担心中美关起门来把事儿谈了，自己连个旁听的凳子都没有",
-      "source": "总编辑时间",
-      "url": "https://original.ifeng.com/c/8xML5onjmWG",
-      "published": "2026-10-19T23:14:57+08:00",
+      "id": "a2c33b435fcd4bb24635c",
+      "title": "蕙风若宇：在大英博物馆遇见乾隆，为什么中国文物会在这里？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/huifengruoyu/2026_10_20_903731_s.shtml",
+      "published": "2026-10-20 09:07:34",
       "genre": "分析评论"
     },
     {
@@ -120,11 +120,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "acaf56c5afbf9b74caaaa",
-      "title": "采访王光美及其子女的回忆：是谁真正要把刘少奇和家人置于死地？",
-      "source": "国史网",
-      "url": "https://history.ifeng.com/c/8hKwaYeq8ss",
-      "published": "2025-02-28T10:56:30+08:00",
+      "id": "a8ca724aedd5c59e2a9f0",
+      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1090281990_161795",
+      "published": "2026-10-20 18:26",
       "genre": "历史故事"
     },
     {
@@ -136,27 +136,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5d5b9bffc2e31040b0aa",
-      "title": "罗伯特·赖特：有些人老操心，要是中国赢了，会强加给美国一套新制度",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
-      "published": "2026-10-19 13:10:58",
+      "id": "aad05b6bcf72670e07ae5",
+      "title": "总编辑时间丨高市最担心中美关起门来把事儿谈了，自己连个旁听的凳子都没有",
+      "source": "总编辑时间",
+      "url": "https://original.ifeng.com/c/8xML5onjmWG",
+      "published": "2026-10-19T23:14:57+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "aecada6593ee148f463e8",
-      "title": "“罗斯福”号航母开赴中东，美拟增兵约万人",
+      "id": "abd47c60547cbcf92f43f",
+      "title": "凤凰探访红军三大主力“会师之城”",
       "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xPPekJveJ7",
-      "published": "2026-10-21T19:31:51+08:00",
+      "url": "https://news.ifeng.com/c/8xQY3yeIOTE",
+      "published": "2026-10-22T12:03:05+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "accafedc7a38b26afd6cf",
-      "title": "原创 1966年挖开岳飞墓，棺内竟无尸骨，只有一个陶罐，八百年前那个狱卒的秘密，终于被揭开了",
-      "source": "写乎",
-      "url": "https://www.sohu.com/a/1089385160_388741",
-      "published": "2026-10-22 00:00",
+      "id": "acaf56c5afbf9b74caaaa",
+      "title": "采访王光美及其子女的回忆：是谁真正要把刘少奇和家人置于死地？",
+      "source": "国史网",
+      "url": "https://history.ifeng.com/c/8hKwaYeq8ss",
+      "published": "2025-02-28T10:56:30+08:00",
       "genre": "历史故事"
     },
     {
@@ -168,27 +168,27 @@
       "genre": "作品解读"
     },
     {
-      "id": "aa48a3a38a019068643f4",
-      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
+      "id": "a5d5b9bffc2e31040b0aa",
+      "title": "罗伯特·赖特：有些人老操心，要是中国赢了，会强加给美国一套新制度",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
-      "published": "2026-10-18 08:29:20",
+      "url": "https://www.guancha.cn/RobertWright/2026_10_19_904563_s.shtml",
+      "published": "2026-10-19 13:10:58",
       "genre": "分析评论"
     },
     {
-      "id": "ac5c7707f3c129e40a413",
-      "title": "泽连斯基：美国恢复向乌提供导弹预警",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xOoPl3Ber8",
-      "published": "2026-10-21T10:46:49+08:00",
+      "id": "a49c4aa7bc445b1ea4d4a",
+      "title": "日美军演，以“守护和平”之名推升地区局势紧张",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xQAqJMFQVT",
+      "published": "2026-10-22T06:43:37+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "aaf09004df27010718346",
-      "title": "何以中国·当惊世界殊 | 一桥飞架南北，人民脚下是通途",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1090832859_119038",
-      "published": "2026-10-21 20:59",
+      "id": "a6ab1f2912e4d48ecc472",
+      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091080235_260616",
+      "published": "2026-10-22 11:24",
       "genre": "历史故事"
     },
     {
@@ -200,12 +200,76 @@
       "genre": "人物与往事"
     },
     {
+      "id": "aa48a3a38a019068643f4",
+      "title": "刘燕婷| 也门内战纠缠美伊谈判：伊朗、胡塞、美国、沙特，谁想一战？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/LiuYanTing/2026_10_18_904480_s.shtml",
+      "published": "2026-10-18 08:29:20",
+      "genre": "分析评论"
+    },
+    {
+      "id": "aecada6593ee148f463e8",
+      "title": "“罗斯福”号航母开赴中东，美拟增兵约万人",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xPPekJveJ7",
+      "published": "2026-10-21T19:31:51+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a317059c85c06fb01db8b",
+      "title": "艺动申城｜“中国扇”徐徐展开，让世界听见上海",
+      "source": "央广网",
+      "url": "https://www.sohu.com/a/1090981193_362042",
+      "published": "2026-10-22 08:38",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a39446a15b4e063d40586",
+      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089953123_120617247",
+      "published": "2026-10-20 06:56",
+      "genre": "人物与往事"
+    },
+    {
       "id": "a5425508766805bcb197f",
       "title": "张维为《这就是中国》第353期：从追赶到领先，中国基础科学研究发生了什么变化？",
       "source": "观察者网",
       "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_18_904551_s.shtml",
       "published": "2026-10-18 08:19:36",
       "genre": "分析评论"
+    },
+    {
+      "id": "ac5c7707f3c129e40a413",
+      "title": "泽连斯基：美国恢复向乌提供导弹预警",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xOoPl3Ber8",
+      "published": "2026-10-21T10:46:49+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "accafedc7a38b26afd6cf",
+      "title": "原创 1966年挖开岳飞墓，棺内竟无尸骨，只有一个陶罐，八百年前那个狱卒的秘密，终于被揭开了",
+      "source": "写乎",
+      "url": "https://www.sohu.com/a/1089385160_388741",
+      "published": "2026-10-22 00:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a52fec0a40f578487c33e",
+      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088886650_100115139",
+      "published": "2026-10-20 06:02",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "ad8c8fb5dae2de77fc72e",
+      "title": "美议员承认：没法一直领先中国，那就下重手",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xQSeOBHHaX",
+      "published": "2026-10-22T10:28:30+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a147b77b2958f468e7a8b",
@@ -216,19 +280,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a477f669688ebb244e6fc",
-      "title": "为什么只有2500多平方公里的卢森堡不担心被侵略和吞并呢？",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1090709411_100140957",
-      "published": "2026-10-21 16:06",
+      "id": "aaf09004df27010718346",
+      "title": "何以中国·当惊世界殊 | 一桥飞架南北，人民脚下是通途",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1090832859_119038",
+      "published": "2026-10-21 20:59",
       "genre": "历史故事"
     },
     {
-      "id": "a39446a15b4e063d40586",
-      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089953123_120617247",
-      "published": "2026-10-20 06:56",
+      "id": "ae538ef15df0ec1468576",
+      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
+      "source": "娱站",
+      "url": "https://www.sohu.com/a/1089884886_536079",
+      "published": "2026-10-20 00:45",
       "genre": "人物与往事"
     },
     {
@@ -248,19 +312,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a8e66807788474b17605b",
-      "title": "从富裕到贫穷，南非只用了一个伟人曼德拉，这个伟人他做了什么？",
+      "id": "a477f669688ebb244e6fc",
+      "title": "为什么只有2500多平方公里的卢森堡不担心被侵略和吞并呢？",
       "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1090709435_100140957",
-      "published": "2026-10-21 16:00",
+      "url": "https://www.sohu.com/a/1090709411_100140957",
+      "published": "2026-10-21 16:06",
       "genre": "历史故事"
     },
     {
-      "id": "a52fec0a40f578487c33e",
-      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088886650_100115139",
-      "published": "2026-10-20 06:02",
+      "id": "aa4e66a433590ef11309d",
+      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
+      "source": "姩姩有娱",
+      "url": "https://www.sohu.com/a/1089811657_122430278",
+      "published": "2026-10-19 19:13",
       "genre": "人物与往事"
     },
     {
@@ -280,19 +344,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "af8c0c33f2f4e5edce977",
-      "title": "原创 法国在燃烧，为何几乎无解？",
-      "source": "地图帝",
-      "url": "https://www.sohu.com/a/1090578310_353978",
-      "published": "2026-10-21 11:58",
+      "id": "a8e66807788474b17605b",
+      "title": "从富裕到贫穷，南非只用了一个伟人曼德拉，这个伟人他做了什么？",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1090709435_100140957",
+      "published": "2026-10-21 16:00",
       "genre": "历史故事"
     },
     {
-      "id": "ae538ef15df0ec1468576",
-      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
-      "source": "娱站",
-      "url": "https://www.sohu.com/a/1089884886_536079",
-      "published": "2026-10-20 00:45",
+      "id": "a1811365ff11eb461c45b",
+      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1090437399_120617247",
+      "published": "2026-10-21 07:01",
       "genre": "人物与往事"
     },
     {
@@ -312,67 +376,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a0e0db796aeb7ffe1a7ad",
-      "title": "德国的猪队友到底是谁？意大利只是废物了点，日本才是罪魁祸首！",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1090142508_100140957",
-      "published": "2026-10-20 13:48",
-      "genre": "历史故事"
-    },
-    {
-      "id": "aa4e66a433590ef11309d",
-      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
-      "source": "姩姩有娱",
-      "url": "https://www.sohu.com/a/1089811657_122430278",
-      "published": "2026-10-19 19:13",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a8b2f49c59826aa1fb4b5",
-      "title": "黄仁勋直接对德国总理说：欧洲都没这个技术，谈什么监管？",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xPWqLDUxZN",
-      "published": "2026-10-21T20:52:02+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a1cfe2dd786fe41ac299c",
-      "title": "韩国计划大扩军，要建8000吨核潜艇和3万吨无人机航母",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xNwrW00T7U",
-      "published": "2026-10-20T22:12:27+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a33b263e89e6fd9e2fc2c",
-      "title": "在安徽博物院读懂“天问”",
-      "source": "人民网",
-      "url": "https://www.sohu.com/a/1089955635_114731",
-      "published": "2026-10-20 05:23",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a1811365ff11eb461c45b",
-      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1090437399_120617247",
-      "published": "2026-10-21 07:01",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a75bc0c67c8b0ae8cceb3",
-      "title": "环球社评：马斯克造会飞的车，是因为“被中国挤出传统赛道”？",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xPNoWXMGOF",
-      "published": "2026-10-21T18:55:34+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a11a4e66a743880a64af5",
-      "title": "陈独秀晚年拒绝蒋介石百万资助，宁饿死也不低头，1942年去世时连棺材都买不起",
-      "source": "社会生活新鲜事",
-      "url": "https://www.360kuai.com/982f720f87110f7de",
-      "published": "2026-09-28T23:31:39.000Z",
+      "id": "af8c0c33f2f4e5edce977",
+      "title": "原创 法国在燃烧，为何几乎无解？",
+      "source": "地图帝",
+      "url": "https://www.sohu.com/a/1090578310_353978",
+      "published": "2026-10-21 11:58",
       "genre": "历史故事"
     },
     {
@@ -384,11 +392,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a73c0c87e07d5a73e47c2",
-      "title": "建党前后，毛泽东在做什么？",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8gITZl6BMQf",
-      "published": "2026-06-29T15:32:37+08:00",
+      "id": "a8b2f49c59826aa1fb4b5",
+      "title": "黄仁勋直接对德国总理说：欧洲都没这个技术，谈什么监管？",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xPWqLDUxZN",
+      "published": "2026-10-21T20:52:02+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a0e0db796aeb7ffe1a7ad",
+      "title": "德国的猪队友到底是谁？意大利只是废物了点，日本才是罪魁祸首！",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1090142508_100140957",
+      "published": "2026-10-20 13:48",
       "genre": "历史故事"
     },
     {
@@ -400,11 +416,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a43ab9b6b536a534b039a",
-      "title": "历史上美国总统一共有过多少次访华？",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjP6",
-      "published": "2026-05-13T17:37:23+08:00",
+      "id": "a33b263e89e6fd9e2fc2c",
+      "title": "在安徽博物院读懂“天问”",
+      "source": "人民网",
+      "url": "https://www.sohu.com/a/1089955635_114731",
+      "published": "2026-10-20 05:23",
       "genre": "历史故事"
     },
     {
@@ -416,11 +432,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a49467156abbd67bbdfd0",
-      "title": "10位美国总统，8位访华，他们访华都干了啥",
-      "source": "凤凰网历史",
-      "url": "https://history.ifeng.com/c/8t2ENVvRjP4",
-      "published": "2026-05-13T17:32:10+08:00",
+      "id": "a11a4e66a743880a64af5",
+      "title": "陈独秀晚年拒绝蒋介石百万资助，宁饿死也不低头，1942年去世时连棺材都买不起",
+      "source": "社会生活新鲜事",
+      "url": "https://www.360kuai.com/982f720f87110f7de",
+      "published": "2026-09-28T23:31:39.000Z",
       "genre": "历史故事"
     },
     {
@@ -430,6 +446,30 @@
       "url": "https://www.sohu.com/a/1090958648_120617247",
       "published": "2026-10-22 07:15",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a73c0c87e07d5a73e47c2",
+      "title": "建党前后，毛泽东在做什么？",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8gITZl6BMQf",
+      "published": "2026-06-29T15:32:37+08:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a43ab9b6b536a534b039a",
+      "title": "历史上美国总统一共有过多少次访华？",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjP6",
+      "published": "2026-05-13T17:37:23+08:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a49467156abbd67bbdfd0",
+      "title": "10位美国总统，8位访华，他们访华都干了啥",
+      "source": "凤凰网历史",
+      "url": "https://history.ifeng.com/c/8t2ENVvRjP4",
+      "published": "2026-05-13T17:32:10+08:00",
+      "genre": "历史故事"
     },
     {
       "id": "a850eda82d521474e449f",
