@@ -1,10 +1,10 @@
 {
-  "revision": "a8c215997ea30f6e6c31db56",
+  "revision": "1ba987330efd259cfdc3cadc",
   "channels": {
-    "news": 12,
+    "news": 13,
     "military": 12,
-    "history": 22,
-    "culture": 16
+    "history": 23,
+    "culture": 18
   },
   "articles": [
     {
@@ -32,11 +32,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "af2b8fdb33b08b61a364e",
-      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
-      "source": "在人间",
-      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
-      "published": "2026-10-22T18:16:13+08:00",
+      "id": "a85ded9fa4d33e6b10027",
+      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
+      "published": "2026-10-23 08:14:02",
       "genre": "人物与往事"
     },
     {
@@ -64,11 +64,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3a65a8d03704a6e920c8",
-      "title": "传奇演员，突然去世",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
-      "published": "2026-10-21T12:20:26+08:00",
+      "id": "af2b8fdb33b08b61a364e",
+      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
+      "source": "在人间",
+      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
+      "published": "2026-10-22T18:16:13+08:00",
       "genre": "人物与往事"
     },
     {
@@ -96,11 +96,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad4b1f4ad739877881533",
-      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
-      "published": "2026-10-21T01:03:15+08:00",
+      "id": "a3a65a8d03704a6e920c8",
+      "title": "传奇演员，突然去世",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
+      "published": "2026-10-21T12:20:26+08:00",
       "genre": "人物与往事"
     },
     {
@@ -128,11 +128,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6f7b642122aca20482ed",
-      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088405947_100115139",
-      "published": "2026-10-19 07:56",
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
       "genre": "人物与往事"
     },
     {
@@ -160,11 +160,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
+      "id": "a6f7b642122aca20482ed",
+      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088405947_100115139",
+      "published": "2026-10-19 07:56",
       "genre": "人物与往事"
     },
     {
@@ -184,20 +184,20 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a96cb5c86cc4b92dd0fb1",
-      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
-      "source": "搜狐文化",
-      "url": "https://www.sohu.com/a/1091196688_120005162",
-      "published": "2026-10-22 15:37",
+      "id": "a7486b60695eb113bb9ef",
+      "title": "纪念｜将杭州视为精神家园的高居翰对中国艺术史的研究有哪些贡献？",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091449820_260616",
+      "published": "2026-10-23 07:39",
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
+      "genre": "人物与往事"
     },
     {
       "id": "aa48a3a38a019068643f4",
@@ -216,20 +216,20 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a6ab1f2912e4d48ecc472",
-      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1091080235_260616",
-      "published": "2026-10-22 11:24",
+      "id": "a96cb5c86cc4b92dd0fb1",
+      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
+      "source": "搜狐文化",
+      "url": "https://www.sohu.com/a/1091196688_120005162",
+      "published": "2026-10-22 15:37",
       "genre": "历史故事"
     },
     {
-      "id": "a0e91f032660d4a482a29",
-      "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1090000180_356941",
-      "published": "2026-10-21 08:14",
-      "genre": "人物与往事"
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
     },
     {
       "id": "a5425508766805bcb197f",
@@ -240,11 +240,43 @@
       "genre": "分析评论"
     },
     {
-      "id": "aecada6593ee148f463e8",
-      "title": "“罗斯福”号航母开赴中东，美拟增兵约万人",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xPPekJveJ7",
-      "published": "2026-10-21T19:31:51+08:00",
+      "id": "a89c109a31591ca41850b",
+      "title": "以媒：数十架以军战机飞近伊朗边境 模拟对伊打击",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xQHeCjbZaN",
+      "published": "2026-10-22T06:02:34+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a6ab1f2912e4d48ecc472",
+      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091080235_260616",
+      "published": "2026-10-22 11:24",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a0d5393193e7e725f06bd",
+      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
+      "source": "半历写书",
+      "url": "https://www.sohu.com/a/1091040690_122223685",
+      "published": "2026-10-22 10:16",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a17ee6cbbcbf7c614a3e5",
+      "title": "美国中期选举倒计时，加拿大政府悄悄发警告",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xRuVzTh57U",
+      "published": "2026-10-23T07:56:57+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a85fdd881ea2e03046938",
+      "title": "胡塞武装向也门东南一座机场发射4枚弹道导弹",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xPfw4TrVkO",
+      "published": "2026-10-21T22:19:55+08:00",
       "genre": "新闻动态"
     },
     {
@@ -256,27 +288,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "a39446a15b4e063d40586",
-      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089953123_120617247",
-      "published": "2026-10-20 06:56",
+      "id": "a0e91f032660d4a482a29",
+      "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1090000180_356941",
+      "published": "2026-10-21 08:14",
       "genre": "人物与往事"
     },
     {
-      "id": "a5bdbbc534c009bddffba",
-      "title": "“中国比布鲁塞尔更清楚欧洲愿意付出什么代价”",
+      "id": "aa7062721b52555296918",
+      "title": "光伏、风电之后，沙特看上了中国“造水术”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_22_905447_s.shtml",
-      "published": "2026-10-22 22:57:19",
+      "url": "https://news.ifeng.com/c/8xRuVzTh55u",
+      "published": "2026-10-23T07:50:12+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "ac5c7707f3c129e40a413",
-      "title": "泽连斯基：美国恢复向乌提供导弹预警",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xOoPl3Ber8",
-      "published": "2026-10-21T10:46:49+08:00",
+      "id": "aecada6593ee148f463e8",
+      "title": "“罗斯福”号航母开赴中东，美拟增兵约万人",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xPPekJveJ7",
+      "published": "2026-10-21T19:31:51+08:00",
       "genre": "新闻动态"
     },
     {
@@ -288,27 +320,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "a52fec0a40f578487c33e",
-      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088886650_100115139",
-      "published": "2026-10-20 06:02",
+      "id": "a39446a15b4e063d40586",
+      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089953123_120617247",
+      "published": "2026-10-20 06:56",
       "genre": "人物与往事"
     },
     {
-      "id": "a00b429e905582bc0587c",
-      "title": "胡锡进：“只够撑几个月”，日本恶怼中国的报应正加速兑现",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xRMNdX7dBo",
-      "published": "2026-10-22T23:32:49+08:00",
+      "id": "a20adaaeafc463ed921d9",
+      "title": "特朗普：美国“爱国者”希望我在中期选举前打击伊朗，另一些人不希望，因为有代价",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xRwLla5gO7",
+      "published": "2026-10-23T07:35:49+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a147b77b2958f468e7a8b",
-      "title": "法国周末将爆发新一轮抗议活动！政府计划部署军队",
-      "source": "世界眼",
-      "url": "https://original.ifeng.com/c/8xOcOmZGanA",
-      "published": "2026-10-21T08:20:17+08:00",
+      "id": "ac5c7707f3c129e40a413",
+      "title": "泽连斯基：美国恢复向乌提供导弹预警",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xOoPl3Ber8",
+      "published": "2026-10-21T10:46:49+08:00",
       "genre": "新闻动态"
     },
     {
@@ -320,27 +352,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "ae538ef15df0ec1468576",
-      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
-      "source": "娱站",
-      "url": "https://www.sohu.com/a/1089884886_536079",
-      "published": "2026-10-20 00:45",
+      "id": "a52fec0a40f578487c33e",
+      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088886650_100115139",
+      "published": "2026-10-20 06:02",
       "genre": "人物与往事"
     },
     {
-      "id": "a5af1ec2d55695e6bbbd0",
-      "title": "数十名阿富汗女性因违反服装规定被捕，联合国发声",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xREqNxTtCo",
-      "published": "2026-10-22T23:03:06+08:00",
+      "id": "a5bdbbc534c009bddffba",
+      "title": "“中国比布鲁塞尔更清楚欧洲愿意付出什么代价”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_22_905447_s.shtml",
+      "published": "2026-10-22 22:57:19",
       "genre": "新闻动态"
     },
     {
-      "id": "a596b13eae02747ca6ad1",
-      "title": "英国将部署“台风”战机协防沙特，保护关键设施",
-      "source": "观察者网",
-      "url": "https://mil.ifeng.com/c/8xNuHVdalYY",
-      "published": "2026-10-21T06:28:45+08:00",
+      "id": "a147b77b2958f468e7a8b",
+      "title": "法国周末将爆发新一轮抗议活动！政府计划部署军队",
+      "source": "世界眼",
+      "url": "https://original.ifeng.com/c/8xOcOmZGanA",
+      "published": "2026-10-21T08:20:17+08:00",
       "genre": "新闻动态"
     },
     {
@@ -352,27 +384,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "aa4e66a433590ef11309d",
-      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
-      "source": "姩姩有娱",
-      "url": "https://www.sohu.com/a/1089811657_122430278",
-      "published": "2026-10-19 19:13",
+      "id": "ae538ef15df0ec1468576",
+      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
+      "source": "娱站",
+      "url": "https://www.sohu.com/a/1089884886_536079",
+      "published": "2026-10-20 00:45",
       "genre": "人物与往事"
     },
     {
-      "id": "af64ac1af304e5819d789",
-      "title": "凤凰记者：局势升级越来越明显，霍尔木兹海峡将是最危险的战争引爆点",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xRHevyztsC",
-      "published": "2026-10-22T22:41:04+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "acd2bbc88785b21d6dfba",
-      "title": "一边加强军演，一边筹备隧道，白令海峡上演竞合大戏",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xOcHQKUBe5",
-      "published": "2026-10-21T01:46:11+08:00",
+      "id": "a00b429e905582bc0587c",
+      "title": "胡锡进：“只够撑几个月”，日本恶怼中国的报应正加速兑现",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xRMNdX7dBo",
+      "published": "2026-10-22T23:32:49+08:00",
       "genre": "新闻动态"
     },
     {
@@ -384,11 +408,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a1811365ff11eb461c45b",
-      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1090437399_120617247",
-      "published": "2026-10-21 07:01",
+      "id": "aa4e66a433590ef11309d",
+      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
+      "source": "姩姩有娱",
+      "url": "https://www.sohu.com/a/1089811657_122430278",
+      "published": "2026-10-19 19:13",
       "genre": "人物与往事"
     },
     {
@@ -400,11 +424,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "afbe58853559e7f02627c",
-      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1034545965_100289291",
-      "published": "2026-06-11 11:53",
+      "id": "a1811365ff11eb461c45b",
+      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1090437399_120617247",
+      "published": "2026-10-21 07:01",
       "genre": "人物与往事"
     },
     {
@@ -416,11 +440,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a2426393970f6f9125de9",
-      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
+      "id": "afbe58853559e7f02627c",
+      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
       "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1032651147_100289291",
-      "published": "2026-06-06 17:40",
+      "url": "https://www.sohu.com/a/1034545965_100289291",
+      "published": "2026-06-11 11:53",
       "genre": "人物与往事"
     },
     {
@@ -432,11 +456,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a0d6d99ff52e800d1d7da",
-      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "id": "a2426393970f6f9125de9",
+      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
       "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1031305344_100289291",
-      "published": "2026-06-03 21:33",
+      "url": "https://www.sohu.com/a/1032651147_100289291",
+      "published": "2026-06-06 17:40",
       "genre": "人物与往事"
     },
     {
@@ -448,11 +472,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a8acd24c268724978f26a",
-      "title": "原创 歌唱家朱逢博现状：丧偶后已单身18年，最怕摔跤拖累儿子",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1090958648_120617247",
-      "published": "2026-10-22 07:15",
+      "id": "a0d6d99ff52e800d1d7da",
+      "title": "原创 四十位相声演员证明，相声演员参演影视剧，就是降维打击",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1031305344_100289291",
+      "published": "2026-06-03 21:33",
       "genre": "人物与往事"
     },
     {
@@ -462,6 +486,14 @@
       "url": "https://history.ifeng.com/c/8gITZl6BMQf",
       "published": "2026-06-29T15:32:37+08:00",
       "genre": "历史故事"
+    },
+    {
+      "id": "a8acd24c268724978f26a",
+      "title": "原创 歌唱家朱逢博现状：丧偶后已单身18年，最怕摔跤拖累儿子",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1090958648_120617247",
+      "published": "2026-10-22 07:15",
+      "genre": "人物与往事"
     },
     {
       "id": "a43ab9b6b536a534b039a",
