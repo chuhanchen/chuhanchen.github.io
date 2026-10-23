@@ -1,9 +1,9 @@
 {
-  "revision": "3fd372fde3a1e50012ece90a",
+  "revision": "6ec0a932b47fd9ece34a9e29",
   "channels": {
     "news": 16,
-    "military": 15,
-    "history": 28,
+    "military": 16,
+    "history": 30,
     "culture": 19
   },
   "articles": [
@@ -216,11 +216,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "adae7e614ac2bd82f06bd",
-      "title": "辽代陈国公主墓里的“世界地图”",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1091803580_123753",
-      "published": "2026-10-23 18:07",
+      "id": "ad91cc3e111b879497efa",
+      "title": "中共安徽省第十二届委员会常务委员会委员简历",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091865926_260616",
+      "published": "2026-10-23 20:51",
       "genre": "历史故事"
     },
     {
@@ -248,11 +248,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a0642d1a6e0e0cb2c1edb",
-      "title": "新华时评丨警惕日本正滑入“新的战前状态”",
-      "source": "新华社",
-      "url": "https://www.sohu.com/a/1091779504_267106",
-      "published": "2026-10-23 17:02",
+      "id": "adae7e614ac2bd82f06bd",
+      "title": "辽代陈国公主墓里的“世界地图”",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1091803580_123753",
+      "published": "2026-10-23 18:07",
       "genre": "历史故事"
     },
     {
@@ -280,11 +280,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a98cf9a338cda00dba0d9",
-      "title": "景德镇元代馒头窑复烧开窑 第175次烧窑续写千年瓷都窑火",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1091711937_123753",
-      "published": "2026-10-23 15:10",
+      "id": "a0642d1a6e0e0cb2c1edb",
+      "title": "新华时评丨警惕日本正滑入“新的战前状态”",
+      "source": "新华社",
+      "url": "https://www.sohu.com/a/1091779504_267106",
+      "published": "2026-10-23 17:02",
       "genre": "历史故事"
     },
     {
@@ -312,11 +312,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "adc9a197d694d4fc7620f",
-      "title": "俄罗斯人想不通：为何强大的中国，几千年都不要西伯利亚？",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1091503357_100140957",
-      "published": "2026-10-23 09:32",
+      "id": "a98cf9a338cda00dba0d9",
+      "title": "景德镇元代馒头窑复烧开窑 第175次烧窑续写千年瓷都窑火",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1091711937_123753",
+      "published": "2026-10-23 15:10",
       "genre": "历史故事"
     },
     {
@@ -344,11 +344,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a7486b60695eb113bb9ef",
-      "title": "纪念｜将杭州视为精神家园的高居翰对中国艺术史的研究有哪些贡献？",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1091449820_260616",
-      "published": "2026-10-23 07:39",
+      "id": "a23ea0c8f202357a81310",
+      "title": "2026年全区规范汉字听写大赛决赛在呼和浩特举行",
+      "source": "央广网",
+      "url": "https://www.sohu.com/a/1091682683_362042",
+      "published": "2026-10-23 14:30",
       "genre": "历史故事"
     },
     {
@@ -376,11 +376,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a96cb5c86cc4b92dd0fb1",
-      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
-      "source": "搜狐文化",
-      "url": "https://www.sohu.com/a/1091196688_120005162",
-      "published": "2026-10-22 15:37",
+      "id": "adc9a197d694d4fc7620f",
+      "title": "俄罗斯人想不通：为何强大的中国，几千年都不要西伯利亚？",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1091503357_100140957",
+      "published": "2026-10-23 09:32",
       "genre": "历史故事"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad4a8ae3b8acfb616ca4f",
-      "title": "两岸圆桌派| 唐湘龙、信强、陈凤馨：法国骚乱蔓延多国，欧洲政客的“硬话”还能撑多久？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/tangxianglong/2026_10_23_905351_s.shtml",
-      "published": "2026-10-23 13:47:13",
+      "id": "ac401e6163c728ca0a845",
+      "title": "菲律宾被中国反制传闻惊吓，狂叫“这是战争行为”",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xT0Rs2k2ru",
+      "published": "2026-10-23T23:34:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -408,11 +408,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a6ab1f2912e4d48ecc472",
-      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
+      "id": "a7486b60695eb113bb9ef",
+      "title": "纪念｜将杭州视为精神家园的高居翰对中国艺术史的研究有哪些贡献？",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1091080235_260616",
-      "published": "2026-10-22 11:24",
+      "url": "https://www.sohu.com/a/1091449820_260616",
+      "published": "2026-10-23 07:39",
       "genre": "历史故事"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab55ea0c16eebb8ceeb23",
-      "title": "美国公司计划打造基因改造军用犬",
-      "source": "RT今日俄罗斯",
-      "url": "https://news.ifeng.com/c/8xSnQYr3THp",
-      "published": "2026-10-23T20:20:01+08:00",
+      "id": "af746f8deeabce36b1396",
+      "title": "美国一民调机构承认数据造假，“就想看谁会上当”，多家美国主流媒体中招",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xSxKqvxLES",
+      "published": "2026-10-23T22:30:49+08:00",
       "genre": "新闻动态"
     },
     {
@@ -440,11 +440,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a317059c85c06fb01db8b",
-      "title": "艺动申城｜“中国扇”徐徐展开，让世界听见上海",
-      "source": "央广网",
-      "url": "https://www.sohu.com/a/1090981193_362042",
-      "published": "2026-10-22 08:38",
+      "id": "a96cb5c86cc4b92dd0fb1",
+      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
+      "source": "搜狐文化",
+      "url": "https://www.sohu.com/a/1091196688_120005162",
+      "published": "2026-10-22 15:37",
       "genre": "历史故事"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a22b8270c1019d50bac48",
-      "title": "上过历史书的雕像惨遭“斩首”，美国警方逮捕一男子",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xSiWuqDev0",
-      "published": "2026-10-23T18:59:00+08:00",
+      "id": "aca244cd84698a8aea35a",
+      "title": "39岁中国籍女子在伦敦遭24岁印度籍前男友杀害，凶手被判终身监禁",
+      "source": "封面新闻",
+      "url": "https://news.ifeng.com/c/8xSw9CkGcnp",
+      "published": "2026-10-23T22:28:05+08:00",
       "genre": "新闻动态"
     },
     {
@@ -472,11 +472,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "accafedc7a38b26afd6cf",
-      "title": "原创 1966年挖开岳飞墓，棺内竟无尸骨，只有一个陶罐，八百年前那个狱卒的秘密，终于被揭开了",
-      "source": "写乎",
-      "url": "https://www.sohu.com/a/1089385160_388741",
-      "published": "2026-10-22 00:00",
+      "id": "a6ab1f2912e4d48ecc472",
+      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091080235_260616",
+      "published": "2026-10-22 11:24",
       "genre": "历史故事"
     },
     {
@@ -488,19 +488,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a63e53c3303dd020800a2",
-      "title": "美国医生告诉他：太遗憾了，你母亲不是中国人",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xSfen1jtAs",
-      "published": "2026-10-23T18:34:00+08:00",
+      "id": "ad4a8ae3b8acfb616ca4f",
+      "title": "两岸圆桌派| 唐湘龙、信强、陈凤馨：法国骚乱蔓延多国，欧洲政客的“硬话”还能撑多久？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/tangxianglong/2026_10_23_905351_s.shtml",
+      "published": "2026-10-23 13:47:13",
       "genre": "新闻动态"
     },
     {
-      "id": "aaf09004df27010718346",
-      "title": "何以中国·当惊世界殊 | 一桥飞架南北，人民脚下是通途",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1090832859_119038",
-      "published": "2026-10-21 20:59",
+      "id": "a94c7502020d8bc4ac1db",
+      "title": "双石| 向北，再向东：长征路上最要紧的一次抉择",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShuangShi/2026_10_20_901446_s.shtml",
+      "published": "2026-10-20 09:58:55",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a317059c85c06fb01db8b",
+      "title": "艺动申城｜“中国扇”徐徐展开，让世界听见上海",
+      "source": "央广网",
+      "url": "https://www.sohu.com/a/1090981193_362042",
+      "published": "2026-10-22 08:38",
       "genre": "历史故事"
     },
     {
@@ -512,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a477f669688ebb244e6fc",
-      "title": "为什么只有2500多平方公里的卢森堡不担心被侵略和吞并呢？",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1090709411_100140957",
-      "published": "2026-10-21 16:06",
+      "id": "accafedc7a38b26afd6cf",
+      "title": "原创 1966年挖开岳飞墓，棺内竟无尸骨，只有一个陶罐，八百年前那个狱卒的秘密，终于被揭开了",
+      "source": "写乎",
+      "url": "https://www.sohu.com/a/1089385160_388741",
+      "published": "2026-10-22 00:00",
       "genre": "历史故事"
     },
     {
@@ -528,11 +536,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8e66807788474b17605b",
-      "title": "从富裕到贫穷，南非只用了一个伟人曼德拉，这个伟人他做了什么？",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1090709435_100140957",
-      "published": "2026-10-21 16:00",
+      "id": "aaf09004df27010718346",
+      "title": "何以中国·当惊世界殊 | 一桥飞架南北，人民脚下是通途",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1090832859_119038",
+      "published": "2026-10-21 20:59",
       "genre": "历史故事"
     },
     {
@@ -544,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af8c0c33f2f4e5edce977",
-      "title": "原创 法国在燃烧，为何几乎无解？",
-      "source": "地图帝",
-      "url": "https://www.sohu.com/a/1090578310_353978",
-      "published": "2026-10-21 11:58",
+      "id": "a477f669688ebb244e6fc",
+      "title": "为什么只有2500多平方公里的卢森堡不担心被侵略和吞并呢？",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1090709411_100140957",
+      "published": "2026-10-21 16:06",
       "genre": "历史故事"
     },
     {
@@ -558,6 +566,22 @@
       "url": "https://www.sohu.com/a/1091505890_120617247",
       "published": "2026-10-23 09:47",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a8e66807788474b17605b",
+      "title": "从富裕到贫穷，南非只用了一个伟人曼德拉，这个伟人他做了什么？",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1090709435_100140957",
+      "published": "2026-10-21 16:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "af8c0c33f2f4e5edce977",
+      "title": "原创 法国在燃烧，为何几乎无解？",
+      "source": "地图帝",
+      "url": "https://www.sohu.com/a/1090578310_353978",
+      "published": "2026-10-21 11:58",
+      "genre": "历史故事"
     },
     {
       "id": "a0e0db796aeb7ffe1a7ad",
