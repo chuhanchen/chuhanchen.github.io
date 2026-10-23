@@ -1,10 +1,10 @@
 {
-  "revision": "6ec0a932b47fd9ece34a9e29",
+  "revision": "dee5bcde71070887a6a3ea5b",
   "channels": {
-    "news": 16,
+    "news": 17,
     "military": 16,
-    "history": 30,
-    "culture": 19
+    "history": 32,
+    "culture": 20
   },
   "articles": [
     {
@@ -32,11 +32,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a85ded9fa4d33e6b10027",
-      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
-      "published": "2026-10-23 08:14:02",
+      "id": "a5c4be69404555c55cdfd",
+      "title": "结识5个月闪婚，娶美国媳妇的外卖小哥准备离婚，称原因是文化差异，不存在虚假婚姻",
+      "source": "封面新闻",
+      "url": "https://www.sohu.com/a/1091885027_120952561",
+      "published": "2026-10-23 22:28",
       "genre": "人物与往事"
     },
     {
@@ -64,11 +64,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "af2b8fdb33b08b61a364e",
-      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
-      "source": "在人间",
-      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
-      "published": "2026-10-22T18:16:13+08:00",
+      "id": "a85ded9fa4d33e6b10027",
+      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
+      "published": "2026-10-23 08:14:02",
       "genre": "人物与往事"
     },
     {
@@ -96,11 +96,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3a65a8d03704a6e920c8",
-      "title": "传奇演员，突然去世",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
-      "published": "2026-10-21T12:20:26+08:00",
+      "id": "af2b8fdb33b08b61a364e",
+      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
+      "source": "在人间",
+      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
+      "published": "2026-10-22T18:16:13+08:00",
       "genre": "人物与往事"
     },
     {
@@ -128,11 +128,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad4b1f4ad739877881533",
-      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
-      "published": "2026-10-21T01:03:15+08:00",
+      "id": "a3a65a8d03704a6e920c8",
+      "title": "传奇演员，突然去世",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
+      "published": "2026-10-21T12:20:26+08:00",
       "genre": "人物与往事"
     },
     {
@@ -160,11 +160,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6f7b642122aca20482ed",
-      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088405947_100115139",
-      "published": "2026-10-19 07:56",
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
       "genre": "人物与往事"
     },
     {
@@ -192,11 +192,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
+      "id": "a6f7b642122aca20482ed",
+      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088405947_100115139",
+      "published": "2026-10-19 07:56",
       "genre": "人物与往事"
     },
     {
@@ -216,20 +216,20 @@
       "genre": "新闻动态"
     },
     {
-      "id": "ad91cc3e111b879497efa",
-      "title": "中共安徽省第十二届委员会常务委员会委员简历",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1091865926_260616",
-      "published": "2026-10-23 20:51",
+      "id": "af3bcfbe0ef914208b797",
+      "title": "在“天问”展，读懂中华文明的宇宙观（上新了）",
+      "source": "人民网",
+      "url": "https://www.sohu.com/a/1091976473_114731",
+      "published": "2026-10-24 02:49",
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
+      "genre": "人物与往事"
     },
     {
       "id": "aad05b6bcf72670e07ae5",
@@ -248,20 +248,20 @@
       "genre": "新闻动态"
     },
     {
-      "id": "adae7e614ac2bd82f06bd",
-      "title": "辽代陈国公主墓里的“世界地图”",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1091803580_123753",
-      "published": "2026-10-23 18:07",
+      "id": "a0cbca89aea2290e90376",
+      "title": "刘春声专栏｜海南万里行（2） 初谒南响堂石窟下篇",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1091966626_772510",
+      "published": "2026-10-24 05:59",
       "genre": "历史故事"
     },
     {
-      "id": "a735ace69f2e10ad63582",
-      "title": "原创 48岁央视主持人李红近况曝光！工作28年零绯闻，如今婚恋成谜让人唏嘘",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1091346510_120695645",
-      "published": "2026-10-23 08:00",
-      "genre": "人物与往事"
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
     },
     {
       "id": "a5d5b9bffc2e31040b0aa",
@@ -280,19 +280,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a0642d1a6e0e0cb2c1edb",
-      "title": "新华时评丨警惕日本正滑入“新的战前状态”",
-      "source": "新华社",
-      "url": "https://www.sohu.com/a/1091779504_267106",
-      "published": "2026-10-23 17:02",
+      "id": "ad91cc3e111b879497efa",
+      "title": "中共安徽省第十二届委员会常务委员会委员简历",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091865926_260616",
+      "published": "2026-10-23 20:51",
       "genre": "历史故事"
     },
     {
-      "id": "a0d5393193e7e725f06bd",
-      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
-      "source": "半历写书",
-      "url": "https://www.sohu.com/a/1091040690_122223685",
-      "published": "2026-10-22 10:16",
+      "id": "ac40775c24e62f2e6d401",
+      "title": "原创 电诈恶魔巫鸿明伏法！他造成14人死亡，农民父母未被追责",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1091975357_120617247",
+      "published": "2026-10-24 06:56",
       "genre": "人物与往事"
     },
     {
@@ -312,19 +312,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a98cf9a338cda00dba0d9",
-      "title": "景德镇元代馒头窑复烧开窑 第175次烧窑续写千年瓷都窑火",
+      "id": "adae7e614ac2bd82f06bd",
+      "title": "辽代陈国公主墓里的“世界地图”",
       "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1091711937_123753",
-      "published": "2026-10-23 15:10",
+      "url": "https://www.sohu.com/a/1091803580_123753",
+      "published": "2026-10-23 18:07",
       "genre": "历史故事"
     },
     {
-      "id": "a0e91f032660d4a482a29",
-      "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1090000180_356941",
-      "published": "2026-10-21 08:14",
+      "id": "a735ace69f2e10ad63582",
+      "title": "原创 48岁央视主持人李红近况曝光！工作28年零绯闻，如今婚恋成谜让人唏嘘",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1091346510_120695645",
+      "published": "2026-10-23 08:00",
       "genre": "人物与往事"
     },
     {
@@ -344,27 +344,27 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a23ea0c8f202357a81310",
-      "title": "2026年全区规范汉字听写大赛决赛在呼和浩特举行",
-      "source": "央广网",
-      "url": "https://www.sohu.com/a/1091682683_362042",
-      "published": "2026-10-23 14:30",
+      "id": "a0642d1a6e0e0cb2c1edb",
+      "title": "新华时评丨警惕日本正滑入“新的战前状态”",
+      "source": "新华社",
+      "url": "https://www.sohu.com/a/1091779504_267106",
+      "published": "2026-10-23 17:02",
       "genre": "历史故事"
     },
     {
-      "id": "a39446a15b4e063d40586",
-      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1089953123_120617247",
-      "published": "2026-10-20 06:56",
+      "id": "a0d5393193e7e725f06bd",
+      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
+      "source": "半历写书",
+      "url": "https://www.sohu.com/a/1091040690_122223685",
+      "published": "2026-10-22 10:16",
       "genre": "人物与往事"
     },
     {
-      "id": "a8a3f1a2ddc49e15a47dd",
-      "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_23_905379_s.shtml",
-      "published": "2026-10-23 19:23:05",
+      "id": "a0e6fdcd66bedb9d8eb03",
+      "title": "中方：国际原子能机构应停止审议伊核问题",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xTEpAI74w4",
+      "published": "2026-10-24T04:17:41+08:00",
       "genre": "新闻动态"
     },
     {
@@ -376,19 +376,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "adc9a197d694d4fc7620f",
-      "title": "俄罗斯人想不通：为何强大的中国，几千年都不要西伯利亚？",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1091503357_100140957",
-      "published": "2026-10-23 09:32",
+      "id": "a98cf9a338cda00dba0d9",
+      "title": "景德镇元代馒头窑复烧开窑 第175次烧窑续写千年瓷都窑火",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1091711937_123753",
+      "published": "2026-10-23 15:10",
       "genre": "历史故事"
     },
     {
-      "id": "a52fec0a40f578487c33e",
-      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088886650_100115139",
-      "published": "2026-10-20 06:02",
+      "id": "a0e91f032660d4a482a29",
+      "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1090000180_356941",
+      "published": "2026-10-21 08:14",
       "genre": "人物与往事"
     },
     {
@@ -408,19 +408,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a7486b60695eb113bb9ef",
-      "title": "纪念｜将杭州视为精神家园的高居翰对中国艺术史的研究有哪些贡献？",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1091449820_260616",
-      "published": "2026-10-23 07:39",
+      "id": "a23ea0c8f202357a81310",
+      "title": "2026年全区规范汉字听写大赛决赛在呼和浩特举行",
+      "source": "央广网",
+      "url": "https://www.sohu.com/a/1091682683_362042",
+      "published": "2026-10-23 14:30",
       "genre": "历史故事"
     },
     {
-      "id": "ae538ef15df0ec1468576",
-      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
-      "source": "娱站",
-      "url": "https://www.sohu.com/a/1089884886_536079",
-      "published": "2026-10-20 00:45",
+      "id": "a39446a15b4e063d40586",
+      "title": "原创 她是亿万富姐，是李嘉诚的红颜知己，65岁未婚，有期待和遗憾",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1089953123_120617247",
+      "published": "2026-10-20 06:56",
       "genre": "人物与往事"
     },
     {
@@ -440,19 +440,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a96cb5c86cc4b92dd0fb1",
-      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
-      "source": "搜狐文化",
-      "url": "https://www.sohu.com/a/1091196688_120005162",
-      "published": "2026-10-22 15:37",
+      "id": "adc9a197d694d4fc7620f",
+      "title": "俄罗斯人想不通：为何强大的中国，几千年都不要西伯利亚？",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1091503357_100140957",
+      "published": "2026-10-23 09:32",
       "genre": "历史故事"
     },
     {
-      "id": "aa4e66a433590ef11309d",
-      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
-      "source": "姩姩有娱",
-      "url": "https://www.sohu.com/a/1089811657_122430278",
-      "published": "2026-10-19 19:13",
+      "id": "a52fec0a40f578487c33e",
+      "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088886650_100115139",
+      "published": "2026-10-20 06:02",
       "genre": "人物与往事"
     },
     {
@@ -472,19 +472,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a6ab1f2912e4d48ecc472",
-      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
+      "id": "a7486b60695eb113bb9ef",
+      "title": "纪念｜将杭州视为精神家园的高居翰对中国艺术史的研究有哪些贡献？",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1091080235_260616",
-      "published": "2026-10-22 11:24",
+      "url": "https://www.sohu.com/a/1091449820_260616",
+      "published": "2026-10-23 07:39",
       "genre": "历史故事"
     },
     {
-      "id": "a1811365ff11eb461c45b",
-      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1090437399_120617247",
-      "published": "2026-10-21 07:01",
+      "id": "ae538ef15df0ec1468576",
+      "title": "原创 李小冉离婚原因即扎心又现实，2111万债务撕碎最后的体面",
+      "source": "娱站",
+      "url": "https://www.sohu.com/a/1089884886_536079",
+      "published": "2026-10-20 00:45",
       "genre": "人物与往事"
     },
     {
@@ -502,6 +502,46 @@
       "url": "https://www.guancha.cn/ShuangShi/2026_10_20_901446_s.shtml",
       "published": "2026-10-20 09:58:55",
       "genre": "新闻动态"
+    },
+    {
+      "id": "a96cb5c86cc4b92dd0fb1",
+      "title": "原创 8本书读懂法国“暴力传统”的文化源流",
+      "source": "搜狐文化",
+      "url": "https://www.sohu.com/a/1091196688_120005162",
+      "published": "2026-10-22 15:37",
+      "genre": "历史故事"
+    },
+    {
+      "id": "aa4e66a433590ef11309d",
+      "title": "原创 住北京农家院的张颂文，如今官宣新身份，50岁的他成了人生赢家",
+      "source": "姩姩有娱",
+      "url": "https://www.sohu.com/a/1089811657_122430278",
+      "published": "2026-10-19 19:13",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a95aecc5b7a62d9d04d85",
+      "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
+      "published": "2026-10-23T21:38:47+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a6ab1f2912e4d48ecc472",
+      "title": "埃博拉蔓延至西非：人口大国尼日利亚确诊病例两周前入境，搭乘航班经停埃塞",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1091080235_260616",
+      "published": "2026-10-22 11:24",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a1811365ff11eb461c45b",
+      "title": "原创 著名演员隋桂凤离世！丈夫14年前死在朋友生日宴上，儿子也是演员",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1090437399_120617247",
+      "published": "2026-10-21 07:01",
+      "genre": "人物与往事"
     },
     {
       "id": "a317059c85c06fb01db8b",
@@ -558,14 +598,6 @@
       "url": "https://www.sohu.com/a/1090709411_100140957",
       "published": "2026-10-21 16:06",
       "genre": "历史故事"
-    },
-    {
-      "id": "acbcc042edc6338f418c2",
-      "title": "原创 彭玉离世！她的第二任丈夫大概率已去世了",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1091505890_120617247",
-      "published": "2026-10-23 09:47",
-      "genre": "人物与往事"
     },
     {
       "id": "a8e66807788474b17605b",
