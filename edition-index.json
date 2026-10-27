@@ -1,18 +1,18 @@
 {
-  "revision": "b368360f6fabd0f3240a18b8",
+  "revision": "fde44d3ccb60f5122aa3516a",
   "channels": {
-    "news": 22,
+    "news": 23,
     "military": 21,
-    "history": 34,
+    "history": 33,
     "culture": 23
   },
   "articles": [
     {
-      "id": "af038c43e97ec09802b97",
-      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
-      "published": "2026-10-26 10:24:24",
+      "id": "aa9664448d2a1533acc1f",
+      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
+      "source": "凤凰大参考",
+      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
+      "published": "2026-10-26T17:26:45+08:00",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa9664448d2a1533acc1f",
-      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
-      "source": "凤凰大参考",
-      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
-      "published": "2026-10-26T17:26:45+08:00",
+      "id": "a01dd43e0e8d5780b5627",
+      "title": "彼得·沃克：走访94个中国家庭后，我找到了中国经济背后的文化关键",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/PeterWalker/2026_10_27_905543_s.shtml",
+      "published": "2026-10-27 08:21:00",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afb836e26824c03d2d692",
-      "title": "经济日报：“养砖头”为什么戳中年轻人？",
-      "source": "经济日报",
-      "url": "https://news.ifeng.com/c/8xWrc52Hvcf",
-      "published": "2026-10-26T06:59:00+08:00",
+      "id": "af038c43e97ec09802b97",
+      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
+      "published": "2026-10-26 10:24:24",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad655c6675fd50a964dbe",
-      "title": "一周军评：中国和美国都尊重斯拉夫人流过的血",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/WangShiChun/2026_10_25_905674_s.shtml",
-      "published": "2026-10-25 07:21:21",
+      "id": "afb836e26824c03d2d692",
+      "title": "经济日报：“养砖头”为什么戳中年轻人？",
+      "source": "经济日报",
+      "url": "https://news.ifeng.com/c/8xWrc52Hvcf",
+      "published": "2026-10-26T06:59:00+08:00",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5e2859641e12ed34af1a",
-      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
+      "id": "ad655c6675fd50a964dbe",
+      "title": "一周军评：中国和美国都尊重斯拉夫人流过的血",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
-      "published": "2026-10-24 07:26:56",
+      "url": "https://www.guancha.cn/WangShiChun/2026_10_25_905674_s.shtml",
+      "published": "2026-10-25 07:21:21",
       "genre": "分析评论"
     },
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a28819668e38015099075",
-      "title": "中国欧盟商会秘书长唐亚东：中国对欧洲企业的吸引力，正在从市场红利转向供应链红利",
+      "id": "a5e2859641e12ed34af1a",
+      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/AdamDunnett/2026_10_23_905446_s.shtml",
-      "published": "2026-10-23 14:07:29",
+      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
+      "published": "2026-10-24 07:26:56",
       "genre": "分析评论"
     },
     {
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aeecc3c21b8bc38f77069",
-      "title": "莫大“旭日旗事件”涉事学生开除文件已下达，中国留学生呼吁公开说明",
+      "id": "a28819668e38015099075",
+      "title": "中国欧盟商会秘书长唐亚东：中国对欧洲企业的吸引力，正在从市场红利转向供应链红利",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_23_905419_s.shtml",
-      "published": "2026-10-23 13:02:01",
+      "url": "https://www.guancha.cn/AdamDunnett/2026_10_23_905446_s.shtml",
+      "published": "2026-10-23 14:07:29",
       "genre": "分析评论"
     },
     {
@@ -232,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa05cc16c3f547d7da606",
-      "title": "风声丨法国抗议：公众什么都想要，但政府已经给不起了",
-      "source": "风声",
-      "url": "https://original.ifeng.com/c/8xSfR3ZeShO",
-      "published": "2026-10-23T18:28:18+08:00",
+      "id": "aeecc3c21b8bc38f77069",
+      "title": "莫大“旭日旗事件”涉事学生开除文件已下达，中国留学生呼吁公开说明",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_23_905419_s.shtml",
+      "published": "2026-10-23 13:02:01",
       "genre": "分析评论"
     },
     {
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af2b93eb4727e9e37e438",
-      "title": "“世界科先声”编译：“没技术，谈啥监管？”黄仁勋点完德国，又提中国是“世界唯一”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_22_905244_s.shtml",
-      "published": "2026-10-22 08:57:13",
+      "id": "aa05cc16c3f547d7da606",
+      "title": "风声丨法国抗议：公众什么都想要，但政府已经给不起了",
+      "source": "风声",
+      "url": "https://original.ifeng.com/c/8xSfR3ZeShO",
+      "published": "2026-10-23T18:28:18+08:00",
       "genre": "分析评论"
     },
     {
@@ -296,12 +296,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab31febc07628b3daf3a5",
-      "title": "中美俄支持欧尔班参选联合国秘书长？俄方回应",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xY8Er5qrom",
-      "published": "2026-10-27T03:02:35+08:00",
-      "genre": "新闻动态"
+      "id": "af2b93eb4727e9e37e438",
+      "title": "“世界科先声”编译：“没技术，谈啥监管？”黄仁勋点完德国，又提中国是“世界唯一”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_10_22_905244_s.shtml",
+      "published": "2026-10-22 08:57:13",
+      "genre": "分析评论"
     },
     {
       "id": "a60804e59c1f1c00be839",
@@ -328,11 +328,11 @@
       "genre": "作品解读"
     },
     {
-      "id": "a2f92697d4686adeffe4c",
-      "title": "离谱！波兰议员因戴中国智能眼镜被指控为间谍",
-      "source": "RT今日俄罗斯",
-      "url": "https://news.ifeng.com/c/8xXvvAKGq4x",
-      "published": "2026-10-26T22:44:43+08:00",
+      "id": "a0c377322d9fec4c6bd8b",
+      "title": "卢拉逆转胜选！中国在南美稳住了一个关键伙伴",
+      "source": "华语智库",
+      "url": "https://news.ifeng.com/c/8xYc5tEHtPV",
+      "published": "2026-10-27T08:38:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a7edb24abcb11f65cf173",
-      "title": "德国盾构机卖给印度，为什么要等中国放行？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xNx8X7ZM6w",
-      "published": "2026-10-20T22:12:27+08:00",
-      "genre": "分析评论"
+      "id": "a35f325306290037702aa",
+      "title": "特朗普称巴西选举“被操纵”，巴副总统驳斥",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xYewJq7AHF",
+      "published": "2026-10-27T08:26:51+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a37fad5b171b976de7580",
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac6b8214a63dfa6b8cbd2",
-      "title": "“首次”！美媒：中国汽车制造商在欧洲的季度销量超过日本",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xXtPzIQxfg",
-      "published": "2026-10-26T21:57:00+08:00",
+      "id": "a4c499723a8f2e650be79",
+      "title": "塞尔维亚变天，新政府将制裁俄罗斯？胜选方表态",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xYaJI1pa0z",
+      "published": "2026-10-27T08:05:19+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a77d0899be556e554cd57",
-      "title": "人在美国，刚下飞机，学校倒闭了",
-      "source": "南风窗",
-      "url": "https://news.ifeng.com/c/8xXrYNEwPkL",
-      "published": "2026-10-26T21:39:48+08:00",
+      "id": "ae17b5c4cb05944e1b676",
+      "title": "今日凌晨，德国总统抵达安徽开启访华行程",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xYXixEIUwM",
+      "published": "2026-10-27T07:28:40+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,12 +456,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a008c08af82df5b0efda1",
-      "title": "美国大萧条：胡佛究竟该负多大责任？",
+      "id": "af43712176c9da555e483",
+      "title": "卢拉胜选，特朗普称“被操纵”，MAGA要求美国干预",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/MargaretHoover/2026_10_20_904294_s.shtml",
-      "published": "2026-10-20 13:33:40",
-      "genre": "分析评论"
+      "url": "https://news.ifeng.com/c/8xYavibN27u",
+      "published": "2026-10-27T07:22:43+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a491ac2d62a51ea05021b",
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1df11d8071ca6056abf5",
-      "title": "中国制造业崛起对西方高端产业形成冲击？中使馆驳斥",
-      "source": "中国驻英国大使馆",
-      "url": "https://news.ifeng.com/c/8xXrDGtlWSv",
-      "published": "2026-10-26T20:59:00+08:00",
+      "id": "ab31febc07628b3daf3a5",
+      "title": "中美俄支持欧尔班参选联合国秘书长？俄方回应",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xY8Er5qrom",
+      "published": "2026-10-27T03:02:35+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab7cba9a22668d1976e93",
-      "title": "勒庞开启2027年法国总统选举竞选活动",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xXq9p7vZZz",
-      "published": "2026-10-26T20:49:33+08:00",
+      "id": "a2f92697d4686adeffe4c",
+      "title": "离谱！波兰议员因戴中国智能眼镜被指控为间谍",
+      "source": "RT今日俄罗斯",
+      "url": "https://news.ifeng.com/c/8xXvvAKGq4x",
+      "published": "2026-10-26T22:44:43+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,12 +552,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a98ccb719b968aaccdba9",
-      "title": "日本前首相福田康夫，从“军国少年”到“中国人民的老朋友”",
+      "id": "a7edb24abcb11f65cf173",
+      "title": "德国盾构机卖给印度，为什么要等中国放行？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xXmvJaGT6e",
-      "published": "2026-10-26T20:29:09+08:00",
-      "genre": "新闻动态"
+      "url": "https://news.ifeng.com/c/8xNx8X7ZM6w",
+      "published": "2026-10-20T22:12:27+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a6505ceff6dc0969154b3",
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a9512411ae0a4c4dd5fb8",
-      "title": "Anthropic又曝AI出现未经授权行为：访问美国选民数据",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xXtRlhXlQi",
-      "published": "2026-10-26T20:00:52+08:00",
+      "id": "ac6b8214a63dfa6b8cbd2",
+      "title": "“首次”！美媒：中国汽车制造商在欧洲的季度销量超过日本",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xXtPzIQxfg",
+      "published": "2026-10-26T21:57:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0b2aab816cefaaf2535d",
-      "title": "威廉·麦克雷文| 我打过海湾战争、指挥过击毙本·拉登：美国在重复同一个致命错误",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/WilliamMcRaven/2026_10_26_905753_s.shtml",
-      "published": "2026-10-26 09:25:00",
+      "id": "a77d0899be556e554cd57",
+      "title": "人在美国，刚下飞机，学校倒闭了",
+      "source": "南风窗",
+      "url": "https://news.ifeng.com/c/8xXrYNEwPkL",
+      "published": "2026-10-26T21:39:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2c33b435fcd4bb24635c",
-      "title": "蕙风若宇：在大英博物馆遇见乾隆，为什么中国文物会在这里？",
+      "id": "a008c08af82df5b0efda1",
+      "title": "美国大萧条：胡佛究竟该负多大责任？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/huifengruoyu/2026_10_20_903731_s.shtml",
-      "published": "2026-10-20 09:07:34",
+      "url": "https://www.guancha.cn/MargaretHoover/2026_10_20_904294_s.shtml",
+      "published": "2026-10-20 13:33:40",
       "genre": "分析评论"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a71a1c85a6e9d711f8dc6",
-      "title": "三角洲行动的猛攻队为什么都喜欢重型六级头，却反感指挥官头盔？",
-      "source": "姜十七",
-      "url": "https://www.360kuai.com/9606c89e59af86db1",
-      "published": "2026-10-20T23:37:00.000Z",
+      "id": "a2c33b435fcd4bb24635c",
+      "title": "蕙风若宇：在大英博物馆遇见乾隆，为什么中国文物会在这里？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/huifengruoyu/2026_10_20_903731_s.shtml",
+      "published": "2026-10-20 09:07:34",
       "genre": "分析评论"
     },
     {
@@ -702,6 +702,14 @@
       "url": "https://www.sohu.com/a/1032651147_100289291",
       "published": "2026-06-06 17:40",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a71a1c85a6e9d711f8dc6",
+      "title": "三角洲行动的猛攻队为什么都喜欢重型六级头，却反感指挥官头盔？",
+      "source": "姜十七",
+      "url": "https://www.360kuai.com/9606c89e59af86db1",
+      "published": "2026-10-20T23:37:00.000Z",
+      "genre": "分析评论"
     },
     {
       "id": "ac7a9eaf48483e1760428",
@@ -797,14 +805,6 @@
       "source": "澎湃新闻",
       "url": "https://www.sohu.com/a/1091449820_260616",
       "published": "2026-10-23 07:39",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a11a4e66a743880a64af5",
-      "title": "陈独秀晚年拒绝蒋介石百万资助，宁饿死也不低头，1942年去世时连棺材都买不起",
-      "source": "社会生活新鲜事",
-      "url": "https://www.360kuai.com/982f720f87110f7de",
-      "published": "2026-09-28T23:31:39.000Z",
       "genre": "历史故事"
     }
   ]
