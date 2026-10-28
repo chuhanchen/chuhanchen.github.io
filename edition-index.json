@@ -1,5 +1,5 @@
 {
-  "revision": "dfdb58138505d4e6ddfd5afe",
+  "revision": "0bfece779b8be3c448196821",
   "channels": {
     "news": 22,
     "military": 21,
@@ -368,19 +368,19 @@
       "genre": "分析评论"
     },
     {
-      "id": "a38de3ac40b519809a16f",
-      "title": "俄国防部：大规模打击乌军工厂与交通物流设施",
+      "id": "a6b34f211ac0d978fb349",
+      "title": "也门胡塞武装：埃及授权军事支持沙特等同于“宣战”",
       "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xZAi4MyzXw",
-      "published": "2026-10-27T17:21:02+08:00",
+      "url": "https://mil.ifeng.com/c/8xaQQBfg3jV",
+      "published": "2026-10-28T11:01:39+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a78179765f599c752552d",
-      "title": "一条路，诉说着英勇与坚韧",
-      "source": "光合氧吧",
-      "url": "https://www.sohu.com/a/1092855960_120642749",
-      "published": "2026-10-28 09:04",
+      "id": "a1e2fb54847cfc8b6622c",
+      "title": "王笛新作《开山令》出版：重写边缘群体的历史",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1093911287_161795",
+      "published": "2026-10-28 16:18",
       "genre": "历史故事"
     },
     {
@@ -392,27 +392,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aecc6e4d2702cc4e430a2",
-      "title": "特朗普：委内瑞拉或成为美国第51个州",
-      "source": "凤凰卫视资讯台",
-      "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
-      "published": "2026-10-28T09:12:33+08:00",
+      "id": "ad001eac9d38c2c7936a5",
+      "title": "美国被曝告知海湾国家备战，中期选举后或“短促猛烈”打击伊朗",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8xaoURn1ifw",
+      "published": "2026-10-28T15:37:13+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "abb8ef77f1c9fde06ddc8",
-      "title": "美以可能重启对伊朗军事行动，外交部回应",
-      "source": "政知见",
-      "url": "https://news.ifeng.com/c/8xZ71fKF9EW",
-      "published": "2026-10-27T15:27:47+08:00",
+      "id": "a38de3ac40b519809a16f",
+      "title": "俄国防部：大规模打击乌军工厂与交通物流设施",
+      "source": "环球网",
+      "url": "https://mil.ifeng.com/c/8xZAi4MyzXw",
+      "published": "2026-10-27T17:21:02+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a114c25a286c47e09ba10",
-      "title": "一个未登记的“全国性学会”之谜",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1093648263_119038",
-      "published": "2026-10-28 06:48",
+      "id": "a11274963c2d0708fff94",
+      "title": "原创 南京号称六朝古都，是哪六朝？",
+      "source": "地图帝",
+      "url": "https://www.sohu.com/a/1093664067_353978",
+      "published": "2026-10-28 08:58",
       "genre": "历史故事"
     },
     {
@@ -424,11 +424,43 @@
       "genre": "作品解读"
     },
     {
-      "id": "a2b2a83e13df1b69b1800",
-      "title": "特朗普批准小博索纳罗入境美国",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xaHdGF0ImT",
-      "published": "2026-10-28T08:26:56+08:00",
+      "id": "aa8254f89cc87ffc0a46b",
+      "title": "外交部回应姆巴佩道歉",
+      "source": "政知见",
+      "url": "https://news.ifeng.com/c/8xakm1tuGUr",
+      "published": "2026-10-28T15:19:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "abb8ef77f1c9fde06ddc8",
+      "title": "美以可能重启对伊朗军事行动，外交部回应",
+      "source": "政知见",
+      "url": "https://news.ifeng.com/c/8xZ71fKF9EW",
+      "published": "2026-10-27T15:27:47+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a78179765f599c752552d",
+      "title": "一条路，诉说着英勇与坚韧",
+      "source": "光合氧吧",
+      "url": "https://www.sohu.com/a/1092855960_120642749",
+      "published": "2026-10-28 09:04",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a609cce9ec8312169e302",
+      "title": "原创 周群飞成中国女首富！父母都已离世，她离婚又再婚",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1093738780_120617247",
+      "published": "2026-10-28 10:42",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "aecc6e4d2702cc4e430a2",
+      "title": "特朗普：委内瑞拉或成为美国第51个州",
+      "source": "凤凰卫视资讯台",
+      "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
+      "published": "2026-10-28T09:12:33+08:00",
       "genre": "新闻动态"
     },
     {
@@ -440,11 +472,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a734a59478d1d7e4e6283",
-      "title": "《青州微笑——龙兴寺遗址出土佛教造像艺术展》12：悦目赏心分享",
-      "source": "乐艺会",
-      "url": "https://www.sohu.com/a/1093557950_772510",
-      "published": "2026-10-28 00:01",
+      "id": "a114c25a286c47e09ba10",
+      "title": "一个未登记的“全国性学会”之谜",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1093648263_119038",
+      "published": "2026-10-28 06:48",
       "genre": "历史故事"
     },
     {
@@ -456,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "accb89e3ec383f493b18e",
-      "title": "他要求内塔尼亚胡承认失败并下台：我将组建新政府",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xaE9xTQNLj",
-      "published": "2026-10-28T08:11:54+08:00",
+      "id": "a2b2a83e13df1b69b1800",
+      "title": "特朗普批准小博索纳罗入境美国",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xaHdGF0ImT",
+      "published": "2026-10-28T08:26:56+08:00",
       "genre": "新闻动态"
     },
     {
@@ -472,11 +504,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a799f6e135c990d7ea04a",
-      "title": "探寻大唐“限量版”骏马",
-      "source": "博物馆世界",
-      "url": "https://www.sohu.com/a/1093487900_121107011",
-      "published": "2026-10-27 15:39",
+      "id": "a734a59478d1d7e4e6283",
+      "title": "《青州微笑——龙兴寺遗址出土佛教造像艺术展》12：悦目赏心分享",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1093557950_772510",
+      "published": "2026-10-28 00:01",
       "genre": "历史故事"
     },
     {
@@ -488,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4d6405a1d5961b6d48f1",
-      "title": "皇马：姆巴佩仅代表个人，俱乐部和中国赞助商合作照常",
-      "source": "懂球帝",
-      "url": "https://news.ifeng.com/c/8xaE9xTQNHv",
-      "published": "2026-10-28T08:03:07+08:00",
+      "id": "accb89e3ec383f493b18e",
+      "title": "他要求内塔尼亚胡承认失败并下台：我将组建新政府",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xaE9xTQNLj",
+      "published": "2026-10-28T08:11:54+08:00",
       "genre": "新闻动态"
     },
     {
@@ -504,11 +536,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a9cd74fda613623db4e04",
-      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1093246793_260616",
-      "published": "2026-10-27 11:06",
+      "id": "a799f6e135c990d7ea04a",
+      "title": "探寻大唐“限量版”骏马",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1093487900_121107011",
+      "published": "2026-10-27 15:39",
       "genre": "历史故事"
     },
     {
@@ -520,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1b1c0ef2c1457d43faf2",
-      "title": "吵作一团！美国代表称“美国没封锁古巴”，吼叫古巴外长退后，被斥公然撒谎",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8xaH0DwEXtH",
-      "published": "2026-10-28T07:54:09+08:00",
+      "id": "a4d6405a1d5961b6d48f1",
+      "title": "皇马：姆巴佩仅代表个人，俱乐部和中国赞助商合作照常",
+      "source": "懂球帝",
+      "url": "https://news.ifeng.com/c/8xaE9xTQNHv",
+      "published": "2026-10-28T08:03:07+08:00",
       "genre": "新闻动态"
     },
     {
@@ -536,43 +568,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "aa9e65e4f1ce807d1a50b",
-      "title": "同为战败国，日本年年讨要北方四岛，德国为何绝口不提加里宁格勒",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1092937670_100140957",
-      "published": "2026-10-26 16:59",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a3b2e52a873cafa9ab159",
-      "title": "原创 离婚后处境大不同！徐佳宁被执行标的2111万元，李小冉买豪宅名车",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1091977315_120617247",
-      "published": "2026-10-24 07:07",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a25689d9d753359c73299",
-      "title": "数百万次攻击，多国政府网站紧急关停",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xaF8lO1Gzp",
-      "published": "2026-10-28T07:52:19+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a04dbad149802d122e307",
-      "title": "从训练舰到航母编队核心，辽宁舰十年完成“三步走”",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xU7Pen49tq",
-      "published": "2026-10-25T06:26:22+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a4437792ce7e8d634a1db",
-      "title": "申一涵分享：山西博物院藏青铜器巡礼8",
-      "source": "乐艺会",
-      "url": "https://www.sohu.com/a/1092647547_772510",
-      "published": "2026-10-26 05:31",
+      "id": "a9cd74fda613623db4e04",
+      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1093246793_260616",
+      "published": "2026-10-27 11:06",
       "genre": "历史故事"
     },
     {
@@ -584,27 +584,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab953d8ebc3cf27a0328e",
-      "title": "17岁天才少年被“争抢”，美国AI大牛也发出邀请，本人回应",
-      "source": "每日经济新闻",
-      "url": "https://news.ifeng.com/c/8xZjqSHVlfX",
-      "published": "2026-10-28T00:42:21+08:00",
+      "id": "a1b1c0ef2c1457d43faf2",
+      "title": "吵作一团！美国代表称“美国没封锁古巴”，吼叫古巴外长退后，被斥公然撒谎",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xaH0DwEXtH",
+      "published": "2026-10-28T07:54:09+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "adeab64b0a8733841cf17",
-      "title": "以总理：要在约旦河西岸开展“大规模军事行动”",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xSuk3fi4aJ",
-      "published": "2026-10-24T06:28:12+08:00",
+      "id": "a04dbad149802d122e307",
+      "title": "从训练舰到航母编队核心，辽宁舰十年完成“三步走”",
+      "source": "环球网",
+      "url": "https://mil.ifeng.com/c/8xU7Pen49tq",
+      "published": "2026-10-25T06:26:22+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a7b48d07f1018b5335895",
-      "title": "金石巨匠陈介祺的收藏故事",
-      "source": "善本古籍",
-      "url": "https://www.sohu.com/a/1092559714_562249",
-      "published": "2026-10-25 20:00",
+      "id": "aa9e65e4f1ce807d1a50b",
+      "title": "同为战败国，日本年年讨要北方四岛，德国为何绝口不提加里宁格勒",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1092937670_100140957",
+      "published": "2026-10-26 16:59",
       "genre": "历史故事"
     },
     {
@@ -616,27 +616,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6c4b0cd2724de485207c",
-      "title": "皇马两年四踩中国人底线，为何一错再错？",
-      "source": "看看新闻",
-      "url": "https://news.ifeng.com/c/8xZdXptlYLQ",
-      "published": "2026-10-27T23:22:10+08:00",
+      "id": "a25689d9d753359c73299",
+      "title": "数百万次攻击，多国政府网站紧急关停",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xaF8lO1Gzp",
+      "published": "2026-10-28T07:52:19+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a491ac2d62a51ea05021b",
-      "title": "美国军工巨头获大单，五角大楼敲定10年内采购850架F-35战机",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8xSRZStNC0c",
-      "published": "2026-10-23T15:16:37+08:00",
+      "id": "adeab64b0a8733841cf17",
+      "title": "以总理：要在约旦河西岸开展“大规模军事行动”",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xSuk3fi4aJ",
+      "published": "2026-10-24T06:28:12+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a6373957423b476b93058",
-      "title": "55年前的今天，中国恢复联合国合法席位",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1092479797_161795",
-      "published": "2026-10-25 14:21",
+      "id": "a4437792ce7e8d634a1db",
+      "title": "申一涵分享：山西博物院藏青铜器巡礼8",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1092647547_772510",
+      "published": "2026-10-26 05:31",
       "genre": "历史故事"
     },
     {
@@ -648,27 +648,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4a81da4dbf9b6ad4e42f",
-      "title": "以军总参谋长抗命，惊动美国",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xZeLzUH7cG",
-      "published": "2026-10-27T22:51:43+08:00",
+      "id": "ab953d8ebc3cf27a0328e",
+      "title": "17岁天才少年被“争抢”，美国AI大牛也发出邀请，本人回应",
+      "source": "每日经济新闻",
+      "url": "https://news.ifeng.com/c/8xZjqSHVlfX",
+      "published": "2026-10-28T00:42:21+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a82af04c3e3fc972b90d6",
-      "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
-      "source": "凤凰卫视",
-      "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
-      "published": "2026-10-23T14:40:01+08:00",
+      "id": "a491ac2d62a51ea05021b",
+      "title": "美国军工巨头获大单，五角大楼敲定10年内采购850架F-35战机",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8xSRZStNC0c",
+      "published": "2026-10-23T15:16:37+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a38c4d33935e29ce1c82b",
-      "title": "原来你是这样的东莞！",
-      "source": "博物馆世界",
-      "url": "https://www.sohu.com/a/1092449889_121107011",
-      "published": "2026-10-25 11:08",
+      "id": "a7b48d07f1018b5335895",
+      "title": "金石巨匠陈介祺的收藏故事",
+      "source": "善本古籍",
+      "url": "https://www.sohu.com/a/1092559714_562249",
+      "published": "2026-10-25 20:00",
       "genre": "历史故事"
     },
     {
@@ -680,19 +680,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aad2f2a954a074c809951",
-      "title": "日本政府开出标准，大阪等四地争当“副首都”",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xZYxGSxEVb",
-      "published": "2026-10-27T22:16:07+08:00",
+      "id": "a6c4b0cd2724de485207c",
+      "title": "皇马两年四踩中国人底线，为何一错再错？",
+      "source": "看看新闻",
+      "url": "https://news.ifeng.com/c/8xZdXptlYLQ",
+      "published": "2026-10-27T23:22:10+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "ab151fbb6216cb26309f2",
-      "title": "《巴比伦柏林》最终季：注定无果的努力是有意义的",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1092407962_260616",
-      "published": "2026-10-25 10:56",
+      "id": "a6373957423b476b93058",
+      "title": "55年前的今天，中国恢复联合国合法席位",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1092479797_161795",
+      "published": "2026-10-25 14:21",
       "genre": "历史故事"
     },
     {
@@ -704,11 +704,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a53c1902e668602184010",
-      "title": "骗了全世界近百年！美国想买的格陵兰岛，压根就不属于丹麦",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1092389649_100140957",
-      "published": "2026-10-25 10:11",
+      "id": "a38c4d33935e29ce1c82b",
+      "title": "原来你是这样的东莞！",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1092449889_121107011",
+      "published": "2026-10-25 11:08",
       "genre": "历史故事"
     },
     {
@@ -720,11 +720,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a014aa8e1e7290c0eddcc",
-      "title": "中国法治与民情研讨会：浙江“民情日记”常写常新",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1092227849_123753",
-      "published": "2026-10-24 20:47",
+      "id": "ab151fbb6216cb26309f2",
+      "title": "《巴比伦柏林》最终季：注定无果的努力是有意义的",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1092407962_260616",
+      "published": "2026-10-25 10:56",
       "genre": "历史故事"
     },
     {
@@ -736,11 +736,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a459b2c73f4c4d8b97f1a",
-      "title": "元泰定元年西湖书院刻本《文献通考》",
-      "source": "善本古籍",
-      "url": "https://www.sohu.com/a/1092228977_562249",
-      "published": "2026-10-24 20:00",
+      "id": "a53c1902e668602184010",
+      "title": "骗了全世界近百年！美国想买的格陵兰岛，压根就不属于丹麦",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1092389649_100140957",
+      "published": "2026-10-25 10:11",
       "genre": "历史故事"
     },
     {
@@ -752,11 +752,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a936bebf882b42df84d3d",
-      "title": "珍妃被投井一点都不冤，她当时的行为能在宫中存活11年已是奇迹！",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1092212651_100140957",
-      "published": "2026-10-24 19:31",
+      "id": "a014aa8e1e7290c0eddcc",
+      "title": "中国法治与民情研讨会：浙江“民情日记”常写常新",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1092227849_123753",
+      "published": "2026-10-24 20:47",
       "genre": "历史故事"
     },
     {
@@ -768,11 +768,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6f2408d34ac5827e8914",
-      "title": "满人反清复明？1662年一场兵变牵扯出正蓝旗半世纪权力博弈与恩怨",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1092212288_100140957",
-      "published": "2026-10-24 19:28",
+      "id": "a459b2c73f4c4d8b97f1a",
+      "title": "元泰定元年西湖书院刻本《文献通考》",
+      "source": "善本古籍",
+      "url": "https://www.sohu.com/a/1092228977_562249",
+      "published": "2026-10-24 20:00",
       "genre": "历史故事"
     },
     {
@@ -784,27 +784,27 @@
       "genre": "人物与往事"
     },
     {
+      "id": "a936bebf882b42df84d3d",
+      "title": "珍妃被投井一点都不冤，她当时的行为能在宫中存活11年已是奇迹！",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1092212651_100140957",
+      "published": "2026-10-24 19:31",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a6f2408d34ac5827e8914",
+      "title": "满人反清复明？1662年一场兵变牵扯出正蓝旗半世纪权力博弈与恩怨",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1092212288_100140957",
+      "published": "2026-10-24 19:28",
+      "genre": "历史故事"
+    },
+    {
       "id": "afe78a3261f083af737d8",
       "title": "讲座回顾 | 《古墓幽深深几许——探秘五代王处直墓》专题讲座圆满举办",
       "source": "博物馆世界",
       "url": "https://www.sohu.com/a/1092167483_121107011",
       "published": "2026-10-24 14:29",
-      "genre": "历史故事"
-    },
-    {
-      "id": "ac7a9eaf48483e1760428",
-      "title": "700余件（套）文物串联两千余年历史，中国长城博物馆开馆",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1092053194_123753",
-      "published": "2026-10-24 11:05",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a984666ad9c51bf230812",
-      "title": "余静颖 王侃良｜小梅的时代：幕末明治之际女性与世相",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1092048200_260616",
-      "published": "2026-10-24 10:58",
       "genre": "历史故事"
     }
   ]
