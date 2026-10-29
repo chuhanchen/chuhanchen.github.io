@@ -1,5 +1,5 @@
 {
-  "revision": "ddeb4916583dc017c3214eda",
+  "revision": "d03248ff0035b8937eec6e4b",
   "channels": {
     "news": 23,
     "military": 22,
@@ -328,12 +328,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a28819668e38015099075",
-      "title": "中国欧盟商会秘书长唐亚东：中国对欧洲企业的吸引力，正在从市场红利转向供应链红利",
+      "id": "aad0047fa1b9732611575",
+      "title": "普京：俄罗斯不想与欧洲发生战争，但已做好准备",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/AdamDunnett/2026_10_23_905446_s.shtml",
-      "published": "2026-10-23 14:07:29",
-      "genre": "分析评论"
+      "url": "https://news.ifeng.com/c/8xdV8lEhnaQ",
+      "published": "2026-10-30T07:00:45+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a67231e103a2c091f0ed7",
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aeecc3c21b8bc38f77069",
-      "title": "莫大“旭日旗事件”涉事学生开除文件已下达，中国留学生呼吁公开说明",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_23_905419_s.shtml",
-      "published": "2026-10-23 13:02:01",
-      "genre": "分析评论"
+      "id": "aeff9b15fcbfabe3ac395",
+      "title": "内塔尼亚胡阵营称选举被“偷走”，以总统称不应污名化阿拉伯社群",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xdV8lEhnSl",
+      "published": "2026-10-30T06:33:00+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a60804e59c1f1c00be839",
@@ -392,11 +392,43 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a75905b3accfd46b653e4",
-      "title": "热播日剧公然抹黑中国，日本TBS应当悔改而非狡辩",
+      "id": "a2ac2d4046786c4d6a658",
+      "title": "10架美国军机飞抵以色列空军基地",
       "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xch0Zqs66v",
-      "published": "2026-10-29T19:20:15+08:00",
+      "url": "https://news.ifeng.com/c/8xdNGeLmGMQ",
+      "published": "2026-10-30T04:02:57+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a686c3754a8c42219de86",
+      "title": "美军高官向特朗普汇报打击伊朗军事选项",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xdErfLXdPi",
+      "published": "2026-10-30T03:49:24+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a8a3ef54f9f622de27958",
+      "title": "跨海论汉｜马瑞诗：把河流看作伙伴，重新认识黄河",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1094698457_260616",
+      "published": "2026-10-30 06:43",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
+    },
+    {
+      "id": "a0e865465c052c32ded6e",
+      "title": "美国一名高级将领遭解职",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xd9wySEC36",
+      "published": "2026-10-30T03:02:38+08:00",
       "genre": "新闻动态"
     },
     {
@@ -416,20 +448,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "a33c41a3be9affc1fb1b0",
+      "title": "原创 “格斗女王”张伟丽：36岁仍未婚，坚决不找外国男友",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1094701314_120617247",
+      "published": "2026-10-30 07:02",
+      "genre": "人物与往事"
     },
     {
-      "id": "a39f80a401e6e6f70e4f3",
-      "title": "拉加德宣布提前卸任欧洲央行行长",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xcfrgJVjqo",
-      "published": "2026-10-29T19:13:02+08:00",
-      "genre": "新闻动态"
+      "id": "a28819668e38015099075",
+      "title": "中国欧盟商会秘书长唐亚东：中国对欧洲企业的吸引力，正在从市场红利转向供应链红利",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/AdamDunnett/2026_10_23_905446_s.shtml",
+      "published": "2026-10-23 14:07:29",
+      "genre": "分析评论"
     },
     {
       "id": "abeffaeb9dfac294dd397",
@@ -456,12 +488,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad5568f98a3c434607373",
-      "title": "美联邦通信委员会打压中国机构，美国业界却先喊疼？",
+      "id": "aeecc3c21b8bc38f77069",
+      "title": "莫大“旭日旗事件”涉事学生开除文件已下达，中国留学生呼吁公开说明",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xcg3RwqNOr",
-      "published": "2026-10-29T19:10:16+08:00",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_10_23_905419_s.shtml",
+      "published": "2026-10-23 13:02:01",
+      "genre": "分析评论"
     },
     {
       "id": "a6587e8ccefcb330f908d",
@@ -488,12 +520,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa05cc16c3f547d7da606",
-      "title": "风声丨法国抗议：公众什么都想要，但政府已经给不起了",
-      "source": "风声",
-      "url": "https://original.ifeng.com/c/8xSfR3ZeShO",
-      "published": "2026-10-23T18:28:18+08:00",
-      "genre": "分析评论"
+      "id": "a75905b3accfd46b653e4",
+      "title": "热播日剧公然抹黑中国，日本TBS应当悔改而非狡辩",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xch0Zqs66v",
+      "published": "2026-10-29T19:20:15+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a6b34f211ac0d978fb349",
@@ -512,19 +544,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a609cce9ec8312169e302",
-      "title": "原创 周群飞成中国女首富！父母都已离世，她离婚又再婚",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1093738780_120617247",
-      "published": "2026-10-28 10:42",
+      "id": "a65fc39afa381c4855c62",
+      "title": "贾乃亮一天卖出5.7亿，李小璐至今难复出，两人离婚后差距越来越大",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1093203352_356941",
+      "published": "2026-10-28 00:00",
       "genre": "人物与往事"
     },
     {
-      "id": "adfe237a4df90d424217d",
-      "title": "跨洋求药，轮到美国人来中国了",
-      "source": "在人间",
-      "url": "https://original.ifeng.com/c/8xccPVEjp9g",
-      "published": "2026-10-29T18:15:13+08:00",
+      "id": "a39f80a401e6e6f70e4f3",
+      "title": "拉加德宣布提前卸任欧洲央行行长",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xcfrgJVjqo",
+      "published": "2026-10-29T19:13:02+08:00",
       "genre": "新闻动态"
     },
     {
@@ -544,19 +576,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a65fc39afa381c4855c62",
-      "title": "贾乃亮一天卖出5.7亿，李小璐至今难复出，两人离婚后差距越来越大",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1093203352_356941",
-      "published": "2026-10-28 00:00",
+      "id": "a19b0bd7b2369324af838",
+      "title": "原创 47岁廖碧儿承认与70岁富商恋情，称年龄不是问题，还没有结婚计划",
+      "source": "肥猫吃娱",
+      "url": "https://www.sohu.com/a/1093017514_122655210",
+      "published": "2026-10-26 20:36",
       "genre": "人物与往事"
     },
     {
-      "id": "ab0e3fa62beb197a45a79",
-      "title": "美国将中国企业列入所谓涉疆法案实体清单，商务部回应",
-      "source": "商务部",
-      "url": "https://news.ifeng.com/c/8xcG6vr5cPu",
-      "published": "2026-10-29T13:05:00+08:00",
+      "id": "ad5568f98a3c434607373",
+      "title": "美联邦通信委员会打压中国机构，美国业界却先喊疼？",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xcg3RwqNOr",
+      "published": "2026-10-29T19:10:16+08:00",
       "genre": "新闻动态"
     },
     {
@@ -576,20 +608,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a19b0bd7b2369324af838",
-      "title": "原创 47岁廖碧儿承认与70岁富商恋情，称年龄不是问题，还没有结婚计划",
-      "source": "肥猫吃娱",
-      "url": "https://www.sohu.com/a/1093017514_122655210",
-      "published": "2026-10-26 20:36",
+      "id": "af620c9a31436707ae389",
+      "title": "原创 65岁央视名嘴张宏民近况曝光！一生未婚没有孩子，如今退休独居北京让人唏嘘",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1092574287_120695645",
+      "published": "2026-10-26 08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a341f05b07f87964ab841",
-      "title": "西班牙前驻华大使瞎操心：与中国搞关系，代价是什么？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xcEtZqQZNz",
-      "published": "2026-10-29T12:42:54+08:00",
-      "genre": "新闻动态"
+      "id": "aa05cc16c3f547d7da606",
+      "title": "风声丨法国抗议：公众什么都想要，但政府已经给不起了",
+      "source": "风声",
+      "url": "https://original.ifeng.com/c/8xSfR3ZeShO",
+      "published": "2026-10-23T18:28:18+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "ae91469c5742430f39c64",
@@ -608,19 +640,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af620c9a31436707ae389",
-      "title": "原创 65岁央视名嘴张宏民近况曝光！一生未婚没有孩子，如今退休独居北京让人唏嘘",
+      "id": "a735ace69f2e10ad63582",
+      "title": "原创 48岁央视主持人李红近况曝光！工作28年零绯闻，如今婚恋成谜让人唏嘘",
       "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1092574287_120695645",
-      "published": "2026-10-26 08:00",
+      "url": "https://www.sohu.com/a/1091346510_120695645",
+      "published": "2026-10-23 08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a8c39914df556de428bb8",
-      "title": "176项改革突围，美国威胁“把路都堵死”：这场博弈古巴怎么走？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xcEtZqQZPw",
-      "published": "2026-10-29T11:54:34+08:00",
+      "id": "adfe237a4df90d424217d",
+      "title": "跨洋求药，轮到美国人来中国了",
+      "source": "在人间",
+      "url": "https://original.ifeng.com/c/8xccPVEjp9g",
+      "published": "2026-10-29T18:15:13+08:00",
       "genre": "新闻动态"
     },
     {
@@ -640,19 +672,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a735ace69f2e10ad63582",
-      "title": "原创 48岁央视主持人李红近况曝光！工作28年零绯闻，如今婚恋成谜让人唏嘘",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1091346510_120695645",
-      "published": "2026-10-23 08:00",
+      "id": "a0d5393193e7e725f06bd",
+      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
+      "source": "半历写书",
+      "url": "https://www.sohu.com/a/1091040690_122223685",
+      "published": "2026-10-22 10:16",
       "genre": "人物与往事"
     },
     {
-      "id": "a6d0897d6e510a2269fe6",
-      "title": "俄美乌拟下月开谈，“欧洲可以自己买机票来，但别想上桌”",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xc9DHIfsoS",
-      "published": "2026-10-29T11:45:28+08:00",
+      "id": "ab0e3fa62beb197a45a79",
+      "title": "美国将中国企业列入所谓涉疆法案实体清单，商务部回应",
+      "source": "商务部",
+      "url": "https://news.ifeng.com/c/8xcG6vr5cPu",
+      "published": "2026-10-29T13:05:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -672,27 +704,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a0d5393193e7e725f06bd",
-      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
-      "source": "半历写书",
-      "url": "https://www.sohu.com/a/1091040690_122223685",
-      "published": "2026-10-22 10:16",
+      "id": "a0e91f032660d4a482a29",
+      "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1090000180_356941",
+      "published": "2026-10-21 08:14",
       "genre": "人物与往事"
     },
     {
-      "id": "a5e5bc92210c368e3ed03",
-      "title": "大选陷僵局，美国人对内塔尼亚胡越来越不耐烦了",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xc6uoPF49v",
-      "published": "2026-10-29T11:02:36+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a37fad5b171b976de7580",
-      "title": "人民锐评：高市若继续执着于军事冒险，只会将日本拖入危险深渊",
-      "source": "人民日报评论",
-      "url": "https://news.ifeng.com/c/8xVzozCLzsF",
-      "published": "2026-10-25T18:34:59+08:00",
+      "id": "a341f05b07f87964ab841",
+      "title": "西班牙前驻华大使瞎操心：与中国搞关系，代价是什么？",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xcEtZqQZNz",
+      "published": "2026-10-29T12:42:54+08:00",
       "genre": "新闻动态"
     },
     {
@@ -704,30 +728,6 @@
       "genre": "历史故事"
     },
     {
-      "id": "a0e91f032660d4a482a29",
-      "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1090000180_356941",
-      "published": "2026-10-21 08:14",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a3fd1c7cdf22810121f8e",
-      "title": "抵美后，小博索纳罗自封“巴西真正的当选总统”",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xbeg1dNFXv",
-      "published": "2026-10-29T05:24:15+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a9cd74fda613623db4e04",
-      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1093246793_260616",
-      "published": "2026-10-27 11:06",
-      "genre": "历史故事"
-    },
-    {
       "id": "a52fec0a40f578487c33e",
       "title": "原创 陈宝国近况让人担忧！身材发福面容苍老似八旬老人，43岁独子迟迟未婚成最大心结",
       "source": "娱乐一人行",
@@ -736,11 +736,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa9e65e4f1ce807d1a50b",
-      "title": "同为战败国，日本年年讨要北方四岛，德国为何绝口不提加里宁格勒",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1092937670_100140957",
-      "published": "2026-10-26 16:59",
+      "id": "a9cd74fda613623db4e04",
+      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1093246793_260616",
+      "published": "2026-10-27 11:06",
       "genre": "历史故事"
     },
     {
@@ -752,11 +752,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4437792ce7e8d634a1db",
-      "title": "申一涵分享：山西博物院藏青铜器巡礼8",
-      "source": "乐艺会",
-      "url": "https://www.sohu.com/a/1092647547_772510",
-      "published": "2026-10-26 05:31",
+      "id": "aa9e65e4f1ce807d1a50b",
+      "title": "同为战败国，日本年年讨要北方四岛，德国为何绝口不提加里宁格勒",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1092937670_100140957",
+      "published": "2026-10-26 16:59",
       "genre": "历史故事"
     },
     {
@@ -765,6 +765,22 @@
       "source": "姩姩有娱",
       "url": "https://www.sohu.com/a/1089811657_122430278",
       "published": "2026-10-19 19:13",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a4437792ce7e8d634a1db",
+      "title": "申一涵分享：山西博物院藏青铜器巡礼8",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1092647547_772510",
+      "published": "2026-10-26 05:31",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a37a4e19beb48a7d9b9ca",
+      "title": "持续被举报为“劣迹艺人”，知名歌手回应",
+      "source": "中国新闻周刊",
+      "url": "https://www.sohu.com/a/1094597126_220095",
+      "published": "2026-10-29 22:16",
       "genre": "人物与往事"
     },
     {
@@ -789,22 +805,6 @@
       "source": "南方都市报",
       "url": "https://www.sohu.com/a/1092479797_161795",
       "published": "2026-10-25 14:21",
-      "genre": "历史故事"
-    },
-    {
-      "id": "afbe58853559e7f02627c",
-      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1034545965_100289291",
-      "published": "2026-06-11 11:53",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a38c4d33935e29ce1c82b",
-      "title": "原来你是这样的东莞！",
-      "source": "博物馆世界",
-      "url": "https://www.sohu.com/a/1092449889_121107011",
-      "published": "2026-10-25 11:08",
       "genre": "历史故事"
     }
   ]
