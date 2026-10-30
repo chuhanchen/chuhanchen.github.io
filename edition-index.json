@@ -1,10 +1,10 @@
 {
-  "revision": "a87b36a257d0edb4cad0b15f",
+  "revision": "4eaee4c67ce0ec329969340d",
   "channels": {
-    "news": 23,
+    "news": 22,
     "military": 22,
     "history": 28,
-    "culture": 27
+    "culture": 28
   },
   "articles": [
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6122005ae4c87dba9911",
-      "title": "胡锡进：五角大楼又要向国会要钱了，所以拿一张中国空天飞机的照片编故事",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xeSPOLpmU4",
-      "published": "2026-10-30T20:53:32+08:00",
+      "id": "a012039c3cc4fd47b14ce",
+      "title": "自封“当选总统”，弗拉维奥·博索纳罗公开信引美国和巴西不满",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xeia68L809",
+      "published": "2026-10-30T22:53:41+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,43 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abaf304fb6597c1cf830e",
-      "title": "1.2吨！中国联合印尼、马来西亚破获特大跨国制贩毒案",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xeOO1cgXLi",
-      "published": "2026-10-30T20:00:00+08:00",
+      "id": "ad877cd9a88d2ad29f484",
+      "title": "被指控与“中国女间谍”密切交往，黄仁勋气晕了",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xeXqx5hzAQ",
+      "published": "2026-10-30T21:42:20+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a056f66026a2ffc43abe1",
+      "title": "俄方：筹备三方会谈不代表俄“承诺限制军事行动”",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xekFYI5191",
+      "published": "2026-10-31T02:04:48+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a18f5945632bdc0449309",
+      "title": "东西问｜麦田“守望者”归来：千年宋陵石首从澳大利亚回家",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095133940_123753",
+      "published": "2026-10-30 23:56",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
+    },
+    {
+      "id": "abd9f95d6703cf12b6914",
+      "title": "美国盯上马来西亚稀土，砸6亿美元想绕开中国",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xeUtQ6MmhY",
+      "published": "2026-10-30T21:30:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -416,19 +448,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "a3f4993fa69c4bfcb9bc7",
+      "title": "原创 小小徐结婚轰动全网！父亲早逝母亲再婚，他感恩妈妈给予生命",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1094889214_120617247",
+      "published": "2026-10-30 13:51",
+      "genre": "人物与往事"
     },
     {
-      "id": "a102c8e7f5c7c2bf74385",
-      "title": "中国高校学院大洗牌",
-      "source": "第一财经",
-      "url": "https://news.ifeng.com/c/8xeP8yTQeEH",
-      "published": "2026-10-30T19:56:48+08:00",
+      "id": "a6122005ae4c87dba9911",
+      "title": "胡锡进：五角大楼又要向国会要钱了，所以拿一张中国空天飞机的照片编故事",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xeSPOLpmU4",
+      "published": "2026-10-30T20:53:32+08:00",
       "genre": "新闻动态"
     },
     {
@@ -448,19 +480,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3f4993fa69c4bfcb9bc7",
-      "title": "原创 小小徐结婚轰动全网！父亲早逝母亲再婚，他感恩妈妈给予生命",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1094889214_120617247",
-      "published": "2026-10-30 13:51",
+      "id": "ae871dcb8c7b4e865a4eb",
+      "title": "《余红旧事》《醉梦》等播出遇冷，东北悬疑剧走入降温“下半场”？",
+      "source": "搜狐娱乐",
+      "url": "https://www.sohu.com/a/1094056594_114941",
+      "published": "2026-10-29 15:14",
       "genre": "人物与往事"
     },
     {
-      "id": "a36c21713a0f2696490c3",
-      "title": "“最牛打工妹”，凭什么成为中国新任女首富？",
-      "source": "智谷趋势",
-      "url": "https://news.ifeng.com/c/8xeGB4mm4U7",
-      "published": "2026-10-30T17:50:16+08:00",
+      "id": "abaf304fb6597c1cf830e",
+      "title": "1.2吨！中国联合印尼、马来西亚破获特大跨国制贩毒案",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xeOO1cgXLi",
+      "published": "2026-10-30T20:00:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -480,19 +512,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ae871dcb8c7b4e865a4eb",
-      "title": "《余红旧事》《醉梦》等播出遇冷，东北悬疑剧走入降温“下半场”？",
-      "source": "搜狐娱乐",
-      "url": "https://www.sohu.com/a/1094056594_114941",
-      "published": "2026-10-29 15:14",
+      "id": "a229bc6b4cfe72747fea0",
+      "title": "原创 导游转行考北电，被拒八百次没改行，张颂文底气从哪来",
+      "source": "如意小喵喵",
+      "url": "https://www.sohu.com/a/1093936934_122433386",
+      "published": "2026-10-28 17:15",
       "genre": "人物与往事"
     },
     {
-      "id": "ad75a4cd0eeb826ca192b",
-      "title": "消息人士称，美国已要求欧洲缓和对俄言论",
-      "source": "天下事",
-      "url": "https://news.ifeng.com/c/8xe56EwMadY",
-      "published": "2026-10-30T15:37:33+08:00",
+      "id": "a102c8e7f5c7c2bf74385",
+      "title": "中国高校学院大洗牌",
+      "source": "第一财经",
+      "url": "https://news.ifeng.com/c/8xeP8yTQeEH",
+      "published": "2026-10-30T19:56:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -512,20 +544,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a229bc6b4cfe72747fea0",
-      "title": "原创 导游转行考北电，被拒八百次没改行，张颂文底气从哪来",
-      "source": "如意小喵喵",
-      "url": "https://www.sohu.com/a/1093936934_122433386",
-      "published": "2026-10-28 17:15",
+      "id": "a65fc39afa381c4855c62",
+      "title": "贾乃亮一天卖出5.7亿，李小璐至今难复出，两人离婚后差距越来越大",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1093203352_356941",
+      "published": "2026-10-28 00:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a5e2859641e12ed34af1a",
-      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
-      "published": "2026-10-24 07:26:56",
-      "genre": "分析评论"
+      "id": "a36c21713a0f2696490c3",
+      "title": "“最牛打工妹”，凭什么成为中国新任女首富？",
+      "source": "智谷趋势",
+      "url": "https://news.ifeng.com/c/8xeGB4mm4U7",
+      "published": "2026-10-30T17:50:16+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "afb85271064e3f15adbe8",
@@ -544,19 +576,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a65fc39afa381c4855c62",
-      "title": "贾乃亮一天卖出5.7亿，李小璐至今难复出，两人离婚后差距越来越大",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1093203352_356941",
-      "published": "2026-10-28 00:00",
+      "id": "a19b0bd7b2369324af838",
+      "title": "原创 47岁廖碧儿承认与70岁富商恋情，称年龄不是问题，还没有结婚计划",
+      "source": "肥猫吃娱",
+      "url": "https://www.sohu.com/a/1093017514_122655210",
+      "published": "2026-10-26 20:36",
       "genre": "人物与往事"
     },
     {
-      "id": "a0343b1a2414de52bfcc1",
-      "title": "美媒：罗马教皇将参与美国中期选举投票",
-      "source": "RT今日俄罗斯",
-      "url": "https://news.ifeng.com/c/8xdrv3JPI6z",
-      "published": "2026-10-30T12:35:01+08:00",
+      "id": "ad75a4cd0eeb826ca192b",
+      "title": "消息人士称，美国已要求欧洲缓和对俄言论",
+      "source": "天下事",
+      "url": "https://news.ifeng.com/c/8xe56EwMadY",
+      "published": "2026-10-30T15:37:33+08:00",
       "genre": "新闻动态"
     },
     {
@@ -576,20 +608,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a19b0bd7b2369324af838",
-      "title": "原创 47岁廖碧儿承认与70岁富商恋情，称年龄不是问题，还没有结婚计划",
-      "source": "肥猫吃娱",
-      "url": "https://www.sohu.com/a/1093017514_122655210",
-      "published": "2026-10-26 20:36",
+      "id": "af620c9a31436707ae389",
+      "title": "原创 65岁央视名嘴张宏民近况曝光！一生未婚没有孩子，如今退休独居北京让人唏嘘",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1092574287_120695645",
+      "published": "2026-10-26 08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a48229a7a1318b5da7598",
-      "title": "德国总统访问中国科学院：中国科技创新成就令人印象深刻",
-      "source": "凤凰卫视",
-      "url": "https://news.ifeng.com/c/8xdpu4MOF8g",
-      "published": "2026-10-30T11:50:01+08:00",
-      "genre": "新闻动态"
+      "id": "a5e2859641e12ed34af1a",
+      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
+      "published": "2026-10-24 07:26:56",
+      "genre": "分析评论"
     },
     {
       "id": "a6587e8ccefcb330f908d",
@@ -608,19 +640,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af620c9a31436707ae389",
-      "title": "原创 65岁央视名嘴张宏民近况曝光！一生未婚没有孩子，如今退休独居北京让人唏嘘",
+      "id": "a735ace69f2e10ad63582",
+      "title": "原创 48岁央视主持人李红近况曝光！工作28年零绯闻，如今婚恋成谜让人唏嘘",
       "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1092574287_120695645",
-      "published": "2026-10-26 08:00",
+      "url": "https://www.sohu.com/a/1091346510_120695645",
+      "published": "2026-10-23 08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "aad0047fa1b9732611575",
-      "title": "普京：俄罗斯不想与欧洲发生战争，但已做好准备",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xdV8lEhnaQ",
-      "published": "2026-10-30T07:00:45+08:00",
+      "id": "a0343b1a2414de52bfcc1",
+      "title": "美媒：罗马教皇将参与美国中期选举投票",
+      "source": "RT今日俄罗斯",
+      "url": "https://news.ifeng.com/c/8xdrv3JPI6z",
+      "published": "2026-10-30T12:35:01+08:00",
       "genre": "新闻动态"
     },
     {
@@ -640,19 +672,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a735ace69f2e10ad63582",
-      "title": "原创 48岁央视主持人李红近况曝光！工作28年零绯闻，如今婚恋成谜让人唏嘘",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1091346510_120695645",
-      "published": "2026-10-23 08:00",
+      "id": "a0d5393193e7e725f06bd",
+      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
+      "source": "半历写书",
+      "url": "https://www.sohu.com/a/1091040690_122223685",
+      "published": "2026-10-22 10:16",
       "genre": "人物与往事"
     },
     {
-      "id": "aeff9b15fcbfabe3ac395",
-      "title": "内塔尼亚胡阵营称选举被“偷走”，以总统称不应污名化阿拉伯社群",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8xdV8lEhnSl",
-      "published": "2026-10-30T06:33:00+08:00",
+      "id": "a48229a7a1318b5da7598",
+      "title": "德国总统访问中国科学院：中国科技创新成就令人印象深刻",
+      "source": "凤凰卫视",
+      "url": "https://news.ifeng.com/c/8xdpu4MOF8g",
+      "published": "2026-10-30T11:50:01+08:00",
       "genre": "新闻动态"
     },
     {
@@ -672,38 +704,6 @@
       "genre": "历史故事"
     },
     {
-      "id": "a0d5393193e7e725f06bd",
-      "title": "原创 原来他俩是夫妻，结婚35年无绯闻，66岁丈夫靠《小城良方》又火了",
-      "source": "半历写书",
-      "url": "https://www.sohu.com/a/1091040690_122223685",
-      "published": "2026-10-22 10:16",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a2ac2d4046786c4d6a658",
-      "title": "10架美国军机飞抵以色列空军基地",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xdNGeLmGMQ",
-      "published": "2026-10-30T04:02:57+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "abb8ef77f1c9fde06ddc8",
-      "title": "美以可能重启对伊朗军事行动，外交部回应",
-      "source": "政知见",
-      "url": "https://news.ifeng.com/c/8xZ71fKF9EW",
-      "published": "2026-10-27T15:27:47+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a78179765f599c752552d",
-      "title": "一条路，诉说着英勇与坚韧",
-      "source": "光合氧吧",
-      "url": "https://www.sohu.com/a/1092855960_120642749",
-      "published": "2026-10-28 09:04",
-      "genre": "历史故事"
-    },
-    {
       "id": "a0e91f032660d4a482a29",
       "title": "李小冉嫁给多年挚友后又离婚，她的情路坎坷到离谱...",
       "source": "扒小妹儿",
@@ -712,19 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a28819668e38015099075",
-      "title": "中国欧盟商会秘书长唐亚东：中国对欧洲企业的吸引力，正在从市场红利转向供应链红利",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/AdamDunnett/2026_10_23_905446_s.shtml",
-      "published": "2026-10-23 14:07:29",
-      "genre": "分析评论"
-    },
-    {
-      "id": "a11274963c2d0708fff94",
-      "title": "原创 南京号称六朝古都，是哪六朝？",
-      "source": "地图帝",
-      "url": "https://www.sohu.com/a/1093664067_353978",
-      "published": "2026-10-28 08:58",
+      "id": "a78179765f599c752552d",
+      "title": "一条路，诉说着英勇与坚韧",
+      "source": "光合氧吧",
+      "url": "https://www.sohu.com/a/1092855960_120642749",
+      "published": "2026-10-28 09:04",
       "genre": "历史故事"
     },
     {
@@ -736,11 +728,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a114c25a286c47e09ba10",
-      "title": "一个未登记的“全国性学会”之谜",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1093648263_119038",
-      "published": "2026-10-28 06:48",
+      "id": "a11274963c2d0708fff94",
+      "title": "原创 南京号称六朝古都，是哪六朝？",
+      "source": "地图帝",
+      "url": "https://www.sohu.com/a/1093664067_353978",
+      "published": "2026-10-28 08:58",
       "genre": "历史故事"
     },
     {
@@ -752,11 +744,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a734a59478d1d7e4e6283",
-      "title": "《青州微笑——龙兴寺遗址出土佛教造像艺术展》12：悦目赏心分享",
-      "source": "乐艺会",
-      "url": "https://www.sohu.com/a/1093557950_772510",
-      "published": "2026-10-28 00:01",
+      "id": "a114c25a286c47e09ba10",
+      "title": "一个未登记的“全国性学会”之谜",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1093648263_119038",
+      "published": "2026-10-28 06:48",
       "genre": "历史故事"
     },
     {
@@ -768,11 +760,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a799f6e135c990d7ea04a",
-      "title": "探寻大唐“限量版”骏马",
-      "source": "博物馆世界",
-      "url": "https://www.sohu.com/a/1093487900_121107011",
-      "published": "2026-10-27 15:39",
+      "id": "a734a59478d1d7e4e6283",
+      "title": "《青州微笑——龙兴寺遗址出土佛教造像艺术展》12：悦目赏心分享",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1093557950_772510",
+      "published": "2026-10-28 00:01",
       "genre": "历史故事"
     },
     {
@@ -784,11 +776,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a9cd74fda613623db4e04",
-      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1093246793_260616",
-      "published": "2026-10-27 11:06",
+      "id": "a799f6e135c990d7ea04a",
+      "title": "探寻大唐“限量版”骏马",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1093487900_121107011",
+      "published": "2026-10-27 15:39",
       "genre": "历史故事"
     },
     {
@@ -800,12 +792,20 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa9e65e4f1ce807d1a50b",
-      "title": "同为战败国，日本年年讨要北方四岛，德国为何绝口不提加里宁格勒",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1092937670_100140957",
-      "published": "2026-10-26 16:59",
+      "id": "a9cd74fda613623db4e04",
+      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1093246793_260616",
+      "published": "2026-10-27 11:06",
       "genre": "历史故事"
+    },
+    {
+      "id": "a2426393970f6f9125de9",
+      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1032651147_100289291",
+      "published": "2026-06-06 17:40",
+      "genre": "人物与往事"
     }
   ]
 }
