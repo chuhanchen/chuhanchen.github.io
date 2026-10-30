@@ -1,18 +1,18 @@
 {
-  "revision": "4eaee4c67ce0ec329969340d",
+  "revision": "0166623be6aed6489e683c84",
   "channels": {
-    "news": 22,
+    "news": 23,
     "military": 22,
     "history": 28,
-    "culture": 28
+    "culture": 27
   },
   "articles": [
     {
-      "id": "ae402492d9f7f6a123de8",
-      "title": "对话孟维瞻：“民主社会主义”崛起，能撬动美国对华政策吗？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/mengweizhan/2026_10_30_906127_s.shtml",
-      "published": "2026-10-30 13:07:14",
+      "id": "a8de8496b263888e4570a",
+      "title": "欧洲在自杀：为什么欧洲天真认为引入第三世界的移民难民会让他们更好？",
+      "source": "中美学者智库",
+      "url": "https://news.ifeng.com/c/8xf8OosKzXu",
+      "published": "2026-10-31T06:34:46+08:00",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a260f327fb1989cdc17bd",
-      "title": "美国食品价格居高不下，谁在闷声发财？",
+      "id": "ae402492d9f7f6a123de8",
+      "title": "对话孟维瞻：“民主社会主义”崛起，能撬动美国对华政策吗？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/guanshiyin/2026_10_30_905963_s.shtml",
-      "published": "2026-10-30 08:59:14",
+      "url": "https://www.guancha.cn/mengweizhan/2026_10_30_906127_s.shtml",
+      "published": "2026-10-30 13:07:14",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae9db9b6c6ca5c0a75903",
-      "title": "俄罗斯为何突然对欧洲释放善意？",
-      "source": "总编辑时间",
-      "url": "https://original.ifeng.com/c/8xcv8Jq1TYe",
-      "published": "2026-10-29T22:57:35+08:00",
+      "id": "a260f327fb1989cdc17bd",
+      "title": "美国食品价格居高不下，谁在闷声发财？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_30_905963_s.shtml",
+      "published": "2026-10-30 08:59:14",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2adc53c75f8b1a49425f",
-      "title": "加税42.1%，日本钢企挡不住中国不锈钢",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xbFED7LXxt",
-      "published": "2026-10-28T22:32:19+08:00",
+      "id": "ae9db9b6c6ca5c0a75903",
+      "title": "俄罗斯为何突然对欧洲释放善意？",
+      "source": "总编辑时间",
+      "url": "https://original.ifeng.com/c/8xcv8Jq1TYe",
+      "published": "2026-10-29T22:57:35+08:00",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af9d55915b53960ad1ca5",
-      "title": "狄薇薇：复盘梳理巴西总统选举背后的一些“有趣”小细节",
+      "id": "a2adc53c75f8b1a49425f",
+      "title": "加税42.1%，日本钢企挡不住中国不锈钢",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/diweiwei/2026_10_28_906003_s.shtml",
-      "published": "2026-10-28 07:56:02",
+      "url": "https://news.ifeng.com/c/8xbFED7LXxt",
+      "published": "2026-10-28T22:32:19+08:00",
       "genre": "分析评论"
     },
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a13d3b4a9b98985e12b02",
-      "title": "美媒：中国正成为西方学习如何制造畅销电动车的地方",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xZOWj27rZr",
-      "published": "2026-10-27T19:45:50+08:00",
+      "id": "af9d55915b53960ad1ca5",
+      "title": "狄薇薇：复盘梳理巴西总统选举背后的一些“有趣”小细节",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/diweiwei/2026_10_28_906003_s.shtml",
+      "published": "2026-10-28 07:56:02",
       "genre": "分析评论"
     },
     {
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a01dd43e0e8d5780b5627",
-      "title": "彼得·沃克：走访94个中国家庭后，我找到了中国经济背后的文化关键",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/PeterWalker/2026_10_27_905543_s.shtml",
-      "published": "2026-10-27 08:21:00",
+      "id": "a13d3b4a9b98985e12b02",
+      "title": "美媒：中国正成为西方学习如何制造畅销电动车的地方",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xZOWj27rZr",
+      "published": "2026-10-27T19:45:50+08:00",
       "genre": "分析评论"
     },
     {
@@ -232,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af038c43e97ec09802b97",
-      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
+      "id": "a01dd43e0e8d5780b5627",
+      "title": "彼得·沃克：走访94个中国家庭后，我找到了中国经济背后的文化关键",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
-      "published": "2026-10-26 10:24:24",
+      "url": "https://www.guancha.cn/PeterWalker/2026_10_27_905543_s.shtml",
+      "published": "2026-10-27 08:21:00",
       "genre": "分析评论"
     },
     {
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa9664448d2a1533acc1f",
-      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
-      "source": "凤凰大参考",
-      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
-      "published": "2026-10-26T17:26:45+08:00",
+      "id": "af038c43e97ec09802b97",
+      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
+      "published": "2026-10-26 10:24:24",
       "genre": "分析评论"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afb836e26824c03d2d692",
-      "title": "经济日报：“养砖头”为什么戳中年轻人？",
-      "source": "经济日报",
-      "url": "https://news.ifeng.com/c/8xWrc52Hvcf",
-      "published": "2026-10-26T06:59:00+08:00",
+      "id": "aa9664448d2a1533acc1f",
+      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
+      "source": "凤凰大参考",
+      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
+      "published": "2026-10-26T17:26:45+08:00",
       "genre": "分析评论"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad655c6675fd50a964dbe",
-      "title": "一周军评：中国和美国都尊重斯拉夫人流过的血",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/WangShiChun/2026_10_25_905674_s.shtml",
-      "published": "2026-10-25 07:21:21",
+      "id": "afb836e26824c03d2d692",
+      "title": "经济日报：“养砖头”为什么戳中年轻人？",
+      "source": "经济日报",
+      "url": "https://news.ifeng.com/c/8xWrc52Hvcf",
+      "published": "2026-10-26T06:59:00+08:00",
       "genre": "分析评论"
     },
     {
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a012039c3cc4fd47b14ce",
-      "title": "自封“当选总统”，弗拉维奥·博索纳罗公开信引美国和巴西不满",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xeia68L809",
-      "published": "2026-10-30T22:53:41+08:00",
-      "genre": "新闻动态"
+      "id": "ad655c6675fd50a964dbe",
+      "title": "一周军评：中国和美国都尊重斯拉夫人流过的血",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/WangShiChun/2026_10_25_905674_s.shtml",
+      "published": "2026-10-25 07:21:21",
+      "genre": "分析评论"
     },
     {
       "id": "a60804e59c1f1c00be839",
@@ -392,11 +392,43 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad877cd9a88d2ad29f484",
-      "title": "被指控与“中国女间谍”密切交往，黄仁勋气晕了",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xeXqx5hzAQ",
-      "published": "2026-10-30T21:42:20+08:00",
+      "id": "a996edcadff5b3c97dda7",
+      "title": "民调：美国民众不相信民调",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xf9TGN4wET",
+      "published": "2026-10-31T07:31:16+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "af189912a8e6b692dccdc",
+      "title": "“攻击-21”在四川舰成功起降，解放军向无人机航母时代迈进",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xfCpieOdaL",
+      "published": "2026-10-31T06:34:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "acd47065c4bcebbdfdd30",
+      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1095235634_260616",
+      "published": "2026-10-31 07:02",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
+    },
+    {
+      "id": "ab565023741508ad426a6",
+      "title": "古巴常驻联合国代表团外交官遭美驱逐后回国",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xf04nYi9ID",
+      "published": "2026-10-31T05:34:08+08:00",
       "genre": "新闻动态"
     },
     {
@@ -416,19 +448,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "a3f4993fa69c4bfcb9bc7",
+      "title": "原创 小小徐结婚轰动全网！父亲早逝母亲再婚，他感恩妈妈给予生命",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1094889214_120617247",
+      "published": "2026-10-30 13:51",
+      "genre": "人物与往事"
     },
     {
-      "id": "abd9f95d6703cf12b6914",
-      "title": "美国盯上马来西亚稀土，砸6亿美元想绕开中国",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xeUtQ6MmhY",
-      "published": "2026-10-30T21:30:48+08:00",
+      "id": "affc95eba4e7169f0e274",
+      "title": "安理会举行联合国秘书长遴选第七轮意向性投票",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xes3RSHQWO",
+      "published": "2026-10-31T04:18:36+08:00",
       "genre": "新闻动态"
     },
     {
@@ -448,19 +480,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3f4993fa69c4bfcb9bc7",
-      "title": "原创 小小徐结婚轰动全网！父亲早逝母亲再婚，他感恩妈妈给予生命",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1094889214_120617247",
-      "published": "2026-10-30 13:51",
+      "id": "a8298ca8437962bf92554",
+      "title": "原创 何超莲带妈吃1.1万饭局：三太素颜戴六千万满绿镯，嫁人三年不生子，中秋把窦骁“晾”在加拿大",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1092952263_100115139",
+      "published": "2026-10-30 08:24",
       "genre": "人物与往事"
     },
     {
-      "id": "a6122005ae4c87dba9911",
-      "title": "胡锡进：五角大楼又要向国会要钱了，所以拿一张中国空天飞机的照片编故事",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xeSPOLpmU4",
-      "published": "2026-10-30T20:53:32+08:00",
+      "id": "a012039c3cc4fd47b14ce",
+      "title": "自封“当选总统”，弗拉维奥·博索纳罗公开信引美国和巴西不满",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xeia68L809",
+      "published": "2026-10-30T22:53:41+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abaf304fb6597c1cf830e",
-      "title": "1.2吨！中国联合印尼、马来西亚破获特大跨国制贩毒案",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xeOO1cgXLi",
-      "published": "2026-10-30T20:00:00+08:00",
+      "id": "ad877cd9a88d2ad29f484",
+      "title": "被指控与“中国女间谍”密切交往，黄仁勋气晕了",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xeXqx5hzAQ",
+      "published": "2026-10-30T21:42:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a102c8e7f5c7c2bf74385",
-      "title": "中国高校学院大洗牌",
-      "source": "第一财经",
-      "url": "https://news.ifeng.com/c/8xeP8yTQeEH",
-      "published": "2026-10-30T19:56:48+08:00",
+      "id": "abd9f95d6703cf12b6914",
+      "title": "美国盯上马来西亚稀土，砸6亿美元想绕开中国",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xeUtQ6MmhY",
+      "published": "2026-10-30T21:30:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a36c21713a0f2696490c3",
-      "title": "“最牛打工妹”，凭什么成为中国新任女首富？",
-      "source": "智谷趋势",
-      "url": "https://news.ifeng.com/c/8xeGB4mm4U7",
-      "published": "2026-10-30T17:50:16+08:00",
+      "id": "a6122005ae4c87dba9911",
+      "title": "胡锡进：五角大楼又要向国会要钱了，所以拿一张中国空天飞机的照片编故事",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xeSPOLpmU4",
+      "published": "2026-10-30T20:53:32+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad75a4cd0eeb826ca192b",
-      "title": "消息人士称，美国已要求欧洲缓和对俄言论",
-      "source": "天下事",
-      "url": "https://news.ifeng.com/c/8xe56EwMadY",
-      "published": "2026-10-30T15:37:33+08:00",
+      "id": "abaf304fb6597c1cf830e",
+      "title": "1.2吨！中国联合印尼、马来西亚破获特大跨国制贩毒案",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xeOO1cgXLi",
+      "published": "2026-10-30T20:00:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,12 +648,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5e2859641e12ed34af1a",
-      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
-      "published": "2026-10-24 07:26:56",
-      "genre": "分析评论"
+      "id": "a102c8e7f5c7c2bf74385",
+      "title": "中国高校学院大洗牌",
+      "source": "第一财经",
+      "url": "https://news.ifeng.com/c/8xeP8yTQeEH",
+      "published": "2026-10-30T19:56:48+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a6587e8ccefcb330f908d",
@@ -648,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0343b1a2414de52bfcc1",
-      "title": "美媒：罗马教皇将参与美国中期选举投票",
-      "source": "RT今日俄罗斯",
-      "url": "https://news.ifeng.com/c/8xdrv3JPI6z",
-      "published": "2026-10-30T12:35:01+08:00",
+      "id": "a36c21713a0f2696490c3",
+      "title": "“最牛打工妹”，凭什么成为中国新任女首富？",
+      "source": "智谷趋势",
+      "url": "https://news.ifeng.com/c/8xeGB4mm4U7",
+      "published": "2026-10-30T17:50:16+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,20 +712,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a48229a7a1318b5da7598",
-      "title": "德国总统访问中国科学院：中国科技创新成就令人印象深刻",
-      "source": "凤凰卫视",
-      "url": "https://news.ifeng.com/c/8xdpu4MOF8g",
-      "published": "2026-10-30T11:50:01+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a38de3ac40b519809a16f",
-      "title": "俄国防部：大规模打击乌军工厂与交通物流设施",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xZAi4MyzXw",
-      "published": "2026-10-27T17:21:02+08:00",
-      "genre": "新闻动态"
+      "id": "a5e2859641e12ed34af1a",
+      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
+      "published": "2026-10-24 07:26:56",
+      "genre": "分析评论"
     },
     {
       "id": "a1e2fb54847cfc8b6622c",
@@ -782,30 +806,6 @@
       "url": "https://www.sohu.com/a/1093487900_121107011",
       "published": "2026-10-27 15:39",
       "genre": "历史故事"
-    },
-    {
-      "id": "afbe58853559e7f02627c",
-      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1034545965_100289291",
-      "published": "2026-06-11 11:53",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a9cd74fda613623db4e04",
-      "title": "新知与风土 | 沈阳西塔：时间如何变成空间",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1093246793_260616",
-      "published": "2026-10-27 11:06",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a2426393970f6f9125de9",
-      "title": "原创 相声界谁“扛大旗”？侯宝林马季最受认可，流量明星没资格",
-      "source": "我是个码字的",
-      "url": "https://www.sohu.com/a/1032651147_100289291",
-      "published": "2026-06-06 17:40",
-      "genre": "人物与往事"
     }
   ]
 }
