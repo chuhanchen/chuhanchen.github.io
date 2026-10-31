@@ -1,9 +1,9 @@
 {
-  "revision": "0bf580231521d42258d44f6e",
+  "revision": "322570034a994c47baa6d47a",
   "channels": {
-    "news": 24,
+    "news": 23,
     "military": 22,
-    "history": 27,
+    "history": 28,
     "culture": 27
   },
   "articles": [
@@ -392,19 +392,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad655c6675fd50a964dbe",
-      "title": "一周军评：中国和美国都尊重斯拉夫人流过的血",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/WangShiChun/2026_10_25_905674_s.shtml",
-      "published": "2026-10-25 07:21:21",
-      "genre": "分析评论"
+      "id": "abb005f471027147bb0eb",
+      "title": "美国中期选举提前投票，3个问题成焦点",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xfwfaknuUc",
+      "published": "2026-10-31T18:24:26+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "af189912a8e6b692dccdc",
-      "title": "“攻击-21”在四川舰成功起降，解放军向无人机航母时代迈进",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xfCpieOdaL",
-      "published": "2026-10-31T06:34:00+08:00",
+      "id": "a1646797895fa1f762f25",
+      "title": "马斯克，“接管”军队",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xfvvUwmKfP",
+      "published": "2026-10-31T16:47:21+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,6 +424,38 @@
       "genre": "作品解读"
     },
     {
+      "id": "aefd7357abb66f6814e12",
+      "title": "小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xftz7YnKx6",
+      "published": "2026-10-31T17:33:59+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "af189912a8e6b692dccdc",
+      "title": "“攻击-21”在四川舰成功起降，解放军向无人机航母时代迈进",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xfCpieOdaL",
+      "published": "2026-10-31T06:34:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a1019352e3220700e5956",
+      "title": "明清时期徽州谱牒的编修、防伪与秩序维护",
+      "source": "善本古籍",
+      "url": "https://www.sohu.com/a/1095473727_562249",
+      "published": "2026-10-31 20:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a20a9324f47f6bba31230",
+      "title": "原创 林依晨43岁生日，穿黑裙又瘦又年轻，老公回来陪她、儿女也出镜",
+      "source": "小疯说时尚",
+      "url": "https://www.sohu.com/a/1095249776_500452",
+      "published": "2026-10-31 08:33",
+      "genre": "人物与往事"
+    },
+    {
       "id": "ab15cee219bb54ada2f2d",
       "title": "星期六书房：当经济学天才老去，他皈依了马克思",
       "source": "观察者网",
@@ -440,43 +472,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "aa5d6c83205c39051abdc",
-      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
+      "id": "a176b549520d6c229e8e1",
+      "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
       "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095273778_123753",
-      "published": "2026-10-31 09:33",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a20a9324f47f6bba31230",
-      "title": "原创 林依晨43岁生日，穿黑裙又瘦又年轻，老公回来陪她、儿女也出镜",
-      "source": "小疯说时尚",
-      "url": "https://www.sohu.com/a/1095249776_500452",
-      "published": "2026-10-31 08:33",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a9f10d248c1e50e922945",
-      "title": "美国将在中期选举后重启战争？伊朗官员强硬回应",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xfWrlvmhjL",
-      "published": "2026-10-31T12:59:10+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a17e3fc947e439be64a37",
-      "title": "专家：076型两栖攻击舰将成为全球首款弹射型无人机航母",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xeM83kVVms",
-      "published": "2026-10-30T19:18:00+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "acd47065c4bcebbdfdd30",
-      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095235634_260616",
-      "published": "2026-10-31 07:02",
+      "url": "https://www.sohu.com/a/1095461804_123753",
+      "published": "2026-10-31 18:50",
       "genre": "历史故事"
     },
     {
@@ -488,27 +488,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae2b7f400abf986f640d8",
-      "title": "注射死刑失败一个月后，美国女囚首次公开发声",
+      "id": "ad655c6675fd50a964dbe",
+      "title": "一周军评：中国和美国都尊重斯拉夫人流过的血",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/WangShiChun/2026_10_25_905674_s.shtml",
+      "published": "2026-10-25 07:21:21",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a17e3fc947e439be64a37",
+      "title": "专家：076型两栖攻击舰将成为全球首款弹射型无人机航母",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xfYZ8iQx8M",
-      "published": "2026-10-31T12:50:00+08:00",
+      "url": "https://news.ifeng.com/c/8xeM83kVVms",
+      "published": "2026-10-30T19:18:00+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a620e5fec61657940733e",
-      "title": "朝鲜国防省：美韩对朝挑衅活动加剧半岛军事紧张",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xe1K2fOrKT",
-      "published": "2026-10-30T14:31:16+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a18f5945632bdc0449309",
-      "title": "东西问｜麦田“守望者”归来：千年宋陵石首从澳大利亚回家",
+      "id": "a376cdf7d9bae3dd4b827",
+      "title": "算法“投毒”，篡改不了历史罪责",
       "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095133940_123753",
-      "published": "2026-10-30 23:56",
+      "url": "https://www.sohu.com/a/1095403233_123753",
+      "published": "2026-10-31 15:01",
       "genre": "历史故事"
     },
     {
@@ -520,27 +520,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa86a29c9fda1f2785b0f",
-      "title": "中国首次载人登月任务乘组计划由三人组成，两人着陆月球表面",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xfQhPbpxWk",
-      "published": "2026-10-31T10:56:41+08:00",
+      "id": "ab065259089d67ede002e",
+      "title": "本届美国中期选举最大“十月惊奇”出现了！",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xfgwnuDjez",
+      "published": "2026-10-31T14:57:26+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "af9d123bddfa67541b3d2",
-      "title": "从剥夺勋章到赠送战机，波兰和乌克兰又和好了？",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8xdwjMPMcZh",
-      "published": "2026-10-30T13:45:21+08:00",
+      "id": "a620e5fec61657940733e",
+      "title": "朝鲜国防省：美韩对朝挑衅活动加剧半岛军事紧张",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xe1K2fOrKT",
+      "published": "2026-10-30T14:31:16+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a59cc118d7f28371b232d",
-      "title": "乐山堂藏宋元书画回归故里展出，嘉德巡展致敬收藏家",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095091529_260616",
-      "published": "2026-10-30 20:28",
+      "id": "aa5d6c83205c39051abdc",
+      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095273778_123753",
+      "published": "2026-10-31 09:33",
       "genre": "历史故事"
     },
     {
@@ -552,27 +552,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5c61d9b903702acf32f5",
-      "title": "美国驻波兰大使：我们正目睹一场前所未有的对抗",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xfNspkUopl",
-      "published": "2026-10-31T10:27:42+08:00",
+      "id": "a9f10d248c1e50e922945",
+      "title": "美国将在中期选举后重启战争？伊朗官员强硬回应",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xfWrlvmhjL",
+      "published": "2026-10-31T12:59:10+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a686c3754a8c42219de86",
-      "title": "美军高官向特朗普汇报打击伊朗军事选项",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xdErfLXdPi",
-      "published": "2026-10-30T03:49:24+08:00",
+      "id": "af9d123bddfa67541b3d2",
+      "title": "从剥夺勋章到赠送战机，波兰和乌克兰又和好了？",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8xdwjMPMcZh",
+      "published": "2026-10-30T13:45:21+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "ad076bad9f5d4272154f3",
-      "title": "陈向盈评《侯景之乱》｜南风不竞：乱世群像与历史传记的写法",
+      "id": "acd47065c4bcebbdfdd30",
+      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1094853964_260616",
-      "published": "2026-10-30 12:23",
+      "url": "https://www.sohu.com/a/1095235634_260616",
+      "published": "2026-10-31 07:02",
       "genre": "历史故事"
     },
     {
@@ -584,27 +584,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac6ac6931d84a0483255b",
-      "title": "欧洲代表拒绝跟俄外长同框，美方取消G20外长会大合照",
-      "source": "凤凰卫视资讯台",
-      "url": "https://news.ifeng.com/c/8xfMobvL4Si",
-      "published": "2026-10-31T10:07:18+08:00",
+      "id": "ae2b7f400abf986f640d8",
+      "title": "注射死刑失败一个月后，美国女囚首次公开发声",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xfYZ8iQx8M",
+      "published": "2026-10-31T12:50:00+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "afb85271064e3f15adbe8",
-      "title": "美军计划增购F-35战机，“十年大单”意味什么",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xcz5Nrc1eJ",
-      "published": "2026-10-29T23:03:48+08:00",
+      "id": "a686c3754a8c42219de86",
+      "title": "美军高官向特朗普汇报打击伊朗军事选项",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xdErfLXdPi",
+      "published": "2026-10-30T03:49:24+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a8a3ef54f9f622de27958",
-      "title": "跨海论汉｜马瑞诗：把河流看作伙伴，重新认识黄河",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1094698457_260616",
-      "published": "2026-10-30 06:43",
+      "id": "a18f5945632bdc0449309",
+      "title": "东西问｜麦田“守望者”归来：千年宋陵石首从澳大利亚回家",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095133940_123753",
+      "published": "2026-10-30 23:56",
       "genre": "历史故事"
     },
     {
@@ -616,27 +616,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a42442c9ea9e2f9a479a5",
-      "title": "波兰发生政变了？总统取消出访行程，飞机紧急调头回国",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xfH3wimGIK",
-      "published": "2026-10-31T09:04:13+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "abeffaeb9dfac294dd397",
-      "title": "阿富汗国防部：对巴基斯坦无人机袭击发动了反击",
+      "id": "aa86a29c9fda1f2785b0f",
+      "title": "中国首次载人登月任务乘组计划由三人组成，两人着陆月球表面",
       "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xcMFRb3OG0",
-      "published": "2026-10-29T15:08:25+08:00",
+      "url": "https://news.ifeng.com/c/8xfQhPbpxWk",
+      "published": "2026-10-31T10:56:41+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a8b23c8d238f26bf48893",
-      "title": "汉学家：读懂“中国之治”的密码",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1094726862_119038",
-      "published": "2026-10-30 06:11",
+      "id": "afb85271064e3f15adbe8",
+      "title": "美军计划增购F-35战机，“十年大单”意味什么",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xcz5Nrc1eJ",
+      "published": "2026-10-29T23:03:48+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a59cc118d7f28371b232d",
+      "title": "乐山堂藏宋元书画回归故里展出，嘉德巡展致敬收藏家",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1095091529_260616",
+      "published": "2026-10-30 20:28",
       "genre": "历史故事"
     },
     {
@@ -648,27 +648,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a996edcadff5b3c97dda7",
-      "title": "民调：美国民众不相信民调",
+      "id": "a5c61d9b903702acf32f5",
+      "title": "美国驻波兰大使：我们正目睹一场前所未有的对抗",
       "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xf9TGN4wET",
-      "published": "2026-10-31T07:31:16+08:00",
+      "url": "https://original.ifeng.com/c/8xfNspkUopl",
+      "published": "2026-10-31T10:27:42+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a6587e8ccefcb330f908d",
-      "title": "泽连斯基披露防空弹药缺口：乌克兰每月要拦截150枚导弹，美国只给12枚",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8xc9DHIfslW",
-      "published": "2026-10-29T11:32:00+08:00",
+      "id": "abeffaeb9dfac294dd397",
+      "title": "阿富汗国防部：对巴基斯坦无人机袭击发动了反击",
+      "source": "环球网",
+      "url": "https://mil.ifeng.com/c/8xcMFRb3OG0",
+      "published": "2026-10-29T15:08:25+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a424b4d730a59f99ab4e0",
-      "title": "北宋皇陵流失文物回归中国细节：有人发现其在澳大利亚后举报",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1094538339_161795",
-      "published": "2026-10-29 19:53",
+      "id": "ad076bad9f5d4272154f3",
+      "title": "陈向盈评《侯景之乱》｜南风不竞：乱世群像与历史传记的写法",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1094853964_260616",
+      "published": "2026-10-30 12:23",
       "genre": "历史故事"
     },
     {
@@ -680,27 +680,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab565023741508ad426a6",
-      "title": "古巴常驻联合国代表团外交官遭美驱逐后回国",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xf04nYi9ID",
-      "published": "2026-10-31T05:34:08+08:00",
+      "id": "ac6ac6931d84a0483255b",
+      "title": "欧洲代表拒绝跟俄外长同框，美方取消G20外长会大合照",
+      "source": "凤凰卫视资讯台",
+      "url": "https://news.ifeng.com/c/8xfMobvL4Si",
+      "published": "2026-10-31T10:07:18+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a6b34f211ac0d978fb349",
-      "title": "也门胡塞武装：埃及授权军事支持沙特等同于“宣战”",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xaQQBfg3jV",
-      "published": "2026-10-28T11:01:39+08:00",
+      "id": "a6587e8ccefcb330f908d",
+      "title": "泽连斯基披露防空弹药缺口：乌克兰每月要拦截150枚导弹，美国只给12枚",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xc9DHIfslW",
+      "published": "2026-10-29T11:32:00+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a7b8c0b50c926ada5b2a5",
-      "title": "《万古光辉》：从展场到纸页，读懂千年古刹广胜寺",
+      "id": "a8a3ef54f9f622de27958",
+      "title": "跨海论汉｜马瑞诗：把河流看作伙伴，重新认识黄河",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1094346266_260616",
-      "published": "2026-10-29 13:24",
+      "url": "https://www.sohu.com/a/1094698457_260616",
+      "published": "2026-10-30 06:43",
       "genre": "历史故事"
     },
     {
@@ -712,19 +712,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "affc95eba4e7169f0e274",
-      "title": "安理会举行联合国秘书长遴选第七轮意向性投票",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xes3RSHQWO",
-      "published": "2026-10-31T04:18:36+08:00",
+      "id": "a42442c9ea9e2f9a479a5",
+      "title": "波兰发生政变了？总统取消出访行程，飞机紧急调头回国",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xfH3wimGIK",
+      "published": "2026-10-31T09:04:13+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "adfb2ca84c0b815cc2b3c",
-      "title": "一位日本网民质问AI：“你是要背叛日本吗？”……亚洲网友群嘲：别丢人了！",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1094030146_161795",
-      "published": "2026-10-28 21:11",
+      "id": "a8b23c8d238f26bf48893",
+      "title": "汉学家：读懂“中国之治”的密码",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1094726862_119038",
+      "published": "2026-10-30 06:11",
       "genre": "历史故事"
     },
     {
@@ -736,19 +736,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5e2859641e12ed34af1a",
-      "title": "程亚文：欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengYaWen/2026_10_24_903662_s.shtml",
-      "published": "2026-10-24 07:26:56",
-      "genre": "分析评论"
-    },
-    {
-      "id": "ac23807053aebe4c36eb9",
-      "title": "没有万众一心，不是自由童话，美国独立战争背后是利益与鲜血",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1093931568_100140957",
-      "published": "2026-10-28 16:42",
+      "id": "a424b4d730a59f99ab4e0",
+      "title": "北宋皇陵流失文物回归中国细节：有人发现其在澳大利亚后举报",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1094538339_161795",
+      "published": "2026-10-29 19:53",
       "genre": "历史故事"
     },
     {
@@ -760,11 +752,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1e2fb54847cfc8b6622c",
-      "title": "王笛新作《开山令》出版：重写边缘群体的历史",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1093911287_161795",
-      "published": "2026-10-28 16:18",
+      "id": "a7b8c0b50c926ada5b2a5",
+      "title": "《万古光辉》：从展场到纸页，读懂千年古刹广胜寺",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1094346266_260616",
+      "published": "2026-10-29 13:24",
       "genre": "历史故事"
     },
     {
@@ -776,11 +768,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a78179765f599c752552d",
-      "title": "一条路，诉说着英勇与坚韧",
-      "source": "光合氧吧",
-      "url": "https://www.sohu.com/a/1092855960_120642749",
-      "published": "2026-10-28 09:04",
+      "id": "adfb2ca84c0b815cc2b3c",
+      "title": "一位日本网民质问AI：“你是要背叛日本吗？”……亚洲网友群嘲：别丢人了！",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1094030146_161795",
+      "published": "2026-10-28 21:11",
       "genre": "历史故事"
     },
     {
@@ -792,11 +784,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a11274963c2d0708fff94",
-      "title": "原创 南京号称六朝古都，是哪六朝？",
-      "source": "地图帝",
-      "url": "https://www.sohu.com/a/1093664067_353978",
-      "published": "2026-10-28 08:58",
+      "id": "ac23807053aebe4c36eb9",
+      "title": "没有万众一心，不是自由童话，美国独立战争背后是利益与鲜血",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1093931568_100140957",
+      "published": "2026-10-28 16:42",
       "genre": "历史故事"
     },
     {
@@ -806,6 +798,14 @@
       "url": "https://www.sohu.com/a/1089811657_122430278",
       "published": "2026-10-19 19:13",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a1e2fb54847cfc8b6622c",
+      "title": "王笛新作《开山令》出版：重写边缘群体的历史",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1093911287_161795",
+      "published": "2026-10-28 16:18",
+      "genre": "历史故事"
     }
   ]
 }
