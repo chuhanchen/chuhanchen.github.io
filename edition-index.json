@@ -1,9 +1,9 @@
 {
-  "revision": "7e2393c73fd400be057e22ba",
+  "revision": "71147369fb32edd9abc361c3",
   "channels": {
     "news": 23,
-    "military": 23,
-    "history": 27,
+    "military": 22,
+    "history": 28,
     "culture": 27
   },
   "articles": [
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad122fe6d42ca9de0db46",
-      "title": "美国初创公司计划发射5万颗卫星“照亮地球”，引发巨大争议",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xhfWuADcy4",
-      "published": "2026-11-01T19:25:35+08:00",
+      "id": "ad42f5be4d8ec3a93d039",
+      "title": "美国民主党内讧炸锅！舒默怒斥：卑劣的背叛",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xiRL9mi78S",
+      "published": "2026-11-02T07:00:59+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ada304fdbe10f0b65932b",
-      "title": "如果泽连斯基打来电话，普京是否会接听？俄总统助理回应",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xhfWuADcvK",
-      "published": "2026-11-01T19:23:07+08:00",
+      "id": "a6cad01fafcd6e421ad6f",
+      "title": "苏丹向联合国提出申诉，指控埃塞俄比亚实施“侵略”",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xiSD9XWc4p",
+      "published": "2026-11-02T06:01:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "作品解读"
     },
     {
-      "id": "a0590f53e67b9acf72f3c",
-      "title": "默茨亚洲行碰了钉子，走得灰溜溜的",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xhcFyur2E4",
-      "published": "2026-11-01T18:38:05+08:00",
+      "id": "a3b8baf1f03adbcbdaace",
+      "title": "美国民主党众议员公开支持共和党候选人",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xi8HZF6AFR",
+      "published": "2026-11-02T01:55:36+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,12 +456,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af038c43e97ec09802b97",
-      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
-      "published": "2026-10-26 10:24:24",
-      "genre": "分析评论"
+      "id": "ad122fe6d42ca9de0db46",
+      "title": "美国初创公司计划发射5万颗卫星“照亮地球”，引发巨大争议",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xhfWuADcy4",
+      "published": "2026-11-01T19:25:35+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a1646797895fa1f762f25",
@@ -488,12 +488,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa9664448d2a1533acc1f",
-      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
-      "source": "凤凰大参考",
-      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
-      "published": "2026-10-26T17:26:45+08:00",
-      "genre": "分析评论"
+      "id": "ada304fdbe10f0b65932b",
+      "title": "如果泽连斯基打来电话，普京是否会接听？俄总统助理回应",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xhfWuADcvK",
+      "published": "2026-11-01T19:23:07+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "af189912a8e6b692dccdc",
@@ -504,11 +504,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a4bb56abb80f2693bf939",
-      "title": "在博物馆展出54年后，一具巨型恐龙骨架模型为何“换头”",
+      "id": "a09f3ad43850b8de393b7",
+      "title": "11月人文社科中文原创好书榜｜身体与命运：明代的相术",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095792370_260616",
-      "published": "2026-11-01 21:16",
+      "url": "https://www.sohu.com/a/1095887357_260616",
+      "published": "2026-11-02 06:45",
       "genre": "历史故事"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a736ec3c54fe9fbefda91",
-      "title": "选举冲刺，美国政坛因为这张南瓜图吵翻了",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xhDUaoS5wz",
-      "published": "2026-11-01T12:51:38+08:00",
+      "id": "a0590f53e67b9acf72f3c",
+      "title": "默茨亚洲行碰了钉子，走得灰溜溜的",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xhcFyur2E4",
+      "published": "2026-11-01T18:38:05+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ade1c3f0954cc189a1a71",
-      "title": "抗议持续，总统和法官上演“全武行”…波兰总理发表电视讲话",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xh6usvmVF3",
-      "published": "2026-11-01T11:15:24+08:00",
+      "id": "a7d534386de6fb3cf6107",
+      "title": "柏林、慕尼黑、汉堡…德国多地抗议爆发冲突，商铺遭洗劫",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xhaPrGMWgq",
+      "published": "2026-11-01T18:35:01+08:00",
       "genre": "新闻动态"
     },
     {
@@ -568,11 +568,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a1019352e3220700e5956",
-      "title": "明清时期徽州谱牒的编修、防伪与秩序维护",
-      "source": "善本古籍",
-      "url": "https://www.sohu.com/a/1095473727_562249",
-      "published": "2026-10-31 20:00",
+      "id": "a4bb56abb80f2693bf939",
+      "title": "在博物馆展出54年后，一具巨型恐龙骨架模型为何“换头”",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1095792370_260616",
+      "published": "2026-11-01 21:16",
       "genre": "历史故事"
     },
     {
@@ -584,12 +584,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae319ef8f88e6af1ce33b",
-      "title": "波兰宪政危机会影响俄乌局势吗？国际问题专家：要看中长期",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xh3takgNki",
-      "published": "2026-11-01T11:09:28+08:00",
-      "genre": "新闻动态"
+      "id": "af038c43e97ec09802b97",
+      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
+      "published": "2026-10-26 10:24:24",
+      "genre": "分析评论"
     },
     {
       "id": "a17e3fc947e439be64a37",
@@ -600,11 +600,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a176b549520d6c229e8e1",
-      "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095461804_123753",
-      "published": "2026-10-31 18:50",
+      "id": "a1019352e3220700e5956",
+      "title": "明清时期徽州谱牒的编修、防伪与秩序维护",
+      "source": "善本古籍",
+      "url": "https://www.sohu.com/a/1095473727_562249",
+      "published": "2026-10-31 20:00",
       "genre": "历史故事"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afb836e26824c03d2d692",
-      "title": "经济日报：“养砖头”为什么戳中年轻人？",
-      "source": "经济日报",
-      "url": "https://news.ifeng.com/c/8xWrc52Hvcf",
-      "published": "2026-10-26T06:59:00+08:00",
+      "id": "aa9664448d2a1533acc1f",
+      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
+      "source": "凤凰大参考",
+      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
+      "published": "2026-10-26T17:26:45+08:00",
       "genre": "分析评论"
     },
     {
@@ -632,11 +632,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a97e5f760b4f41938501a",
-      "title": "日本民间团体参访七三一部队罪证馆 有识之士：日政府应正视历史",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1095449258_119038",
-      "published": "2026-10-31 17:45",
+      "id": "a176b549520d6c229e8e1",
+      "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095461804_123753",
+      "published": "2026-10-31 18:50",
       "genre": "历史故事"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae32cd79052e0311ce995",
-      "title": "中国载人登月工程采用“两次发射、环月对接”方案",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xgM1he2lQG",
-      "published": "2026-11-01T00:18:47+08:00",
+      "id": "a736ec3c54fe9fbefda91",
+      "title": "选举冲刺，美国政坛因为这张南瓜图吵翻了",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xhDUaoS5wz",
+      "published": "2026-11-01T12:51:38+08:00",
       "genre": "新闻动态"
     },
     {
@@ -664,11 +664,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a376cdf7d9bae3dd4b827",
-      "title": "算法“投毒”，篡改不了历史罪责",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095403233_123753",
-      "published": "2026-10-31 15:01",
+      "id": "a97e5f760b4f41938501a",
+      "title": "日本民间团体参访七三一部队罪证馆 有识之士：日政府应正视历史",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1095449258_119038",
+      "published": "2026-10-31 17:45",
       "genre": "历史故事"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aee1d0714e046e11a0f96",
-      "title": "中国最新亮出载人登月方案，美国却在冲刺中岔气",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xgIJ8fTXEM",
-      "published": "2026-10-31T23:42:46+08:00",
+      "id": "ade1c3f0954cc189a1a71",
+      "title": "抗议持续，总统和法官上演“全武行”…波兰总理发表电视讲话",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xh6usvmVF3",
+      "published": "2026-11-01T11:15:24+08:00",
       "genre": "新闻动态"
     },
     {
@@ -696,11 +696,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "aa5d6c83205c39051abdc",
-      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
+      "id": "a376cdf7d9bae3dd4b827",
+      "title": "算法“投毒”，篡改不了历史罪责",
       "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095273778_123753",
-      "published": "2026-10-31 09:33",
+      "url": "https://www.sohu.com/a/1095403233_123753",
+      "published": "2026-10-31 15:01",
       "genre": "历史故事"
     },
     {
@@ -712,27 +712,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad2982d76296157831d4c",
-      "title": "伊朗外长：美国来信是一个积极的举措",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xg7Zey6FX4",
-      "published": "2026-10-31T21:05:56+08:00",
+      "id": "ae319ef8f88e6af1ce33b",
+      "title": "波兰宪政危机会影响俄乌局势吗？国际问题专家：要看中长期",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xh3takgNki",
+      "published": "2026-11-01T11:09:28+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "afb85271064e3f15adbe8",
-      "title": "美军计划增购F-35战机，“十年大单”意味什么",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xcz5Nrc1eJ",
-      "published": "2026-10-29T23:03:48+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "acd47065c4bcebbdfdd30",
-      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095235634_260616",
-      "published": "2026-10-31 07:02",
+      "id": "aa5d6c83205c39051abdc",
+      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095273778_123753",
+      "published": "2026-10-31 09:33",
       "genre": "历史故事"
     },
     {
@@ -744,11 +736,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a18f5945632bdc0449309",
-      "title": "东西问｜麦田“守望者”归来：千年宋陵石首从澳大利亚回家",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095133940_123753",
-      "published": "2026-10-30 23:56",
+      "id": "acd47065c4bcebbdfdd30",
+      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1095235634_260616",
+      "published": "2026-10-31 07:02",
       "genre": "历史故事"
     },
     {
@@ -760,11 +752,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a59cc118d7f28371b232d",
-      "title": "乐山堂藏宋元书画回归故里展出，嘉德巡展致敬收藏家",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095091529_260616",
-      "published": "2026-10-30 20:28",
+      "id": "a18f5945632bdc0449309",
+      "title": "东西问｜麦田“守望者”归来：千年宋陵石首从澳大利亚回家",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095133940_123753",
+      "published": "2026-10-30 23:56",
       "genre": "历史故事"
     },
     {
@@ -776,11 +768,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad076bad9f5d4272154f3",
-      "title": "陈向盈评《侯景之乱》｜南风不竞：乱世群像与历史传记的写法",
+      "id": "a59cc118d7f28371b232d",
+      "title": "乐山堂藏宋元书画回归故里展出，嘉德巡展致敬收藏家",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1094853964_260616",
-      "published": "2026-10-30 12:23",
+      "url": "https://www.sohu.com/a/1095091529_260616",
+      "published": "2026-10-30 20:28",
       "genre": "历史故事"
     },
     {
@@ -792,11 +784,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8a3ef54f9f622de27958",
-      "title": "跨海论汉｜马瑞诗：把河流看作伙伴，重新认识黄河",
+      "id": "ad076bad9f5d4272154f3",
+      "title": "陈向盈评《侯景之乱》｜南风不竞：乱世群像与历史传记的写法",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1094698457_260616",
-      "published": "2026-10-30 06:43",
+      "url": "https://www.sohu.com/a/1094853964_260616",
+      "published": "2026-10-30 12:23",
       "genre": "历史故事"
     },
     {
@@ -806,6 +798,14 @@
       "url": "https://www.sohu.com/a/1089884886_536079",
       "published": "2026-10-20 00:45",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a8a3ef54f9f622de27958",
+      "title": "跨海论汉｜马瑞诗：把河流看作伙伴，重新认识黄河",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1094698457_260616",
+      "published": "2026-10-30 06:43",
+      "genre": "历史故事"
     }
   ]
 }
