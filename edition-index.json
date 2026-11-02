@@ -1,10 +1,10 @@
 {
-  "revision": "e20bd233cf5b78445102b779",
+  "revision": "99951ac78780df623a9726aa",
   "channels": {
-    "news": 25,
+    "news": 23,
     "military": 23,
-    "history": 26,
-    "culture": 26
+    "history": 27,
+    "culture": 27
   },
   "articles": [
     {
@@ -392,12 +392,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a13d3b4a9b98985e12b02",
-      "title": "美媒：中国正成为西方学习如何制造畅销电动车的地方",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xZOWj27rZr",
-      "published": "2026-10-27T19:45:50+08:00",
-      "genre": "分析评论"
+      "id": "a9ba4d1cf36f9c8b2bbeb",
+      "title": "冰箱变烤箱，欧洲多国超市冷柜再遭网络攻击",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xjYSvrVF37",
+      "published": "2026-11-02T21:52:55+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a5e8edf3bf55fc726745f",
@@ -424,12 +424,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a01dd43e0e8d5780b5627",
-      "title": "彼得·沃克：走访94个中国家庭后，我找到了中国经济背后的文化关键",
+      "id": "a391df0d1375279810615",
+      "title": "特朗普抨击美国蓝州：想象一下，你儿子蒂姆出门4天，回家变“莎莉”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/PeterWalker/2026_10_27_905543_s.shtml",
-      "published": "2026-10-27 08:21:00",
-      "genre": "分析评论"
+      "url": "https://news.ifeng.com/c/8xjU3aOZT4T",
+      "published": "2026-11-02T21:36:33+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a217fd601f0604baab7b7",
@@ -456,11 +456,11 @@
       "genre": "作品解读"
     },
     {
-      "id": "a88d47143493c86b7693f",
-      "title": "狄薇薇：这个特殊的90周年，我在美国看完了《党的女儿》",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/diweiwei/2026_11_02_906434_s.shtml",
-      "published": "2026-11-02 08:08:14",
+      "id": "ac6568703d3bbd1d77c27",
+      "title": "波兰总理喊话总统“不要强硬对抗”",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xjOTpFPiEj",
+      "published": "2026-11-02T20:36:42+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a58142a1e21a8291f8d09",
-      "title": "伊朗外长：未与美国直接会谈，间接磋商取得进展",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xio4s6w8rr",
-      "published": "2026-11-02T11:57:12+08:00",
+      "id": "a3be570d96a876188b887",
+      "title": "总统和总理，“打起来了”",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xjMEhQvU1G",
+      "published": "2026-11-02T19:51:50+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,12 +520,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad10dbf08915c74410b6f",
-      "title": "刑释后首次踏足内地，前壹传媒总裁张剑虹答凤凰：作为中国人很骄傲",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xifpg1MP28",
-      "published": "2026-11-02T11:06:51+08:00",
-      "genre": "新闻动态"
+      "id": "a13d3b4a9b98985e12b02",
+      "title": "美媒：中国正成为西方学习如何制造畅销电动车的地方",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xZOWj27rZr",
+      "published": "2026-10-27T19:45:50+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "ae6bcfae5717b1dd1c819",
@@ -536,11 +536,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a09f3ad43850b8de393b7",
-      "title": "11月人文社科中文原创好书榜｜身体与命运：明代的相术",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095887357_260616",
-      "published": "2026-11-02 06:45",
+      "id": "a50c2d9f7260086903db7",
+      "title": "波罗的海三国：一个想退群，一个受气包，一个暴脾气",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1096179001_100140957",
+      "published": "2026-11-02 17:02",
       "genre": "历史故事"
     },
     {
@@ -552,12 +552,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad42f5be4d8ec3a93d039",
-      "title": "美国民主党内讧炸锅！舒默怒斥：卑劣的背叛",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xiRL9mi78S",
-      "published": "2026-11-02T07:00:59+08:00",
-      "genre": "新闻动态"
+      "id": "a01dd43e0e8d5780b5627",
+      "title": "彼得·沃克：走访94个中国家庭后，我找到了中国经济背后的文化关键",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/PeterWalker/2026_10_27_905543_s.shtml",
+      "published": "2026-10-27 08:21:00",
+      "genre": "分析评论"
     },
     {
       "id": "a1646797895fa1f762f25",
@@ -568,11 +568,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a59c89925556e3ede69df",
-      "title": "原创 德国再次统一后，为何定都原东德首都柏林？",
-      "source": "地图帝",
-      "url": "https://www.sohu.com/a/1095795470_353978",
-      "published": "2026-11-01 21:54",
+      "id": "a75d861b902ea60fc90ff",
+      "title": "瞭望·随笔 | 江村三农之变",
+      "source": "新华社",
+      "url": "https://www.sohu.com/a/1096152135_267106",
+      "published": "2026-11-02 16:33",
       "genre": "历史故事"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6cad01fafcd6e421ad6f",
-      "title": "苏丹向联合国提出申诉，指控埃塞俄比亚实施“侵略”",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xiSD9XWc4p",
-      "published": "2026-11-02T06:01:23+08:00",
+      "id": "a88d47143493c86b7693f",
+      "title": "狄薇薇：这个特殊的90周年，我在美国看完了《党的女儿》",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/diweiwei/2026_11_02_906434_s.shtml",
+      "published": "2026-11-02 08:08:14",
       "genre": "新闻动态"
     },
     {
@@ -600,11 +600,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a4bb56abb80f2693bf939",
-      "title": "在博物馆展出54年后，一具巨型恐龙骨架模型为何“换头”",
+      "id": "a09f3ad43850b8de393b7",
+      "title": "11月人文社科中文原创好书榜｜身体与命运：明代的相术",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095792370_260616",
-      "published": "2026-11-01 21:16",
+      "url": "https://www.sohu.com/a/1095887357_260616",
+      "published": "2026-11-02 06:45",
       "genre": "历史故事"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3b8baf1f03adbcbdaace",
-      "title": "美国民主党众议员公开支持共和党候选人",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xi8HZF6AFR",
-      "published": "2026-11-02T01:55:36+08:00",
+      "id": "a58142a1e21a8291f8d09",
+      "title": "伊朗外长：未与美国直接会谈，间接磋商取得进展",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xio4s6w8rr",
+      "published": "2026-11-02T11:57:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -632,11 +632,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a1019352e3220700e5956",
-      "title": "明清时期徽州谱牒的编修、防伪与秩序维护",
-      "source": "善本古籍",
-      "url": "https://www.sohu.com/a/1095473727_562249",
-      "published": "2026-10-31 20:00",
+      "id": "a59c89925556e3ede69df",
+      "title": "原创 德国再次统一后，为何定都原东德首都柏林？",
+      "source": "地图帝",
+      "url": "https://www.sohu.com/a/1095795470_353978",
+      "published": "2026-11-01 21:54",
       "genre": "历史故事"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad122fe6d42ca9de0db46",
-      "title": "美国初创公司计划发射5万颗卫星“照亮地球”，引发巨大争议",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xhfWuADcy4",
-      "published": "2026-11-01T19:25:35+08:00",
+      "id": "ad10dbf08915c74410b6f",
+      "title": "刑释后首次踏足内地，前壹传媒总裁张剑虹答凤凰：作为中国人很骄傲",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xifpg1MP28",
+      "published": "2026-11-02T11:06:51+08:00",
       "genre": "新闻动态"
     },
     {
@@ -664,11 +664,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a176b549520d6c229e8e1",
-      "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095461804_123753",
-      "published": "2026-10-31 18:50",
+      "id": "a4bb56abb80f2693bf939",
+      "title": "在博物馆展出54年后，一具巨型恐龙骨架模型为何“换头”",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1095792370_260616",
+      "published": "2026-11-01 21:16",
       "genre": "历史故事"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ada304fdbe10f0b65932b",
-      "title": "如果泽连斯基打来电话，普京是否会接听？俄总统助理回应",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xhfWuADcvK",
-      "published": "2026-11-01T19:23:07+08:00",
+      "id": "ad42f5be4d8ec3a93d039",
+      "title": "美国民主党内讧炸锅！舒默怒斥：卑劣的背叛",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xiRL9mi78S",
+      "published": "2026-11-02T07:00:59+08:00",
       "genre": "新闻动态"
     },
     {
@@ -696,11 +696,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a97e5f760b4f41938501a",
-      "title": "日本民间团体参访七三一部队罪证馆 有识之士：日政府应正视历史",
-      "source": "中国青年网",
-      "url": "https://www.sohu.com/a/1095449258_119038",
-      "published": "2026-10-31 17:45",
+      "id": "a1019352e3220700e5956",
+      "title": "明清时期徽州谱牒的编修、防伪与秩序维护",
+      "source": "善本古籍",
+      "url": "https://www.sohu.com/a/1095473727_562249",
+      "published": "2026-10-31 20:00",
       "genre": "历史故事"
     },
     {
@@ -712,11 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0590f53e67b9acf72f3c",
-      "title": "默茨亚洲行碰了钉子，走得灰溜溜的",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xhcFyur2E4",
-      "published": "2026-11-01T18:38:05+08:00",
+      "id": "a6cad01fafcd6e421ad6f",
+      "title": "苏丹向联合国提出申诉，指控埃塞俄比亚实施“侵略”",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xiSD9XWc4p",
+      "published": "2026-11-02T06:01:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -728,11 +728,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a376cdf7d9bae3dd4b827",
-      "title": "算法“投毒”，篡改不了历史罪责",
+      "id": "a176b549520d6c229e8e1",
+      "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
       "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095403233_123753",
-      "published": "2026-10-31 15:01",
+      "url": "https://www.sohu.com/a/1095461804_123753",
+      "published": "2026-10-31 18:50",
       "genre": "历史故事"
     },
     {
@@ -744,19 +744,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af038c43e97ec09802b97",
-      "title": "安东·尼尔曼：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/AntonNeeleman/2026_10_26_905781_s.shtml",
-      "published": "2026-10-26 10:24:24",
-      "genre": "分析评论"
-    },
-    {
-      "id": "aa5d6c83205c39051abdc",
-      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095273778_123753",
-      "published": "2026-10-31 09:33",
+      "id": "a97e5f760b4f41938501a",
+      "title": "日本民间团体参访七三一部队罪证馆 有识之士：日政府应正视历史",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1095449258_119038",
+      "published": "2026-10-31 17:45",
       "genre": "历史故事"
     },
     {
@@ -768,19 +760,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa9664448d2a1533acc1f",
-      "title": "卢拉连任，对手“未败”：中国如何面对更加分裂的巴西？",
-      "source": "凤凰大参考",
-      "url": "https://original.ifeng.com/c/8xXYzFqLt5a",
-      "published": "2026-10-26T17:26:45+08:00",
-      "genre": "分析评论"
-    },
-    {
-      "id": "acd47065c4bcebbdfdd30",
-      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095235634_260616",
-      "published": "2026-10-31 07:02",
+      "id": "a376cdf7d9bae3dd4b827",
+      "title": "算法“投毒”，篡改不了历史罪责",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1095403233_123753",
+      "published": "2026-10-31 15:01",
       "genre": "历史故事"
     },
     {
@@ -792,11 +776,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a18f5945632bdc0449309",
-      "title": "东西问｜麦田“守望者”归来：千年宋陵石首从澳大利亚回家",
+      "id": "aa5d6c83205c39051abdc",
+      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
       "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1095133940_123753",
-      "published": "2026-10-30 23:56",
+      "url": "https://www.sohu.com/a/1095273778_123753",
+      "published": "2026-10-31 09:33",
       "genre": "历史故事"
     },
     {
@@ -805,6 +789,22 @@
       "source": "扒小妹儿",
       "url": "https://www.sohu.com/a/1090000180_356941",
       "published": "2026-10-21 08:14",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "acd47065c4bcebbdfdd30",
+      "title": "达里奥·卡斯蒂廖内谈“剑桥学派”之后：思想史研究的路径与可能",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1095235634_260616",
+      "published": "2026-10-31 07:02",
+      "genre": "历史故事"
+    },
+    {
+      "id": "afbe58853559e7f02627c",
+      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1034545965_100289291",
+      "published": "2026-06-11 11:53",
       "genre": "人物与往事"
     }
   ]
