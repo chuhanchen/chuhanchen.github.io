@@ -1,18 +1,18 @@
 {
-  "revision": "aef139e4b393a8811f97a0b6",
+  "revision": "2dd64906a2a7e6ad3347d27b",
   "channels": {
-    "news": 26,
-    "military": 24,
+    "news": 25,
+    "military": 25,
     "history": 25,
     "culture": 25
   },
   "articles": [
     {
-      "id": "a4967e6144ae3777c1f66",
-      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "id": "a81b9781fe7bae609d74c",
+      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
-      "published": "2026-11-04 07:52:46",
+      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
+      "published": "2026-11-04 11:46:52",
       "genre": "分析评论"
     },
     {
@@ -32,19 +32,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a773b384317bc249a85cd",
-      "title": "原创 导演江小鱼去世！他离婚后娶韩国妻子，母亲20多天前离世",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1096559883_120617247",
-      "published": "2026-11-03 14:21",
+      "id": "a47b9e7ee7577fc0a31aa",
+      "title": "女友和“丈母娘”都是演员，婚恋骗局3年套走10人140万",
+      "source": "封面新闻",
+      "url": "https://news.ifeng.com/c/8xmOPh4epGP",
+      "published": "2026-11-04T15:29:51+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a0cda7d1b4d47b3b51725",
-      "title": "挪威教授格林·迪森：在中国，人人都谈合作共赢；在欧洲，领导人满嘴都是战争",
+      "id": "a57256430153ab84a25eb",
+      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GlennDiesen/2026_11_03_906226_s.shtml",
-      "published": "2026-11-03 08:43:05",
+      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
+      "published": "2026-11-04 09:40:10",
       "genre": "分析评论"
     },
     {
@@ -64,19 +64,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ab70e07e008f16865c0e8",
-      "title": "为什么“黄胖子”找不到合适演员",
-      "source": "人民日报",
-      "url": "https://news.ifeng.com/c/8xkFh5PFMD1",
-      "published": "2026-11-03T08:26:00+08:00",
+      "id": "a87363b162480242a1c9e",
+      "title": "原创 44岁超女纪敏佳近况曝光！低调结婚生下一子，如今婚姻生活很幸福",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1096753342_120695645",
+      "published": "2026-11-04 07:20",
       "genre": "人物与往事"
     },
     {
-      "id": "a4ae8a12bba3a65f0c5a6",
-      "title": "唐驳虎：中期选举的参院之争，将如何影响美国未来二十年？",
-      "source": "唐驳虎",
-      "url": "https://original.ifeng.com/c/8xkWLGiy7hJ",
-      "published": "2026-11-03T12:58:41+08:00",
+      "id": "a4967e6144ae3777c1f66",
+      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
+      "published": "2026-11-04 07:52:46",
       "genre": "分析评论"
     },
     {
@@ -96,19 +96,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "aeb696fc73c34f4c212bd",
-      "title": "原创 《家有儿女》中的穿帮镜头，连三岁小孩都骗不过，导演你太离谱了",
-      "source": "小布点娱乐",
-      "url": "https://www.sohu.com/a/1096192849_120020376",
-      "published": "2026-11-02 17:49",
+      "id": "a773b384317bc249a85cd",
+      "title": "原创 导演江小鱼去世！他离婚后娶韩国妻子，母亲20多天前离世",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1096559883_120617247",
+      "published": "2026-11-03 14:21",
       "genre": "人物与往事"
     },
     {
-      "id": "ae6766d22a3fd972b2e23",
-      "title": "这次美国中期选举，最有可能易手的11个参议院席位",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xkGGe4GejA",
-      "published": "2026-11-03T09:09:27+08:00",
+      "id": "a0cda7d1b4d47b3b51725",
+      "title": "挪威教授格林·迪森：在中国，人人都谈合作共赢；在欧洲，领导人满嘴都是战争",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GlennDiesen/2026_11_03_906226_s.shtml",
+      "published": "2026-11-03 08:43:05",
       "genre": "分析评论"
     },
     {
@@ -128,19 +128,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a09135190a0a2b2634b4b",
-      "title": "原创 63岁刘金山近况曝光！娶京胡演奏员沈红喜生下一女，如今婚姻很幸福",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1095796536_120695645",
-      "published": "2026-11-02 07:20",
+      "id": "ab70e07e008f16865c0e8",
+      "title": "为什么“黄胖子”找不到合适演员",
+      "source": "人民日报",
+      "url": "https://news.ifeng.com/c/8xkFh5PFMD1",
+      "published": "2026-11-03T08:26:00+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a0dbb73e207875a06efe5",
-      "title": "风声丨新加坡鼓励70岁再就业，对中国有什么启示？",
-      "source": "风声",
-      "url": "https://original.ifeng.com/c/8xkHx1aOmRP",
-      "published": "2026-11-03T08:28:51+08:00",
+      "id": "a4ae8a12bba3a65f0c5a6",
+      "title": "唐驳虎：中期选举的参院之争，将如何影响美国未来二十年？",
+      "source": "唐驳虎",
+      "url": "https://original.ifeng.com/c/8xkWLGiy7hJ",
+      "published": "2026-11-03T12:58:41+08:00",
       "genre": "分析评论"
     },
     {
@@ -160,19 +160,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3ba5a3409d2e457289bc",
-      "title": "女子离婚净身出户，解锁前夫旧手机发现其婚内给“第三者”转账200多万",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xaIz4LiGAy",
-      "published": "2026-10-28T08:40:35+08:00",
+      "id": "aeb696fc73c34f4c212bd",
+      "title": "原创 《家有儿女》中的穿帮镜头，连三岁小孩都骗不过，导演你太离谱了",
+      "source": "小布点娱乐",
+      "url": "https://www.sohu.com/a/1096192849_120020376",
+      "published": "2026-11-02 17:49",
       "genre": "人物与往事"
     },
     {
-      "id": "a343194495fe93ae56dc7",
-      "title": "对话费多罗娃：我被法国“社会性处决”，西方还有什么公信力可言？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_02_906671_s.shtml",
-      "published": "2026-11-02 12:39:55",
+      "id": "ae6766d22a3fd972b2e23",
+      "title": "这次美国中期选举，最有可能易手的11个参议院席位",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xkGGe4GejA",
+      "published": "2026-11-03T09:09:27+08:00",
       "genre": "分析评论"
     },
     {
@@ -192,19 +192,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a2d5dee89c9cc6734beb8",
-      "title": "为什么相声演员也接不住一声“杨老五”",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1093404944_260616",
-      "published": "2026-10-27 16:07",
+      "id": "a09135190a0a2b2634b4b",
+      "title": "原创 63岁刘金山近况曝光！娶京胡演奏员沈红喜生下一女，如今婚姻很幸福",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1095796536_120695645",
+      "published": "2026-11-02 07:20",
       "genre": "人物与往事"
     },
     {
-      "id": "a87ce6542289ba37b8654",
-      "title": "“我被法国‘社会性处决’，西方还有何公信力可言？”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xisEv46Ppn",
-      "published": "2026-11-02T12:39:55+08:00",
+      "id": "a0dbb73e207875a06efe5",
+      "title": "风声丨新加坡鼓励70岁再就业，对中国有什么启示？",
+      "source": "风声",
+      "url": "https://original.ifeng.com/c/8xkHx1aOmRP",
+      "published": "2026-11-03T08:28:51+08:00",
       "genre": "分析评论"
     },
     {
@@ -224,19 +224,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad0aeac555b990bb346c0",
-      "title": "原创 朱明瑛离婚至今单身！前夫再婚，她与妹妹妹夫的关系疏远了",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1093189797_120617247",
-      "published": "2026-10-27 09:32",
+      "id": "a3ba5a3409d2e457289bc",
+      "title": "女子离婚净身出户，解锁前夫旧手机发现其婚内给“第三者”转账200多万",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xaIz4LiGAy",
+      "published": "2026-10-28T08:40:35+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a08f2e5b646336c65bc03",
-      "title": "波兰总理和总统爆发新冲突，他们背后都站着谁？",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xinDtMDk8L",
-      "published": "2026-11-02T11:46:32+08:00",
+      "id": "a343194495fe93ae56dc7",
+      "title": "对话费多罗娃：我被法国“社会性处决”，西方还有什么公信力可言？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_02_906671_s.shtml",
+      "published": "2026-11-02 12:39:55",
       "genre": "分析评论"
     },
     {
@@ -256,19 +256,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a2754c3c6f4c3eb73a9c1",
-      "title": "原创 姻缘天注定！吴琼与阮巡结婚前，差点与央视名导走进婚姻",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1092662093_120617247",
-      "published": "2026-10-26 07:07",
+      "id": "a2d5dee89c9cc6734beb8",
+      "title": "为什么相声演员也接不住一声“杨老五”",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1093404944_260616",
+      "published": "2026-10-27 16:07",
       "genre": "人物与往事"
     },
     {
-      "id": "a64cc8a43775a45f2615b",
-      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
+      "id": "a87ce6542289ba37b8654",
+      "title": "“我被法国‘社会性处决’，西方还有何公信力可言？”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xhkPzKw2H6",
-      "published": "2026-11-01T20:19:54+08:00",
+      "url": "https://news.ifeng.com/c/8xisEv46Ppn",
+      "published": "2026-11-02T12:39:55+08:00",
       "genre": "分析评论"
     },
     {
@@ -288,19 +288,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a5c4be69404555c55cdfd",
-      "title": "结识5个月闪婚，娶美国媳妇的外卖小哥准备离婚，称原因是文化差异，不存在虚假婚姻",
-      "source": "封面新闻",
-      "url": "https://www.sohu.com/a/1091885027_120952561",
-      "published": "2026-10-23 22:28",
+      "id": "ad0aeac555b990bb346c0",
+      "title": "原创 朱明瑛离婚至今单身！前夫再婚，她与妹妹妹夫的关系疏远了",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1093189797_120617247",
+      "published": "2026-10-27 09:32",
       "genre": "人物与往事"
     },
     {
-      "id": "a84e6112bdbfc14c44573",
-      "title": "给高市政府献礼的反华剧《别班》，为何这么好笑？",
-      "source": "新潮沉思录",
-      "url": "https://news.ifeng.com/c/8xgAHgxtOHE",
-      "published": "2026-10-31T21:33:42+08:00",
+      "id": "a08f2e5b646336c65bc03",
+      "title": "波兰总理和总统爆发新冲突，他们背后都站着谁？",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xinDtMDk8L",
+      "published": "2026-11-02T11:46:32+08:00",
       "genre": "分析评论"
     },
     {
@@ -320,19 +320,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a85ded9fa4d33e6b10027",
-      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
-      "published": "2026-10-23 08:14:02",
+      "id": "a2754c3c6f4c3eb73a9c1",
+      "title": "原创 姻缘天注定！吴琼与阮巡结婚前，差点与央视名导走进婚姻",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1092662093_120617247",
+      "published": "2026-10-26 07:07",
       "genre": "人物与往事"
     },
     {
-      "id": "adbcbfe1015906d82c271",
-      "title": "贾斯敏·皮尔登：“等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”",
+      "id": "a64cc8a43775a45f2615b",
+      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/JasminePeardon/2026_10_31_906302_s.shtml",
-      "published": "2026-10-31 08:26:12",
+      "url": "https://news.ifeng.com/c/8xhkPzKw2H6",
+      "published": "2026-11-01T20:19:54+08:00",
       "genre": "分析评论"
     },
     {
@@ -352,19 +352,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af2b8fdb33b08b61a364e",
-      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
-      "source": "在人间",
-      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
-      "published": "2026-10-22T18:16:13+08:00",
+      "id": "a5c4be69404555c55cdfd",
+      "title": "结识5个月闪婚，娶美国媳妇的外卖小哥准备离婚，称原因是文化差异，不存在虚假婚姻",
+      "source": "封面新闻",
+      "url": "https://www.sohu.com/a/1091885027_120952561",
+      "published": "2026-10-23 22:28",
       "genre": "人物与往事"
     },
     {
-      "id": "a8de8496b263888e4570a",
-      "title": "欧洲在自杀：为什么欧洲天真认为引入第三世界的移民难民会让他们更好？",
-      "source": "中美学者智库",
-      "url": "https://news.ifeng.com/c/8xf8OosKzXu",
-      "published": "2026-10-31T06:34:46+08:00",
+      "id": "a84e6112bdbfc14c44573",
+      "title": "给高市政府献礼的反华剧《别班》，为何这么好笑？",
+      "source": "新潮沉思录",
+      "url": "https://news.ifeng.com/c/8xgAHgxtOHE",
+      "published": "2026-10-31T21:33:42+08:00",
       "genre": "分析评论"
     },
     {
@@ -384,19 +384,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3a65a8d03704a6e920c8",
-      "title": "传奇演员，突然去世",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
-      "published": "2026-10-21T12:20:26+08:00",
+      "id": "a85ded9fa4d33e6b10027",
+      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
+      "published": "2026-10-23 08:14:02",
       "genre": "人物与往事"
     },
     {
-      "id": "ae402492d9f7f6a123de8",
-      "title": "对话孟维瞻：“民主社会主义”崛起，能撬动美国对华政策吗？",
+      "id": "adbcbfe1015906d82c271",
+      "title": "贾斯敏·皮尔登：“等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/mengweizhan/2026_10_30_906127_s.shtml",
-      "published": "2026-10-30 13:07:14",
+      "url": "https://www.guancha.cn/JasminePeardon/2026_10_31_906302_s.shtml",
+      "published": "2026-10-31 08:26:12",
       "genre": "分析评论"
     },
     {
@@ -416,19 +416,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad4b1f4ad739877881533",
-      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
-      "published": "2026-10-21T01:03:15+08:00",
+      "id": "af2b8fdb33b08b61a364e",
+      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
+      "source": "在人间",
+      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
+      "published": "2026-10-22T18:16:13+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a260f327fb1989cdc17bd",
-      "title": "美国食品价格居高不下，谁在闷声发财？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/guanshiyin/2026_10_30_905963_s.shtml",
-      "published": "2026-10-30 08:59:14",
+      "id": "a8de8496b263888e4570a",
+      "title": "欧洲在自杀：为什么欧洲天真认为引入第三世界的移民难民会让他们更好？",
+      "source": "中美学者智库",
+      "url": "https://news.ifeng.com/c/8xf8OosKzXu",
+      "published": "2026-10-31T06:34:46+08:00",
       "genre": "分析评论"
     },
     {
@@ -448,6 +448,70 @@
       "genre": "历史故事"
     },
     {
+      "id": "a3a65a8d03704a6e920c8",
+      "title": "传奇演员，突然去世",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
+      "published": "2026-10-21T12:20:26+08:00",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "ae402492d9f7f6a123de8",
+      "title": "对话孟维瞻：“民主社会主义”崛起，能撬动美国对华政策吗？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/mengweizhan/2026_10_30_906127_s.shtml",
+      "published": "2026-10-30 13:07:14",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a4875e3e4980601415bcd",
+      "title": "法国寻求第二艘8万吨级核航母，所有配套舰队全部简配",
+      "source": "兵器肖宁",
+      "url": "https://mil.ifeng.com/c/8xlydc1ofIv",
+      "published": "2026-11-04T10:04:56+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "ad22d16b86765e961a23e",
+      "title": "原创 为什么邓小平剃光头站最左、42岁林彪居中破例举杯？邓榕回忆称二人无私人交往，傅高义直言：林彪是邓小平唯一没有往来的元帅",
+      "source": "国际小表妹",
+      "url": "https://www.sohu.com/a/1095251556_122615833",
+      "published": "2026-10-31 08:08",
+      "genre": "历史故事"
+    },
+    {
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a260f327fb1989cdc17bd",
+      "title": "美国食品价格居高不下，谁在闷声发财？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_30_905963_s.shtml",
+      "published": "2026-10-30 08:59:14",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a99f68a1fb7e6eb5d984d",
+      "title": "巴基斯坦成功试射首枚国产“胜利者”空对空导弹",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xlwM1ugLCP",
+      "published": "2026-11-04T09:16:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a8ca724aedd5c59e2a9f0",
+      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1090281990_161795",
+      "published": "2026-10-20 18:26",
+      "genre": "历史故事"
+    },
+    {
       "id": "a6f7b642122aca20482ed",
       "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
       "source": "娱乐一人行",
@@ -464,75 +528,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a57965258f977c4cbf394",
-      "title": "特朗普宣布切断对以军事援助，“因为他们不需要”",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xl95X6JqPi",
-      "published": "2026-11-03T21:44:23+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "ad22d16b86765e961a23e",
-      "title": "原创 为什么邓小平剃光头站最左、42岁林彪居中破例举杯？邓榕回忆称二人无私人交往，傅高义直言：林彪是邓小平唯一没有往来的元帅",
-      "source": "国际小表妹",
-      "url": "https://www.sohu.com/a/1095251556_122615833",
-      "published": "2026-10-31 08:08",
-      "genre": "历史故事"
-    },
-    {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a608d134fe6629c868690",
-      "title": "特朗普小女儿海湖庄园“炫富”，惹怒美国民众，我们连油都加不起",
-      "source": "译言网",
-      "url": "https://news.ifeng.com/c/8xlqlo2dH2r",
-      "published": "2026-11-04T07:48:17+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a8383d18e2fa734c2ddef",
-      "title": "伊朗格什姆岛传出爆炸声，美方称摧毁伊朗导弹发射器",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xkPmEsLm7w",
-      "published": "2026-11-03T10:54:59+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a8ca724aedd5c59e2a9f0",
-      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1090281990_161795",
-      "published": "2026-10-20 18:26",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
-    },
-    {
-      "id": "ac7d59015b1a604cf1550",
-      "title": "“美国犯愁：想要韩企来建厂，得先给涉华业务开绿灯”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xloXF3hGcn",
-      "published": "2026-11-04T07:38:54+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a5e8edf3bf55fc726745f",
-      "title": "日本加快部署远程导弹，学者：此举已越过红线",
+      "id": "a8b4b65845cd246abdb16",
+      "title": "“志愿联盟”多国部队将举行首次军演，11国参加",
       "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xifytBhIP5",
-      "published": "2026-11-02T09:50:39+08:00",
+      "url": "https://mil.ifeng.com/c/8xkprqcM4n9",
+      "published": "2026-11-04T06:22:39+08:00",
       "genre": "新闻动态"
     },
     {
@@ -544,6 +544,70 @@
       "genre": "历史故事"
     },
     {
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a6ba274e24f0217cc27f7",
+      "title": "美国商界严阵以待，准备迎接民主党的调查风暴",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xmUnC0WuIe",
+      "published": "2026-11-04T17:16:53+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "ab75d48eeb8e8f8de7ad2",
+      "title": "伊朗俘获美军无人机，美军战机实施“防御性措施”",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xkdQgFH3oB",
+      "published": "2026-11-04T06:01:27+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a633303dec363491d8b7a",
+      "title": "艾恺：这个世界未必会更好，但我们仍可以努力｜专访",
+      "source": "新京报",
+      "url": "https://www.sohu.com/a/1097111439_114988",
+      "published": "2026-11-04 15:43",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
+    },
+    {
+      "id": "a5d2796d13e85de796a7b",
+      "title": "球迷扔鼓棒击中球员引发冲突，警方通报",
+      "source": "扬子晚报",
+      "url": "https://news.ifeng.com/c/8xmTtz6q7UR",
+      "published": "2026-11-04T16:50:02+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a57965258f977c4cbf394",
+      "title": "特朗普宣布切断对以军事援助，“因为他们不需要”",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xl95X6JqPi",
+      "published": "2026-11-03T21:44:23+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a53bdfdcf4cfeb9da1c3a",
+      "title": "渭州有鲁达，平凉无郑屠",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1096727977_121107011",
+      "published": "2026-11-03 20:56",
+      "genre": "历史故事"
+    },
+    {
       "id": "ae7345e7007ff2992e2b6",
       "title": "原创 伏明霞梁锦松晒全家福破24年婚变传闻，大女儿哈佛毕业，当初不被看好如今",
       "source": "戢勇讲游戏",
@@ -552,19 +616,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3f3c26119474bc9b456c",
-      "title": "美国中期选举：参议员民主党领袖舒默在纽约投票，多个州出状况",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xlnZSWBxEO",
-      "published": "2026-11-04T07:21:08+08:00",
+      "id": "a2ac9be4be2dd4e7376ec",
+      "title": "特朗普痛失参众两院，很多人还没看懂美国政治“翻烧饼”的本质",
+      "source": "文化纵横",
+      "url": "https://news.ifeng.com/c/8xmS30UjsAj",
+      "published": "2026-11-04T16:37:47+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a217fd601f0604baab7b7",
-      "title": "全球竞逐无人机航母，四川舰强在哪？",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xiXP7mwUZB",
-      "published": "2026-11-02T08:09:55+08:00",
+      "id": "a8383d18e2fa734c2ddef",
+      "title": "伊朗格什姆岛传出爆炸声，美方称摧毁伊朗导弹发射器",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xkPmEsLm7w",
+      "published": "2026-11-03T10:54:59+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,27 +648,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6bff68912d1189501c1e",
-      "title": "急了，美车企鼓动永久封禁中国车",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xlm7omEhia",
-      "published": "2026-11-04T06:57:05+08:00",
+      "id": "a0b66ca0353fef94dbb15",
+      "title": "民主党国会领袖：将查处特朗普政府腐败问题",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xmRlHJwdd3",
+      "published": "2026-11-04T16:34:41+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "acd82958c92811e0c44ee",
-      "title": "伊朗：已购买俄制苏-35战机，将在战后接收",
+      "id": "a5e8edf3bf55fc726745f",
+      "title": "日本加快部署远程导弹，学者：此举已越过红线",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xhsqEeBn5A",
-      "published": "2026-11-01T22:31:37+08:00",
+      "url": "https://mil.ifeng.com/c/8xifytBhIP5",
+      "published": "2026-11-02T09:50:39+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a9fbc0e5d4a1cb76ce202",
-      "title": "参考消息|一位美国老人的中国故乡",
-      "source": "新华社",
-      "url": "https://www.sohu.com/a/1096527983_267106",
-      "published": "2026-11-03 12:52",
+      "id": "a25ed50bd6e8ed2d074d6",
+      "title": "麦英豪与广州西村窑遗址",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1096660104_121107011",
+      "published": "2026-11-03 17:23",
       "genre": "历史故事"
     },
     {
@@ -616,27 +680,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a42c53ec54d8a9487bd7d",
-      "title": "韩国总统李在明及其他政府高官等168人护照信息遭泄，韩政府回应",
+      "id": "ae325de95b68cfb6073bf",
+      "title": "民主党为何能横扫美国参众两院，专家：原因有三个",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xmRq6xG2Tp",
+      "published": "2026-11-04T16:29:27+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a217fd601f0604baab7b7",
+      "title": "全球竞逐无人机航母，四川舰强在哪？",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xlm6Dr1tJW",
-      "published": "2026-11-04T06:56:31+08:00",
+      "url": "https://mil.ifeng.com/c/8xiXP7mwUZB",
+      "published": "2026-11-02T08:09:55+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a3ac6a8a2f3cfa8236ee5",
-      "title": "乌俄继续无人机互袭 泽连斯基再促欧美援助防空导弹",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xhlmVpb2hq",
-      "published": "2026-11-01T19:07:56+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a197a844ec1d187b30094",
-      "title": "长沙临时大学（一）：艰难的决定",
-      "source": "光合氧吧",
-      "url": "https://www.sohu.com/a/1093859240_120642749",
-      "published": "2026-11-03 09:00",
+      "id": "a9fbc0e5d4a1cb76ce202",
+      "title": "参考消息|一位美国老人的中国故乡",
+      "source": "新华社",
+      "url": "https://www.sohu.com/a/1096527983_267106",
+      "published": "2026-11-03 12:52",
       "genre": "历史故事"
     },
     {
@@ -648,27 +712,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4034213c1af5fdea9743",
-      "title": "伊朗军方提五项安全条件，议长：球在美国脚下",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xlmaYMhpFe",
-      "published": "2026-11-04T06:56:07+08:00",
+      "id": "a6ace44c6c3a6ffbac13c",
+      "title": "胡锡进：输掉中期选举后，中美关系仍将维持平稳",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xmO4RctnNr",
+      "published": "2026-11-04T15:39:07+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "ae6bcfae5717b1dd1c819",
-      "title": "美将向乌出售500枚“爱国者”导弹，泽连斯基发出警告",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xg566Uo1BF",
-      "published": "2026-10-31T20:50:12+08:00",
+      "id": "acd82958c92811e0c44ee",
+      "title": "伊朗：已购买俄制苏-35战机，将在战后接收",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xhsqEeBn5A",
+      "published": "2026-11-01T22:31:37+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a0f0083994e9dac98b134",
-      "title": "原创 徽商章恒升：兰溪酱业百年沉浮与家族传承",
-      "source": "宣城历史文化研究",
-      "url": "https://www.sohu.com/a/1096392919_99949262",
-      "published": "2026-11-03 08:55",
+      "id": "a197a844ec1d187b30094",
+      "title": "长沙临时大学（一）：艰难的决定",
+      "source": "光合氧吧",
+      "url": "https://www.sohu.com/a/1093859240_120642749",
+      "published": "2026-11-03 09:00",
       "genre": "历史故事"
     },
     {
@@ -680,27 +744,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a24d8faba839eef0ce311",
-      "title": "骚乱此起彼伏，欧洲“沉疴之源”在哪？",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xlm7omEhcf",
-      "published": "2026-11-04T06:38:55+08:00",
+      "id": "a608d134fe6629c868690",
+      "title": "特朗普小女儿海湖庄园“炫富”，惹怒美国民众，我们连油都加不起",
+      "source": "译言网",
+      "url": "https://news.ifeng.com/c/8xlqlo2dH2r",
+      "published": "2026-11-04T07:48:17+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a1646797895fa1f762f25",
-      "title": "马斯克，“接管”军队",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xfvvUwmKfP",
-      "published": "2026-10-31T16:47:21+08:00",
+      "id": "a3ac6a8a2f3cfa8236ee5",
+      "title": "乌俄继续无人机互袭 泽连斯基再促欧美援助防空导弹",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xhlmVpb2hq",
+      "published": "2026-11-01T19:07:56+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a50c2d9f7260086903db7",
-      "title": "波罗的海三国：一个想退群，一个受气包，一个暴脾气",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1096179001_100140957",
-      "published": "2026-11-02 17:02",
+      "id": "a0f0083994e9dac98b134",
+      "title": "原创 徽商章恒升：兰溪酱业百年沉浮与家族传承",
+      "source": "宣城历史文化研究",
+      "url": "https://www.sohu.com/a/1096392919_99949262",
+      "published": "2026-11-03 08:55",
       "genre": "历史故事"
     },
     {
@@ -712,11 +776,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0f95f07690e885e7ed87",
-      "title": "美国中期选举开启投票，亚太盟友各有各的愁",
+      "id": "ac7d59015b1a604cf1550",
+      "title": "“美国犯愁：想要韩企来建厂，得先给涉华业务开绿灯”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xlDKVTaSh5",
-      "published": "2026-11-03T22:46:40+08:00",
+      "url": "https://news.ifeng.com/c/8xloXF3hGcn",
+      "published": "2026-11-04T07:38:54+08:00",
       "genre": "新闻动态"
     },
     {
@@ -728,11 +792,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "ac82f64b461643cecec96",
-      "title": "丘吉尔：日本如果不是被原子弹炸过，日本这个国家可能就没有了！",
+      "id": "a50c2d9f7260086903db7",
+      "title": "波罗的海三国：一个想退群，一个受气包，一个暴脾气",
       "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1096167273_100140957",
-      "published": "2026-11-02 16:54",
+      "url": "https://www.sohu.com/a/1096179001_100140957",
+      "published": "2026-11-02 17:02",
       "genre": "历史故事"
     },
     {
@@ -742,70 +806,6 @@
       "url": "https://www.sohu.com/a/1093203352_356941",
       "published": "2026-10-28 00:00",
       "genre": "人物与往事"
-    },
-    {
-      "id": "a2adc53c75f8b1a49425f",
-      "title": "加税42.1%，日本钢企挡不住中国不锈钢",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xbFED7LXxt",
-      "published": "2026-10-28T22:32:19+08:00",
-      "genre": "分析评论"
-    },
-    {
-      "id": "af189912a8e6b692dccdc",
-      "title": "“攻击-21”在四川舰成功起降，解放军向无人机航母时代迈进",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xfCpieOdaL",
-      "published": "2026-10-31T06:34:00+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a75d861b902ea60fc90ff",
-      "title": "瞭望·随笔 | 江村三农之变",
-      "source": "新华社",
-      "url": "https://www.sohu.com/a/1096152135_267106",
-      "published": "2026-11-02 16:33",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a19b0bd7b2369324af838",
-      "title": "原创 47岁廖碧儿承认与70岁富商恋情，称年龄不是问题，还没有结婚计划",
-      "source": "肥猫吃娱",
-      "url": "https://www.sohu.com/a/1093017514_122655210",
-      "published": "2026-10-26 20:36",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a42366bc97d08fcf62a8c",
-      "title": "民调：中期选举前美国选民最关心的九件事",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xl5OJ0uCBP",
-      "published": "2026-11-03T21:03:12+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a09f3ad43850b8de393b7",
-      "title": "11月人文社科中文原创好书榜｜身体与命运：明代的相术",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1095887357_260616",
-      "published": "2026-11-02 06:45",
-      "genre": "历史故事"
-    },
-    {
-      "id": "af620c9a31436707ae389",
-      "title": "原创 65岁央视名嘴张宏民近况曝光！一生未婚没有孩子，如今退休独居北京让人唏嘘",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1092574287_120695645",
-      "published": "2026-10-26 08:00",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "af9d55915b53960ad1ca5",
-      "title": "狄薇薇：复盘梳理巴西总统选举背后的一些“有趣”小细节",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/diweiwei/2026_10_28_906003_s.shtml",
-      "published": "2026-10-28 07:56:02",
-      "genre": "分析评论"
     }
   ]
 }
