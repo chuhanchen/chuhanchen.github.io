@@ -1,5 +1,5 @@
 {
-  "revision": "1c9de3a146bdc5233241b984",
+  "revision": "24d2d5e2c04acf887e2e4330",
   "channels": {
     "news": 25,
     "military": 25,
@@ -8,11 +8,11 @@
   },
   "articles": [
     {
-      "id": "a4e81e94314b5415e3fae",
-      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
-      "source": "中央广播电视总台中国之声",
-      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
-      "published": "2026-11-04T22:41:36+08:00",
+      "id": "a3b20ccab8fd7912db381",
+      "title": "美国中期选举，对中国有何影响？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
+      "published": "2026-11-05 10:04:27",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a81b9781fe7bae609d74c",
-      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
+      "id": "a26b66aa12a82a8402bd5",
+      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
-      "published": "2026-11-04 11:46:52",
+      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
+      "published": "2026-11-05 13:25:31",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a57256430153ab84a25eb",
-      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
-      "published": "2026-11-04 09:40:10",
+      "id": "a4e81e94314b5415e3fae",
+      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
+      "source": "中央广播电视总台中国之声",
+      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
+      "published": "2026-11-04T22:41:36+08:00",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4967e6144ae3777c1f66",
-      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "id": "a81b9781fe7bae609d74c",
+      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
-      "published": "2026-11-04 07:52:46",
+      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
+      "published": "2026-11-04 11:46:52",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0cda7d1b4d47b3b51725",
-      "title": "挪威教授格林·迪森：在中国，人人都谈合作共赢；在欧洲，领导人满嘴都是战争",
+      "id": "a57256430153ab84a25eb",
+      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GlennDiesen/2026_11_03_906226_s.shtml",
-      "published": "2026-11-03 08:43:05",
+      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
+      "published": "2026-11-04 09:40:10",
       "genre": "分析评论"
     },
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4ae8a12bba3a65f0c5a6",
-      "title": "唐驳虎：中期选举的参院之争，将如何影响美国未来二十年？",
-      "source": "唐驳虎",
-      "url": "https://original.ifeng.com/c/8xkWLGiy7hJ",
-      "published": "2026-11-03T12:58:41+08:00",
+      "id": "a4967e6144ae3777c1f66",
+      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
+      "published": "2026-11-04 07:52:46",
       "genre": "分析评论"
     },
     {
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae6766d22a3fd972b2e23",
-      "title": "这次美国中期选举，最有可能易手的11个参议院席位",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xkGGe4GejA",
-      "published": "2026-11-03T09:09:27+08:00",
+      "id": "a0cda7d1b4d47b3b51725",
+      "title": "挪威教授格林·迪森：在中国，人人都谈合作共赢；在欧洲，领导人满嘴都是战争",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GlennDiesen/2026_11_03_906226_s.shtml",
+      "published": "2026-11-03 08:43:05",
       "genre": "分析评论"
     },
     {
@@ -232,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0dbb73e207875a06efe5",
-      "title": "风声丨新加坡鼓励70岁再就业，对中国有什么启示？",
-      "source": "风声",
-      "url": "https://original.ifeng.com/c/8xkHx1aOmRP",
-      "published": "2026-11-03T08:28:51+08:00",
+      "id": "a4ae8a12bba3a65f0c5a6",
+      "title": "唐驳虎：中期选举的参院之争，将如何影响美国未来二十年？",
+      "source": "唐驳虎",
+      "url": "https://original.ifeng.com/c/8xkWLGiy7hJ",
+      "published": "2026-11-03T12:58:41+08:00",
       "genre": "分析评论"
     },
     {
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a343194495fe93ae56dc7",
-      "title": "对话费多罗娃：我被法国“社会性处决”，西方还有什么公信力可言？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_02_906671_s.shtml",
-      "published": "2026-11-02 12:39:55",
+      "id": "ae6766d22a3fd972b2e23",
+      "title": "这次美国中期选举，最有可能易手的11个参议院席位",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xkGGe4GejA",
+      "published": "2026-11-03T09:09:27+08:00",
       "genre": "分析评论"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a87ce6542289ba37b8654",
-      "title": "“我被法国‘社会性处决’，西方还有何公信力可言？”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xisEv46Ppn",
-      "published": "2026-11-02T12:39:55+08:00",
+      "id": "a0dbb73e207875a06efe5",
+      "title": "风声丨新加坡鼓励70岁再就业，对中国有什么启示？",
+      "source": "风声",
+      "url": "https://original.ifeng.com/c/8xkHx1aOmRP",
+      "published": "2026-11-03T08:28:51+08:00",
       "genre": "分析评论"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a08f2e5b646336c65bc03",
-      "title": "波兰总理和总统爆发新冲突，他们背后都站着谁？",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xinDtMDk8L",
-      "published": "2026-11-02T11:46:32+08:00",
+      "id": "a343194495fe93ae56dc7",
+      "title": "对话费多罗娃：我被法国“社会性处决”，西方还有什么公信力可言？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_02_906671_s.shtml",
+      "published": "2026-11-02 12:39:55",
       "genre": "分析评论"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a64cc8a43775a45f2615b",
-      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
+      "id": "a87ce6542289ba37b8654",
+      "title": "“我被法国‘社会性处决’，西方还有何公信力可言？”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xhkPzKw2H6",
-      "published": "2026-11-01T20:19:54+08:00",
+      "url": "https://news.ifeng.com/c/8xisEv46Ppn",
+      "published": "2026-11-02T12:39:55+08:00",
       "genre": "分析评论"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a84e6112bdbfc14c44573",
-      "title": "给高市政府献礼的反华剧《别班》，为何这么好笑？",
-      "source": "新潮沉思录",
-      "url": "https://news.ifeng.com/c/8xgAHgxtOHE",
-      "published": "2026-10-31T21:33:42+08:00",
+      "id": "a08f2e5b646336c65bc03",
+      "title": "波兰总理和总统爆发新冲突，他们背后都站着谁？",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xinDtMDk8L",
+      "published": "2026-11-02T11:46:32+08:00",
       "genre": "分析评论"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adbcbfe1015906d82c271",
-      "title": "贾斯敏·皮尔登：“等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”",
+      "id": "a64cc8a43775a45f2615b",
+      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/JasminePeardon/2026_10_31_906302_s.shtml",
-      "published": "2026-10-31 08:26:12",
+      "url": "https://news.ifeng.com/c/8xhkPzKw2H6",
+      "published": "2026-11-01T20:19:54+08:00",
       "genre": "分析评论"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8de8496b263888e4570a",
-      "title": "欧洲在自杀：为什么欧洲天真认为引入第三世界的移民难民会让他们更好？",
-      "source": "中美学者智库",
-      "url": "https://news.ifeng.com/c/8xf8OosKzXu",
-      "published": "2026-10-31T06:34:46+08:00",
+      "id": "a84e6112bdbfc14c44573",
+      "title": "给高市政府献礼的反华剧《别班》，为何这么好笑？",
+      "source": "新潮沉思录",
+      "url": "https://news.ifeng.com/c/8xgAHgxtOHE",
+      "published": "2026-10-31T21:33:42+08:00",
       "genre": "分析评论"
     },
     {
@@ -488,19 +488,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae402492d9f7f6a123de8",
-      "title": "对话孟维瞻：“民主社会主义”崛起，能撬动美国对华政策吗？",
+      "id": "adbcbfe1015906d82c271",
+      "title": "贾斯敏·皮尔登：“等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/mengweizhan/2026_10_30_906127_s.shtml",
-      "published": "2026-10-30 13:07:14",
+      "url": "https://www.guancha.cn/JasminePeardon/2026_10_31_906302_s.shtml",
+      "published": "2026-10-31 08:26:12",
       "genre": "分析评论"
     },
     {
-      "id": "a4875e3e4980601415bcd",
-      "title": "法国寻求第二艘8万吨级核航母，所有配套舰队全部简配",
-      "source": "兵器肖宁",
-      "url": "https://mil.ifeng.com/c/8xlydc1ofIv",
-      "published": "2026-11-04T10:04:56+08:00",
+      "id": "a82e7d8c3f69a5c523781",
+      "title": "每年40亿美元军事援助将停止，特朗普：给以色列纯属浪费",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8xnmG2fvEwB",
+      "published": "2026-11-05T14:04:26+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,19 +520,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a260f327fb1989cdc17bd",
-      "title": "美国食品价格居高不下，谁在闷声发财？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/guanshiyin/2026_10_30_905963_s.shtml",
-      "published": "2026-10-30 08:59:14",
+      "id": "a8de8496b263888e4570a",
+      "title": "欧洲在自杀：为什么欧洲天真认为引入第三世界的移民难民会让他们更好？",
+      "source": "中美学者智库",
+      "url": "https://news.ifeng.com/c/8xf8OosKzXu",
+      "published": "2026-10-31T06:34:46+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "a99f68a1fb7e6eb5d984d",
-      "title": "巴基斯坦成功试射首枚国产“胜利者”空对空导弹",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xlwM1ugLCP",
-      "published": "2026-11-04T09:16:00+08:00",
+      "id": "af69521857e11ff121ed7",
+      "title": "德国防长：驻立陶宛装甲旅明年底前形成全面作战能力",
+      "source": "新黄河",
+      "url": "https://mil.ifeng.com/c/8xnUaaHawJN",
+      "published": "2026-11-05T07:25:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +552,75 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afa5c9abd9bde2ef55b19",
-      "title": "李希人民日报撰文：坚定走好中国特色反腐败之路",
-      "source": "人民日报",
-      "url": "https://news.ifeng.com/c/8xnPe7ophqD",
-      "published": "2026-11-05T06:40:33+08:00",
+      "id": "ae402492d9f7f6a123de8",
+      "title": "对话孟维瞻：“民主社会主义”崛起，能撬动美国对华政策吗？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/mengweizhan/2026_10_30_906127_s.shtml",
+      "published": "2026-10-30 13:07:14",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a4875e3e4980601415bcd",
+      "title": "法国寻求第二艘8万吨级核航母，所有配套舰队全部简配",
+      "source": "兵器肖宁",
+      "url": "https://mil.ifeng.com/c/8xlydc1ofIv",
+      "published": "2026-11-04T10:04:56+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "ab0efe8c913cd1eca7b04",
+      "title": "加拿大东部行|秋访白求恩故居",
+      "source": "光合氧吧",
+      "url": "https://www.sohu.com/a/1082582115_120642749",
+      "published": "2026-11-05 09:00",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
+    },
+    {
+      "id": "a260f327fb1989cdc17bd",
+      "title": "美国食品价格居高不下，谁在闷声发财？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_30_905963_s.shtml",
+      "published": "2026-10-30 08:59:14",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a99f68a1fb7e6eb5d984d",
+      "title": "巴基斯坦成功试射首枚国产“胜利者”空对空导弹",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xlwM1ugLCP",
+      "published": "2026-11-04T09:16:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a39c5cbea8ffcc62e9c3a",
+      "title": "“疑古时代已矣”——汪荣祖谈章太炎与《左传》真伪之争",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1097469340_260616",
+      "published": "2026-11-05 11:38",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a57fc107092c0485678fc",
+      "title": "原创 原来是他娶了谭维维！被誉为“不老男神”，曾在海拔5600米上求婚",
+      "source": "踟蹰换盏酒",
+      "url": "https://www.sohu.com/a/1097319383_122953246",
+      "published": "2026-11-05 04:19",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a47a96c9da466025f99e9",
+      "title": "扎根中国20年的俄罗斯人尤金·巴诺夫：先做朋友，再做事",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShanghaiHeat/2026_11_05_907028_s.shtml",
+      "published": "2026-11-05 09:24:07",
       "genre": "新闻动态"
     },
     {
@@ -576,20 +640,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "a7dd18e1bafdc70cd07c6",
+      "title": "73 岁徐少强病逝，妻子料理后事四天后离世，一双儿女接连失去双亲",
+      "source": "新中式的力量",
+      "url": "https://www.sohu.com/a/1097290042_121948410",
+      "published": "2026-11-05 00:05",
+      "genre": "人物与往事"
     },
     {
-      "id": "ae9db9b6c6ca5c0a75903",
-      "title": "俄罗斯为何突然对欧洲释放善意？",
-      "source": "总编辑时间",
-      "url": "https://original.ifeng.com/c/8xcv8Jq1TYe",
-      "published": "2026-10-29T22:57:35+08:00",
-      "genre": "分析评论"
+      "id": "a67748c69ac436bfdd41b",
+      "title": "稀土成为中美博弈关键筹码，北大学者：中国完备的工业体系难以复刻",
+      "source": "凤凰大参考",
+      "url": "https://original.ifeng.com/c/8xnmvJ7fMp4",
+      "published": "2026-11-05T12:11:28+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ab75d48eeb8e8f8de7ad2",
@@ -616,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad5f45c40206e4e6e1c09",
-      "title": "“草根阶层、工薪阶层、中间社会精英、投资家都出现不支持特朗普的浪潮”",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xmsggJygBS",
-      "published": "2026-11-04T22:47:29+08:00",
+      "id": "a119a2b765337da154996",
+      "title": "两位中国人将登上月球！中国载人登月方案细节亮相",
+      "source": "果壳",
+      "url": "https://news.ifeng.com/c/8xnoO0FtKAk",
+      "published": "2026-11-05T12:00:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,11 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a234e8d9254698f6f0f5e",
-      "title": "俄总统新闻秘书：目前尚无普京与特朗普通话的计划",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xmyQIZntLl",
-      "published": "2026-11-04T22:05:55+08:00",
+      "id": "a87a952dac38e75ce8a3d",
+      "title": "进博之约：读懂中美经贸的韧性与机遇",
+      "source": "第一财经日报",
+      "url": "https://news.ifeng.com/c/8xnmZesYqKz",
+      "published": "2026-11-05T11:44:45+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,11 +744,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0e30766e9c64560f6489",
-      "title": "掳走马杜罗后，美国被曝正与委内瑞拉谈判，为长期驻军铺路",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xmmumSaM2K",
-      "published": "2026-11-04T21:14:57+08:00",
+      "id": "a4a63b861aab41ce6fa1f",
+      "title": "美大豆协会连续9年全勤参加进博会：中国对我们意义重大",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8xnjivCCfkK",
+      "published": "2026-11-05T11:00:27+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,11 +776,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6ba274e24f0217cc27f7",
-      "title": "美国商界严阵以待，准备迎接民主党的调查风暴",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xmUnC0WuIe",
-      "published": "2026-11-04T17:16:53+08:00",
+      "id": "a624232748f812d8a85f1",
+      "title": "美国首位穆斯林参议员：万斯，我的宝贝啊，这真是讽刺",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xngUVo2Rtn",
+      "published": "2026-11-05T10:23:16+08:00",
       "genre": "新闻动态"
     },
     {
@@ -741,70 +805,6 @@
       "source": "搜狐娱乐",
       "url": "https://www.sohu.com/a/1094056594_114941",
       "published": "2026-10-29 15:14",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a5d2796d13e85de796a7b",
-      "title": "球迷扔鼓棒击中球员引发冲突，警方通报",
-      "source": "扬子晚报",
-      "url": "https://news.ifeng.com/c/8xmTtz6q7UR",
-      "published": "2026-11-04T16:50:02+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "acd82958c92811e0c44ee",
-      "title": "伊朗：已购买俄制苏-35战机，将在战后接收",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xhsqEeBn5A",
-      "published": "2026-11-01T22:31:37+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a9fbc0e5d4a1cb76ce202",
-      "title": "参考消息|一位美国老人的中国故乡",
-      "source": "新华社",
-      "url": "https://www.sohu.com/a/1096527983_267106",
-      "published": "2026-11-03 12:52",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a229bc6b4cfe72747fea0",
-      "title": "原创 导游转行考北电，被拒八百次没改行，张颂文底气从哪来",
-      "source": "如意小喵喵",
-      "url": "https://www.sohu.com/a/1093936934_122433386",
-      "published": "2026-10-28 17:15",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a2ac9be4be2dd4e7376ec",
-      "title": "特朗普痛失参众两院，很多人还没看懂美国政治“翻烧饼”的本质",
-      "source": "文化纵横",
-      "url": "https://news.ifeng.com/c/8xmS30UjsAj",
-      "published": "2026-11-04T16:37:47+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "af31d8fd1614c12d7d22d",
-      "title": "军队文职人员公开招考，今起报名！这些事项要注意",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726347.shtml",
-      "published": "2026年11月05日 07:16",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a197a844ec1d187b30094",
-      "title": "长沙临时大学（一）：艰难的决定",
-      "source": "光合氧吧",
-      "url": "https://www.sohu.com/a/1093859240_120642749",
-      "published": "2026-11-03 09:00",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a65fc39afa381c4855c62",
-      "title": "贾乃亮一天卖出5.7亿，李小璐至今难复出，两人离婚后差距越来越大",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1093203352_356941",
-      "published": "2026-10-28 00:00",
       "genre": "人物与往事"
     }
   ]
