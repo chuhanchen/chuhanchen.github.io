@@ -1,5 +1,5 @@
 {
-  "revision": "bb83135d5ae5f0b57341e66b",
+  "revision": "12ef325a673b65ece9737eb0",
   "channels": {
     "news": 25,
     "military": 25,
@@ -8,11 +8,11 @@
   },
   "articles": [
     {
-      "id": "a47747344ce7895c0364e",
-      "title": "进博会观察|是进口博览会，也是中国研发博览会",
+      "id": "a015c7cf082008146cc35",
+      "title": "沈逸：两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
-      "published": "2026-11-06 14:33:42",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_07_907397_s.shtml",
+      "published": "2026-11-07 06:49:26",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a26b66aa12a82a8402bd5",
-      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
+      "id": "ad97e9aa209df88faeef7",
+      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
-      "published": "2026-11-05 13:25:31",
+      "url": "https://news.ifeng.com/c/8xqmrzsULos",
+      "published": "2026-11-07T06:49:06+08:00",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3b20ccab8fd7912db381",
-      "title": "美国中期选举，对中国有何影响？",
+      "id": "a47747344ce7895c0364e",
+      "title": "进博会观察|是进口博览会，也是中国研发博览会",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
-      "published": "2026-11-05 10:04:27",
+      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
+      "published": "2026-11-06 14:33:42",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4e81e94314b5415e3fae",
-      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
-      "source": "中央广播电视总台中国之声",
-      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
-      "published": "2026-11-04T22:41:36+08:00",
+      "id": "a26b66aa12a82a8402bd5",
+      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
+      "published": "2026-11-05 13:25:31",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a81b9781fe7bae609d74c",
-      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
+      "id": "a3b20ccab8fd7912db381",
+      "title": "美国中期选举，对中国有何影响？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
-      "published": "2026-11-04 11:46:52",
+      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
+      "published": "2026-11-05 10:04:27",
       "genre": "分析评论"
     },
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a57256430153ab84a25eb",
-      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
-      "published": "2026-11-04 09:40:10",
+      "id": "a4e81e94314b5415e3fae",
+      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
+      "source": "中央广播电视总台中国之声",
+      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
+      "published": "2026-11-04T22:41:36+08:00",
       "genre": "分析评论"
     },
     {
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4967e6144ae3777c1f66",
-      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "id": "a81b9781fe7bae609d74c",
+      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
-      "published": "2026-11-04 07:52:46",
+      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
+      "published": "2026-11-04 11:46:52",
       "genre": "分析评论"
     },
     {
@@ -232,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0cda7d1b4d47b3b51725",
-      "title": "挪威教授格林·迪森：在中国，人人都谈合作共赢；在欧洲，领导人满嘴都是战争",
+      "id": "a57256430153ab84a25eb",
+      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GlennDiesen/2026_11_03_906226_s.shtml",
-      "published": "2026-11-03 08:43:05",
+      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
+      "published": "2026-11-04 09:40:10",
       "genre": "分析评论"
     },
     {
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4ae8a12bba3a65f0c5a6",
-      "title": "唐驳虎：中期选举的参院之争，将如何影响美国未来二十年？",
-      "source": "唐驳虎",
-      "url": "https://original.ifeng.com/c/8xkWLGiy7hJ",
-      "published": "2026-11-03T12:58:41+08:00",
+      "id": "a4967e6144ae3777c1f66",
+      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
+      "published": "2026-11-04 07:52:46",
       "genre": "分析评论"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae6766d22a3fd972b2e23",
-      "title": "这次美国中期选举，最有可能易手的11个参议院席位",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xkGGe4GejA",
-      "published": "2026-11-03T09:09:27+08:00",
+      "id": "a0cda7d1b4d47b3b51725",
+      "title": "挪威教授格林·迪森：在中国，人人都谈合作共赢；在欧洲，领导人满嘴都是战争",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GlennDiesen/2026_11_03_906226_s.shtml",
+      "published": "2026-11-03 08:43:05",
       "genre": "分析评论"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0dbb73e207875a06efe5",
-      "title": "风声丨新加坡鼓励70岁再就业，对中国有什么启示？",
-      "source": "风声",
-      "url": "https://original.ifeng.com/c/8xkHx1aOmRP",
-      "published": "2026-11-03T08:28:51+08:00",
+      "id": "a4ae8a12bba3a65f0c5a6",
+      "title": "唐驳虎：中期选举的参院之争，将如何影响美国未来二十年？",
+      "source": "唐驳虎",
+      "url": "https://original.ifeng.com/c/8xkWLGiy7hJ",
+      "published": "2026-11-03T12:58:41+08:00",
       "genre": "分析评论"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a343194495fe93ae56dc7",
-      "title": "对话费多罗娃：我被法国“社会性处决”，西方还有什么公信力可言？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_02_906671_s.shtml",
-      "published": "2026-11-02 12:39:55",
+      "id": "ae6766d22a3fd972b2e23",
+      "title": "这次美国中期选举，最有可能易手的11个参议院席位",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xkGGe4GejA",
+      "published": "2026-11-03T09:09:27+08:00",
       "genre": "分析评论"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a87ce6542289ba37b8654",
-      "title": "“我被法国‘社会性处决’，西方还有何公信力可言？”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xisEv46Ppn",
-      "published": "2026-11-02T12:39:55+08:00",
+      "id": "a0dbb73e207875a06efe5",
+      "title": "风声丨新加坡鼓励70岁再就业，对中国有什么启示？",
+      "source": "风声",
+      "url": "https://original.ifeng.com/c/8xkHx1aOmRP",
+      "published": "2026-11-03T08:28:51+08:00",
       "genre": "分析评论"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a08f2e5b646336c65bc03",
-      "title": "波兰总理和总统爆发新冲突，他们背后都站着谁？",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xinDtMDk8L",
-      "published": "2026-11-02T11:46:32+08:00",
+      "id": "a343194495fe93ae56dc7",
+      "title": "对话费多罗娃：我被法国“社会性处决”，西方还有什么公信力可言？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_02_906671_s.shtml",
+      "published": "2026-11-02 12:39:55",
       "genre": "分析评论"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a64cc8a43775a45f2615b",
-      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
+      "id": "a87ce6542289ba37b8654",
+      "title": "“我被法国‘社会性处决’，西方还有何公信力可言？”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xhkPzKw2H6",
-      "published": "2026-11-01T20:19:54+08:00",
+      "url": "https://news.ifeng.com/c/8xisEv46Ppn",
+      "published": "2026-11-02T12:39:55+08:00",
       "genre": "分析评论"
     },
     {
@@ -488,19 +488,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a29d8d8fe50b2daeded15",
-      "title": "美国民主党刚赢，台当局就急往新国会门缝里钻",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xqB5gHKzzU",
-      "published": "2026-11-06T22:36:20+08:00",
-      "genre": "新闻动态"
+      "id": "a08f2e5b646336c65bc03",
+      "title": "波兰总理和总统爆发新冲突，他们背后都站着谁？",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xinDtMDk8L",
+      "published": "2026-11-02T11:46:32+08:00",
+      "genre": "分析评论"
     },
     {
-      "id": "a0f9c184ad103f73ea83d",
-      "title": "“这是澳大利亚史上最糟糕、风险最大、代价最高的国防决策”",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xq3K7XYcgf",
-      "published": "2026-11-06T20:40:48+08:00",
+      "id": "a358271f09538a1350e7c",
+      "title": "伊媒：格什姆岛遭导弹袭击，一架美无人机被击落",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xqstMZjfEP",
+      "published": "2026-11-07T08:35:19+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,19 +520,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a84e6112bdbfc14c44573",
-      "title": "给高市政府献礼的反华剧《别班》，为何这么好笑？",
-      "source": "新潮沉思录",
-      "url": "https://news.ifeng.com/c/8xgAHgxtOHE",
-      "published": "2026-10-31T21:33:42+08:00",
+      "id": "a64cc8a43775a45f2615b",
+      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xhkPzKw2H6",
+      "published": "2026-11-01T20:19:54+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "a76d8dd83d9b9549c620c",
-      "title": "拆解能力不足，耗费巨额资金，美退役核航母处置成难题",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xp0YA0zbQo",
-      "published": "2026-11-06T01:35:46+08:00",
+      "id": "a0f9c184ad103f73ea83d",
+      "title": "“这是澳大利亚史上最糟糕、风险最大、代价最高的国防决策”",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xq3K7XYcgf",
+      "published": "2026-11-06T20:40:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,19 +552,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae01fb738e1467f4dfcbc",
-      "title": "美国七大科技巨头市值蒸发1万亿美元，特朗普：SI是宝贵的财富，只有愚蠢的领导人，才会对财富说“不”",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8xq7Trc78M4",
-      "published": "2026-11-06T21:19:15+08:00",
+      "id": "af842bf5e87fd65e376cd",
+      "title": "巴拉圭总统遭弹劾后被逮捕，曾对台海说三道四",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_07_907400_s.shtml",
+      "published": "2026-11-07 08:50:48",
       "genre": "新闻动态"
     },
     {
-      "id": "a7c1668ff9683fe45fb58",
-      "title": "战机护航、客机迫降、机场关闭…谁在恐吓欧洲航空业？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xoVWvr42r1",
-      "published": "2026-11-05T22:25:19+08:00",
+      "id": "a76d8dd83d9b9549c620c",
+      "title": "拆解能力不足，耗费巨额资金，美退役核航母处置成难题",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xp0YA0zbQo",
+      "published": "2026-11-06T01:35:46+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,19 +584,19 @@
       "genre": "作品解读"
     },
     {
-      "id": "a33bb38e6a2a625ed851b",
-      "title": "中国出台南极活动与环境保护法，有何意义？",
-      "source": "中央广播电视总台中国之声",
-      "url": "https://news.ifeng.com/c/8xq09T092Sr",
-      "published": "2026-11-06T19:41:48+08:00",
+      "id": "ad615e7b3da08e3c633a5",
+      "title": "星期六书房|当“大熔炉”冷却之后：重读小施莱辛格《美国的分裂》",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/SaturdayAtelier/2026_11_07_907302_s.shtml",
+      "published": "2026-11-07 06:49:27",
       "genre": "新闻动态"
     },
     {
-      "id": "a82e7d8c3f69a5c523781",
-      "title": "每年40亿美元军事援助将停止，特朗普：给以色列纯属浪费",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8xnmG2fvEwB",
-      "published": "2026-11-05T14:04:26+08:00",
+      "id": "a7c1668ff9683fe45fb58",
+      "title": "战机护航、客机迫降、机场关闭…谁在恐吓欧洲航空业？",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xoVWvr42r1",
+      "published": "2026-11-05T22:25:19+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,27 +616,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adbcbfe1015906d82c271",
-      "title": "贾斯敏·皮尔登：“等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/JasminePeardon/2026_10_31_906302_s.shtml",
-      "published": "2026-10-31 08:26:12",
-      "genre": "分析评论"
-    },
-    {
-      "id": "af69521857e11ff121ed7",
-      "title": "德国防长：驻立陶宛装甲旅明年底前形成全面作战能力",
-      "source": "新黄河",
-      "url": "https://mil.ifeng.com/c/8xnUaaHawJN",
-      "published": "2026-11-05T07:25:12+08:00",
+      "id": "a4440664fcdd1099425c0",
+      "title": "欧委会前主席：不指望美国重返自由贸易，应加强中欧经济关系",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xqvEO7Ec6J",
+      "published": "2026-11-07T09:18:42+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "adf92b2e6d738d2571b0c",
-      "title": "历史大乌龙？我们叫了几百年 “荷兰人”，竟是因为英国人的口误",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1098230729_100140957",
-      "published": "2026-11-06 23:29",
+      "id": "a82e7d8c3f69a5c523781",
+      "title": "每年40亿美元军事援助将停止，特朗普：给以色列纯属浪费",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8xnmG2fvEwB",
+      "published": "2026-11-05T14:04:26+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a09231c4552512e471b9e",
+      "title": "孟和套格套专栏｜黄河几字弯上的文明长卷——鄂尔多斯博物院巡礼1",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1098235392_772510",
+      "published": "2026-11-07 00:01",
       "genre": "历史故事"
     },
     {
@@ -648,19 +648,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a404a26e487aa9d72e32b",
-      "title": "马斯克要遭清算？没那么简单，扒一扒他在美国两党横跳史",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xpgtb9VR8Y",
-      "published": "2026-11-06T15:28:26+08:00",
+      "id": "ac0a56a22b8df37d176ce",
+      "title": "总统被窃听，首都增兵两万人",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xqufqoS6nS",
+      "published": "2026-11-07T09:11:42+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a4875e3e4980601415bcd",
-      "title": "法国寻求第二艘8万吨级核航母，所有配套舰队全部简配",
-      "source": "兵器肖宁",
-      "url": "https://mil.ifeng.com/c/8xlydc1ofIv",
-      "published": "2026-11-04T10:04:56+08:00",
+      "id": "af69521857e11ff121ed7",
+      "title": "德国防长：驻立陶宛装甲旅明年底前形成全面作战能力",
+      "source": "新黄河",
+      "url": "https://mil.ifeng.com/c/8xnUaaHawJN",
+      "published": "2026-11-05T07:25:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,27 +680,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a574f3ea015a2a34b0b2b",
-      "title": "卢拉：小博索纳罗是倒霉蛋，他一到美国，特朗普就输了",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xpZwbjCgFh",
-      "published": "2026-11-06T13:56:25+08:00",
+      "id": "acd0065489b5499994b8a",
+      "title": "驻美大使谢锋：欢迎“重量级”使者加入中美友好事业",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xqqzU4m7Av",
+      "published": "2026-11-07T07:34:16+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a99f68a1fb7e6eb5d984d",
-      "title": "巴基斯坦成功试射首枚国产“胜利者”空对空导弹",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xlwM1ugLCP",
-      "published": "2026-11-04T09:16:00+08:00",
+      "id": "a4875e3e4980601415bcd",
+      "title": "法国寻求第二艘8万吨级核航母，所有配套舰队全部简配",
+      "source": "兵器肖宁",
+      "url": "https://mil.ifeng.com/c/8xlydc1ofIv",
+      "published": "2026-11-04T10:04:56+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a09231c4552512e471b9e",
-      "title": "孟和套格套专栏｜黄河几字弯上的文明长卷——鄂尔多斯博物院巡礼1",
-      "source": "乐艺会",
-      "url": "https://www.sohu.com/a/1098235392_772510",
-      "published": "2026-11-07 00:01",
+      "id": "adf92b2e6d738d2571b0c",
+      "title": "历史大乌龙？我们叫了几百年 “荷兰人”，竟是因为英国人的口误",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1098230729_100140957",
+      "published": "2026-11-06 23:29",
       "genre": "历史故事"
     },
     {
@@ -712,11 +712,43 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a053daeff974b65a9979a",
-      "title": "中国公民被印边防部队拘捕，总领馆发布紧急提醒",
-      "source": "中国驻加尔各答总领事馆",
-      "url": "https://news.ifeng.com/c/8xpZ0s9mtOQ",
-      "published": "2026-11-06T13:49:17+08:00",
+      "id": "a5384a68c439139c2f6db",
+      "title": "巴拉圭警方逮捕前总统培尼亚",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xqmkrNYB5e",
+      "published": "2026-11-07T07:08:52+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a99f68a1fb7e6eb5d984d",
+      "title": "巴基斯坦成功试射首枚国产“胜利者”空对空导弹",
+      "source": "新华网",
+      "url": "https://mil.ifeng.com/c/8xlwM1ugLCP",
+      "published": "2026-11-04T09:16:00+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a0846df9cc68d125cfcbd",
+      "title": "三艘汉晋古沉船，实证北京水系与城市变迁史",
+      "source": "光明网",
+      "url": "https://www.sohu.com/a/1098055844_162758",
+      "published": "2026-11-06 15:14",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a20a9324f47f6bba31230",
+      "title": "原创 林依晨43岁生日，穿黑裙又瘦又年轻，老公回来陪她、儿女也出镜",
+      "source": "小疯说时尚",
+      "url": "https://www.sohu.com/a/1095249776_500452",
+      "published": "2026-10-31 08:33",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a29d8d8fe50b2daeded15",
+      "title": "美国民主党刚赢，台当局就急往新国会门缝里钻",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8xqB5gHKzzU",
+      "published": "2026-11-06T22:36:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -736,20 +768,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a20a9324f47f6bba31230",
-      "title": "原创 林依晨43岁生日，穿黑裙又瘦又年轻，老公回来陪她、儿女也出镜",
-      "source": "小疯说时尚",
-      "url": "https://www.sohu.com/a/1095249776_500452",
-      "published": "2026-10-31 08:33",
+      "id": "a8298ca8437962bf92554",
+      "title": "原创 何超莲带妈吃1.1万饭局：三太素颜戴六千万满绿镯，嫁人三年不生子，中秋把窦骁“晾”在加拿大",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1092952263_100115139",
+      "published": "2026-10-30 08:24",
       "genre": "人物与往事"
     },
     {
-      "id": "a5b12b2af569e5abf2e48",
-      "title": "普京下令临时接管日本烟草在俄4家子公司，日本政府急抗议",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xpX6abaKQs",
-      "published": "2026-11-06T13:03:11+08:00",
-      "genre": "新闻动态"
+      "id": "a84e6112bdbfc14c44573",
+      "title": "给高市政府献礼的反华剧《别班》，为何这么好笑？",
+      "source": "新潮沉思录",
+      "url": "https://news.ifeng.com/c/8xgAHgxtOHE",
+      "published": "2026-10-31T21:33:42+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "ab75d48eeb8e8f8de7ad2",
@@ -765,38 +797,6 @@
       "source": "澎湃新闻",
       "url": "https://www.sohu.com/a/1097974738_260616",
       "published": "2026-11-06 12:13",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a8298ca8437962bf92554",
-      "title": "原创 何超莲带妈吃1.1万饭局：三太素颜戴六千万满绿镯，嫁人三年不生子，中秋把窦骁“晾”在加拿大",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1092952263_100115139",
-      "published": "2026-10-30 08:24",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a8de8496b263888e4570a",
-      "title": "欧洲在自杀：为什么欧洲天真认为引入第三世界的移民难民会让他们更好？",
-      "source": "中美学者智库",
-      "url": "https://news.ifeng.com/c/8xf8OosKzXu",
-      "published": "2026-10-31T06:34:46+08:00",
-      "genre": "分析评论"
-    },
-    {
-      "id": "a57965258f977c4cbf394",
-      "title": "特朗普宣布切断对以军事援助，“因为他们不需要”",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xl95X6JqPi",
-      "published": "2026-11-03T21:44:23+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a63c6f8934470f0fe2d4b",
-      "title": "“今天的我们是谁”：新加坡如何重新讲述自身历史",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1097972554_260616",
-      "published": "2026-11-06 12:07",
       "genre": "历史故事"
     },
     {
