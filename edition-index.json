@@ -1,5 +1,5 @@
 {
-  "revision": "3993ad3bd816010c963d742a",
+  "revision": "91a0f91bd04b44fa15ec738a",
   "channels": {
     "news": 25,
     "military": 25,
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4e81e94314b5415e3fae",
-      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
-      "source": "中央广播电视总台中国之声",
-      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
-      "published": "2026-11-04T22:41:36+08:00",
-      "genre": "分析评论"
+      "id": "a957d3c8a4bcab7a4d1b8",
+      "title": "乌外长：乌俄领导人直接会面有望加速冲突结束",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xx2o4Egumg",
+      "published": "2026-11-11T01:42:50+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a8d2b0381d4a0043980d3",
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa70b8d4ef7540e11e285",
-      "title": "美国真不想再打伊朗了？",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xwg0DLM4mg",
-      "published": "2026-11-10T20:23:14+08:00",
+      "id": "afef9a7c9410c3c6cf8fd",
+      "title": "美前国务卿克里：中国在摆脱化石燃料方面引领全球，美国必须跟上",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xwvCmJyqTD",
+      "published": "2026-11-10T23:59:38+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,12 +424,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a81b9781fe7bae609d74c",
-      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
-      "published": "2026-11-04 11:46:52",
-      "genre": "分析评论"
+      "id": "a5c32cb55cff848adde4e",
+      "title": "高市早苗要来中国开会了，因作贼心虚很害怕“被出丑”",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xwsm9MsgC3",
+      "published": "2026-11-10T23:37:57+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ab1ad8da6e9b5cc923825",
@@ -440,11 +440,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a799c3fbf5f563c6eeecb",
-      "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
+      "id": "a4e30eb00cdb6edbe35e6",
+      "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
-      "published": "2026年10月29日 10:52",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
+      "published": "2026年11月10日 22:03",
       "genre": "历史故事"
     },
     {
@@ -456,12 +456,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a57256430153ab84a25eb",
-      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
+      "id": "ad07393744924b5134a5d",
+      "title": "朝鲜领跑跆拳道申遗，韩国多届政府被批失职",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
-      "published": "2026-11-04 09:40:10",
-      "genre": "分析评论"
+      "url": "https://news.ifeng.com/c/8xwwK6CTf0L",
+      "published": "2026-11-10T23:27:37+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ac0c0dc2d0eed76a97875",
@@ -472,11 +472,11 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a5e9f59069adfc35e4cb9",
-      "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+      "id": "a799c3fbf5f563c6eeecb",
+      "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
-      "published": "2026年10月27日 22:03",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
+      "published": "2026年10月29日 10:52",
       "genre": "历史故事"
     },
     {
@@ -488,12 +488,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4967e6144ae3777c1f66",
-      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
-      "published": "2026-11-04 07:52:46",
-      "genre": "分析评论"
+      "id": "adcb91e283940dcd7a7ab",
+      "title": "美国务卿：“没必要”对伊朗开展大规模作战行动",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xwqDkW0SoV",
+      "published": "2026-11-10T22:55:20+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a2324d18cdbbd935ab04c",
@@ -504,11 +504,11 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a0e160df03d04a4f4e7a0",
-      "title": "敞开国际对话之门 中外大学校长在沪研讨高等教育开放与人才培养",
+      "id": "a5e9f59069adfc35e4cb9",
+      "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721110.shtml",
-      "published": "2026年10月26日 14:51",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
+      "published": "2026年10月27日 22:03",
       "genre": "历史故事"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a13d68c0bfbb037c85af5",
-      "title": "伊朗呼吁美国接受“两天方案”停战条件",
-      "source": "凤凰卫视",
-      "url": "https://original.ifeng.com/c/8xw2tYA7Ic5",
-      "published": "2026-11-10T11:09:01+08:00",
+      "id": "a33437fb00ce4b139a343",
+      "title": "25岁中国游客在日本富士山失联，家属：他是救援队的，赴日前没和家人说",
+      "source": "极目新闻",
+      "url": "https://news.ifeng.com/c/8xwqW1nVGGY",
+      "published": "2026-11-10T22:53:26+08:00",
       "genre": "新闻动态"
     },
     {
@@ -536,11 +536,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a9638ac5b17922fc0ae4e",
-      "title": "原创 事态升级！解放军怒批，南京披日旗陈某黑料越扒越狠，家庭被曝光",
-      "source": "小鋭有话说",
-      "url": "https://www.sohu.com/a/1090614449_122536964",
-      "published": "2026-10-21 13:24",
+      "id": "a0e160df03d04a4f4e7a0",
+      "title": "敞开国际对话之门 中外大学校长在沪研讨高等教育开放与人才培养",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721110.shtml",
+      "published": "2026年10月26日 14:51",
       "genre": "历史故事"
     },
     {
@@ -552,12 +552,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ada367f90308f39b5a145",
-      "title": "国家发改委：目前仅地方政府储备即可满足36个大中城市15天以上成品粮、食用油消费",
-      "source": "政知见",
-      "url": "https://news.ifeng.com/c/8xw1pIaWnkz",
-      "published": "2026-11-10T10:52:37+08:00",
-      "genre": "新闻动态"
+      "id": "a4e81e94314b5415e3fae",
+      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
+      "source": "中央广播电视总台中国之声",
+      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
+      "published": "2026-11-04T22:41:36+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a60804e59c1f1c00be839",
@@ -568,11 +568,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a18fae77e9db6e0c33c85",
-      "title": "1975年，被改造27年的兵团司令黄维特赦出狱，刮掉胡子后却提出一个请求，想见当年审讯他的解放军军官。",
-      "source": "社会生活新鲜事",
-      "url": "https://www.360kuai.com/92273944476fab570",
-      "published": "2026-10-19T19:33:07.000Z",
+      "id": "a9638ac5b17922fc0ae4e",
+      "title": "原创 事态升级！解放军怒批，南京披日旗陈某黑料越扒越狠，家庭被曝光",
+      "source": "小鋭有话说",
+      "url": "https://www.sohu.com/a/1090614449_122536964",
+      "published": "2026-10-21 13:24",
       "genre": "历史故事"
     },
     {
@@ -584,12 +584,44 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aba69611353e035f1491d",
-      "title": "胡锡进：黄仁勋被揪斗是美国两党恶斗的政治牺牲品，完全是恶作剧",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xvL4B0dfHR",
-      "published": "2026-11-10T02:09:43+08:00",
+      "id": "aa70b8d4ef7540e11e285",
+      "title": "美国真不想再打伊朗了？",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xwg0DLM4mg",
+      "published": "2026-11-10T20:23:14+08:00",
       "genre": "新闻动态"
+    },
+    {
+      "id": "a62e9ad9a214e178b210f",
+      "title": "“在美国250年历史上，没有一位防长因执行合法军事行动被弹劾”",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xwvCmJyqHO",
+      "published": "2026-11-10T23:58:11+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a18fae77e9db6e0c33c85",
+      "title": "1975年，被改造27年的兵团司令黄维特赦出狱，刮掉胡子后却提出一个请求，想见当年审讯他的解放军军官。",
+      "source": "社会生活新鲜事",
+      "url": "https://www.360kuai.com/92273944476fab570",
+      "published": "2026-10-19T19:33:07.000Z",
+      "genre": "历史故事"
+    },
+    {
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "a81b9781fe7bae609d74c",
+      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
+      "published": "2026-11-04 11:46:52",
+      "genre": "分析评论"
     },
     {
       "id": "af9cfe8153e4153e0bb9d",
@@ -608,20 +640,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad4b1f4ad739877881533",
-      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
-      "published": "2026-10-21T01:03:15+08:00",
+      "id": "a6f7b642122aca20482ed",
+      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
+      "source": "娱乐一人行",
+      "url": "https://www.sohu.com/a/1088405947_100115139",
+      "published": "2026-10-19 07:56",
       "genre": "人物与往事"
     },
     {
-      "id": "acb7287d159edb0c7b826",
-      "title": "抹黑中国的日剧做出一罕见举动，网友：诡辩！",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8xvAzs3tVNn",
-      "published": "2026-11-09T22:23:01+08:00",
-      "genre": "新闻动态"
+      "id": "a57256430153ab84a25eb",
+      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
+      "published": "2026-11-04 09:40:10",
+      "genre": "分析评论"
     },
     {
       "id": "ad03b2060f82307b0c20c",
@@ -640,20 +672,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6f7b642122aca20482ed",
-      "title": "69岁蔡琴近况引关注，身患多种疾病，“无性婚姻”前夫已离世，惊人消息接连不断",
-      "source": "娱乐一人行",
-      "url": "https://www.sohu.com/a/1088405947_100115139",
-      "published": "2026-10-19 07:56",
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
       "genre": "人物与往事"
     },
     {
-      "id": "a84afe6325354dbd99d8c",
-      "title": "伊朗总统：最高领袖已下令结束“非战非和”状态",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xv8lENj3Eb",
-      "published": "2026-11-09T22:06:00+08:00",
-      "genre": "新闻动态"
+      "id": "a4967e6144ae3777c1f66",
+      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
+      "published": "2026-11-04 07:52:46",
+      "genre": "分析评论"
     },
     {
       "id": "ac0bfed922fe36a9487d1",
@@ -672,19 +704,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
-      "genre": "人物与往事"
+      "id": "a63de988386bd0a2695da",
+      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
+      "published": "2026-10-01T18:28:15+08:00",
+      "genre": "作品解读"
     },
     {
-      "id": "ae79fb12405430c2b35b2",
-      "title": "日本或对美国核武器“开口子”？专家：此前已有前科",
-      "source": "新闻今日谈",
-      "url": "https://news.ifeng.com/c/8xv4gxvw65b",
-      "published": "2026-11-09T21:27:59+08:00",
+      "id": "a13d68c0bfbb037c85af5",
+      "title": "伊朗呼吁美国接受“两天方案”停战条件",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8xw2tYA7Ic5",
+      "published": "2026-11-10T11:09:01+08:00",
       "genre": "新闻动态"
     },
     {
@@ -704,19 +736,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a63de988386bd0a2695da",
-      "title": "独家观察：十岁的平遥还能为中国电影填充哪些可能？答案在路上",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8ws93nWk51C",
-      "published": "2026-10-01T18:28:15+08:00",
-      "genre": "作品解读"
+      "id": "a1af6648c7ebc2605fd1d",
+      "title": "原创 黄总眼光还是可以的，如果一旦离婚的话，黄总的皮衣是不是要一人一半阿",
+      "source": "前HR随笔",
+      "url": "https://www.sohu.com/a/1099195717_122542340",
+      "published": "2026-11-09 16:07",
+      "genre": "人物与往事"
     },
     {
-      "id": "a4d6e8f31fb216b4c43e4",
-      "title": "巴新政府关闭台北驻巴新经济办事处，外交部回应",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xupOs31Ovu",
-      "published": "2026-11-09T17:36:01+08:00",
+      "id": "ada367f90308f39b5a145",
+      "title": "国家发改委：目前仅地方政府储备即可满足36个大中城市15天以上成品粮、食用油消费",
+      "source": "政知见",
+      "url": "https://news.ifeng.com/c/8xw1pIaWnkz",
+      "published": "2026-11-10T10:52:37+08:00",
       "genre": "新闻动态"
     },
     {
@@ -736,19 +768,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a1af6648c7ebc2605fd1d",
-      "title": "原创 黄总眼光还是可以的，如果一旦离婚的话，黄总的皮衣是不是要一人一半阿",
-      "source": "前HR随笔",
-      "url": "https://www.sohu.com/a/1099195717_122542340",
-      "published": "2026-11-09 16:07",
+      "id": "a86a4d7cd7a5d93ab88c0",
+      "title": "高薪难抵身体损耗！杨坤服药20年，胡歌黄渤自曝隐疾，内娱男星为何深陷健康困境？",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1097951811_356941",
+      "published": "2026-11-09 08:25",
       "genre": "人物与往事"
     },
     {
-      "id": "a32e2f5dfc6373ccd353e",
-      "title": "特朗普：以色列必须“偿还”美国对伊朗战争的费用",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xulkiNc2i5",
-      "published": "2026-11-09T16:59:31+08:00",
+      "id": "aba69611353e035f1491d",
+      "title": "胡锡进：黄仁勋被揪斗是美国两党恶斗的政治牺牲品，完全是恶作剧",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xvL4B0dfHR",
+      "published": "2026-11-10T02:09:43+08:00",
       "genre": "新闻动态"
     },
     {
@@ -765,38 +797,6 @@
       "source": "澎湃新闻",
       "url": "https://www.sohu.com/a/1099540975_260616",
       "published": "2026-11-10 11:57",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a86a4d7cd7a5d93ab88c0",
-      "title": "高薪难抵身体损耗！杨坤服药20年，胡歌黄渤自曝隐疾，内娱男星为何深陷健康困境？",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1097951811_356941",
-      "published": "2026-11-09 08:25",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a8dc5863f878d3fa2a72b",
-      "title": "47岁中国籍外卖员在墨尔本遇害，7000余人捐款超46万澳元",
-      "source": "潇湘晨报",
-      "url": "https://news.ifeng.com/c/8xuiv8qCtZ6",
-      "published": "2026-11-09T16:06:22+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a868a4f9baf482870266b",
-      "title": "多型新式战机列装，人民海军配齐硬核“航母五件套”",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xrgBGiJ4zJ",
-      "published": "2026-11-07T21:08:26+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "af8525f10d399331eeb43",
-      "title": "马上评｜澳门，何以对话世界",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1099321022_260616",
-      "published": "2026-11-09 23:32",
       "genre": "历史故事"
     },
     {
