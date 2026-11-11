@@ -1,5 +1,5 @@
 {
-  "revision": "91a0f91bd04b44fa15ec738a",
+  "revision": "523b3c64f348839fd14259c0",
   "channels": {
     "news": 25,
     "military": 25,
@@ -8,11 +8,11 @@
   },
   "articles": [
     {
-      "id": "acb2e43b59fc1dcca0cbc",
-      "title": "沈逸：黄仁勋遭“猎巫式”围攻，暴露美国霸权内争外斗的真面目",
+      "id": "a80e15fba60d7b14546f1",
+      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_10_907763_s.shtml",
-      "published": "2026-11-10 16:22:52",
+      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
+      "published": "2026-11-11 08:05:19",
       "genre": "分析评论"
     },
     {
@@ -32,19 +32,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af9ca636a7f859a1903b3",
-      "title": "花坛白骨案前夫自责不该离婚，为儿子28年未再婚",
-      "source": "极目新闻",
-      "url": "https://news.ifeng.com/c/8xw0KvJVIYn",
-      "published": "2026-11-10T10:35:22+08:00",
+      "id": "add873547755e28e5224a",
+      "title": "原创 赵雅珉定居北京！与前夫陈国军形同陌路，她曾拒绝复婚",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1099903339_120617247",
+      "published": "2026-11-11 06:58",
       "genre": "人物与往事"
     },
     {
-      "id": "a36af4492419369e9b2ba",
-      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
+      "id": "acb2e43b59fc1dcca0cbc",
+      "title": "沈逸：黄仁勋遭“猎巫式”围攻，暴露美国霸权内争外斗的真面目",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
-      "published": "2026-11-10 14:19:22",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_10_907763_s.shtml",
+      "published": "2026-11-10 16:22:52",
       "genre": "分析评论"
     },
     {
@@ -64,19 +64,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6d61b044d8d9eea39ea7",
-      "title": "原创 黄仁勋这事影响最大的不是股价，而是子女的婚姻观。翻出了两张老黄一家四口的合影，估计这么幸福的笑容以后很难再现了",
-      "source": "前HR随笔",
-      "url": "https://www.sohu.com/a/1099045480_122542340",
-      "published": "2026-11-09 11:12",
+      "id": "af9ca636a7f859a1903b3",
+      "title": "花坛白骨案前夫自责不该离婚，为儿子28年未再婚",
+      "source": "极目新闻",
+      "url": "https://news.ifeng.com/c/8xw0KvJVIYn",
+      "published": "2026-11-10T10:35:22+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a8bad5eac85f6d62a0083",
-      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
+      "id": "a36af4492419369e9b2ba",
+      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
-      "published": "2026-11-10 11:26:36",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
+      "published": "2026-11-10 14:19:22",
       "genre": "分析评论"
     },
     {
@@ -96,19 +96,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a7e227ebc1431f7a952c4",
-      "title": "原创 红极一时的女星丁岚：有过两次失败婚姻，至今单身一人定居北京",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1098681256_120617247",
-      "published": "2026-11-08 09:52",
+      "id": "a6d61b044d8d9eea39ea7",
+      "title": "原创 黄仁勋这事影响最大的不是股价，而是子女的婚姻观。翻出了两张老黄一家四口的合影，估计这么幸福的笑容以后很难再现了",
+      "source": "前HR随笔",
+      "url": "https://www.sohu.com/a/1099045480_122542340",
+      "published": "2026-11-09 11:12",
       "genre": "人物与往事"
     },
     {
-      "id": "a2252eb36abdbb54803c3",
-      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xwZunybJKc",
-      "published": "2026-11-10T18:57:28+08:00",
+      "id": "a8bad5eac85f6d62a0083",
+      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
+      "published": "2026-11-10 11:26:36",
       "genre": "分析评论"
     },
     {
@@ -128,19 +128,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a304e7a6063d9deb45900",
-      "title": "原创 著名歌手沈小岑：两次婚姻都无儿无女，与英国丈夫定居西班牙",
+      "id": "a7e227ebc1431f7a952c4",
+      "title": "原创 红极一时的女星丁岚：有过两次失败婚姻，至今单身一人定居北京",
       "source": "细品名人",
-      "url": "https://www.sohu.com/a/1098644445_120617247",
-      "published": "2026-11-08 07:11",
+      "url": "https://www.sohu.com/a/1098681256_120617247",
+      "published": "2026-11-08 09:52",
       "genre": "人物与往事"
     },
     {
-      "id": "ade60454f2f8432f92294",
-      "title": "进博会观察|当外企“身体”接入中国“大脑”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
-      "published": "2026-11-08 19:45:28",
+      "id": "a2252eb36abdbb54803c3",
+      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xwZunybJKc",
+      "published": "2026-11-10T18:57:28+08:00",
       "genre": "分析评论"
     },
     {
@@ -160,19 +160,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a31feb33e82a6ebbb332f",
-      "title": "剧组拍摄时突发意外，演员脸部着火二度烧伤，本人发声",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xrhHQyUk0s",
-      "published": "2026-11-07T20:24:20+08:00",
+      "id": "a304e7a6063d9deb45900",
+      "title": "原创 著名歌手沈小岑：两次婚姻都无儿无女，与英国丈夫定居西班牙",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1098644445_120617247",
+      "published": "2026-11-08 07:11",
       "genre": "人物与往事"
     },
     {
-      "id": "a03fdbccee15e36357d07",
-      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
+      "id": "ade60454f2f8432f92294",
+      "title": "进博会观察|当外企“身体”接入中国“大脑”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
-      "published": "2026-11-08 07:25:20",
+      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
+      "published": "2026-11-08 19:45:28",
       "genre": "分析评论"
     },
     {
@@ -192,19 +192,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a715e1fd0f419842116e3",
-      "title": "原创 毛主席一生经历了四段婚姻，晚年曾感叹：她是对我最好的女人",
-      "source": "牛牛历史V",
-      "url": "https://www.sohu.com/a/1098338645_122498661",
-      "published": "2026-11-07 09:15",
+      "id": "a31feb33e82a6ebbb332f",
+      "title": "剧组拍摄时突发意外，演员脸部着火二度烧伤，本人发声",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xrhHQyUk0s",
+      "published": "2026-11-07T20:24:20+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a015c7cf082008146cc35",
-      "title": "沈逸：两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
+      "id": "a03fdbccee15e36357d07",
+      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_07_907397_s.shtml",
-      "published": "2026-11-07 06:49:26",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
+      "published": "2026-11-08 07:25:20",
       "genre": "分析评论"
     },
     {
@@ -224,19 +224,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ac2bff70a4a94468664b5",
-      "title": "原创 女星洪学敏：下海经商成老赖，68岁仍渴望婚姻",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1097731199_120617247",
-      "published": "2026-11-05 23:24",
+      "id": "a715e1fd0f419842116e3",
+      "title": "原创 毛主席一生经历了四段婚姻，晚年曾感叹：她是对我最好的女人",
+      "source": "牛牛历史V",
+      "url": "https://www.sohu.com/a/1098338645_122498661",
+      "published": "2026-11-07 09:15",
       "genre": "人物与往事"
     },
     {
-      "id": "ad97e9aa209df88faeef7",
-      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
+      "id": "a015c7cf082008146cc35",
+      "title": "沈逸：两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xqmrzsULos",
-      "published": "2026-11-07T06:49:06+08:00",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_07_907397_s.shtml",
+      "published": "2026-11-07 06:49:26",
       "genre": "分析评论"
     },
     {
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a47747344ce7895c0364e",
-      "title": "进博会观察|是进口博览会，也是中国研发博览会",
+      "id": "ad97e9aa209df88faeef7",
+      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
-      "published": "2026-11-06 14:33:42",
+      "url": "https://news.ifeng.com/c/8xqmrzsULos",
+      "published": "2026-11-07T06:49:06+08:00",
       "genre": "分析评论"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a26b66aa12a82a8402bd5",
-      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
+      "id": "a47747344ce7895c0364e",
+      "title": "进博会观察|是进口博览会，也是中国研发博览会",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
-      "published": "2026-11-05 13:25:31",
+      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
+      "published": "2026-11-06 14:33:42",
       "genre": "分析评论"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3b20ccab8fd7912db381",
-      "title": "美国中期选举，对中国有何影响？",
+      "id": "a26b66aa12a82a8402bd5",
+      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
-      "published": "2026-11-05 10:04:27",
+      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
+      "published": "2026-11-05 13:25:31",
       "genre": "分析评论"
     },
     {
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a957d3c8a4bcab7a4d1b8",
-      "title": "乌外长：乌俄领导人直接会面有望加速冲突结束",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xx2o4Egumg",
-      "published": "2026-11-11T01:42:50+08:00",
-      "genre": "新闻动态"
+      "id": "a3b20ccab8fd7912db381",
+      "title": "美国中期选举，对中国有何影响？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
+      "published": "2026-11-05 10:04:27",
+      "genre": "分析评论"
     },
     {
       "id": "a8d2b0381d4a0043980d3",
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afef9a7c9410c3c6cf8fd",
-      "title": "美前国务卿克里：中国在摆脱化石燃料方面引领全球，美国必须跟上",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xwvCmJyqTD",
-      "published": "2026-11-10T23:59:38+08:00",
+      "id": "a8c8aee95238b6cb7531b",
+      "title": "中国机场，怎么有那么多坐轮椅的印度人？",
+      "source": "Vista看天下",
+      "url": "https://news.ifeng.com/c/8xxbJKskkqR",
+      "published": "2026-11-11T09:41:14+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5c32cb55cff848adde4e",
-      "title": "高市早苗要来中国开会了，因作贼心虚很害怕“被出丑”",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xwsm9MsgC3",
-      "published": "2026-11-10T23:37:57+08:00",
+      "id": "a15fd3e704fa2632b3b68",
+      "title": "欧洲拦截弹库存降至最低，不愿向乌克兰转让",
+      "source": "凤凰卫视",
+      "url": "https://news.ifeng.com/c/8xxWvznFVVT",
+      "published": "2026-11-11T08:42:37+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad07393744924b5134a5d",
-      "title": "朝鲜领跑跆拳道申遗，韩国多届政府被批失职",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xwwK6CTf0L",
-      "published": "2026-11-10T23:27:37+08:00",
+      "id": "a957d3c8a4bcab7a4d1b8",
+      "title": "乌外长：乌俄领导人直接会面有望加速冲突结束",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xx2o4Egumg",
+      "published": "2026-11-11T01:42:50+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adcb91e283940dcd7a7ab",
-      "title": "美国务卿：“没必要”对伊朗开展大规模作战行动",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xwqDkW0SoV",
-      "published": "2026-11-10T22:55:20+08:00",
+      "id": "afef9a7c9410c3c6cf8fd",
+      "title": "美前国务卿克里：中国在摆脱化石燃料方面引领全球，美国必须跟上",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xwvCmJyqTD",
+      "published": "2026-11-10T23:59:38+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a33437fb00ce4b139a343",
-      "title": "25岁中国游客在日本富士山失联，家属：他是救援队的，赴日前没和家人说",
-      "source": "极目新闻",
-      "url": "https://news.ifeng.com/c/8xwqW1nVGGY",
-      "published": "2026-11-10T22:53:26+08:00",
+      "id": "a5c32cb55cff848adde4e",
+      "title": "高市早苗要来中国开会了，因作贼心虚很害怕“被出丑”",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xwsm9MsgC3",
+      "published": "2026-11-10T23:37:57+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,12 +552,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4e81e94314b5415e3fae",
-      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
-      "source": "中央广播电视总台中国之声",
-      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
-      "published": "2026-11-04T22:41:36+08:00",
-      "genre": "分析评论"
+      "id": "ad07393744924b5134a5d",
+      "title": "朝鲜领跑跆拳道申遗，韩国多届政府被批失职",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xwwK6CTf0L",
+      "published": "2026-11-10T23:27:37+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a60804e59c1f1c00be839",
@@ -584,19 +584,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa70b8d4ef7540e11e285",
-      "title": "美国真不想再打伊朗了？",
+      "id": "adcb91e283940dcd7a7ab",
+      "title": "美国务卿：“没必要”对伊朗开展大规模作战行动",
       "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xwg0DLM4mg",
-      "published": "2026-11-10T20:23:14+08:00",
+      "url": "https://news.ifeng.com/c/8xwqDkW0SoV",
+      "published": "2026-11-10T22:55:20+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a62e9ad9a214e178b210f",
-      "title": "“在美国250年历史上，没有一位防长因执行合法军事行动被弹劾”",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8xwvCmJyqHO",
-      "published": "2026-11-10T23:58:11+08:00",
+      "id": "aa359f7b748d7d1a179c8",
+      "title": "美媒爆料：威胁升级，美财长被转移至军事基地",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xxbJKskkz3",
+      "published": "2026-11-11T09:54:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,19 +616,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a81b9781fe7bae609d74c",
-      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
-      "published": "2026-11-04 11:46:52",
-      "genre": "分析评论"
+      "id": "a33437fb00ce4b139a343",
+      "title": "25岁中国游客在日本富士山失联，家属：他是救援队的，赴日前没和家人说",
+      "source": "极目新闻",
+      "url": "https://news.ifeng.com/c/8xwqW1nVGGY",
+      "published": "2026-11-10T22:53:26+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "af9cfe8153e4153e0bb9d",
-      "title": "欧盟将首次在乌境内设立“军事援助团”机构",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xwfKsUXpee",
-      "published": "2026-11-10T19:27:56+08:00",
+      "id": "afcdac47370b8a88617f2",
+      "title": "日本执意推进“再军事化”是在透支国家未来",
+      "source": "人民日报",
+      "url": "https://news.ifeng.com/c/8xxRtmpitbZ",
+      "published": "2026-11-11T07:31:31+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,19 +648,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a57256430153ab84a25eb",
-      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
-      "published": "2026-11-04 09:40:10",
+      "id": "a4e81e94314b5415e3fae",
+      "title": "亚洲杯延期一年，中东紧张局势如何搅动全球体育赛历",
+      "source": "中央广播电视总台中国之声",
+      "url": "https://news.ifeng.com/c/8xmsQTM1R7x",
+      "published": "2026-11-04T22:41:36+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "ad03b2060f82307b0c20c",
-      "title": "埃及首次证实在沙特阿拉伯驻扎军队",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xwdL0KhSSX",
-      "published": "2026-11-10T19:22:46+08:00",
+      "id": "a62e9ad9a214e178b210f",
+      "title": "“在美国250年历史上，没有一位防长因执行合法军事行动被弹劾”",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xwvCmJyqHO",
+      "published": "2026-11-10T23:58:11+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,19 +680,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4967e6144ae3777c1f66",
-      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
-      "published": "2026-11-04 07:52:46",
-      "genre": "分析评论"
+      "id": "aa70b8d4ef7540e11e285",
+      "title": "美国真不想再打伊朗了？",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8xwg0DLM4mg",
+      "published": "2026-11-10T20:23:14+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "ac0bfed922fe36a9487d1",
-      "title": "状告美国防部5个月后，药明康德被移出“军工企业”名单",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xwXrLw7BBo",
-      "published": "2026-11-10T18:26:03+08:00",
+      "id": "af9cfe8153e4153e0bb9d",
+      "title": "欧盟将首次在乌境内设立“军事援助团”机构",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xwfKsUXpee",
+      "published": "2026-11-10T19:27:56+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,19 +712,19 @@
       "genre": "作品解读"
     },
     {
-      "id": "a13d68c0bfbb037c85af5",
-      "title": "伊朗呼吁美国接受“两天方案”停战条件",
-      "source": "凤凰卫视",
-      "url": "https://original.ifeng.com/c/8xw2tYA7Ic5",
-      "published": "2026-11-10T11:09:01+08:00",
-      "genre": "新闻动态"
+      "id": "a81b9781fe7bae609d74c",
+      "title": "对话《错位：我们生活在巨大的时差里》作者蒙克：中国00后，一定会出大思想家",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/mengke/2026_11_04_906870_s.shtml",
+      "published": "2026-11-04 11:46:52",
+      "genre": "分析评论"
     },
     {
-      "id": "a71b35bac0e59e2906478",
-      "title": "胡塞武装称对沙特境内目标发动四轮军事行动",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xu74Yn9Vcj",
-      "published": "2026-11-09T07:56:40+08:00",
+      "id": "ad03b2060f82307b0c20c",
+      "title": "埃及首次证实在沙特阿拉伯驻扎军队",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xwdL0KhSSX",
+      "published": "2026-11-10T19:22:46+08:00",
       "genre": "新闻动态"
     },
     {
@@ -744,19 +744,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ada367f90308f39b5a145",
-      "title": "国家发改委：目前仅地方政府储备即可满足36个大中城市15天以上成品粮、食用油消费",
-      "source": "政知见",
-      "url": "https://news.ifeng.com/c/8xw1pIaWnkz",
-      "published": "2026-11-10T10:52:37+08:00",
-      "genre": "新闻动态"
+      "id": "a57256430153ab84a25eb",
+      "title": "江浩宇：中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/jianghaoyu/2026_11_04_906972_s.shtml",
+      "published": "2026-11-04 09:40:10",
+      "genre": "分析评论"
     },
     {
-      "id": "ad6a5d982509b3e2a9d48",
-      "title": "以色列国防部长卡茨称对伊朗任务“尚未完成”",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8xtJ1obMJvs",
-      "published": "2026-11-08T19:52:47+08:00",
+      "id": "ac0bfed922fe36a9487d1",
+      "title": "状告美国防部5个月后，药明康德被移出“军工企业”名单",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xwXrLw7BBo",
+      "published": "2026-11-10T18:26:03+08:00",
       "genre": "新闻动态"
     },
     {
@@ -776,19 +776,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aba69611353e035f1491d",
-      "title": "胡锡进：黄仁勋被揪斗是美国两党恶斗的政治牺牲品，完全是恶作剧",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xvL4B0dfHR",
-      "published": "2026-11-10T02:09:43+08:00",
-      "genre": "新闻动态"
+      "id": "a4967e6144ae3777c1f66",
+      "title": "世界科先声：美国巨头“光电通吃”，给中国厂商出了一道新难题",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_04_906895_s.shtml",
+      "published": "2026-11-04 07:52:46",
+      "genre": "分析评论"
     },
     {
-      "id": "a6bdfc7d884ac9a8f4c22",
-      "title": "伊朗解除导弹射程限制",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xsUfJlVD5E",
-      "published": "2026-11-08T06:38:08+08:00",
+      "id": "a93f9ed226c58fa3e1179",
+      "title": "菲律宾想凭印度导弹扰乱南海？本质上是痴人说梦",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xvi0cfvDjr",
+      "published": "2026-11-10T03:50:29+08:00",
       "genre": "新闻动态"
     },
     {
