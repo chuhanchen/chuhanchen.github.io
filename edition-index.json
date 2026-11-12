@@ -1,5 +1,5 @@
 {
-  "revision": "06a53baae885c9227a9dda35",
+  "revision": "05d5ab2bd751476b9d21d15e",
   "channels": {
     "news": 26,
     "military": 24,
@@ -8,11 +8,11 @@
   },
   "articles": [
     {
-      "id": "a80e15fba60d7b14546f1",
-      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
-      "published": "2026-11-11 08:05:19",
+      "id": "a1858195307ab5bf1ad2a",
+      "title": "黄仁勋事件背后的美国AI焦虑",
+      "source": "浙江宣传",
+      "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
+      "published": "2026-11-12T07:35:25+08:00",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "acb2e43b59fc1dcca0cbc",
-      "title": "沈逸：黄仁勋遭“猎巫式”围攻，暴露美国霸权内争外斗的真面目",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_10_907763_s.shtml",
-      "published": "2026-11-10 16:22:52",
+      "id": "adcc2c07ada5babb20791",
+      "title": "菲律宾总统出面敲打涉华过激论调",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xz37xrXYZK",
+      "published": "2026-11-12T06:39:21+08:00",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a36af4492419369e9b2ba",
-      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
+      "id": "a80e15fba60d7b14546f1",
+      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
-      "published": "2026-11-10 14:19:22",
+      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
+      "published": "2026-11-11 08:05:19",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8bad5eac85f6d62a0083",
-      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
+      "id": "acb2e43b59fc1dcca0cbc",
+      "title": "沈逸：黄仁勋遭“猎巫式”围攻，暴露美国霸权内争外斗的真面目",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
-      "published": "2026-11-10 11:26:36",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_10_907763_s.shtml",
+      "published": "2026-11-10 16:22:52",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2252eb36abdbb54803c3",
-      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xwZunybJKc",
-      "published": "2026-11-10T18:57:28+08:00",
+      "id": "a36af4492419369e9b2ba",
+      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
+      "published": "2026-11-10 14:19:22",
       "genre": "分析评论"
     },
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ade60454f2f8432f92294",
-      "title": "进博会观察|当外企“身体”接入中国“大脑”",
+      "id": "a8bad5eac85f6d62a0083",
+      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
-      "published": "2026-11-08 19:45:28",
+      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
+      "published": "2026-11-10 11:26:36",
       "genre": "分析评论"
     },
     {
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a03fdbccee15e36357d07",
-      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
-      "published": "2026-11-08 07:25:20",
+      "id": "a2252eb36abdbb54803c3",
+      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xwZunybJKc",
+      "published": "2026-11-10T18:57:28+08:00",
       "genre": "分析评论"
     },
     {
@@ -232,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a015c7cf082008146cc35",
-      "title": "沈逸：两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
+      "id": "ade60454f2f8432f92294",
+      "title": "进博会观察|当外企“身体”接入中国“大脑”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_07_907397_s.shtml",
-      "published": "2026-11-07 06:49:26",
+      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
+      "published": "2026-11-08 19:45:28",
       "genre": "分析评论"
     },
     {
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad97e9aa209df88faeef7",
-      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
+      "id": "a03fdbccee15e36357d07",
+      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xqmrzsULos",
-      "published": "2026-11-07T06:49:06+08:00",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
+      "published": "2026-11-08 07:25:20",
       "genre": "分析评论"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a47747344ce7895c0364e",
-      "title": "进博会观察|是进口博览会，也是中国研发博览会",
+      "id": "a015c7cf082008146cc35",
+      "title": "沈逸：两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
-      "published": "2026-11-06 14:33:42",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_07_907397_s.shtml",
+      "published": "2026-11-07 06:49:26",
       "genre": "分析评论"
     },
     {
@@ -328,12 +328,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3f8f79089267b0863682",
-      "title": "菲防长被自家外交部罕见回击，总统府出来“和稀泥”",
+      "id": "ad97e9aa209df88faeef7",
+      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xybI0E9NOQ",
-      "published": "2026-11-11T23:46:48+08:00",
-      "genre": "新闻动态"
+      "url": "https://news.ifeng.com/c/8xqmrzsULos",
+      "published": "2026-11-07T06:49:06+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a8c054800cc7f62323abc",
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4ee62237c271762693c4",
-      "title": "美方要“欧洲全面参与乌克兰和平谈判”，可谁能做代表？",
+      "id": "a47747344ce7895c0364e",
+      "title": "进博会观察|是进口博览会，也是中国研发博览会",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xybjxw5TaN",
-      "published": "2026-11-11T23:46:48+08:00",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
+      "published": "2026-11-06 14:33:42",
+      "genre": "分析评论"
     },
     {
       "id": "a8d2b0381d4a0043980d3",
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abbf2aa30dacd7b3b8288",
-      "title": "美国“无麻疹”地位将取消？美医生警告：已出现大范围传播",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xybI0E9NQa",
-      "published": "2026-11-11T23:46:48+08:00",
+      "id": "aa5ca9a4d388e5f15cacf",
+      "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+      "source": "全球速报",
+      "url": "https://news.ifeng.com/c/8xz85EBAuVN",
+      "published": "2026-11-12T07:58:47+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae1974812f73247be027e",
-      "title": "“黄仁勋通中”狂热升级，国会把“勒住中国”喊得山响",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xybjxw5TZ4",
-      "published": "2026-11-11T23:26:54+08:00",
+      "id": "a1d4325a1e4196ac4d843",
+      "title": "德军方瞎操心：禁用中国无人机",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xz5Y5pWXYR",
+      "published": "2026-11-12T07:31:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0c2d254e676c1469ce68",
-      "title": "一文速览美俄乌三方会谈要点：俄乌大规模换俘有望，美将进行穿梭外交",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8xybI0E9NLk",
-      "published": "2026-11-11T22:44:47+08:00",
+      "id": "a3f8f79089267b0863682",
+      "title": "菲防长被自家外交部罕见回击，总统府出来“和稀泥”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xybI0E9NOQ",
+      "published": "2026-11-11T23:46:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1983564a57f6235ceff2",
-      "title": "美国要禁中国光模块，微软先急了，白宫已经被厂商“围攻”",
+      "id": "a4ee62237c271762693c4",
+      "title": "美方要“欧洲全面参与乌克兰和平谈判”，可谁能做代表？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xyUdY19UYt",
-      "published": "2026-11-11T22:41:05+08:00",
+      "url": "https://news.ifeng.com/c/8xybjxw5TaN",
+      "published": "2026-11-11T23:46:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,19 +520,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a26b66aa12a82a8402bd5",
-      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
+      "id": "abbf2aa30dacd7b3b8288",
+      "title": "美国“无麻疹”地位将取消？美医生警告：已出现大范围传播",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
-      "published": "2026-11-05 13:25:31",
-      "genre": "分析评论"
+      "url": "https://news.ifeng.com/c/8xybI0E9NQa",
+      "published": "2026-11-11T23:46:48+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "a67231e103a2c091f0ed7",
-      "title": "专家解读辽宁舰编队中双055“万吨大驱”强大战力",
+      "id": "ac6c23d189a60e749df95",
+      "title": "“玄龙”如何隐身？攻击-11无人机更多硬核实力揭秘",
       "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xU9C1Cxi78",
-      "published": "2026-10-26T06:43:10+08:00",
+      "url": "https://mil.ifeng.com/c/8xy1feQB5b3",
+      "published": "2026-11-12T06:37:01+08:00",
       "genre": "分析评论"
     },
     {
@@ -552,19 +552,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3b20ccab8fd7912db381",
-      "title": "美国中期选举，对中国有何影响？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
-      "published": "2026-11-05 10:04:27",
-      "genre": "分析评论"
+      "id": "ae1974812f73247be027e",
+      "title": "“黄仁勋通中”狂热升级，国会把“勒住中国”喊得山响",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8xybjxw5TZ4",
+      "published": "2026-11-11T23:26:54+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "a60804e59c1f1c00be839",
-      "title": "美俄为何偏爱改装“爷爷辈”轰炸机？",
+      "id": "a67231e103a2c091f0ed7",
+      "title": "专家解读辽宁舰编队中双055“万吨大驱”强大战力",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xMtGPaQbpK",
-      "published": "2026-10-20T06:57:45+08:00",
+      "url": "https://mil.ifeng.com/c/8xU9C1Cxi78",
+      "published": "2026-10-26T06:43:10+08:00",
       "genre": "分析评论"
     },
     {
@@ -584,20 +584,20 @@
       "genre": "人物与往事"
     },
     {
-      "id": "add78fcdfabb9ca0dbd5a",
-      "title": "被特朗普卖了？美国中期选举后，日本更害怕了",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xy6dcffElp",
-      "published": "2026-11-11T17:09:18+08:00",
+      "id": "a0c2d254e676c1469ce68",
+      "title": "一文速览美俄乌三方会谈要点：俄乌大规模换俘有望，美将进行穿梭外交",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8xybI0E9NLk",
+      "published": "2026-11-11T22:44:47+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a867bafe668cb27991dda",
-      "title": "法国要求德国解释怎么用远程导弹：别被俄罗斯核报复了",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xyUdY19UX8",
-      "published": "2026-11-11T22:41:05+08:00",
-      "genre": "新闻动态"
+      "id": "a60804e59c1f1c00be839",
+      "title": "美俄为何偏爱改装“爷爷辈”轰炸机？",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xMtGPaQbpK",
+      "published": "2026-10-20T06:57:45+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a18fae77e9db6e0c33c85",
@@ -616,19 +616,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8b9a6dff4e1b0a89405c",
-      "title": "总统被抓了，一家银行倒闭，掀翻特朗普在拉美的铁杆盟友",
-      "source": "世界论见",
-      "url": "https://original.ifeng.com/c/8xy1feQB5g9",
-      "published": "2026-11-11T16:09:11+08:00",
+      "id": "a1983564a57f6235ceff2",
+      "title": "美国要禁中国光模块，微软先急了，白宫已经被厂商“围攻”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xyUdY19UYt",
+      "published": "2026-11-11T22:41:05+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a63fcdcef6c0c11f8bafa",
-      "title": "美媒：情报显示伊朗仍然有战前一半弹道导弹产能",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xxxNtcA9Xv",
-      "published": "2026-11-11T14:53:04+08:00",
+      "id": "a9bc0cfb23c97b4bcc964",
+      "title": "西方情报：伊朗仍有至少1700枚导弹",
+      "source": "凤凰卫视",
+      "url": "https://news.ifeng.com/c/8xz5Y5pWXaH",
+      "published": "2026-11-12T07:34:08+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,19 +648,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3e88e649aff05537c4c8",
-      "title": "特朗普政府拟削减630万人食品补助，近180万名儿童或受影响",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8xy2qnYmH1t",
-      "published": "2026-11-11T16:07:01+08:00",
-      "genre": "新闻动态"
+      "id": "a26b66aa12a82a8402bd5",
+      "title": "两岸圆桌派｜民主党横扫国会两院，美国迎来“大清算”时代？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/gaozhikai/2026_11_05_907115_s.shtml",
+      "published": "2026-11-05 13:25:31",
+      "genre": "分析评论"
     },
     {
-      "id": "aa359f7b748d7d1a179c8",
-      "title": "美媒爆料：威胁升级，美财长被转移至军事基地",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8xxbJKskkz3",
-      "published": "2026-11-11T09:54:18+08:00",
+      "id": "a867bafe668cb27991dda",
+      "title": "法国要求德国解释怎么用远程导弹：别被俄罗斯核报复了",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xyUdY19UX8",
+      "published": "2026-11-11T22:41:05+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,19 +680,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5eee9b7e90f498fc6172",
-      "title": "女性议员、州长人数均创纪录，美国国会山政治版图迎来变革",
-      "source": "第一财经",
-      "url": "https://news.ifeng.com/c/8xy2Ey3sTOn",
-      "published": "2026-11-11T15:49:04+08:00",
-      "genre": "新闻动态"
+      "id": "a3b20ccab8fd7912db381",
+      "title": "美国中期选举，对中国有何影响？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/sunchenghao/2026_11_05_907131_s.shtml",
+      "published": "2026-11-05 10:04:27",
+      "genre": "分析评论"
     },
     {
-      "id": "afcdac47370b8a88617f2",
-      "title": "日本执意推进“再军事化”是在透支国家未来",
-      "source": "人民日报",
-      "url": "https://news.ifeng.com/c/8xxRtmpitbZ",
-      "published": "2026-11-11T07:31:31+08:00",
+      "id": "a63fcdcef6c0c11f8bafa",
+      "title": "美媒：情报显示伊朗仍然有战前一半弹道导弹产能",
+      "source": "环球网",
+      "url": "https://mil.ifeng.com/c/8xxxNtcA9Xv",
+      "published": "2026-11-11T14:53:04+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,27 +712,27 @@
       "genre": "作品解读"
     },
     {
-      "id": "a8c8aee95238b6cb7531b",
-      "title": "中国机场，怎么有那么多坐轮椅的印度人？",
-      "source": "Vista看天下",
-      "url": "https://news.ifeng.com/c/8xxbJKskkqR",
-      "published": "2026-11-11T09:41:14+08:00",
+      "id": "add78fcdfabb9ca0dbd5a",
+      "title": "被特朗普卖了？美国中期选举后，日本更害怕了",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xy6dcffElp",
+      "published": "2026-11-11T17:09:18+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a7fb18d1906800f3b19f8",
-      "title": "埃及外长：本国军队已在沙特驻扎数月支持其防御",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xwvCmJyqKr",
-      "published": "2026-11-11T06:54:42+08:00",
+      "id": "aa359f7b748d7d1a179c8",
+      "title": "美媒爆料：威胁升级，美财长被转移至军事基地",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8xxbJKskkz3",
+      "published": "2026-11-11T09:54:18+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "ab91bb052821cfb5fc8b6",
-      "title": "原创 福山新作《末人国度》：“历史终结论”提出37年来，重新审视自由民主",
-      "source": "搜狐文化",
-      "url": "https://www.sohu.com/a/1100180095_120005162",
-      "published": "2026-11-11 16:47",
+      "id": "a1b54ceaeee78b48943c4",
+      "title": "天天学习｜“振兴中华”的百年回响",
+      "source": "中国青年网",
+      "url": "https://www.sohu.com/a/1100402129_119038",
+      "published": "2026-11-12 08:27",
       "genre": "历史故事"
     },
     {
@@ -744,27 +744,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a15fd3e704fa2632b3b68",
-      "title": "欧洲拦截弹库存降至最低，不愿向乌克兰转让",
-      "source": "凤凰卫视",
-      "url": "https://news.ifeng.com/c/8xxWvznFVVT",
-      "published": "2026-11-11T08:42:37+08:00",
+      "id": "a8b9a6dff4e1b0a89405c",
+      "title": "总统被抓了，一家银行倒闭，掀翻特朗普在拉美的铁杆盟友",
+      "source": "世界论见",
+      "url": "https://original.ifeng.com/c/8xy1feQB5g9",
+      "published": "2026-11-11T16:09:11+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "adbf73ec9a41534d04f18",
-      "title": "援乌“志愿联盟”在波兰启动首次联合军演",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8xvse7B58Jq",
-      "published": "2026-11-11T06:49:38+08:00",
+      "id": "afcdac47370b8a88617f2",
+      "title": "日本执意推进“再军事化”是在透支国家未来",
+      "source": "人民日报",
+      "url": "https://news.ifeng.com/c/8xxRtmpitbZ",
+      "published": "2026-11-11T07:31:31+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a13447309b1582afd7e6e",
-      "title": "（台湾写真）在台北找寻中山先生的历史回响",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1100175446_123753",
-      "published": "2026-11-11 16:17",
+      "id": "aa098b60f315bbacf6192",
+      "title": "孙中山诞辰160周年｜中山路的一百年",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1100383688_260616",
+      "published": "2026-11-12 07:03",
       "genre": "历史故事"
     },
     {
@@ -776,19 +776,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a957d3c8a4bcab7a4d1b8",
-      "title": "乌外长：乌俄领导人直接会面有望加速冲突结束",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xx2o4Egumg",
-      "published": "2026-11-11T01:42:50+08:00",
+      "id": "a3e88e649aff05537c4c8",
+      "title": "特朗普政府拟削减630万人食品补助，近180万名儿童或受影响",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8xy2qnYmH1t",
+      "published": "2026-11-11T16:07:01+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a52b0c36459b6208a2a89",
-      "title": "新书 | 南宋古韵，尽览三国英豪——原大四色仿真影印宋本《三国志》",
-      "source": "善本古籍",
-      "url": "https://www.sohu.com/a/1099772191_562249",
-      "published": "2026-11-10 20:00",
+      "id": "ab91bb052821cfb5fc8b6",
+      "title": "原创 福山新作《末人国度》：“历史终结论”提出37年来，重新审视自由民主",
+      "source": "搜狐文化",
+      "url": "https://www.sohu.com/a/1100180095_120005162",
+      "published": "2026-11-11 16:47",
       "genre": "历史故事"
     },
     {
