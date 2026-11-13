@@ -1,5 +1,5 @@
 {
-  "revision": "3b83939aa7a24e8c5ddef376",
+  "revision": "7962a1825ed91d04d7e31592",
   "channels": {
     "news": 26,
     "military": 24,
@@ -24,11 +24,11 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a4e30eb00cdb6edbe35e6",
-      "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
-      "published": "2026年11月10日 22:03",
+      "id": "a2fb9eea8a2e24459f3d0",
+      "title": "台湾“九合一选举”倒计时15天！国民党召唤沉默选民拼双北胜选",
+      "source": "海峡导报",
+      "url": "https://news.ifeng.com/c/8y0p6HZUybH",
+      "published": "2026-11-13T08:42:21+08:00",
       "genre": "历史故事"
     },
     {
@@ -328,12 +328,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad97e9aa209df88faeef7",
-      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xqmrzsULos",
-      "published": "2026-11-07T06:49:06+08:00",
-      "genre": "分析评论"
+      "id": "abf209f98a2562651b9ff",
+      "title": "普京会见美总统特使，反对“灰色地带”",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y0rKGyKX4M",
+      "published": "2026-11-13T08:51:38+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a8c054800cc7f62323abc",
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a47747344ce7895c0364e",
-      "title": "进博会观察|是进口博览会，也是中国研发博览会",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
-      "published": "2026-11-06 14:33:42",
-      "genre": "分析评论"
+      "id": "a64ea84f54d63daf5e981",
+      "title": "黄仁勋同意到美国国会闭门作证",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y0pQ0zlxyo",
+      "published": "2026-11-13T08:35:46+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a8d2b0381d4a0043980d3",
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af971a6ee5910f3861f47",
-      "title": "凤凰专访伊朗高官：美伊谈判的最大难题，在于美国“自相矛盾”",
-      "source": "风云对话",
-      "url": "https://news.ifeng.com/c/8y04s9EzSC4",
-      "published": "2026-11-12T22:17:30+08:00",
+      "id": "a0561ffd59fc1c2eb2962",
+      "title": "中美这场最新对话传递怎样信号？",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8y0p6HZUyT1",
+      "published": "2026-11-13T07:27:05+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a97a2b049748e7011ea38",
-      "title": "凤凰记者探访APEC峰会举办地：美国人感慨“来了就是深圳人”",
-      "source": "凤凰卫视资讯台",
-      "url": "https://news.ifeng.com/c/8y00hvyaYMH",
-      "published": "2026-11-12T21:14:20+08:00",
+      "id": "a836acbca1c1fed66aaf6",
+      "title": "引发业内连锁反应，加剧市场焦虑情绪，黄仁勋辞职冲击美国AI行业",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8y0i3zf2hpZ",
+      "published": "2026-11-13T06:57:39+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,12 +456,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a881e6cbf8f113eda03d5",
-      "title": "俄外交部：欧洲正在阻碍、破坏谈判",
+      "id": "ad97e9aa209df88faeef7",
+      "title": "两天蒸发2.5万亿美元，美国AI资本会不会转向中国？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y03Kau5iBD",
-      "published": "2026-11-12T21:10:18+08:00",
-      "genre": "新闻动态"
+      "url": "https://news.ifeng.com/c/8xqmrzsULos",
+      "published": "2026-11-07T06:49:06+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "ac0c0dc2d0eed76a97875",
@@ -472,11 +472,11 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a799c3fbf5f563c6eeecb",
-      "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
+      "id": "a4e30eb00cdb6edbe35e6",
+      "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
-      "published": "2026年10月29日 10:52",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
+      "published": "2026年11月10日 22:03",
       "genre": "历史故事"
     },
     {
@@ -488,12 +488,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af0c698822e72a4164f74",
-      "title": "欧洲正屏息祈祷，今年冬天能温暖一点",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8xzxN2T4C93",
-      "published": "2026-11-12T20:53:26+08:00",
-      "genre": "新闻动态"
+      "id": "a47747344ce7895c0364e",
+      "title": "进博会观察|是进口博览会，也是中国研发博览会",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ChengShi/2026_11_06_907317_s.shtml",
+      "published": "2026-11-06 14:33:42",
+      "genre": "分析评论"
     },
     {
       "id": "a2324d18cdbbd935ab04c",
@@ -504,11 +504,11 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a5e9f59069adfc35e4cb9",
-      "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+      "id": "a799c3fbf5f563c6eeecb",
+      "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
-      "published": "2026年10月27日 22:03",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
+      "published": "2026年10月29日 10:52",
       "genre": "历史故事"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a83f1c4b3d38f7f42afa0",
-      "title": "印尼总统：接受副总统吉布兰辞职",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xzkEdnDTDo",
-      "published": "2026-11-12T16:33:52+08:00",
+      "id": "af971a6ee5910f3861f47",
+      "title": "凤凰专访伊朗高官：美伊谈判的最大难题，在于美国“自相矛盾”",
+      "source": "风云对话",
+      "url": "https://news.ifeng.com/c/8y04s9EzSC4",
+      "published": "2026-11-12T22:17:30+08:00",
       "genre": "新闻动态"
     },
     {
@@ -536,11 +536,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a0e160df03d04a4f4e7a0",
-      "title": "敞开国际对话之门 中外大学校长在沪研讨高等教育开放与人才培养",
+      "id": "a5e9f59069adfc35e4cb9",
+      "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721110.shtml",
-      "published": "2026年10月26日 14:51",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
+      "published": "2026年10月27日 22:03",
       "genre": "历史故事"
     },
     {
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a7d9af68763ad31420fc1",
-      "title": "外交部：美方应当停止编造所谓的间谍叙事、为实施科技封锁寻找借口",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xzfGLtQzwl",
-      "published": "2026-11-12T15:23:09+08:00",
+      "id": "a97a2b049748e7011ea38",
+      "title": "凤凰记者探访APEC峰会举办地：美国人感慨“来了就是深圳人”",
+      "source": "凤凰卫视资讯台",
+      "url": "https://news.ifeng.com/c/8y00hvyaYMH",
+      "published": "2026-11-12T21:14:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -568,11 +568,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a9638ac5b17922fc0ae4e",
-      "title": "原创 事态升级！解放军怒批，南京披日旗陈某黑料越扒越狠，家庭被曝光",
-      "source": "小鋭有话说",
-      "url": "https://www.sohu.com/a/1090614449_122536964",
-      "published": "2026-10-21 13:24",
+      "id": "a0e160df03d04a4f4e7a0",
+      "title": "敞开国际对话之门 中外大学校长在沪研讨高等教育开放与人才培养",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721110.shtml",
+      "published": "2026年10月26日 14:51",
       "genre": "历史故事"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa5ca9a4d388e5f15cacf",
-      "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
-      "source": "全球速报",
-      "url": "https://news.ifeng.com/c/8xz85EBAuVN",
-      "published": "2026-11-12T07:58:47+08:00",
+      "id": "a881e6cbf8f113eda03d5",
+      "title": "俄外交部：欧洲正在阻碍、破坏谈判",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y03Kau5iBD",
+      "published": "2026-11-12T21:10:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -600,11 +600,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "a18fae77e9db6e0c33c85",
-      "title": "1975年，被改造27年的兵团司令黄维特赦出狱，刮掉胡子后却提出一个请求，想见当年审讯他的解放军军官。",
-      "source": "社会生活新鲜事",
-      "url": "https://www.360kuai.com/92273944476fab570",
-      "published": "2026-10-19T19:33:07.000Z",
+      "id": "a9638ac5b17922fc0ae4e",
+      "title": "原创 事态升级！解放军怒批，南京披日旗陈某黑料越扒越狠，家庭被曝光",
+      "source": "小鋭有话说",
+      "url": "https://www.sohu.com/a/1090614449_122536964",
+      "published": "2026-10-21 13:24",
       "genre": "历史故事"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1d4325a1e4196ac4d843",
-      "title": "德军方瞎操心：禁用中国无人机",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xz5Y5pWXYR",
-      "published": "2026-11-12T07:31:23+08:00",
+      "id": "af0c698822e72a4164f74",
+      "title": "欧洲正屏息祈祷，今年冬天能温暖一点",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8xzxN2T4C93",
+      "published": "2026-11-12T20:53:26+08:00",
       "genre": "新闻动态"
     },
     {
@@ -632,11 +632,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "ad22d16b86765e961a23e",
-      "title": "原创 为什么邓小平剃光头站最左、42岁林彪居中破例举杯？邓榕回忆称二人无私人交往，傅高义直言：林彪是邓小平唯一没有往来的元帅",
-      "source": "国际小表妹",
-      "url": "https://www.sohu.com/a/1095251556_122615833",
-      "published": "2026-10-31 08:08",
+      "id": "a18fae77e9db6e0c33c85",
+      "title": "1975年，被改造27年的兵团司令黄维特赦出狱，刮掉胡子后却提出一个请求，想见当年审讯他的解放军军官。",
+      "source": "社会生活新鲜事",
+      "url": "https://www.360kuai.com/92273944476fab570",
+      "published": "2026-10-19T19:33:07.000Z",
       "genre": "历史故事"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3f8f79089267b0863682",
-      "title": "菲防长被自家外交部罕见回击，总统府出来“和稀泥”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xybI0E9NOQ",
-      "published": "2026-11-11T23:46:48+08:00",
+      "id": "a83f1c4b3d38f7f42afa0",
+      "title": "印尼总统：接受副总统吉布兰辞职",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xzkEdnDTDo",
+      "published": "2026-11-12T16:33:52+08:00",
       "genre": "新闻动态"
     },
     {
@@ -664,11 +664,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a8ca724aedd5c59e2a9f0",
-      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1090281990_161795",
-      "published": "2026-10-20 18:26",
+      "id": "ad22d16b86765e961a23e",
+      "title": "原创 为什么邓小平剃光头站最左、42岁林彪居中破例举杯？邓榕回忆称二人无私人交往，傅高义直言：林彪是邓小平唯一没有往来的元帅",
+      "source": "国际小表妹",
+      "url": "https://www.sohu.com/a/1095251556_122615833",
+      "published": "2026-10-31 08:08",
       "genre": "历史故事"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4ee62237c271762693c4",
-      "title": "美方要“欧洲全面参与乌克兰和平谈判”，可谁能做代表？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xybjxw5TaN",
-      "published": "2026-11-11T23:46:48+08:00",
+      "id": "a7d9af68763ad31420fc1",
+      "title": "外交部：美方应当停止编造所谓的间谍叙事、为实施科技封锁寻找借口",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xzfGLtQzwl",
+      "published": "2026-11-12T15:23:09+08:00",
       "genre": "新闻动态"
     },
     {
@@ -696,11 +696,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "acaf56c5afbf9b74caaaa",
-      "title": "采访王光美及其子女的回忆：是谁真正要把刘少奇和家人置于死地？",
-      "source": "国史网",
-      "url": "https://history.ifeng.com/c/8hKwaYeq8ss",
-      "published": "2025-02-28T10:56:30+08:00",
+      "id": "a8ca724aedd5c59e2a9f0",
+      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1090281990_161795",
+      "published": "2026-10-20 18:26",
       "genre": "历史故事"
     },
     {
@@ -712,11 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abbf2aa30dacd7b3b8288",
-      "title": "美国“无麻疹”地位将取消？美医生警告：已出现大范围传播",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8xybI0E9NQa",
-      "published": "2026-11-11T23:46:48+08:00",
+      "id": "aa5ca9a4d388e5f15cacf",
+      "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+      "source": "全球速报",
+      "url": "https://news.ifeng.com/c/8xz85EBAuVN",
+      "published": "2026-11-12T07:58:47+08:00",
       "genre": "新闻动态"
     },
     {
@@ -728,27 +728,27 @@
       "genre": "新闻动态"
     },
     {
-      "id": "abd51fe388bc2b3c4abcb",
-      "title": "孙中山与台湾：一段割不断的共同历史记忆",
+      "id": "ad7ecf6760f8641b9312d",
+      "title": "地标是如何炼成的｜宽窄巷子里，他们的川剧表演曾让诺奖得主着迷",
       "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1100643676_260616",
-      "published": "2026-11-12 16:20",
+      "url": "https://www.sohu.com/a/1100873809_260616",
+      "published": "2026-11-13 07:36",
       "genre": "历史故事"
     },
     {
-      "id": "a30982c2c1c6eabfe8723",
-      "title": "原创 “大衣哥”称证据已全部递交，经历七年网暴，此次绝不再心软",
-      "source": "娱跃龙门",
-      "url": "https://www.sohu.com/a/1099883513_122660456",
-      "published": "2026-11-11 05:00",
+      "id": "a3ab338f9b823d5c4eee5",
+      "title": "林生斌发长文：本人不是“保姆纵火案”的“幕后策划者”，移民澳大利亚、居住富人区等说法纯属捏造，“镇魂井”“镇魂墓”等纯属无稽之谈",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1100692156_161795",
+      "published": "2026-11-12 17:47",
       "genre": "人物与往事"
     },
     {
-      "id": "ae1974812f73247be027e",
-      "title": "“黄仁勋通中”狂热升级，国会把“勒住中国”喊得山响",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8xybjxw5TZ4",
-      "published": "2026-11-11T23:26:54+08:00",
+      "id": "a1d4325a1e4196ac4d843",
+      "title": "德军方瞎操心：禁用中国无人机",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8xz5Y5pWXYR",
+      "published": "2026-11-12T07:31:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -760,19 +760,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "abd1797b8fd7cf904b26a",
-      "title": "第六届亚洲学术体系的构建与发展：区域国别学视域下的亚洲文明研究",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1100540643_260616",
-      "published": "2026-11-12 13:11",
+      "id": "a0e7801c8bf299278b0a4",
+      "title": "申一涵分享：山西博物院藏青铜器巡礼9",
+      "source": "乐艺会",
+      "url": "https://www.sohu.com/a/1100856250_772510",
+      "published": "2026-11-13 05:55",
       "genre": "历史故事"
     },
     {
-      "id": "a1af6648c7ebc2605fd1d",
-      "title": "原创 黄总眼光还是可以的，如果一旦离婚的话，黄总的皮衣是不是要一人一半阿",
-      "source": "前HR随笔",
-      "url": "https://www.sohu.com/a/1099195717_122542340",
-      "published": "2026-11-09 16:07",
+      "id": "a30982c2c1c6eabfe8723",
+      "title": "原创 “大衣哥”称证据已全部递交，经历七年网暴，此次绝不再心软",
+      "source": "娱跃龙门",
+      "url": "https://www.sohu.com/a/1099883513_122660456",
+      "published": "2026-11-11 05:00",
       "genre": "人物与往事"
     },
     {
@@ -784,20 +784,20 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a0de5874bfce21f18ea31",
-      "title": "书讯 |《财阀、先知、主帅与君王》：戴蒙德重磅新书，以全景视野探析历史发展究竟是由谁决定？",
-      "source": "搜狐文化",
-      "url": "https://www.sohu.com/a/1100418307_120005162",
-      "published": "2026-11-12 09:27",
+      "id": "abd51fe388bc2b3c4abcb",
+      "title": "孙中山与台湾：一段割不断的共同历史记忆",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1100643676_260616",
+      "published": "2026-11-12 16:20",
       "genre": "历史故事"
     },
     {
-      "id": "aa2b78008db18081a857d",
-      "title": "贾静雯近照被嘲憔悴，评论区却吵翻了：50岁敢这样出镜的，真没几个",
-      "source": "娱乐推送员",
-      "url": "https://www.360kuai.com/921586b189a17b5a6",
-      "published": "2026-11-10T19:50:55.000Z",
-      "genre": "作品解读"
+      "id": "a1af6648c7ebc2605fd1d",
+      "title": "原创 黄总眼光还是可以的，如果一旦离婚的话，黄总的皮衣是不是要一人一半阿",
+      "source": "前HR随笔",
+      "url": "https://www.sohu.com/a/1099195717_122542340",
+      "published": "2026-11-09 16:07",
+      "genre": "人物与往事"
     },
     {
       "id": "ad615e7b3da08e3c633a5",
