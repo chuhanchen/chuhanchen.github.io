@@ -1,9 +1,9 @@
 {
-  "revision": "f05026b26e40e58673e3bc67",
+  "revision": "b0258091f0f5dfec76eee8ba",
   "channels": {
-    "news": 26,
+    "news": 25,
     "military": 24,
-    "history": 25,
+    "history": 26,
     "culture": 25
   },
   "articles": [
@@ -264,11 +264,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a75034ec96bd4778b4a69",
-      "title": "美国逾2.8万架次航班取消或延误，竟是一个路由器惹的祸？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_15_908387_s.shtml",
-      "published": "2026-11-15 07:31:31",
+      "id": "a7e8364cd06bdc4d3e957",
+      "title": "中共中央印发《中国共产党地方委员会工作条例》",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8y4kShd6rO6",
+      "published": "2026-11-15T16:50:55+08:00",
       "genre": "新闻动态"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5feb279e75a21f5f9b97",
-      "title": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8y40WqkbLXN",
-      "published": "2026-11-15T07:00:06+08:00",
+      "id": "a75034ec96bd4778b4a69",
+      "title": "美国逾2.8万架次航班取消或延误，竟是一个路由器惹的祸？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_15_908387_s.shtml",
+      "published": "2026-11-15 07:31:31",
       "genre": "新闻动态"
     },
     {
@@ -328,12 +328,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ade60454f2f8432f92294",
-      "title": "进博会观察|当外企“身体”接入中国“大脑”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
-      "published": "2026-11-08 19:45:28",
-      "genre": "分析评论"
+      "id": "a5ef959cff835f10bb600",
+      "title": "中国贸促会答凤凰：亚太地区资源禀赋各异、经济互补性强",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8y4hvU2jOoZ",
+      "published": "2026-11-15T15:05:01+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ab9eebd2d8c252d688e07",
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a07366a89d41a358a9075",
-      "title": "美国又有上万架次航班取消或延误",
-      "source": "CCTV国际时讯",
-      "url": "https://news.ifeng.com/c/8y3iqjldQpy",
-      "published": "2026-11-15T02:56:02+08:00",
+      "id": "a2fe8bc3add3e26dcbc46",
+      "title": "美国一女子熟睡中踩油门冲进球场致2死11伤，法官：免予刑诉",
+      "source": "现代快报",
+      "url": "https://news.ifeng.com/c/8y4RbpJZwn1",
+      "published": "2026-11-15T12:35:55+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a69ef94e0c9974cca4a2e",
-      "title": "以色列要撇开美国，单独打伊朗？",
+      "id": "a5feb279e75a21f5f9b97",
+      "title": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚",
       "source": "新华社",
-      "url": "https://news.ifeng.com/c/8y2zZ2Md18D",
-      "published": "2026-11-15T01:42:12+08:00",
+      "url": "https://news.ifeng.com/c/8y40WqkbLXN",
+      "published": "2026-11-15T07:00:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,12 +424,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a93894a7bdd9a78c7df09",
-      "title": "伊朗总统：特朗普被以色列欺骗了",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8y3ajy6DNPO",
-      "published": "2026-11-14T23:39:11+08:00",
-      "genre": "新闻动态"
+      "id": "ade60454f2f8432f92294",
+      "title": "进博会观察|当外企“身体”接入中国“大脑”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
+      "published": "2026-11-08 19:45:28",
+      "genre": "分析评论"
     },
     {
       "id": "a1783c6539437d4dbfaad",
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8a907bb0c65b0a6b63b1",
-      "title": "关乎算力基建的关键领域，中国专利占全球样本的80%",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3bNTO3aw3",
-      "published": "2026-11-14T22:49:21+08:00",
+      "id": "a07366a89d41a358a9075",
+      "title": "美国又有上万架次航班取消或延误",
+      "source": "CCTV国际时讯",
+      "url": "https://news.ifeng.com/c/8y3iqjldQpy",
+      "published": "2026-11-15T02:56:02+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a638bafe5dbb5557a46a8",
-      "title": "德国安全高官：特斯拉是美国车，仍可能有间谍风险",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3PDVOFTX1",
-      "published": "2026-11-14T22:00:18+08:00",
+      "id": "a69ef94e0c9974cca4a2e",
+      "title": "以色列要撇开美国，单独打伊朗？",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8y2zZ2Md18D",
+      "published": "2026-11-15T01:42:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae27e4ef1036b68e5ef79",
-      "title": "美国一汽车冲入足球赛场致两死",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3LOElp3Io",
-      "published": "2026-11-14T20:13:45+08:00",
+      "id": "a93894a7bdd9a78c7df09",
+      "title": "伊朗总统：特朗普被以色列欺骗了",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8y3ajy6DNPO",
+      "published": "2026-11-14T23:39:11+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a982271e9144a85bed1ee",
-      "title": "印度AI公司：我们优势很大，有能力赶上中美",
+      "id": "a8a907bb0c65b0a6b63b1",
+      "title": "关乎算力基建的关键领域，中国专利占全球样本的80%",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3HLFXowci",
-      "published": "2026-11-14T19:50:13+08:00",
+      "url": "https://news.ifeng.com/c/8y3bNTO3aw3",
+      "published": "2026-11-14T22:49:21+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1d635c834d7444409213",
-      "title": "传奇明星，参选总统",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8y3GXEawSvG",
-      "published": "2026-11-14T19:42:30+08:00",
+      "id": "a638bafe5dbb5557a46a8",
+      "title": "德国安全高官：特斯拉是美国车，仍可能有间谍风险",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y3PDVOFTX1",
+      "published": "2026-11-14T22:00:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afc7389854b2f6d8f33e4",
-      "title": "泽连斯基：美国首次提出，以乌军撤出顿巴斯换取加入北约",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y3EaFRAnI7",
-      "published": "2026-11-14T19:27:06+08:00",
+      "id": "ae27e4ef1036b68e5ef79",
+      "title": "美国一汽车冲入足球赛场致两死",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y3LOElp3Io",
+      "published": "2026-11-14T20:13:45+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,19 +648,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a03fdbccee15e36357d07",
-      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
+      "id": "aaf3220fe5268e1e2c347",
+      "title": "崔天凯：中美关系新定位进入APEC时刻",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
-      "published": "2026-11-08 07:25:20",
-      "genre": "分析评论"
+      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
+      "published": "2026-11-13 15:05:25",
+      "genre": "新闻动态"
     },
     {
-      "id": "a31e0c65a7c78156829fa",
-      "title": "关键时刻伊朗放出“地下导弹城”视频，大秀肌肉为哪般？",
-      "source": "新闻今日谈",
-      "url": "https://original.ifeng.com/c/8y3PDVOFTTA",
-      "published": "2026-11-14T22:02:39+08:00",
+      "id": "a94d9f0202773153e0907",
+      "title": "在真打实抗中检验新战法，直击导弹分队实弹演训",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8y4TaUBSrwX",
+      "published": "2026-11-15T12:56:41+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,19 +680,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a72aaffa7c83fd4b0cc07",
-      "title": "美国解除飞行禁令后仍大面积延误，凤凰记者直击华盛顿里根机场",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y2r9XX31u0",
-      "published": "2026-11-14T13:58:49+08:00",
+      "id": "a982271e9144a85bed1ee",
+      "title": "印度AI公司：我们优势很大，有能力赶上中美",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y3HLFXowci",
+      "published": "2026-11-14T19:50:13+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a82334437fd1a1b47d43a",
-      "title": "美财长承认移居军事基地，斥责《华尔街日报》泄露住址信息",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8y2qrq7XNaC",
-      "published": "2026-11-14T13:50:58+08:00",
+      "id": "a31e0c65a7c78156829fa",
+      "title": "关键时刻伊朗放出“地下导弹城”视频，大秀肌肉为哪般？",
+      "source": "新闻今日谈",
+      "url": "https://original.ifeng.com/c/8y3PDVOFTTA",
+      "published": "2026-11-14T22:02:39+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,11 +712,43 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2b9867fc342448366072",
-      "title": "特朗普下周访问亚洲，被曝会带马斯克，回避提及英伟达、黄仁勋",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8y2qrq7XNYe",
-      "published": "2026-11-14T13:13:43+08:00",
+      "id": "a1d635c834d7444409213",
+      "title": "传奇明星，参选总统",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8y3GXEawSvG",
+      "published": "2026-11-14T19:42:30+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a82334437fd1a1b47d43a",
+      "title": "美财长承认移居军事基地，斥责《华尔街日报》泄露住址信息",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8y2qrq7XNaC",
+      "published": "2026-11-14T13:50:58+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a37f9446615e4ca25defd",
+      "title": "墨西哥一共丧失多少领土：独立出去5个国家，还被美国占领一半",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1101830111_100140957",
+      "published": "2026-11-15 13:49",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a5b33e6ef462d308942b3",
+      "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
+      "published": "2026年11月15日 17:15",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "afc7389854b2f6d8f33e4",
+      "title": "泽连斯基：美国首次提出，以乌军撤出顿巴斯换取加入北约",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8y3EaFRAnI7",
+      "published": "2026-11-14T19:27:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -728,75 +760,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a7665e3201f37c3fa2b80",
-      "title": "中国不仅是一个国家，而是一个伪装成国家的文明，有何特别？",
+      "id": "a0a279ba6685297705c59",
+      "title": "韩网友曾发问：铁证都怼脸了，中国人怎么还不承认汉字源自韩国？",
       "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1101609833_100140957",
-      "published": "2026-11-14 20:55",
+      "url": "https://www.sohu.com/a/1101836497_100140957",
+      "published": "2026-11-15 13:52",
       "genre": "历史故事"
     },
     {
-      "id": "a3ab338f9b823d5c4eee5",
-      "title": "林生斌发长文：本人不是“保姆纵火案”的“幕后策划者”，移民澳大利亚、居住富人区等说法纯属捏造，“镇魂井”“镇魂墓”等纯属无稽之谈",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1100692156_161795",
-      "published": "2026-11-12 17:47",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "aeb66795bfa20c1b1f31a",
-      "title": "“菲律宾傍上美国这个组织，好跟中国要价”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y2pSrrRLRS",
-      "published": "2026-11-14T11:44:22+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "aff0176aa5ca52678b732",
-      "title": "时隔两个月，伊朗再次打击美军在中东军事设施",
-      "source": "新华网",
-      "url": "https://mil.ifeng.com/c/8y1AxnaaPpG",
-      "published": "2026-11-14T06:28:19+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "aaf81ad5688e948bc3f93",
-      "title": "一塘碧水润泽千年 海外华文媒体走读“天下第一塘”",
-      "source": "中国新闻网",
-      "url": "https://www.sohu.com/a/1101604761_123753",
-      "published": "2026-11-14 20:33",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a30982c2c1c6eabfe8723",
-      "title": "原创 “大衣哥”称证据已全部递交，经历七年网暴，此次绝不再心软",
-      "source": "娱跃龙门",
-      "url": "https://www.sohu.com/a/1099883513_122660456",
-      "published": "2026-11-11 05:00",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "aaf3220fe5268e1e2c347",
-      "title": "崔天凯：中美关系新定位进入APEC时刻",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
-      "published": "2026-11-13 15:05:25",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a9511f9f76fb619df15d5",
-      "title": "杨靖｜从蜜月到死敌：夏多布里昂如何在就职演讲上激怒拿破仑",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1101459930_260616",
-      "published": "2026-11-14 11:37",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a1af6648c7ebc2605fd1d",
-      "title": "原创 黄总眼光还是可以的，如果一旦离婚的话，黄总的皮衣是不是要一人一半阿",
-      "source": "前HR随笔",
-      "url": "https://www.sohu.com/a/1099195717_122542340",
-      "published": "2026-11-09 16:07",
+      "id": "a173868a3959f4edd65fc",
+      "title": "曝初代喊麦网红夫妻离婚！男方将妻子告上法庭，女方称有猛料没爆",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1100959316_356941",
+      "published": "2026-11-15 07:53",
       "genre": "人物与往事"
     },
     {
@@ -806,6 +782,30 @@
       "url": "https://www.360kuai.com/9b71b85deae3aed15",
       "published": "2026-11-12T07:36:09.000Z",
       "genre": "新闻动态"
+    },
+    {
+      "id": "a7665e3201f37c3fa2b80",
+      "title": "中国不仅是一个国家，而是一个伪装成国家的文明，有何特别？",
+      "source": "冷炮历史",
+      "url": "https://www.sohu.com/a/1101609833_100140957",
+      "published": "2026-11-14 20:55",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a1f6bb7eac5767f15b7e9",
+      "title": "原创 官宣离婚不到一个月，50 岁李小冉现身医院，原因至今无人说明",
+      "source": "小窗观百态",
+      "url": "https://www.sohu.com/a/1101632611_122745543",
+      "published": "2026-11-15 00:06",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "aaf81ad5688e948bc3f93",
+      "title": "一塘碧水润泽千年 海外华文媒体走读“天下第一塘”",
+      "source": "中国新闻网",
+      "url": "https://www.sohu.com/a/1101604761_123753",
+      "published": "2026-11-14 20:33",
+      "genre": "历史故事"
     }
   ]
 }
