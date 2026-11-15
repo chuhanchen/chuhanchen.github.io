@@ -1,5 +1,5 @@
 {
-  "revision": "5f0c475fc6be321e3818f740",
+  "revision": "f05026b26e40e58673e3bc67",
   "channels": {
     "news": 26,
     "military": 24,
@@ -264,12 +264,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ade60454f2f8432f92294",
-      "title": "进博会观察|当外企“身体”接入中国“大脑”",
+      "id": "a75034ec96bd4778b4a69",
+      "title": "美国逾2.8万架次航班取消或延误，竟是一个路由器惹的祸？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
-      "published": "2026-11-08 19:45:28",
-      "genre": "分析评论"
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_15_908387_s.shtml",
+      "published": "2026-11-15 07:31:31",
+      "genre": "新闻动态"
     },
     {
       "id": "a21fd1610d1fd7515a061",
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a07366a89d41a358a9075",
-      "title": "美国又有上万架次航班取消或延误",
-      "source": "CCTV国际时讯",
-      "url": "https://news.ifeng.com/c/8y3iqjldQpy",
-      "published": "2026-11-15T02:56:02+08:00",
+      "id": "a5feb279e75a21f5f9b97",
+      "title": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8y40WqkbLXN",
+      "published": "2026-11-15T07:00:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,12 +328,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a93894a7bdd9a78c7df09",
-      "title": "伊朗总统：特朗普被以色列欺骗了",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8y3ajy6DNPO",
-      "published": "2026-11-14T23:39:11+08:00",
-      "genre": "新闻动态"
+      "id": "ade60454f2f8432f92294",
+      "title": "进博会观察|当外企“身体”接入中国“大脑”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ChanJing/2026_11_08_907542_s.shtml",
+      "published": "2026-11-08 19:45:28",
+      "genre": "分析评论"
     },
     {
       "id": "ab9eebd2d8c252d688e07",
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8a907bb0c65b0a6b63b1",
-      "title": "关乎算力基建的关键领域，中国专利占全球样本的80%",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3bNTO3aw3",
-      "published": "2026-11-14T22:49:21+08:00",
+      "id": "a07366a89d41a358a9075",
+      "title": "美国又有上万架次航班取消或延误",
+      "source": "CCTV国际时讯",
+      "url": "https://news.ifeng.com/c/8y3iqjldQpy",
+      "published": "2026-11-15T02:56:02+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a638bafe5dbb5557a46a8",
-      "title": "德国安全高官：特斯拉是美国车，仍可能有间谍风险",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3PDVOFTX1",
-      "published": "2026-11-14T22:00:18+08:00",
+      "id": "a69ef94e0c9974cca4a2e",
+      "title": "以色列要撇开美国，单独打伊朗？",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8y2zZ2Md18D",
+      "published": "2026-11-15T01:42:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ae27e4ef1036b68e5ef79",
-      "title": "美国一汽车冲入足球赛场致两死",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3LOElp3Io",
-      "published": "2026-11-14T20:13:45+08:00",
+      "id": "a93894a7bdd9a78c7df09",
+      "title": "伊朗总统：特朗普被以色列欺骗了",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8y3ajy6DNPO",
+      "published": "2026-11-14T23:39:11+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a982271e9144a85bed1ee",
-      "title": "印度AI公司：我们优势很大，有能力赶上中美",
+      "id": "a8a907bb0c65b0a6b63b1",
+      "title": "关乎算力基建的关键领域，中国专利占全球样本的80%",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y3HLFXowci",
-      "published": "2026-11-14T19:50:13+08:00",
+      "url": "https://news.ifeng.com/c/8y3bNTO3aw3",
+      "published": "2026-11-14T22:49:21+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1d635c834d7444409213",
-      "title": "传奇明星，参选总统",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8y3GXEawSvG",
-      "published": "2026-11-14T19:42:30+08:00",
+      "id": "a638bafe5dbb5557a46a8",
+      "title": "德国安全高官：特斯拉是美国车，仍可能有间谍风险",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y3PDVOFTX1",
+      "published": "2026-11-14T22:00:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,12 +520,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a03fdbccee15e36357d07",
-      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
+      "id": "ae27e4ef1036b68e5ef79",
+      "title": "美国一汽车冲入足球赛场致两死",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
-      "published": "2026-11-08 07:25:20",
-      "genre": "分析评论"
+      "url": "https://news.ifeng.com/c/8y3LOElp3Io",
+      "published": "2026-11-14T20:13:45+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a2324d18cdbbd935ab04c",
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a72aaffa7c83fd4b0cc07",
-      "title": "美国解除飞行禁令后仍大面积延误，凤凰记者直击华盛顿里根机场",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y2r9XX31u0",
-      "published": "2026-11-14T13:58:49+08:00",
+      "id": "a982271e9144a85bed1ee",
+      "title": "印度AI公司：我们优势很大，有能力赶上中美",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y3HLFXowci",
+      "published": "2026-11-14T19:50:13+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2b9867fc342448366072",
-      "title": "特朗普下周访问亚洲，被曝会带马斯克，回避提及英伟达、黄仁勋",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8y2qrq7XNYe",
-      "published": "2026-11-14T13:13:43+08:00",
+      "id": "a1d635c834d7444409213",
+      "title": "传奇明星，参选总统",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8y3GXEawSvG",
+      "published": "2026-11-14T19:42:30+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aeb66795bfa20c1b1f31a",
-      "title": "“菲律宾傍上美国这个组织，好跟中国要价”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y2pSrrRLRS",
-      "published": "2026-11-14T11:44:22+08:00",
+      "id": "afc7389854b2f6d8f33e4",
+      "title": "泽连斯基：美国首次提出，以乌军撤出顿巴斯换取加入北约",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8y3EaFRAnI7",
+      "published": "2026-11-14T19:27:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,12 +648,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aaf3220fe5268e1e2c347",
-      "title": "崔天凯：中美关系新定位进入APEC时刻",
+      "id": "a03fdbccee15e36357d07",
+      "title": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
-      "published": "2026-11-13 15:05:25",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_11_08_907346_s.shtml",
+      "published": "2026-11-08 07:25:20",
+      "genre": "分析评论"
     },
     {
       "id": "a31e0c65a7c78156829fa",
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab5a6e5b0292360211657",
-      "title": "“收入榜前十，九个是中国平台”",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8y2OJv6Z0dR",
-      "published": "2026-11-14T06:58:00+08:00",
+      "id": "a72aaffa7c83fd4b0cc07",
+      "title": "美国解除飞行禁令后仍大面积延误，凤凰记者直击华盛顿里根机场",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y2r9XX31u0",
+      "published": "2026-11-14T13:58:49+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,11 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aab11c2a328ee0895849d",
-      "title": "11个市级政府被约谈，释放了什么信号？",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8y20liUWuUx",
-      "published": "2026-11-14T01:45:11+08:00",
+      "id": "a2b9867fc342448366072",
+      "title": "特朗普下周访问亚洲，被曝会带马斯克，回避提及英伟达、黄仁勋",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8y2qrq7XNYe",
+      "published": "2026-11-14T13:13:43+08:00",
       "genre": "新闻动态"
     },
     {
@@ -744,11 +744,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4193687cb72e6d07ed1e",
-      "title": "王毅分别同韩国外长赵显、出席2026中美政党对话美方代表会谈会见",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8y20liUWuRL",
-      "published": "2026-11-14T00:10:04+08:00",
+      "id": "aeb66795bfa20c1b1f31a",
+      "title": "“菲律宾傍上美国这个组织，好跟中国要价”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y2pSrrRLRS",
+      "published": "2026-11-14T11:44:22+08:00",
       "genre": "新闻动态"
     },
     {
@@ -776,11 +776,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8ec2e1ec3501124da4a4",
-      "title": "跟风模仿网红“闪身步”致腰颈不适，广州已有患者就诊",
-      "source": "众播新闻",
-      "url": "https://www.360kuai.com/9b71b85deae3aed15",
-      "published": "2026-11-12T07:36:09.000Z",
+      "id": "aaf3220fe5268e1e2c347",
+      "title": "崔天凯：中美关系新定位进入APEC时刻",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
+      "published": "2026-11-13 15:05:25",
       "genre": "新闻动态"
     },
     {
@@ -800,11 +800,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac5dee46c9059006704fe",
-      "title": "花坛藏尸案一审宣判现场画面曝光：陈某芬死刑立即执行，杨某根死缓；家属发声：“不管怎样，我觉得总体结果是好的”",
-      "source": "极目新闻",
-      "url": "https://www.360kuai.com/91d935ab1c72b15df",
-      "published": "2026-11-10T05:51:31.000Z",
+      "id": "a8ec2e1ec3501124da4a4",
+      "title": "跟风模仿网红“闪身步”致腰颈不适，广州已有患者就诊",
+      "source": "众播新闻",
+      "url": "https://www.360kuai.com/9b71b85deae3aed15",
+      "published": "2026-11-12T07:36:09.000Z",
       "genre": "新闻动态"
     }
   ]
