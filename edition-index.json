@@ -1,18 +1,18 @@
 {
-  "revision": "8c56c1bc125a9fa4e84a017e",
+  "revision": "465c2cac27abadae1bf9c156",
   "channels": {
     "news": 25,
-    "military": 24,
-    "history": 26,
+    "military": 25,
+    "history": 25,
     "culture": 25
   },
   "articles": [
     {
-      "id": "ab78da1211ed2a1042673",
-      "title": "逸语道破：谁在争夺美国AI政策的话语权？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_13_908223_s.shtml",
-      "published": "2026-11-13 17:07:10",
+      "id": "ac467372bbdf24fcce67c",
+      "title": "历史性大变局，中国老人数量首次超过儿童",
+      "source": "马江博说趋势",
+      "url": "https://news.ifeng.com/c/8y6izpLr284",
+      "published": "2026-11-16T21:26:57+08:00",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1858195307ab5bf1ad2a",
-      "title": "黄仁勋事件背后的美国AI焦虑",
-      "source": "浙江宣传",
-      "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
-      "published": "2026-11-12T07:35:25+08:00",
+      "id": "ab235306e57ef962dab58",
+      "title": "美国为何要求乌克兰割让顿巴斯？对俄罗斯意味着什么？",
+      "source": "新闻今日谈",
+      "url": "https://news.ifeng.com/c/8y6dMqyH8lY",
+      "published": "2026-11-16T20:45:39+08:00",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adcc2c07ada5babb20791",
-      "title": "菲律宾总统出面敲打涉华过激论调",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xz37xrXYZK",
-      "published": "2026-11-12T06:39:21+08:00",
+      "id": "ab78da1211ed2a1042673",
+      "title": "逸语道破：谁在争夺美国AI政策的话语权？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_13_908223_s.shtml",
+      "published": "2026-11-13 17:07:10",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a80e15fba60d7b14546f1",
-      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
-      "published": "2026-11-11 08:05:19",
+      "id": "a1858195307ab5bf1ad2a",
+      "title": "黄仁勋事件背后的美国AI焦虑",
+      "source": "浙江宣传",
+      "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
+      "published": "2026-11-12T07:35:25+08:00",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "acb2e43b59fc1dcca0cbc",
-      "title": "沈逸：黄仁勋遭“猎巫式”围攻，暴露美国霸权内争外斗的真面目",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_10_907763_s.shtml",
-      "published": "2026-11-10 16:22:52",
+      "id": "adcc2c07ada5babb20791",
+      "title": "菲律宾总统出面敲打涉华过激论调",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xz37xrXYZK",
+      "published": "2026-11-12T06:39:21+08:00",
       "genre": "分析评论"
     },
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a36af4492419369e9b2ba",
-      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
+      "id": "a80e15fba60d7b14546f1",
+      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
-      "published": "2026-11-10 14:19:22",
+      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
+      "published": "2026-11-11 08:05:19",
       "genre": "分析评论"
     },
     {
@@ -200,12 +200,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8bad5eac85f6d62a0083",
-      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
+      "id": "a088969683a1f0329f371",
+      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
-      "published": "2026-11-10 11:26:36",
-      "genre": "分析评论"
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
+      "published": "2026-11-16 21:33:24",
+      "genre": "新闻动态"
     },
     {
       "id": "a697367063de953696261",
@@ -232,11 +232,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2252eb36abdbb54803c3",
-      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xwZunybJKc",
-      "published": "2026-11-10T18:57:28+08:00",
+      "id": "acb2e43b59fc1dcca0cbc",
+      "title": "沈逸：黄仁勋遭“猎巫式”围攻，暴露美国霸权内争外斗的真面目",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ShenYi/2026_11_10_907763_s.shtml",
+      "published": "2026-11-10 16:22:52",
       "genre": "分析评论"
     },
     {
@@ -264,12 +264,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3a8bee2fbc5b1a683d81",
-      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
+      "id": "a36af4492419369e9b2ba",
+      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
-      "published": "2026-11-16 11:32:24",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
+      "published": "2026-11-10 14:19:22",
+      "genre": "分析评论"
     },
     {
       "id": "a21fd1610d1fd7515a061",
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a773052634c6246729d77",
-      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
-      "published": "2026-11-16 08:14:32",
+      "id": "a6c2d44e526e7140847c6",
+      "title": "被马克龙批评“话太多”，10年后奥朗德回敬：他是“短信总统”",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8y6lkL4r5LS",
+      "published": "2026-11-16T22:14:37+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a51ecb4daee4233c9215a",
-      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
+      "id": "aea20264d85baba7fa9b9",
+      "title": "法国盯上马来西亚稀土，“但还是绕不开中国”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
-      "published": "2026-11-16 09:37:50",
+      "url": "https://news.ifeng.com/c/8y6iyqj4lUC",
+      "published": "2026-11-16T21:33:49+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac35a75e3a78c22f43f5d",
-      "title": "蓝天不再是限定款！中国交出绿色亚太答卷",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y6DgBicEy1",
-      "published": "2026-11-16T14:24:11+08:00",
+      "id": "a17f056aabdb1cf57673f",
+      "title": "特朗普再访亚洲，各国领导人开始“留后手”",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8y6gOLPFSWb",
+      "published": "2026-11-16T21:17:55+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad824d557d360e33d79f0",
-      "title": "13岁学生用AI做出200款应用！英媒关注中国AI教育狂飙",
-      "source": "世界论见",
-      "url": "https://original.ifeng.com/c/8y69sderZVj",
-      "published": "2026-11-16T13:47:09+08:00",
+      "id": "a9e6b84a0eca08280d372",
+      "title": "允许加入北约，美国为何突然给乌克兰“开了口子”？",
+      "source": "凤凰卫视资讯台",
+      "url": "https://news.ifeng.com/c/8y6ehc2ZV8l",
+      "published": "2026-11-16T21:04:28+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac0e59121c8c88af5f04b",
-      "title": "国际冰联：因加拿大实施入境限制，俄罗斯将缺席世界青年冰球锦标赛",
+      "id": "a3a8bee2fbc5b1a683d81",
+      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y69MKhXnb0",
-      "published": "2026-11-16T13:30:14+08:00",
+      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
+      "published": "2026-11-16 11:32:24",
       "genre": "新闻动态"
     },
     {
@@ -456,12 +456,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a73b8bd7500992019e202",
-      "title": "中国砒霜治疗成国际方案，康复患者发声",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8y69MKhXncZ",
-      "published": "2026-11-16T13:12:16+08:00",
-      "genre": "新闻动态"
+      "id": "a8bad5eac85f6d62a0083",
+      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
+      "published": "2026-11-10 11:26:36",
+      "genre": "分析评论"
     },
     {
       "id": "ab1ad8da6e9b5cc923825",
@@ -488,12 +488,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3a39e4d1df5a03aecbdc",
-      "title": "莫桑比克一家中国超市遭持枪抢劫",
-      "source": "RT今日俄罗斯",
-      "url": "https://news.ifeng.com/c/8y67BVt4C44",
-      "published": "2026-11-16T12:45:09+08:00",
-      "genre": "新闻动态"
+      "id": "a2252eb36abdbb54803c3",
+      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
+      "source": "央视新闻",
+      "url": "https://news.ifeng.com/c/8xwZunybJKc",
+      "published": "2026-11-10T18:57:28+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "ac0c0dc2d0eed76a97875",
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a20d53be8e30f5083f223",
-      "title": "总统被捕，豪宅假墙后搜出秘密金库",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8y61xSVrhi2",
-      "published": "2026-11-16T11:31:46+08:00",
+      "id": "a51ecb4daee4233c9215a",
+      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
+      "published": "2026-11-16 09:37:50",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a974096487b2981612de5",
-      "title": "墨西哥总统辛鲍姆抵达深圳，将出席APEC领导人非正式会议",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8y62JzJ4nzr",
-      "published": "2026-11-16T11:30:02+08:00",
+      "id": "a773052634c6246729d77",
+      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
+      "published": "2026-11-16 08:14:32",
       "genre": "新闻动态"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a74df39f042cb66812b77",
-      "title": "特朗普又挑战美国最高法院，欲限制和削减法官权力",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8y5HN53X9H1",
-      "published": "2026-11-16T01:01:38+08:00",
+      "id": "a3b53f0ac02f3445174ea",
+      "title": "唐驳虎：从榴莲进口到关税休战，中国带来的增量不是收割",
+      "source": "唐驳虎",
+      "url": "https://original.ifeng.com/c/8y6Esuga6vw",
+      "published": "2026-11-16T15:01:33+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac40a091afe30c6a25d4e",
-      "title": "华裔科学家正加速“叛离”美国，中国接得住吗？",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8y5FFse6FAM",
-      "published": "2026-11-15T23:36:58+08:00",
+      "id": "ac35a75e3a78c22f43f5d",
+      "title": "蓝天不再是限定款！中国交出绿色亚太答卷",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y6DgBicEy1",
+      "published": "2026-11-16T14:24:11+08:00",
       "genre": "新闻动态"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a787466e3aae35c0d1e3d",
-      "title": "万斯或调离伊朗事务，伊方评估：冲突可能性或增加",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8y5HqnPrfJv",
-      "published": "2026-11-15T23:29:08+08:00",
+      "id": "ad824d557d360e33d79f0",
+      "title": "13岁学生用AI做出200款应用！英媒关注中国AI教育狂飙",
+      "source": "世界论见",
+      "url": "https://original.ifeng.com/c/8y69sderZVj",
+      "published": "2026-11-16T13:47:09+08:00",
       "genre": "新闻动态"
     },
     {
@@ -664,11 +664,11 @@
       "genre": "分析评论"
     },
     {
-      "id": "ad22d16b86765e961a23e",
-      "title": "原创 为什么邓小平剃光头站最左、42岁林彪居中破例举杯？邓榕回忆称二人无私人交往，傅高义直言：林彪是邓小平唯一没有往来的元帅",
-      "source": "国际小表妹",
-      "url": "https://www.sohu.com/a/1095251556_122615833",
-      "published": "2026-10-31 08:08",
+      "id": "a9fa48d65a6d344c2fd12",
+      "title": "宜博秦王卑命钟亮相大洋彼岸讲述秦楚往事",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1102415469_121107011",
+      "published": "2026-11-16 16:08",
       "genre": "历史故事"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adfe5785a3f66a6588905",
-      "title": "哈佛顶尖教授加盟清华，“希望吸引更多在美人才回中国”",
+      "id": "ac0e59121c8c88af5f04b",
+      "title": "国际冰联：因加拿大实施入境限制，俄罗斯将缺席世界青年冰球锦标赛",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y58AJ4SA94",
-      "published": "2026-11-15T22:20:53+08:00",
+      "url": "https://news.ifeng.com/c/8y69MKhXnb0",
+      "published": "2026-11-16T13:30:14+08:00",
       "genre": "新闻动态"
     },
     {
@@ -696,11 +696,11 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a8ca724aedd5c59e2a9f0",
-      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1090281990_161795",
-      "published": "2026-10-20 18:26",
+      "id": "ad22d16b86765e961a23e",
+      "title": "原创 为什么邓小平剃光头站最左、42岁林彪居中破例举杯？邓榕回忆称二人无私人交往，傅高义直言：林彪是邓小平唯一没有往来的元帅",
+      "source": "国际小表妹",
+      "url": "https://www.sohu.com/a/1095251556_122615833",
+      "published": "2026-10-31 08:08",
       "genre": "历史故事"
     },
     {
@@ -712,27 +712,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afc411a5ed71fbba12893",
-      "title": "中国要严厉打击财务造假",
-      "source": "马江博说趋势",
-      "url": "https://news.ifeng.com/c/8y53nPOwaxj",
-      "published": "2026-11-15T21:25:00+08:00",
+      "id": "a73b8bd7500992019e202",
+      "title": "中国砒霜治疗成国际方案，康复患者发声",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8y69MKhXncZ",
+      "published": "2026-11-16T13:12:16+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a94d9f0202773153e0907",
-      "title": "在真打实抗中检验新战法，直击导弹分队实弹演训",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8y4TaUBSrwX",
-      "published": "2026-11-15T12:56:41+08:00",
+      "id": "a7fdd2e4bcb852568ae9a",
+      "title": "美“罗斯福”号抵达中东，形成三航母部署",
+      "source": "新华网",
+      "url": "https://news.ifeng.com/c/8y5yAMgLe21",
+      "published": "2026-11-16T10:43:33+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a9134080320fa01931230",
-      "title": "沉迷“冷门绝学”的年轻人",
-      "source": "新京报",
-      "url": "https://www.sohu.com/a/1102036811_114988",
-      "published": "2026-11-16 08:42",
+      "id": "a8ca724aedd5c59e2a9f0",
+      "title": "有日本学生看到报纸史料当场愣住：过去不太了解……94年华人小伙，花4万美元竞拍东京审判检察官私人档案，自费办展，“初心是不能遗忘”",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1090281990_161795",
+      "published": "2026-10-20 18:26",
       "genre": "历史故事"
     },
     {
@@ -744,27 +744,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a54ce25e3fb63686c59e3",
-      "title": "遭BLG“一穿四”，韩媒承认：韩国独霸时代落幕，最强地位转归中国",
+      "id": "a3a39e4d1df5a03aecbdc",
+      "title": "莫桑比克一家中国超市遭持枪抢劫",
+      "source": "RT今日俄罗斯",
+      "url": "https://news.ifeng.com/c/8y67BVt4C44",
+      "published": "2026-11-16T12:45:09+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "ae296360b41e32308cac1",
+      "title": "反对德国加入日英意下一代战机计划？意大利回应",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y50nKad4eV",
-      "published": "2026-11-15T21:05:12+08:00",
+      "url": "https://news.ifeng.com/c/8y4IlLzjxfW",
+      "published": "2026-11-16T06:45:12+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a31e0c65a7c78156829fa",
-      "title": "关键时刻伊朗放出“地下导弹城”视频，大秀肌肉为哪般？",
-      "source": "新闻今日谈",
-      "url": "https://original.ifeng.com/c/8y3PDVOFTTA",
-      "published": "2026-11-14T22:02:39+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a9e20996cb125705e21dc",
-      "title": "弄潮第十章：归去来兮·三大洲七年孤旅",
-      "source": "光合氧吧",
-      "url": "https://www.sohu.com/a/1102034028_120642749",
-      "published": "2026-11-16 10:52",
+      "id": "acaf56c5afbf9b74caaaa",
+      "title": "采访王光美及其子女的回忆：是谁真正要把刘少奇和家人置于死地？",
+      "source": "国史网",
+      "url": "https://history.ifeng.com/c/8hKwaYeq8ss",
+      "published": "2025-02-28T10:56:30+08:00",
       "genre": "历史故事"
     },
     {
@@ -784,11 +784,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a0a279ba6685297705c59",
-      "title": "韩网友曾发问：铁证都怼脸了，中国人怎么还不承认汉字源自韩国？",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1101836497_100140957",
-      "published": "2026-11-15 13:52",
+      "id": "ac076db246e14f5219d7f",
+      "title": "滥用AI恶搞红军形象，英雄荣光岂能拿来低俗二创？",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732993.shtml",
+      "published": "2026年11月16日 20:02",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "ae3f113964dd1ceeecfc9",
+      "title": "展览解读｜三件碑刻拓片，读懂欧阳修的文心与家国",
+      "source": "博物馆世界",
+      "url": "https://www.sohu.com/a/1102264731_121107011",
+      "published": "2026-11-16 16:08",
       "genre": "历史故事"
     },
     {
@@ -798,14 +806,6 @@
       "url": "https://www.sohu.com/a/1102014274_260616",
       "published": "2026-11-16 07:12",
       "genre": "人物与往事"
-    },
-    {
-      "id": "a6ea18c80abd8cf1aa803",
-      "title": "就凭两伊战争时的那股劲，波斯教士集团也不可能轻易步巴列维后尘",
-      "source": "冷炮历史",
-      "url": "https://www.sohu.com/a/1101836492_100140957",
-      "published": "2026-11-15 13:50",
-      "genre": "历史故事"
     }
   ]
 }
