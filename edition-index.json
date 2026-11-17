@@ -1,8 +1,8 @@
 {
-  "revision": "ac3f3b8c4e5adbbc6ca5e6fb",
+  "revision": "5fbb5eef3a9824a9606066dc",
   "channels": {
-    "news": 25,
-    "military": 25,
+    "news": 26,
+    "military": 24,
     "history": 25,
     "culture": 25
   },
@@ -232,19 +232,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a80e15fba60d7b14546f1",
-      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
-      "published": "2026-11-11 08:05:19",
-      "genre": "分析评论"
+      "id": "a17951b3bf2d068bd582d",
+      "title": "会与普京在中国举行双边会谈吗？特朗普回应",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8y8JOIbPolz",
+      "published": "2026-11-17T20:43:57+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "a95ade0a68fde6b99debf",
-      "title": "飞行员培训不统一，“阵风”首降印度航母后麻烦多",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xk7NX10Bc5",
-      "published": "2026-11-03T06:49:43+08:00",
+      "id": "a21fd1610d1fd7515a061",
+      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
+      "published": "2026-10-25 08:23:25",
       "genre": "分析评论"
     },
     {
@@ -264,19 +264,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab8db4bcfc85243754882",
-      "title": "美媒揭特朗普政府里最隐秘的合作：鲁比奥与他意外结盟",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y7YKAiAQ1Q",
-      "published": "2026-11-17T09:40:20+08:00",
+      "id": "af31b4f97b67c647bc091",
+      "title": "美国限制远程获取先进半导体，商务部回应",
+      "source": "商务部",
+      "url": "https://news.ifeng.com/c/8y8IaZp9GGY",
+      "published": "2026-11-17T20:20:00+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a21fd1610d1fd7515a061",
-      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
-      "published": "2026-10-25 08:23:25",
+      "id": "aae3ff04123e16e1a792a",
+      "title": "陈赓的军事生涯：为何未能授予元帅军衔",
+      "source": "历史长河无尽头",
+      "url": "https://www.360kuai.com/9fbe51f1873d2c114",
+      "published": "2026-10-19T06:05:21.000Z",
       "genre": "分析评论"
     },
     {
@@ -296,19 +296,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a088969683a1f0329f371",
-      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
+      "id": "a80e15fba60d7b14546f1",
+      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
-      "published": "2026-11-16 21:33:24",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
+      "published": "2026-11-11 08:05:19",
+      "genre": "分析评论"
     },
     {
-      "id": "aae3ff04123e16e1a792a",
-      "title": "陈赓的军事生涯：为何未能授予元帅军衔",
-      "source": "历史长河无尽头",
-      "url": "https://www.360kuai.com/9fbe51f1873d2c114",
-      "published": "2026-10-19T06:05:21.000Z",
+      "id": "a95ade0a68fde6b99debf",
+      "title": "飞行员培训不统一，“阵风”首降印度航母后麻烦多",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xk7NX10Bc5",
+      "published": "2026-11-03T06:49:43+08:00",
       "genre": "分析评论"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a87af16e78fc26a7e50f9",
-      "title": "在“中国电子第一街”，他们看到了什么",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y7UrxdLpij",
-      "published": "2026-11-17T09:05:55+08:00",
+      "id": "a088969683a1f0329f371",
+      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
+      "published": "2026-11-16 21:33:24",
       "genre": "新闻动态"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afa91c38984e287f0a83e",
-      "title": "5G基站483.8万个、研发人员连续13年世界第一，中国创新为亚太添动能",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y7UZpTr9Mh",
-      "published": "2026-11-17T08:57:56+08:00",
+      "id": "a58813fd58f1a734fd424",
+      "title": "特朗普出访亚洲团队名单曝光",
+      "source": "江西都市现场",
+      "url": "https://news.ifeng.com/c/8y8DeVuyMUR",
+      "published": "2026-11-17T19:17:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac2c95977f1be51a30d52",
-      "title": "50项务实成果、一半聚焦数智，APEC中国年经贸合作交出成绩单",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y7UuGEnV2d",
-      "published": "2026-11-17T08:52:07+08:00",
+      "id": "a707b7be3731dab29998f",
+      "title": "中国游客违规攀登富士山，失联前喘着粗气说：一个人都没有",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8y8C5oHuzBR",
+      "published": "2026-11-17T18:54:22+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a23045e033e7cf92d61c1",
-      "title": "美情报称伊朗企图在华盛顿引爆脏弹，袭击美国官员",
+      "id": "a7a6e1d5c27494d5f1cbb",
+      "title": "他兴冲冲宣布重磅嘉宾阵容，马斯克：我那会儿在中国",
       "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y7NIRX8JDr",
-      "published": "2026-11-17T07:24:03+08:00",
+      "url": "https://original.ifeng.com/c/8y7tpVxew0y",
+      "published": "2026-11-17T14:45:59+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,12 +488,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a36af4492419369e9b2ba",
-      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
-      "published": "2026-11-10 14:19:22",
-      "genre": "分析评论"
+      "id": "ab8db4bcfc85243754882",
+      "title": "美媒揭特朗普政府里最隐秘的合作：鲁比奥与他意外结盟",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8y7YKAiAQ1Q",
+      "published": "2026-11-17T09:40:20+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ac0c0dc2d0eed76a97875",
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6c2d44e526e7140847c6",
-      "title": "被马克龙批评“话太多”，10年后奥朗德回敬：他是“短信总统”",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8y6lkL4r5LS",
-      "published": "2026-11-16T22:14:37+08:00",
+      "id": "a87af16e78fc26a7e50f9",
+      "title": "在“中国电子第一街”，他们看到了什么",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y7UrxdLpij",
+      "published": "2026-11-17T09:05:55+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aea20264d85baba7fa9b9",
-      "title": "法国盯上马来西亚稀土，“但还是绕不开中国”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y6iyqj4lUC",
-      "published": "2026-11-16T21:33:49+08:00",
+      "id": "afa91c38984e287f0a83e",
+      "title": "5G基站483.8万个、研发人员连续13年世界第一，中国创新为亚太添动能",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y7UZpTr9Mh",
+      "published": "2026-11-17T08:57:56+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,20 +584,20 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a17f056aabdb1cf57673f",
-      "title": "特朗普再访亚洲，各国领导人开始“留后手”",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8y6gOLPFSWb",
-      "published": "2026-11-16T21:17:55+08:00",
+      "id": "ac2c95977f1be51a30d52",
+      "title": "50项务实成果、一半聚焦数智，APEC中国年经贸合作交出成绩单",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8y7UuGEnV2d",
+      "published": "2026-11-17T08:52:07+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "ac6c23d189a60e749df95",
-      "title": "“玄龙”如何隐身？攻击-11无人机更多硬核实力揭秘",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xy1feQB5b3",
-      "published": "2026-11-12T06:37:01+08:00",
-      "genre": "分析评论"
+      "id": "ac076db246e14f5219d7f",
+      "title": "滥用AI恶搞红军形象，英雄荣光岂能拿来低俗二创？",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732993.shtml",
+      "published": "2026年11月16日 20:02",
+      "genre": "新闻动态"
     },
     {
       "id": "a0e160df03d04a4f4e7a0",
@@ -616,19 +616,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3a8bee2fbc5b1a683d81",
-      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
+      "id": "a36af4492419369e9b2ba",
+      "title": "世界科先声：半个世纪的氢能技术，为什么要到中国找出路？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
-      "published": "2026-11-16 11:32:24",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/shijiekexiansheng/2026_11_10_907747_s.shtml",
+      "published": "2026-11-10 14:19:22",
+      "genre": "分析评论"
     },
     {
-      "id": "a67231e103a2c091f0ed7",
-      "title": "专家解读辽宁舰编队中双055“万吨大驱”强大战力",
+      "id": "ac6c23d189a60e749df95",
+      "title": "“玄龙”如何隐身？攻击-11无人机更多硬核实力揭秘",
       "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xU9C1Cxi78",
-      "published": "2026-10-26T06:43:10+08:00",
+      "url": "https://mil.ifeng.com/c/8xy1feQB5b3",
+      "published": "2026-11-12T06:37:01+08:00",
       "genre": "分析评论"
     },
     {
@@ -648,19 +648,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a8bad5eac85f6d62a0083",
-      "title": "罗思义| 美国民众用行动宣告：不要外部对抗，不想为此付出代价",
+      "id": "a3a8bee2fbc5b1a683d81",
+      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/LuoSiYi/2026_11_10_907645_s.shtml",
-      "published": "2026-11-10 11:26:36",
-      "genre": "分析评论"
+      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
+      "published": "2026-11-16 11:32:24",
+      "genre": "新闻动态"
     },
     {
-      "id": "a60804e59c1f1c00be839",
-      "title": "美俄为何偏爱改装“爷爷辈”轰炸机？",
+      "id": "a67231e103a2c091f0ed7",
+      "title": "专家解读辽宁舰编队中双055“万吨大驱”强大战力",
       "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xMtGPaQbpK",
-      "published": "2026-10-20T06:57:45+08:00",
+      "url": "https://mil.ifeng.com/c/8xU9C1Cxi78",
+      "published": "2026-10-26T06:43:10+08:00",
       "genre": "分析评论"
     },
     {
@@ -680,20 +680,20 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a9e6b84a0eca08280d372",
-      "title": "允许加入北约，美国为何突然给乌克兰“开了口子”？",
-      "source": "凤凰卫视资讯台",
-      "url": "https://news.ifeng.com/c/8y6ehc2ZV8l",
-      "published": "2026-11-16T21:04:28+08:00",
+      "id": "a23045e033e7cf92d61c1",
+      "title": "美情报称伊朗企图在华盛顿引爆脏弹，袭击美国官员",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8y7NIRX8JDr",
+      "published": "2026-11-17T07:24:03+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "aba616df000ce05867cf8",
-      "title": "伊朗媒体：四代导弹转入地下部署，这座城让美军空袭失去意义",
-      "source": "前哨",
-      "url": "https://original.ifeng.com/c/8y63ASf87nY",
-      "published": "2026-11-16T12:23:20+08:00",
-      "genre": "新闻动态"
+      "id": "a60804e59c1f1c00be839",
+      "title": "美俄为何偏爱改装“爷爷辈”轰炸机？",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xMtGPaQbpK",
+      "published": "2026-10-20T06:57:45+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a9fa48d65a6d344c2fd12",
@@ -712,19 +712,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a2252eb36abdbb54803c3",
-      "title": "不能进俄美乌三方谈判主会场，欧洲为何仍要“蹭会”？",
-      "source": "央视新闻",
-      "url": "https://news.ifeng.com/c/8xwZunybJKc",
-      "published": "2026-11-10T18:57:28+08:00",
-      "genre": "分析评论"
+      "id": "a6c2d44e526e7140847c6",
+      "title": "被马克龙批评“话太多”，10年后奥朗德回敬：他是“短信总统”",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8y6lkL4r5LS",
+      "published": "2026-11-16T22:14:37+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "ac076db246e14f5219d7f",
-      "title": "滥用AI恶搞红军形象，英雄荣光岂能拿来低俗二创？",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732993.shtml",
-      "published": "2026年11月16日 20:02",
+      "id": "a033dbec49d7781f6d6d7",
+      "title": "2049架无人机、4枚导弹，克里米亚大桥拱架被乌军“打歪”",
+      "source": "前哨",
+      "url": "https://original.ifeng.com/c/8y7wqgq0s9g",
+      "published": "2026-11-17T15:29:34+08:00",
       "genre": "新闻动态"
     },
     {
@@ -744,19 +744,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a51ecb4daee4233c9215a",
-      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
+      "id": "aea20264d85baba7fa9b9",
+      "title": "法国盯上马来西亚稀土，“但还是绕不开中国”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
-      "published": "2026-11-16 09:37:50",
+      "url": "https://news.ifeng.com/c/8y6iyqj4lUC",
+      "published": "2026-11-16T21:33:49+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a7fdd2e4bcb852568ae9a",
-      "title": "美“罗斯福”号抵达中东，形成三航母部署",
-      "source": "新华网",
-      "url": "https://news.ifeng.com/c/8y5yAMgLe21",
-      "published": "2026-11-16T10:43:33+08:00",
+      "id": "aba616df000ce05867cf8",
+      "title": "伊朗媒体：四代导弹转入地下部署，这座城让美军空袭失去意义",
+      "source": "前哨",
+      "url": "https://original.ifeng.com/c/8y63ASf87nY",
+      "published": "2026-11-16T12:23:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -768,35 +768,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "ac83fb1da2358d720927e",
-      "title": "原创 分手13年后，蒋欣再次高调官宣喜讯！前任王阳也早已结婚生子",
-      "source": "墨韵兰亭",
-      "url": "https://www.sohu.com/a/1102471165_122499135",
-      "published": "2026-11-17 04:35",
+      "id": "a0ed93f16251d58bab427",
+      "title": "原创 79岁靳羽西近况曝光！与马明斯离婚31年，如今小15岁男友甜蜜陪伴",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1102391815_120695645",
+      "published": "2026-11-17 08:08",
       "genre": "人物与往事"
     },
     {
-      "id": "a773052634c6246729d77",
-      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "id": "a51ecb4daee4233c9215a",
+      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
-      "published": "2026-11-16 08:14:32",
+      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
+      "published": "2026-11-16 09:37:50",
       "genre": "新闻动态"
     },
     {
-      "id": "ae296360b41e32308cac1",
-      "title": "反对德国加入日英意下一代战机计划？意大利回应",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y4IlLzjxfW",
-      "published": "2026-11-16T06:45:12+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "acaf56c5afbf9b74caaaa",
-      "title": "采访王光美及其子女的回忆：是谁真正要把刘少奇和家人置于死地？",
-      "source": "国史网",
-      "url": "https://history.ifeng.com/c/8hKwaYeq8ss",
-      "published": "2025-02-28T10:56:30+08:00",
+      "id": "a54ef07882d26af900f60",
+      "title": "益隆炮竹厂历史影像馆澳门开幕",
+      "source": "新华社",
+      "url": "https://www.sohu.com/a/1102863445_267106",
+      "published": "2026-11-17 21:24",
       "genre": "历史故事"
     },
     {
@@ -806,6 +798,14 @@
       "url": "https://www.sohu.com/a/1102503022_122499145",
       "published": "2026-11-17 07:30",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a773052634c6246729d77",
+      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
+      "published": "2026-11-16 08:14:32",
+      "genre": "新闻动态"
     }
   ]
 }
