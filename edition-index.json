@@ -1,10 +1,10 @@
 {
-  "revision": "3f0a63fbc488227fb372ca95",
+  "revision": "85b45efe1490dfc046a9ddb7",
   "channels": {
-    "news": 25,
+    "news": 24,
     "military": 24,
     "history": 26,
-    "culture": 25
+    "culture": 26
   },
   "articles": [
     {
@@ -168,11 +168,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a17a2e560ac762ee7712a",
-      "title": "香港航空界：全球航线助亚太经济体互联互通",
-      "source": "凤凰卫视",
-      "url": "https://original.ifeng.com/c/8y9WnqnCnia",
-      "published": "2026-11-18T14:05:01+08:00",
+      "id": "ab8a02fd0ecce23f7ed41",
+      "title": "担忧驻军安全，美国陆军在中东急修混凝土掩体",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yA1zJHmuR5",
+      "published": "2026-11-18T21:25:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a76564ebe2af6d7596c60",
-      "title": "日本政府被曝拟从装备出口规则前言中删除无核三原则",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y9LynoVPbt",
-      "published": "2026-11-18T11:50:12+08:00",
+      "id": "a36967549ea7bbfa666d4",
+      "title": "中国科学家首次获奖，祝贺！",
+      "source": "科技日报",
+      "url": "https://news.ifeng.com/c/8y9zWpytkeC",
+      "published": "2026-11-18T21:05:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -232,12 +232,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1858195307ab5bf1ad2a",
-      "title": "黄仁勋事件背后的美国AI焦虑",
-      "source": "浙江宣传",
-      "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
-      "published": "2026-11-12T07:35:25+08:00",
-      "genre": "分析评论"
+      "id": "a636f8e022eea274124e7",
+      "title": "“未来的超级明星，不会来自加州，而是来自中国”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y9xw8AcY0D",
+      "published": "2026-11-18T20:35:23+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a21fd1610d1fd7515a061",
@@ -264,12 +264,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adcc2c07ada5babb20791",
-      "title": "菲律宾总统出面敲打涉华过激论调",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xz37xrXYZK",
-      "published": "2026-11-12T06:39:21+08:00",
-      "genre": "分析评论"
+      "id": "acbab54bc4e6aae636d38",
+      "title": "专家：中俄美领导人首次面对面会晤，唯有在中国、在深圳能够举行",
+      "source": "新闻今日谈",
+      "url": "https://original.ifeng.com/c/8y9uUqlUxAL",
+      "published": "2026-11-18T19:58:33+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a95ade0a68fde6b99debf",
@@ -296,12 +296,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a80e15fba60d7b14546f1",
-      "title": "前驻华大使马苏德·哈立德：出使中国六年半，我见证了“巴铁”情谊如何穿越时代风浪",
+      "id": "a088969683a1f0329f371",
+      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/MasoodKhalid/2026_11_11_907136_s.shtml",
-      "published": "2026-11-11 08:05:19",
-      "genre": "分析评论"
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
+      "published": "2026-11-16 21:33:24",
+      "genre": "新闻动态"
     },
     {
       "id": "aae3ff04123e16e1a792a",
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aea51b5e0c24c158e1d5e",
-      "title": "特朗普声称：美稀土产量将在10个月内追平中国",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y8dZAMbcns",
-      "published": "2026-11-18T02:04:40+08:00",
+      "id": "a3d60a494eadfa6899d72",
+      "title": "美国将遭遇“90天大停电”？万斯：现在没必要建地堡囤粮食",
+      "source": "每日经济新闻",
+      "url": "https://news.ifeng.com/c/8y9w0ZCQKhx",
+      "published": "2026-11-18T19:36:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a088969683a1f0329f371",
-      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
+      "id": "a3a8bee2fbc5b1a683d81",
+      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
-      "published": "2026-11-16 21:33:24",
+      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
+      "published": "2026-11-16 11:32:24",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afa17a9d729acd305441d",
-      "title": "美国国家安全局高度机密网络瘫痪",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8y8VWQR4Rfe",
-      "published": "2026-11-17T23:49:48+08:00",
+      "id": "a1193adb3ecf08eb33115",
+      "title": "菲律宾：没和美国签任何贸易文件",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y9pLTD1ryJ",
+      "published": "2026-11-18T18:40:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a670ccc95b57edc7b2a86",
-      "title": "胡锡进：伊朗要往华盛顿扔“脏弹”，更像是“美国准备收手了”的叙事",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8y8QRBh2ViW",
-      "published": "2026-11-17T22:10:40+08:00",
+      "id": "a17a2e560ac762ee7712a",
+      "title": "香港航空界：全球航线助亚太经济体互联互通",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8y9WnqnCnia",
+      "published": "2026-11-18T14:05:01+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3a8bee2fbc5b1a683d81",
-      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
+      "id": "a51ecb4daee4233c9215a",
+      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
-      "published": "2026-11-16 11:32:24",
+      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
+      "published": "2026-11-16 09:37:50",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a17951b3bf2d068bd582d",
-      "title": "会与普京在中国举行双边会谈吗？特朗普回应",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y8JOIbPolz",
-      "published": "2026-11-17T20:43:57+08:00",
+      "id": "a76564ebe2af6d7596c60",
+      "title": "日本政府被曝拟从装备出口规则前言中删除无核三原则",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y9LynoVPbt",
+      "published": "2026-11-18T11:50:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,12 +520,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af31b4f97b67c647bc091",
-      "title": "美国限制远程获取先进半导体，商务部回应",
-      "source": "商务部",
-      "url": "https://news.ifeng.com/c/8y8IaZp9GGY",
-      "published": "2026-11-17T20:20:00+08:00",
-      "genre": "新闻动态"
+      "id": "a1858195307ab5bf1ad2a",
+      "title": "黄仁勋事件背后的美国AI焦虑",
+      "source": "浙江宣传",
+      "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
+      "published": "2026-11-12T07:35:25+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a2324d18cdbbd935ab04c",
@@ -552,12 +552,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a58813fd58f1a734fd424",
-      "title": "特朗普出访亚洲团队名单曝光",
-      "source": "江西都市现场",
-      "url": "https://news.ifeng.com/c/8y8DeVuyMUR",
-      "published": "2026-11-17T19:17:20+08:00",
-      "genre": "新闻动态"
+      "id": "adcc2c07ada5babb20791",
+      "title": "菲律宾总统出面敲打涉华过激论调",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xz37xrXYZK",
+      "published": "2026-11-12T06:39:21+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "a979826c3d2966ef157b4",
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a707b7be3731dab29998f",
-      "title": "中国游客违规攀登富士山，失联前喘着粗气说：一个人都没有",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8y8C5oHuzBR",
-      "published": "2026-11-17T18:54:22+08:00",
+      "id": "aea51b5e0c24c158e1d5e",
+      "title": "特朗普声称：美稀土产量将在10个月内追平中国",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y8dZAMbcns",
+      "published": "2026-11-18T02:04:40+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a51ecb4daee4233c9215a",
-      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
+      "id": "a773052634c6246729d77",
+      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
-      "published": "2026-11-16 09:37:50",
+      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
+      "published": "2026-11-16 08:14:32",
       "genre": "新闻动态"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a773052634c6246729d77",
-      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "id": "aaf3220fe5268e1e2c347",
+      "title": "崔天凯：中美关系新定位进入APEC时刻",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
-      "published": "2026-11-16 08:14:32",
+      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
+      "published": "2026-11-13 15:05:25",
       "genre": "新闻动态"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a7a6e1d5c27494d5f1cbb",
-      "title": "他兴冲冲宣布重磅嘉宾阵容，马斯克：我那会儿在中国",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y7tpVxew0y",
-      "published": "2026-11-17T14:45:59+08:00",
+      "id": "afa17a9d729acd305441d",
+      "title": "美国国家安全局高度机密网络瘫痪",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8y8VWQR4Rfe",
+      "published": "2026-11-17T23:49:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,19 +712,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab8db4bcfc85243754882",
-      "title": "美媒揭特朗普政府里最隐秘的合作：鲁比奥与他意外结盟",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y7YKAiAQ1Q",
-      "published": "2026-11-17T09:40:20+08:00",
+      "id": "a670ccc95b57edc7b2a86",
+      "title": "胡锡进：伊朗要往华盛顿扔“脏弹”，更像是“美国准备收手了”的叙事",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8y8QRBh2ViW",
+      "published": "2026-11-17T22:10:40+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a36c959d5d0506735e4d1",
-      "title": "乌军击沉过“莫斯科”号的导弹，掉头重创了克里米亚大桥",
-      "source": "前哨",
-      "url": "https://original.ifeng.com/c/8y9M9LURB9r",
-      "published": "2026-11-18T12:00:24+08:00",
+      "id": "aebb7ed6422c00e96b601",
+      "title": "美代理海军部长：美军开始使用过期弹药拦截伊朗导弹",
+      "source": "观察者网",
+      "url": "https://mil.ifeng.com/c/8y9cc792FyC",
+      "published": "2026-11-18T15:49:27+08:00",
       "genre": "新闻动态"
     },
     {
@@ -744,19 +744,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a87af16e78fc26a7e50f9",
-      "title": "在“中国电子第一街”，他们看到了什么",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8y7UrxdLpij",
-      "published": "2026-11-17T09:05:55+08:00",
+      "id": "a17951b3bf2d068bd582d",
+      "title": "会与普京在中国举行双边会谈吗？特朗普回应",
+      "source": "天下事",
+      "url": "https://original.ifeng.com/c/8y8JOIbPolz",
+      "published": "2026-11-17T20:43:57+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a033dbec49d7781f6d6d7",
-      "title": "2049架无人机、4枚导弹，克里米亚大桥拱架被乌军“打歪”",
+      "id": "a36c959d5d0506735e4d1",
+      "title": "乌军击沉过“莫斯科”号的导弹，掉头重创了克里米亚大桥",
       "source": "前哨",
-      "url": "https://original.ifeng.com/c/8y7wqgq0s9g",
-      "published": "2026-11-17T15:29:34+08:00",
+      "url": "https://original.ifeng.com/c/8y9M9LURB9r",
+      "published": "2026-11-18T12:00:24+08:00",
       "genre": "新闻动态"
     },
     {
@@ -774,14 +774,6 @@
       "url": "https://www.sohu.com/a/1102391815_120695645",
       "published": "2026-11-17 08:08",
       "genre": "人物与往事"
-    },
-    {
-      "id": "aaf3220fe5268e1e2c347",
-      "title": "崔天凯：中美关系新定位进入APEC时刻",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
-      "published": "2026-11-13 15:05:25",
-      "genre": "新闻动态"
     },
     {
       "id": "ad22d16b86765e961a23e",
@@ -806,6 +798,14 @@
       "url": "https://www.sohu.com/a/1090281990_161795",
       "published": "2026-10-20 18:26",
       "genre": "历史故事"
+    },
+    {
+      "id": "afbe58853559e7f02627c",
+      "title": "原创 上海德云社一个差评，引出现实问题，相声是否需要分级？",
+      "source": "我是个码字的",
+      "url": "https://www.sohu.com/a/1034545965_100289291",
+      "published": "2026-06-11 11:53",
+      "genre": "人物与往事"
     }
   ]
 }
