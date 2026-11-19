@@ -1,18 +1,18 @@
 {
-  "revision": "85b45efe1490dfc046a9ddb7",
+  "revision": "27826b9ef22674c46f3e7392",
   "channels": {
     "news": 24,
-    "military": 24,
-    "history": 26,
+    "military": 23,
+    "history": 27,
     "culture": 26
   },
   "articles": [
     {
-      "id": "ac0b115b19d0a7ffc91a1",
-      "title": "黄仁伟| 破解美国新殖民主义：中国全球治理理念能提供什么公共品？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/HuangRenWei/2026_11_17_907950_s.shtml",
-      "published": "2026-11-17 08:08:14",
+      "id": "ac4b04ec48e7f106055bf",
+      "title": "十家车企压了近万亿账款，中国车圈背着连环债的雷",
+      "source": "虎嗅网",
+      "url": "https://news.ifeng.com/c/8yAljtxc3ni",
+      "published": "2026-11-19T08:05:02+08:00",
       "genre": "分析评论"
     },
     {
@@ -40,11 +40,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adc4a92a26dd0fe8a7ee6",
-      "title": "美国民主党赢了，欧洲中左翼为什么还在迷茫？",
+      "id": "ac0b115b19d0a7ffc91a1",
+      "title": "黄仁伟| 破解美国新殖民主义：中国全球治理理念能提供什么公共品？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y7WQb0QFxh",
-      "published": "2026-11-17T08:54:15+08:00",
+      "url": "https://www.guancha.cn/HuangRenWei/2026_11_17_907950_s.shtml",
+      "published": "2026-11-17 08:08:14",
       "genre": "分析评论"
     },
     {
@@ -72,11 +72,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac467372bbdf24fcce67c",
-      "title": "历史性大变局，中国老人数量首次超过儿童",
-      "source": "马江博说趋势",
-      "url": "https://news.ifeng.com/c/8y6izpLr284",
-      "published": "2026-11-16T21:26:57+08:00",
+      "id": "adc4a92a26dd0fe8a7ee6",
+      "title": "美国民主党赢了，欧洲中左翼为什么还在迷茫？",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y7WQb0QFxh",
+      "published": "2026-11-17T08:54:15+08:00",
       "genre": "分析评论"
     },
     {
@@ -104,11 +104,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab235306e57ef962dab58",
-      "title": "美国为何要求乌克兰割让顿巴斯？对俄罗斯意味着什么？",
-      "source": "新闻今日谈",
-      "url": "https://news.ifeng.com/c/8y6dMqyH8lY",
-      "published": "2026-11-16T20:45:39+08:00",
+      "id": "ac467372bbdf24fcce67c",
+      "title": "历史性大变局，中国老人数量首次超过儿童",
+      "source": "马江博说趋势",
+      "url": "https://news.ifeng.com/c/8y6izpLr284",
+      "published": "2026-11-16T21:26:57+08:00",
       "genre": "分析评论"
     },
     {
@@ -136,11 +136,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab78da1211ed2a1042673",
-      "title": "逸语道破：谁在争夺美国AI政策的话语权？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ShenYi/2026_11_13_908223_s.shtml",
-      "published": "2026-11-13 17:07:10",
+      "id": "ab235306e57ef962dab58",
+      "title": "美国为何要求乌克兰割让顿巴斯？对俄罗斯意味着什么？",
+      "source": "新闻今日谈",
+      "url": "https://news.ifeng.com/c/8y6dMqyH8lY",
+      "published": "2026-11-16T20:45:39+08:00",
       "genre": "分析评论"
     },
     {
@@ -168,12 +168,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ab8a02fd0ecce23f7ed41",
-      "title": "担忧驻军安全，美国陆军在中东急修混凝土掩体",
+      "id": "ab78da1211ed2a1042673",
+      "title": "逸语道破：谁在争夺美国AI政策的话语权？",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yA1zJHmuR5",
-      "published": "2026-11-18T21:25:18+08:00",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/ShenYi/2026_11_13_908223_s.shtml",
+      "published": "2026-11-13 17:07:10",
+      "genre": "分析评论"
     },
     {
       "id": "adfaaf862727f230080fd",
@@ -200,11 +200,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a36967549ea7bbfa666d4",
-      "title": "中国科学家首次获奖，祝贺！",
-      "source": "科技日报",
-      "url": "https://news.ifeng.com/c/8y9zWpytkeC",
-      "published": "2026-11-18T21:05:06+08:00",
+      "id": "a604f707ebb4ece5a5683",
+      "title": "鲍韶山| 论“仁勋府的倒塌”：美国AI繁荣恐将与经济现实迎头相撞",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/BaoShaoshan/2026_11_19_908829_s.shtml",
+      "published": "2026-11-19 08:19:49",
       "genre": "新闻动态"
     },
     {
@@ -232,19 +232,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a636f8e022eea274124e7",
-      "title": "“未来的超级明星，不会来自加州，而是来自中国”",
+      "id": "abf69cf3f419c152c3439",
+      "title": "马斯克谈美国中期选举：花了这么多钱，觉得自己“挺傻的”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y9xw8AcY0D",
-      "published": "2026-11-18T20:35:23+08:00",
+      "url": "https://news.ifeng.com/c/8yAi22mwp6g",
+      "published": "2026-11-19T07:34:46+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a21fd1610d1fd7515a061",
-      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
-      "published": "2026-10-25 08:23:25",
+      "id": "a95ade0a68fde6b99debf",
+      "title": "飞行员培训不统一，“阵风”首降印度航母后麻烦多",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xk7NX10Bc5",
+      "published": "2026-11-03T06:49:43+08:00",
       "genre": "分析评论"
     },
     {
@@ -264,19 +264,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "acbab54bc4e6aae636d38",
-      "title": "专家：中俄美领导人首次面对面会晤，唯有在中国、在深圳能够举行",
-      "source": "新闻今日谈",
-      "url": "https://original.ifeng.com/c/8y9uUqlUxAL",
-      "published": "2026-11-18T19:58:33+08:00",
+      "id": "aa1a12508ad663cdf1faf",
+      "title": "瞄准伊朗核设施？美国披露数十年来首款新型核炸弹",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y89cSPmrmi",
+      "published": "2026-11-19T06:20:13+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "a95ade0a68fde6b99debf",
-      "title": "飞行员培训不统一，“阵风”首降印度航母后麻烦多",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xk7NX10Bc5",
-      "published": "2026-11-03T06:49:43+08:00",
+      "id": "a21fd1610d1fd7515a061",
+      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
+      "published": "2026-10-25 08:23:25",
       "genre": "分析评论"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a088969683a1f0329f371",
-      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
+      "id": "ab8a02fd0ecce23f7ed41",
+      "title": "担忧驻军安全，美国陆军在中东急修混凝土掩体",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
-      "published": "2026-11-16 21:33:24",
+      "url": "https://news.ifeng.com/c/8yA1zJHmuR5",
+      "published": "2026-11-18T21:25:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3d60a494eadfa6899d72",
-      "title": "美国将遭遇“90天大停电”？万斯：现在没必要建地堡囤粮食",
-      "source": "每日经济新闻",
-      "url": "https://news.ifeng.com/c/8y9w0ZCQKhx",
-      "published": "2026-11-18T19:36:48+08:00",
+      "id": "a36967549ea7bbfa666d4",
+      "title": "中国科学家首次获奖，祝贺！",
+      "source": "科技日报",
+      "url": "https://news.ifeng.com/c/8y9zWpytkeC",
+      "published": "2026-11-18T21:05:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3a8bee2fbc5b1a683d81",
-      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
+      "id": "a088969683a1f0329f371",
+      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
-      "published": "2026-11-16 11:32:24",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
+      "published": "2026-11-16 21:33:24",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1193adb3ecf08eb33115",
-      "title": "菲律宾：没和美国签任何贸易文件",
+      "id": "a636f8e022eea274124e7",
+      "title": "“未来的超级明星，不会来自加州，而是来自中国”",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y9pLTD1ryJ",
-      "published": "2026-11-18T18:40:12+08:00",
+      "url": "https://news.ifeng.com/c/8y9xw8AcY0D",
+      "published": "2026-11-18T20:35:23+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a17a2e560ac762ee7712a",
-      "title": "香港航空界：全球航线助亚太经济体互联互通",
-      "source": "凤凰卫视",
-      "url": "https://original.ifeng.com/c/8y9WnqnCnia",
-      "published": "2026-11-18T14:05:01+08:00",
+      "id": "acbab54bc4e6aae636d38",
+      "title": "专家：中俄美领导人首次面对面会晤，唯有在中国、在深圳能够举行",
+      "source": "新闻今日谈",
+      "url": "https://original.ifeng.com/c/8y9uUqlUxAL",
+      "published": "2026-11-18T19:58:33+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a51ecb4daee4233c9215a",
-      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
+      "id": "a3a8bee2fbc5b1a683d81",
+      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
-      "published": "2026-11-16 09:37:50",
+      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
+      "published": "2026-11-16 11:32:24",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a76564ebe2af6d7596c60",
-      "title": "日本政府被曝拟从装备出口规则前言中删除无核三原则",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y9LynoVPbt",
-      "published": "2026-11-18T11:50:12+08:00",
+      "id": "a3d60a494eadfa6899d72",
+      "title": "美国将遭遇“90天大停电”？万斯：现在没必要建地堡囤粮食",
+      "source": "每日经济新闻",
+      "url": "https://news.ifeng.com/c/8y9w0ZCQKhx",
+      "published": "2026-11-18T19:36:48+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,12 +520,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1858195307ab5bf1ad2a",
-      "title": "黄仁勋事件背后的美国AI焦虑",
-      "source": "浙江宣传",
-      "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
-      "published": "2026-11-12T07:35:25+08:00",
-      "genre": "分析评论"
+      "id": "a1193adb3ecf08eb33115",
+      "title": "菲律宾：没和美国签任何贸易文件",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y9pLTD1ryJ",
+      "published": "2026-11-18T18:40:12+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a2324d18cdbbd935ab04c",
@@ -552,12 +552,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "adcc2c07ada5babb20791",
-      "title": "菲律宾总统出面敲打涉华过激论调",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xz37xrXYZK",
-      "published": "2026-11-12T06:39:21+08:00",
-      "genre": "分析评论"
+      "id": "a17a2e560ac762ee7712a",
+      "title": "香港航空界：全球航线助亚太经济体互联互通",
+      "source": "凤凰卫视",
+      "url": "https://original.ifeng.com/c/8y9WnqnCnia",
+      "published": "2026-11-18T14:05:01+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a979826c3d2966ef157b4",
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aea51b5e0c24c158e1d5e",
-      "title": "特朗普声称：美稀土产量将在10个月内追平中国",
+      "id": "a76564ebe2af6d7596c60",
+      "title": "日本政府被曝拟从装备出口规则前言中删除无核三原则",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y8dZAMbcns",
-      "published": "2026-11-18T02:04:40+08:00",
+      "url": "https://news.ifeng.com/c/8y9LynoVPbt",
+      "published": "2026-11-18T11:50:12+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a773052634c6246729d77",
-      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "id": "a51ecb4daee4233c9215a",
+      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
-      "published": "2026-11-16 08:14:32",
+      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
+      "published": "2026-11-16 09:37:50",
       "genre": "新闻动态"
     },
     {
@@ -648,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aaf3220fe5268e1e2c347",
-      "title": "崔天凯：中美关系新定位进入APEC时刻",
+      "id": "a773052634c6246729d77",
+      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/CuiTianKai/2026_11_13_908086_s.shtml",
-      "published": "2026-11-13 15:05:25",
+      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
+      "published": "2026-11-16 08:14:32",
       "genre": "新闻动态"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "afa17a9d729acd305441d",
-      "title": "美国国家安全局高度机密网络瘫痪",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8y8VWQR4Rfe",
-      "published": "2026-11-17T23:49:48+08:00",
+      "id": "aea51b5e0c24c158e1d5e",
+      "title": "特朗普声称：美稀土产量将在10个月内追平中国",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y8dZAMbcns",
+      "published": "2026-11-18T02:04:40+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,19 +712,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a670ccc95b57edc7b2a86",
-      "title": "胡锡进：伊朗要往华盛顿扔“脏弹”，更像是“美国准备收手了”的叙事",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8y8QRBh2ViW",
-      "published": "2026-11-17T22:10:40+08:00",
+      "id": "afa17a9d729acd305441d",
+      "title": "美国国家安全局高度机密网络瘫痪",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8y8VWQR4Rfe",
+      "published": "2026-11-17T23:49:48+08:00",
       "genre": "新闻动态"
     },
     {
-      "id": "aebb7ed6422c00e96b601",
-      "title": "美代理海军部长：美军开始使用过期弹药拦截伊朗导弹",
-      "source": "观察者网",
-      "url": "https://mil.ifeng.com/c/8y9cc792FyC",
-      "published": "2026-11-18T15:49:27+08:00",
+      "id": "a0729e923f0b263c4154c",
+      "title": "委内瑞拉同美国签署协议，恢复军事技术合作",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8yAhyaYLCUa",
+      "published": "2026-11-19T07:37:19+08:00",
       "genre": "新闻动态"
     },
     {
@@ -744,19 +744,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a17951b3bf2d068bd582d",
-      "title": "会与普京在中国举行双边会谈吗？特朗普回应",
-      "source": "天下事",
-      "url": "https://original.ifeng.com/c/8y8JOIbPolz",
-      "published": "2026-11-17T20:43:57+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a36c959d5d0506735e4d1",
-      "title": "乌军击沉过“莫斯科”号的导弹，掉头重创了克里米亚大桥",
-      "source": "前哨",
-      "url": "https://original.ifeng.com/c/8y9M9LURB9r",
-      "published": "2026-11-18T12:00:24+08:00",
+      "id": "a670ccc95b57edc7b2a86",
+      "title": "胡锡进：伊朗要往华盛顿扔“脏弹”，更像是“美国准备收手了”的叙事",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8y8QRBh2ViW",
+      "published": "2026-11-17T22:10:40+08:00",
       "genre": "新闻动态"
     },
     {
@@ -806,6 +798,14 @@
       "url": "https://www.sohu.com/a/1034545965_100289291",
       "published": "2026-06-11 11:53",
       "genre": "人物与往事"
+    },
+    {
+      "id": "acaf56c5afbf9b74caaaa",
+      "title": "采访王光美及其子女的回忆：是谁真正要把刘少奇和家人置于死地？",
+      "source": "国史网",
+      "url": "https://history.ifeng.com/c/8hKwaYeq8ss",
+      "published": "2025-02-28T10:56:30+08:00",
+      "genre": "历史故事"
     }
   ]
 }
