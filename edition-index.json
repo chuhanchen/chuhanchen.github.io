@@ -1,18 +1,18 @@
 {
-  "revision": "3ff026c282990e246da15fc7",
+  "revision": "12370df3c6b51a7e40e7d033",
   "channels": {
-    "news": 25,
+    "news": 26,
     "military": 24,
-    "history": 26,
+    "history": 25,
     "culture": 25
   },
   "articles": [
     {
-      "id": "a73f32c447d88e67f703f",
-      "title": "高志凯：满足这两个前提，中美终将迎来“不可避免的和平”",
+      "id": "a0ba481f2d7e377b53aa1",
+      "title": "“世界科先声”编译|“AI教父”杰弗里·辛顿：中国对AI的理解，比美国政府要深入得多",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/gaozhikai/2026_11_20_830782_s.shtml",
-      "published": "2026-11-20 09:10:40",
+      "url": "https://www.guancha.cn/GeoffreyHinton/2026_11_21_909235_s.shtml",
+      "published": "2026-11-21 07:06:41",
       "genre": "分析评论"
     },
     {
@@ -32,19 +32,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfa9ac4c2df3a9a950db",
-      "title": "电影《试探》上演血腥爱情故事 三人痴爱成囚画地为牢",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8yCb8ZwDAXj",
-      "published": "2026-11-20T10:53:01+08:00",
+      "id": "a073c1485a42237b00b61",
+      "title": "相差31岁，杜星霖坦言很难改嫁，一句话撕开豪门婚姻另一面",
+      "source": "极限的娱乐",
+      "url": "https://www.sohu.com/a/1104399075_123043499",
+      "published": "2026-11-21 08:46",
       "genre": "人物与往事"
     },
     {
-      "id": "a3d9e46ccc347b15fb4bf",
-      "title": "阿提拉·格朗皮埃尔：我曾不理解中国的生态文明理念，后来发现它与我的理论如此接近",
+      "id": "a7cf7ac66185e9200778b",
+      "title": "“中国对AI的理解，比美国政府要深入得多”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/AttilaGrandpierre/2026_11_20_909132_s.shtml",
-      "published": "2026-11-20 08:06:59",
+      "url": "https://news.ifeng.com/c/8yE0uQcxxAl",
+      "published": "2026-11-21T07:06:41+08:00",
       "genre": "分析评论"
     },
     {
@@ -64,19 +64,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a053e67eb19299b6d7940",
-      "title": "原创 汪峰晒与4个儿女的全家福！他是称职的父亲，但不适合婚姻",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1103496147_120617247",
-      "published": "2026-11-19 09:48",
+      "id": "acfa9ac4c2df3a9a950db",
+      "title": "电影《试探》上演血腥爱情故事 三人痴爱成囚画地为牢",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8yCb8ZwDAXj",
+      "published": "2026-11-20T10:53:01+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "ac4b04ec48e7f106055bf",
-      "title": "十家车企压了近万亿账款，中国车圈背着连环债的雷",
-      "source": "虎嗅网",
-      "url": "https://news.ifeng.com/c/8yAljtxc3ni",
-      "published": "2026-11-19T08:05:02+08:00",
+      "id": "a73f32c447d88e67f703f",
+      "title": "高志凯：满足这两个前提，中美终将迎来“不可避免的和平”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/gaozhikai/2026_11_20_830782_s.shtml",
+      "published": "2026-11-20 09:10:40",
       "genre": "分析评论"
     },
     {
@@ -96,19 +96,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a778ead9787ec8f72aa48",
-      "title": "原创 独家采访瞿颖的母亲！曝光瞿颖婚姻的真实状况，母亲心有纠结",
+      "id": "a053e67eb19299b6d7940",
+      "title": "原创 汪峰晒与4个儿女的全家福！他是称职的父亲，但不适合婚姻",
       "source": "细品名人",
-      "url": "https://www.sohu.com/a/1102974356_120617247",
-      "published": "2026-11-18 07:03",
+      "url": "https://www.sohu.com/a/1103496147_120617247",
+      "published": "2026-11-19 09:48",
       "genre": "人物与往事"
     },
     {
-      "id": "ac0b115b19d0a7ffc91a1",
-      "title": "黄仁伟| 破解美国新殖民主义：中国全球治理理念能提供什么公共品？",
+      "id": "a3d9e46ccc347b15fb4bf",
+      "title": "阿提拉·格朗皮埃尔：我曾不理解中国的生态文明理念，后来发现它与我的理论如此接近",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/HuangRenWei/2026_11_17_907950_s.shtml",
-      "published": "2026-11-17 08:08:14",
+      "url": "https://www.guancha.cn/AttilaGrandpierre/2026_11_20_909132_s.shtml",
+      "published": "2026-11-20 08:06:59",
       "genre": "分析评论"
     },
     {
@@ -128,19 +128,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a4e35a2f06493f382ce9a",
-      "title": "原创 霍震霆：小儿子霍启山即将大婚，前妻朱玲玲早再婚了，他为何单身",
+      "id": "a778ead9787ec8f72aa48",
+      "title": "原创 独家采访瞿颖的母亲！曝光瞿颖婚姻的真实状况，母亲心有纠结",
       "source": "细品名人",
-      "url": "https://www.sohu.com/a/1102112069_120617247",
-      "published": "2026-11-16 11:05",
+      "url": "https://www.sohu.com/a/1102974356_120617247",
+      "published": "2026-11-18 07:03",
       "genre": "人物与往事"
     },
     {
-      "id": "adc4a92a26dd0fe8a7ee6",
-      "title": "美国民主党赢了，欧洲中左翼为什么还在迷茫？",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8y7WQb0QFxh",
-      "published": "2026-11-17T08:54:15+08:00",
+      "id": "ac4b04ec48e7f106055bf",
+      "title": "十家车企压了近万亿账款，中国车圈背着连环债的雷",
+      "source": "虎嗅网",
+      "url": "https://news.ifeng.com/c/8yAljtxc3ni",
+      "published": "2026-11-19T08:05:02+08:00",
       "genre": "分析评论"
     },
     {
@@ -160,19 +160,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a1c2baf197f13a8562f13",
-      "title": "演员王星在电诈园区被胁迫借下巨款，每月4000多元要还3年，与女友结不起婚，原来被救回来，不等于活着回来",
-      "source": "日系穿搭百科",
-      "url": "https://www.sohu.com/a/1100386701_121124650",
-      "published": "2026-11-12 07:15",
+      "id": "a4e35a2f06493f382ce9a",
+      "title": "原创 霍震霆：小儿子霍启山即将大婚，前妻朱玲玲早再婚了，他为何单身",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1102112069_120617247",
+      "published": "2026-11-16 11:05",
       "genre": "人物与往事"
     },
     {
-      "id": "ac467372bbdf24fcce67c",
-      "title": "历史性大变局，中国老人数量首次超过儿童",
-      "source": "马江博说趋势",
-      "url": "https://news.ifeng.com/c/8y6izpLr284",
-      "published": "2026-11-16T21:26:57+08:00",
+      "id": "ac0b115b19d0a7ffc91a1",
+      "title": "黄仁伟| 破解美国新殖民主义：中国全球治理理念能提供什么公共品？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/HuangRenWei/2026_11_17_907950_s.shtml",
+      "published": "2026-11-17 08:08:14",
       "genre": "分析评论"
     },
     {
@@ -192,19 +192,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af9ca636a7f859a1903b3",
-      "title": "花坛白骨案前夫自责不该离婚，为儿子28年未再婚",
-      "source": "极目新闻",
-      "url": "https://news.ifeng.com/c/8xw0KvJVIYn",
-      "published": "2026-11-10T10:35:22+08:00",
+      "id": "a1c2baf197f13a8562f13",
+      "title": "演员王星在电诈园区被胁迫借下巨款，每月4000多元要还3年，与女友结不起婚，原来被救回来，不等于活着回来",
+      "source": "日系穿搭百科",
+      "url": "https://www.sohu.com/a/1100386701_121124650",
+      "published": "2026-11-12 07:15",
       "genre": "人物与往事"
     },
     {
-      "id": "ab235306e57ef962dab58",
-      "title": "美国为何要求乌克兰割让顿巴斯？对俄罗斯意味着什么？",
-      "source": "新闻今日谈",
-      "url": "https://news.ifeng.com/c/8y6dMqyH8lY",
-      "published": "2026-11-16T20:45:39+08:00",
+      "id": "adc4a92a26dd0fe8a7ee6",
+      "title": "美国民主党赢了，欧洲中左翼为什么还在迷茫？",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8y7WQb0QFxh",
+      "published": "2026-11-17T08:54:15+08:00",
       "genre": "分析评论"
     },
     {
@@ -224,20 +224,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "a6d61b044d8d9eea39ea7",
-      "title": "原创 黄仁勋这事影响最大的不是股价，而是子女的婚姻观。翻出了两张老黄一家四口的合影，估计这么幸福的笑容以后很难再现了",
-      "source": "前HR随笔",
-      "url": "https://www.sohu.com/a/1099045480_122542340",
-      "published": "2026-11-09 11:12",
+      "id": "af9ca636a7f859a1903b3",
+      "title": "花坛白骨案前夫自责不该离婚，为儿子28年未再婚",
+      "source": "极目新闻",
+      "url": "https://news.ifeng.com/c/8xw0KvJVIYn",
+      "published": "2026-11-10T10:35:22+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a5e1c83b92ed4fba310fb",
-      "title": "日本政府关键网络业务系统遭非法访问",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8yDQx7oJHSZ",
-      "published": "2026-11-20T23:54:29+08:00",
-      "genre": "新闻动态"
+      "id": "ac467372bbdf24fcce67c",
+      "title": "历史性大变局，中国老人数量首次超过儿童",
+      "source": "马江博说趋势",
+      "url": "https://news.ifeng.com/c/8y6izpLr284",
+      "published": "2026-11-16T21:26:57+08:00",
+      "genre": "分析评论"
     },
     {
       "id": "adfaaf862727f230080fd",
@@ -256,27 +256,27 @@
       "genre": "历史故事"
     },
     {
-      "id": "a31feb33e82a6ebbb332f",
-      "title": "剧组拍摄时突发意外，演员脸部着火二度烧伤，本人发声",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xrhHQyUk0s",
-      "published": "2026-11-07T20:24:20+08:00",
+      "id": "a6d61b044d8d9eea39ea7",
+      "title": "原创 黄仁勋这事影响最大的不是股价，而是子女的婚姻观。翻出了两张老黄一家四口的合影，估计这么幸福的笑容以后很难再现了",
+      "source": "前HR随笔",
+      "url": "https://www.sohu.com/a/1099045480_122542340",
+      "published": "2026-11-09 11:12",
       "genre": "人物与往事"
     },
     {
-      "id": "aace83048d64598988b0a",
-      "title": "割让领土或冻结前线，美国向乌克兰提两种方案",
-      "source": "凤凰网天下事",
-      "url": "https://original.ifeng.com/c/8yDQgwZePTV",
-      "published": "2026-11-20T22:55:05+08:00",
-      "genre": "新闻动态"
+      "id": "ab235306e57ef962dab58",
+      "title": "美国为何要求乌克兰割让顿巴斯？对俄罗斯意味着什么？",
+      "source": "新闻今日谈",
+      "url": "https://news.ifeng.com/c/8y6dMqyH8lY",
+      "published": "2026-11-16T20:45:39+08:00",
+      "genre": "分析评论"
     },
     {
-      "id": "a21fd1610d1fd7515a061",
-      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
-      "published": "2026-10-25 08:23:25",
+      "id": "a697367063de953696261",
+      "title": "美评论员称美方考虑对伊动用核武器，白宫驳斥：他根本不懂军事",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8xkmZ57RdGv",
+      "published": "2026-11-03T16:33:25+08:00",
       "genre": "分析评论"
     },
     {
@@ -288,51 +288,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a715e1fd0f419842116e3",
-      "title": "原创 毛主席一生经历了四段婚姻，晚年曾感叹：她是对我最好的女人",
-      "source": "牛牛历史V",
-      "url": "https://www.sohu.com/a/1098338645_122498661",
-      "published": "2026-11-07 09:15",
+      "id": "a31feb33e82a6ebbb332f",
+      "title": "剧组拍摄时突发意外，演员脸部着火二度烧伤，本人发声",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xrhHQyUk0s",
+      "published": "2026-11-07T20:24:20+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "ad59622a0a36a52b8b83c",
-      "title": "美媒爆料：政府给哪家公司合同，特朗普就提前买哪家股票",
-      "source": "凤凰卫视资讯台",
-      "url": "https://news.ifeng.com/c/8yDK0KfIg5G",
-      "published": "2026-11-20T21:09:52+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a697367063de953696261",
-      "title": "美评论员称美方考虑对伊动用核武器，白宫驳斥：他根本不懂军事",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8xkmZ57RdGv",
-      "published": "2026-11-03T16:33:25+08:00",
-      "genre": "分析评论"
-    },
-    {
-      "id": "a144bb6478c50c40ee844",
-      "title": "原创 1967年深夜里朱老总遭围斗，，五位开国元帅星夜驰援，毛主席亲临现场掷下重话：动他先过我这关",
-      "source": "国际小表妹",
-      "url": "https://www.sohu.com/a/1096399388_122615833",
-      "published": "2026-11-03 08:54",
-      "genre": "历史故事"
-    },
-    {
-      "id": "a47b9e7ee7577fc0a31aa",
-      "title": "女友和“丈母娘”都是演员，婚恋骗局3年套走10人140万",
-      "source": "封面新闻",
-      "url": "https://news.ifeng.com/c/8xmOPh4epGP",
-      "published": "2026-11-04T15:29:51+08:00",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a604f707ebb4ece5a5683",
-      "title": "鲍韶山| 论“仁勋府的倒塌”：美国AI繁荣恐将与经济现实迎头相撞",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/BaoShaoshan/2026_11_19_908829_s.shtml",
-      "published": "2026-11-19 08:19:49",
+      "id": "a3a028d3675736db7537a",
+      "title": "特朗普：普京愿意结束俄乌冲突，但他和泽连斯基有“深仇大恨”让事情难办",
+      "source": "凤凰卫视",
+      "url": "https://news.ifeng.com/c/8yEChrRifPc",
+      "published": "2026-11-21T09:23:56+08:00",
       "genre": "新闻动态"
     },
     {
@@ -344,6 +312,38 @@
       "genre": "分析评论"
     },
     {
+      "id": "a144bb6478c50c40ee844",
+      "title": "原创 1967年深夜里朱老总遭围斗，，五位开国元帅星夜驰援，毛主席亲临现场掷下重话：动他先过我这关",
+      "source": "国际小表妹",
+      "url": "https://www.sohu.com/a/1096399388_122615833",
+      "published": "2026-11-03 08:54",
+      "genre": "历史故事"
+    },
+    {
+      "id": "a715e1fd0f419842116e3",
+      "title": "原创 毛主席一生经历了四段婚姻，晚年曾感叹：她是对我最好的女人",
+      "source": "牛牛历史V",
+      "url": "https://www.sohu.com/a/1098338645_122498661",
+      "published": "2026-11-07 09:15",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "aa21a190c70172213464e",
+      "title": "美国公布最新UFO档案，神秘光点高速掠过美军战舰",
+      "source": "译言网",
+      "url": "https://news.ifeng.com/c/8yE9TR9dU6Y",
+      "published": "2026-11-21T09:10:44+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a21fd1610d1fd7515a061",
+      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
+      "published": "2026-10-25 08:23:25",
+      "genre": "分析评论"
+    },
+    {
       "id": "acc2e5bca09b0bc202e7c",
       "title": "美国人迟到一百年的道歉，揭开了“民国第一才女”被误读最深的3个真相",
       "source": "南方都市报",
@@ -352,19 +352,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a87363b162480242a1c9e",
-      "title": "原创 44岁超女纪敏佳近况曝光！低调结婚生下一子，如今婚姻生活很幸福",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1096753342_120695645",
-      "published": "2026-11-04 07:20",
+      "id": "a47b9e7ee7577fc0a31aa",
+      "title": "女友和“丈母娘”都是演员，婚恋骗局3年套走10人140万",
+      "source": "封面新闻",
+      "url": "https://news.ifeng.com/c/8xmOPh4epGP",
+      "published": "2026-11-04T15:29:51+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a2b99bed8bca19cc0cf5b",
-      "title": "回国途中，特朗普对欧盟“一通痛骂”，德国总理：欧洲将“上桌”",
-      "source": "每日经济新闻",
-      "url": "https://news.ifeng.com/c/8yDIF9qKygU",
-      "published": "2026-11-20T20:23:00+08:00",
+      "id": "a97e2f035321bc4de7d5c",
+      "title": "两个常任理事国否决最大热门引担忧：联合国可能“群龙无首”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yE8FavpTfu",
+      "published": "2026-11-21T09:00:16+08:00",
       "genre": "新闻动态"
     },
     {
@@ -384,19 +384,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "aeb696fc73c34f4c212bd",
-      "title": "原创 《家有儿女》中的穿帮镜头，连三岁小孩都骗不过，导演你太离谱了",
-      "source": "小布点娱乐",
-      "url": "https://www.sohu.com/a/1096192849_120020376",
-      "published": "2026-11-02 17:49",
+      "id": "a87363b162480242a1c9e",
+      "title": "原创 44岁超女纪敏佳近况曝光！低调结婚生下一子，如今婚姻生活很幸福",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1096753342_120695645",
+      "published": "2026-11-04 07:20",
       "genre": "人物与往事"
     },
     {
-      "id": "a4ab286fda3410c25b6d0",
-      "title": "美国“彻底离席”气候大会，绿色和平团长：这反而带来更多雄心",
-      "source": "凤凰大参考",
-      "url": "https://original.ifeng.com/c/8yDGFxvJlSE",
-      "published": "2026-11-20T20:22:11+08:00",
+      "id": "a04b642eeb312aeb10ddb",
+      "title": "特朗普：若美国科技企业在海外建设数据中心，将面临“巨额税款”惩罚",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yE6xspYYzs",
+      "published": "2026-11-21T08:30:18+08:00",
       "genre": "新闻动态"
     },
     {
@@ -416,19 +416,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a09135190a0a2b2634b4b",
-      "title": "原创 63岁刘金山近况曝光！娶京胡演奏员沈红喜生下一女，如今婚姻很幸福",
-      "source": "代军哥哥",
-      "url": "https://www.sohu.com/a/1095796536_120695645",
-      "published": "2026-11-02 07:20",
+      "id": "aeb696fc73c34f4c212bd",
+      "title": "原创 《家有儿女》中的穿帮镜头，连三岁小孩都骗不过，导演你太离谱了",
+      "source": "小布点娱乐",
+      "url": "https://www.sohu.com/a/1096192849_120020376",
+      "published": "2026-11-02 17:49",
       "genre": "人物与往事"
     },
     {
-      "id": "a257460b482746708c649",
-      "title": "越来越冷了，中国现在，非常缺气",
-      "source": "地球知识局",
-      "url": "https://news.ifeng.com/c/8yDF5OdZNb9",
-      "published": "2026-11-20T19:30:00+08:00",
+      "id": "af6ac4a5869d0b458e1f7",
+      "title": "菲总统谈APEC晚宴入场曲：中国如此深思熟虑，考虑得如此周到",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8yE5b6fGceB",
+      "published": "2026-11-21T08:20:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a088969683a1f0329f371",
-      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
+      "id": "a604f707ebb4ece5a5683",
+      "title": "鲍韶山| 论“仁勋府的倒塌”：美国AI繁荣恐将与经济现实迎头相撞",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
-      "published": "2026-11-16 21:33:24",
+      "url": "https://www.guancha.cn/BaoShaoshan/2026_11_19_908829_s.shtml",
+      "published": "2026-11-19 08:19:49",
       "genre": "新闻动态"
     },
     {
@@ -480,19 +480,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3ba5a3409d2e457289bc",
-      "title": "女子离婚净身出户，解锁前夫旧手机发现其婚内给“第三者”转账200多万",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xaIz4LiGAy",
-      "published": "2026-10-28T08:40:35+08:00",
+      "id": "a09135190a0a2b2634b4b",
+      "title": "原创 63岁刘金山近况曝光！娶京胡演奏员沈红喜生下一女，如今婚姻很幸福",
+      "source": "代军哥哥",
+      "url": "https://www.sohu.com/a/1095796536_120695645",
+      "published": "2026-11-02 07:20",
       "genre": "人物与往事"
     },
     {
-      "id": "a3a8bee2fbc5b1a683d81",
-      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
-      "published": "2026-11-16 11:32:24",
+      "id": "a5e1c83b92ed4fba310fb",
+      "title": "日本政府关键网络业务系统遭非法访问",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8yDQx7oJHSZ",
+      "published": "2026-11-20T23:54:29+08:00",
       "genre": "新闻动态"
     },
     {
@@ -512,19 +512,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a2d5dee89c9cc6734beb8",
-      "title": "为什么相声演员也接不住一声“杨老五”",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1093404944_260616",
-      "published": "2026-10-27 16:07",
+      "id": "a3ba5a3409d2e457289bc",
+      "title": "女子离婚净身出户，解锁前夫旧手机发现其婚内给“第三者”转账200多万",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xaIz4LiGAy",
+      "published": "2026-10-28T08:40:35+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a959e749113957be4945e",
-      "title": "国际丝绸组织正式成立，总部设在中国",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8yD8NZ195JS",
-      "published": "2026-11-20T18:16:00+08:00",
+      "id": "a088969683a1f0329f371",
+      "title": "法国盯上马来西亚稀土，“但还是要依赖中国加工”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuoJi·ZhanLue/2026_11_16_908585_s.shtml",
+      "published": "2026-11-16 21:33:24",
       "genre": "新闻动态"
     },
     {
@@ -544,19 +544,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a5c4be69404555c55cdfd",
-      "title": "结识5个月闪婚，娶美国媳妇的外卖小哥准备离婚，称原因是文化差异，不存在虚假婚姻",
-      "source": "封面新闻",
-      "url": "https://www.sohu.com/a/1091885027_120952561",
-      "published": "2026-10-23 22:28",
+      "id": "a2d5dee89c9cc6734beb8",
+      "title": "为什么相声演员也接不住一声“杨老五”",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1093404944_260616",
+      "published": "2026-10-27 16:07",
       "genre": "人物与往事"
     },
     {
-      "id": "a1857831710423fe1dd86",
-      "title": "高市早苗在深圳大谈“经济韧性”，却绕不开一颗“大卸八块”的白菜",
-      "source": "文化纵横",
-      "url": "https://news.ifeng.com/c/8yCZzFeaCKP",
-      "published": "2026-11-20T10:08:55+08:00",
+      "id": "aace83048d64598988b0a",
+      "title": "割让领土或冻结前线，美国向乌克兰提两种方案",
+      "source": "凤凰网天下事",
+      "url": "https://original.ifeng.com/c/8yDQgwZePTV",
+      "published": "2026-11-20T22:55:05+08:00",
       "genre": "新闻动态"
     },
     {
@@ -576,19 +576,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a85ded9fa4d33e6b10027",
-      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
-      "published": "2026-10-23 08:14:02",
+      "id": "a5c4be69404555c55cdfd",
+      "title": "结识5个月闪婚，娶美国媳妇的外卖小哥准备离婚，称原因是文化差异，不存在虚假婚姻",
+      "source": "封面新闻",
+      "url": "https://www.sohu.com/a/1091885027_120952561",
+      "published": "2026-10-23 22:28",
       "genre": "人物与往事"
     },
     {
-      "id": "a8603ccd4d1cb6508299a",
-      "title": "普京喊话欧洲代表：来莫斯科",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yCSSuhdHtV",
-      "published": "2026-11-20T08:40:31+08:00",
+      "id": "ad59622a0a36a52b8b83c",
+      "title": "美媒爆料：政府给哪家公司合同，特朗普就提前买哪家股票",
+      "source": "凤凰卫视资讯台",
+      "url": "https://news.ifeng.com/c/8yDK0KfIg5G",
+      "published": "2026-11-20T21:09:52+08:00",
       "genre": "新闻动态"
     },
     {
@@ -608,19 +608,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af2b8fdb33b08b61a364e",
-      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
-      "source": "在人间",
-      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
-      "published": "2026-10-22T18:16:13+08:00",
+      "id": "a85ded9fa4d33e6b10027",
+      "title": "一部加沙纪录片，为何让美国的反战电影陷入尴尬？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
+      "published": "2026-10-23 08:14:02",
       "genre": "人物与往事"
     },
     {
-      "id": "a51ecb4daee4233c9215a",
-      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
-      "published": "2026-11-16 09:37:50",
+      "id": "a2b99bed8bca19cc0cf5b",
+      "title": "回国途中，特朗普对欧盟“一通痛骂”，德国总理：欧洲将“上桌”",
+      "source": "每日经济新闻",
+      "url": "https://news.ifeng.com/c/8yDIF9qKygU",
+      "published": "2026-11-20T20:23:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -640,19 +640,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a3a65a8d03704a6e920c8",
-      "title": "传奇演员，突然去世",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
-      "published": "2026-10-21T12:20:26+08:00",
+      "id": "af2b8fdb33b08b61a364e",
+      "title": "为了把年轻人送进婚姻，地方政府有多拼？",
+      "source": "在人间",
+      "url": "https://original.ifeng.com/c/8xR0X7LkZgb",
+      "published": "2026-10-22T18:16:13+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a773052634c6246729d77",
-      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "id": "a3a8bee2fbc5b1a683d81",
+      "title": "“要把非洲产品卖到中国总共分几步？三步……”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
-      "published": "2026-11-16 08:14:32",
+      "url": "https://www.guancha.cn/maoxiaojing/2026_11_16_908212_s.shtml",
+      "published": "2026-11-16 11:32:24",
       "genre": "新闻动态"
     },
     {
@@ -672,19 +672,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ad4b1f4ad739877881533",
-      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
-      "source": "红星新闻",
-      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
-      "published": "2026-10-21T01:03:15+08:00",
+      "id": "a3a65a8d03704a6e920c8",
+      "title": "传奇演员，突然去世",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xOy4q8eFdC",
+      "published": "2026-10-21T12:20:26+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a958f1d3b16ca37d7ea35",
-      "title": "1939年，6名女医护兵落入敌手，日寇拍下1分30秒影像，80年后曝光：无一人惧色",
-      "source": "社会生活新鲜事",
-      "url": "https://www.360kuai.com/957d9bd60ee3a7a75",
-      "published": "2026-11-17T07:04:32.000Z",
+      "id": "a51ecb4daee4233c9215a",
+      "title": "张仲麟：每年10亿美元养“屎山”，美国空管缝缝补补又三年，终于补崩了",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangZhongZuo/2026_11_16_908481_s.shtml",
+      "published": "2026-11-16 09:37:50",
       "genre": "新闻动态"
     },
     {
@@ -712,11 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "abca39c0d7adf95ab0fd2",
-      "title": "“美国人甚至怀疑：是不是世界末日？”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yCSlXxchuR",
-      "published": "2026-11-20T08:25:19+08:00",
+      "id": "a4ab286fda3410c25b6d0",
+      "title": "美国“彻底离席”气候大会，绿色和平团长：这反而带来更多雄心",
+      "source": "凤凰大参考",
+      "url": "https://original.ifeng.com/c/8yDGFxvJlSE",
+      "published": "2026-11-20T20:22:11+08:00",
       "genre": "新闻动态"
     },
     {
@@ -736,19 +736,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfbe0dc1edd2479699c7",
-      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
-      "source": "爱娱乐趣生活",
-      "url": "https://www.360kuai.com/974ee9889b23c665f",
-      "published": "2026-10-18T18:33:47.000Z",
+      "id": "ad4b1f4ad739877881533",
+      "title": "2岁男童从18楼坠亡之后：父亲曾在殡仪馆下跪，母亲怀疑，婚姻濒临破碎",
+      "source": "红星新闻",
+      "url": "https://news.ifeng.com/c/8xO6d1pcquT",
+      "published": "2026-10-21T01:03:15+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a1342d255a863991a6309",
-      "title": "在中俄美元首会晤中，特朗普痛批国际刑事法院是“流氓组织”",
-      "source": "凤凰网天下事",
-      "url": "https://original.ifeng.com/c/8yBYErKxr9h",
-      "published": "2026-11-19T19:37:24+08:00",
+      "id": "a257460b482746708c649",
+      "title": "越来越冷了，中国现在，非常缺气",
+      "source": "地球知识局",
+      "url": "https://news.ifeng.com/c/8yDF5OdZNb9",
+      "published": "2026-11-20T19:30:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -768,19 +768,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a5b33e6ef462d308942b3",
-      "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
-      "published": "2026年11月15日 17:15",
+      "id": "acfbe0dc1edd2479699c7",
+      "title": "刘德华：从天王到普通父亲，他的低调人生比电影更动人",
+      "source": "爱娱乐趣生活",
+      "url": "https://www.360kuai.com/974ee9889b23c665f",
+      "published": "2026-10-18T18:33:47.000Z",
       "genre": "人物与往事"
     },
     {
-      "id": "a45c1855ac41be7fdd067",
-      "title": "用AI伪造色情影像1141份，在韩留学中国博士生获刑1年半",
-      "source": "封面新闻",
-      "url": "https://news.ifeng.com/c/8yBQWke9XKU",
-      "published": "2026-11-19T16:39:58+08:00",
+      "id": "a773052634c6246729d77",
+      "title": "江宇舟：在美国两轮制裁中走访新疆，这是值得我们奉献与捍卫的好地方",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_16_907753_s.shtml",
+      "published": "2026-11-16 08:14:32",
       "genre": "新闻动态"
     },
     {
@@ -792,20 +792,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "aac3c1a66b841fdfa82bc",
-      "title": "原创 曾爆红的“女子十二乐坊”，当年为何跑去日本发展？后因何消失？",
-      "source": "摘桃",
-      "url": "https://www.sohu.com/a/1103934269_122542989",
-      "published": "2026-11-20 09:21",
+      "id": "a5b33e6ef462d308942b3",
+      "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
+      "published": "2026年11月15日 17:15",
       "genre": "人物与往事"
     },
     {
-      "id": "a9fa48d65a6d344c2fd12",
-      "title": "宜博秦王卑命钟亮相大洋彼岸讲述秦楚往事",
-      "source": "博物馆世界",
-      "url": "https://www.sohu.com/a/1102415469_121107011",
-      "published": "2026-11-16 16:08",
-      "genre": "历史故事"
+      "id": "a958f1d3b16ca37d7ea35",
+      "title": "1939年，6名女医护兵落入敌手，日寇拍下1分30秒影像，80年后曝光：无一人惧色",
+      "source": "社会生活新鲜事",
+      "url": "https://www.360kuai.com/957d9bd60ee3a7a75",
+      "published": "2026-11-17T07:04:32.000Z",
+      "genre": "新闻动态"
     }
   ]
 }
