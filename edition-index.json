@@ -1,5 +1,5 @@
 {
-  "revision": "79ceecf63df53f4dd47f77e2",
+  "revision": "2e6ba056775514785e27d7e8",
   "channels": {
     "news": 26,
     "military": 24,
@@ -8,11 +8,11 @@
   },
   "articles": [
     {
-      "id": "aa8acd26eb39562bce6d2",
-      "title": "江宇舟：三国元首会晤之后，中国如何从“主持人”成为“出题人”？",
+      "id": "a44d0468792f9169a37ea",
+      "title": "秦测皓：中国汽车的“新航海时代”？行业老将道破出海难关",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_25_909765_s.shtml",
-      "published": "2026-11-25 13:02:47",
+      "url": "https://www.guancha.cn/qincehao/2026_11_26_909901_s.shtml",
+      "published": "2026-11-26 08:39:49",
       "genre": "分析评论"
     },
     {
@@ -32,19 +32,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "af1da1f0b510aefb4f67b",
-      "title": "原创 张纪中妻子自曝领证才知真实年龄：婚姻里比年龄重要的东西太多了",
-      "source": "娱情予理说",
-      "url": "https://www.sohu.com/a/1106073571_122158040",
-      "published": "2026-11-25 10:49",
+      "id": "a70d5f08f5bb55c326d38",
+      "title": "原创 与丈夫分居21年！叶檀在婚姻中的定力是满分",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1106485284_120617247",
+      "published": "2026-11-26 07:19",
       "genre": "人物与往事"
     },
     {
-      "id": "ae8ff06f7dbb68ecae3b0",
-      "title": "沈晓敏：学历社会是如何被“合谋”制造出来的？",
+      "id": "aa8acd26eb39562bce6d2",
+      "title": "江宇舟：三国元首会晤之后，中国如何从“主持人”成为“出题人”？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/shenxiaomin/2026_11_23_907966_s.shtml",
-      "published": "2026-11-23 10:05:09",
+      "url": "https://www.guancha.cn/jiangyuzhou/2026_11_25_909765_s.shtml",
+      "published": "2026-11-25 13:02:47",
       "genre": "分析评论"
     },
     {
@@ -64,19 +64,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "addfdc346737fef724ea4",
-      "title": "原创 复婚传闻刚澄清七月！55岁的李亚鹏再迎喜讯，前妻王菲成主角",
-      "source": "Ggd娱乐",
-      "url": "https://www.sohu.com/a/1105016173_122434935",
-      "published": "2026-11-23 06:10",
+      "id": "af1da1f0b510aefb4f67b",
+      "title": "原创 张纪中妻子自曝领证才知真实年龄：婚姻里比年龄重要的东西太多了",
+      "source": "娱情予理说",
+      "url": "https://www.sohu.com/a/1106073571_122158040",
+      "published": "2026-11-25 10:49",
       "genre": "人物与往事"
     },
     {
-      "id": "a0ba481f2d7e377b53aa1",
-      "title": "“世界科先声”编译|“AI教父”杰弗里·辛顿：中国对AI的理解，比美国政府要深入得多",
+      "id": "ae8ff06f7dbb68ecae3b0",
+      "title": "沈晓敏：学历社会是如何被“合谋”制造出来的？",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/GeoffreyHinton/2026_11_21_909235_s.shtml",
-      "published": "2026-11-21 07:06:41",
+      "url": "https://www.guancha.cn/shenxiaomin/2026_11_23_907966_s.shtml",
+      "published": "2026-11-23 10:05:09",
       "genre": "分析评论"
     },
     {
@@ -96,19 +96,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ae7296e9aafe471894e60",
-      "title": "原创 著名演员宋晓英：离异后与男星再婚，丧偶5年独自坚强",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1104756886_120617247",
-      "published": "2026-11-22 10:12",
+      "id": "addfdc346737fef724ea4",
+      "title": "原创 复婚传闻刚澄清七月！55岁的李亚鹏再迎喜讯，前妻王菲成主角",
+      "source": "Ggd娱乐",
+      "url": "https://www.sohu.com/a/1105016173_122434935",
+      "published": "2026-11-23 06:10",
       "genre": "人物与往事"
     },
     {
-      "id": "a7cf7ac66185e9200778b",
-      "title": "“中国对AI的理解，比美国政府要深入得多”",
+      "id": "a0ba481f2d7e377b53aa1",
+      "title": "“世界科先声”编译|“AI教父”杰弗里·辛顿：中国对AI的理解，比美国政府要深入得多",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yE0uQcxxAl",
-      "published": "2026-11-21T07:06:41+08:00",
+      "url": "https://www.guancha.cn/GeoffreyHinton/2026_11_21_909235_s.shtml",
+      "published": "2026-11-21 07:06:41",
       "genre": "分析评论"
     },
     {
@@ -128,19 +128,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a8a9b2299f0dc7e318f35",
-      "title": "伊能静一眼看破《后会友期》所有嘉宾，她的通透早在婚姻中体现出来",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1103991457_356941",
-      "published": "2026-11-22 00:00",
+      "id": "ae7296e9aafe471894e60",
+      "title": "原创 著名演员宋晓英：离异后与男星再婚，丧偶5年独自坚强",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1104756886_120617247",
+      "published": "2026-11-22 10:12",
       "genre": "人物与往事"
     },
     {
-      "id": "a73f32c447d88e67f703f",
-      "title": "高志凯：满足这两个前提，中美终将迎来“不可避免的和平”",
+      "id": "a7cf7ac66185e9200778b",
+      "title": "“中国对AI的理解，比美国政府要深入得多”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/gaozhikai/2026_11_20_830782_s.shtml",
-      "published": "2026-11-20 09:10:40",
+      "url": "https://news.ifeng.com/c/8yE0uQcxxAl",
+      "published": "2026-11-21T07:06:41+08:00",
       "genre": "分析评论"
     },
     {
@@ -160,19 +160,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a073c1485a42237b00b61",
-      "title": "相差31岁，杜星霖坦言很难改嫁，一句话撕开豪门婚姻另一面",
-      "source": "极限的娱乐",
-      "url": "https://www.sohu.com/a/1104399075_123043499",
-      "published": "2026-11-21 08:46",
+      "id": "a8a9b2299f0dc7e318f35",
+      "title": "伊能静一眼看破《后会友期》所有嘉宾，她的通透早在婚姻中体现出来",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1103991457_356941",
+      "published": "2026-11-22 00:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a3d9e46ccc347b15fb4bf",
-      "title": "阿提拉·格朗皮埃尔：我曾不理解中国的生态文明理念，后来发现它与我的理论如此接近",
+      "id": "a73f32c447d88e67f703f",
+      "title": "高志凯：满足这两个前提，中美终将迎来“不可避免的和平”",
       "source": "观察者网",
-      "url": "https://www.guancha.cn/AttilaGrandpierre/2026_11_20_909132_s.shtml",
-      "published": "2026-11-20 08:06:59",
+      "url": "https://www.guancha.cn/gaozhikai/2026_11_20_830782_s.shtml",
+      "published": "2026-11-20 09:10:40",
       "genre": "分析评论"
     },
     {
@@ -192,20 +192,20 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfa9ac4c2df3a9a950db",
-      "title": "电影《试探》上演血腥爱情故事 三人痴爱成囚画地为牢",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8yCb8ZwDAXj",
-      "published": "2026-11-20T10:53:01+08:00",
+      "id": "a073c1485a42237b00b61",
+      "title": "相差31岁，杜星霖坦言很难改嫁，一句话撕开豪门婚姻另一面",
+      "source": "极限的娱乐",
+      "url": "https://www.sohu.com/a/1104399075_123043499",
+      "published": "2026-11-21 08:46",
       "genre": "人物与往事"
     },
     {
-      "id": "a4aae56de34747919aa53",
-      "title": "“普京已向美国保证不会使用核武器”",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8yM8008foxv",
-      "published": "2026-11-26T05:19:20+08:00",
-      "genre": "新闻动态"
+      "id": "a3d9e46ccc347b15fb4bf",
+      "title": "阿提拉·格朗皮埃尔：我曾不理解中国的生态文明理念，后来发现它与我的理论如此接近",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/AttilaGrandpierre/2026_11_20_909132_s.shtml",
+      "published": "2026-11-20 08:06:59",
+      "genre": "分析评论"
     },
     {
       "id": "ae35b1bae56f8d0ef8fb8",
@@ -224,19 +224,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a053e67eb19299b6d7940",
-      "title": "原创 汪峰晒与4个儿女的全家福！他是称职的父亲，但不适合婚姻",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1103496147_120617247",
-      "published": "2026-11-19 09:48",
+      "id": "acfa9ac4c2df3a9a950db",
+      "title": "电影《试探》上演血腥爱情故事 三人痴爱成囚画地为牢",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8yCb8ZwDAXj",
+      "published": "2026-11-20T10:53:01+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a1dea611bfdd8569c911d",
-      "title": "瑞士：对朝鲜关闭瑞士驻平壤外交办事处表示遗憾",
-      "source": "新华社",
-      "url": "https://news.ifeng.com/c/8yM59f22OWK",
-      "published": "2026-11-26T05:19:06+08:00",
+      "id": "a0e3167b2d27ac950b63f",
+      "title": "美国关税风暴再起！黄国昌轰赖清德：还在位子上就好好承担责任",
+      "source": "海峡导报大台海",
+      "url": "https://news.ifeng.com/c/8yMXb7yXKtO",
+      "published": "2026-11-26T10:07:54+08:00",
       "genre": "新闻动态"
     },
     {
@@ -256,19 +256,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a778ead9787ec8f72aa48",
-      "title": "原创 独家采访瞿颖的母亲！曝光瞿颖婚姻的真实状况，母亲心有纠结",
+      "id": "a053e67eb19299b6d7940",
+      "title": "原创 汪峰晒与4个儿女的全家福！他是称职的父亲，但不适合婚姻",
       "source": "细品名人",
-      "url": "https://www.sohu.com/a/1102974356_120617247",
-      "published": "2026-11-18 07:03",
+      "url": "https://www.sohu.com/a/1103496147_120617247",
+      "published": "2026-11-19 09:48",
       "genre": "人物与往事"
     },
     {
-      "id": "ad490a642571ff2ace18d",
-      "title": "胡锡进：瞧把美澳乐的，好像真能把太平洋冲中国锁住一样",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8yLnJmg4ReY",
-      "published": "2026-11-25T23:29:50+08:00",
+      "id": "a4aae56de34747919aa53",
+      "title": "“普京已向美国保证不会使用核武器”",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8yM8008foxv",
+      "published": "2026-11-26T05:19:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -296,11 +296,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a63c554c6913daf634219",
-      "title": "布莱尔：英国没有意识到世界变化有多快，已没有足够体量与中美平起平坐",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8yLmI2KnHuk",
-      "published": "2026-11-25T23:08:45+08:00",
+      "id": "a1dea611bfdd8569c911d",
+      "title": "瑞士：对朝鲜关闭瑞士驻平壤外交办事处表示遗憾",
+      "source": "新华社",
+      "url": "https://news.ifeng.com/c/8yM59f22OWK",
+      "published": "2026-11-26T05:19:06+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,11 +328,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1dcf8b9fcbb063a31e53",
-      "title": "美国又要发动全球关税战？赖岳谦：换汤不换药",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8yLgSr08Hxu",
-      "published": "2026-11-25T22:11:45+08:00",
+      "id": "ad490a642571ff2ace18d",
+      "title": "胡锡进：瞧把美澳乐的，好像真能把太平洋冲中国锁住一样",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8yLnJmg4ReY",
+      "published": "2026-11-25T23:29:50+08:00",
       "genre": "新闻动态"
     },
     {
@@ -360,11 +360,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0b7da5182238cf283ff5",
-      "title": "特朗普念念不忘的“中国菜”到底是啥？国宴大厨详解",
+      "id": "a63c554c6913daf634219",
+      "title": "布莱尔：英国没有意识到世界变化有多快，已没有足够体量与中美平起平坐",
       "source": "东西问",
-      "url": "https://news.ifeng.com/c/8yLioJx3fc4",
-      "published": "2026-11-25T21:58:36+08:00",
+      "url": "https://news.ifeng.com/c/8yLmI2KnHuk",
+      "published": "2026-11-25T23:08:45+08:00",
       "genre": "新闻动态"
     },
     {
@@ -392,11 +392,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5cfa80acde658250252b",
-      "title": "华人女博士在美国被扣！案情极为离奇，争议巨大",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yLfCdzRG5g",
-      "published": "2026-11-25T21:14:35+08:00",
+      "id": "a1dcf8b9fcbb063a31e53",
+      "title": "美国又要发动全球关税战？赖岳谦：换汤不换药",
+      "source": "凤凰卫视资讯台",
+      "url": "https://original.ifeng.com/c/8yLgSr08Hxu",
+      "published": "2026-11-25T22:11:45+08:00",
       "genre": "新闻动态"
     },
     {
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a04cc591a6451a220d8cb",
-      "title": "陈吉宁被查，上海市人大常委会党组、市政府党组、市政协党组表态",
-      "source": "政知见",
-      "url": "https://news.ifeng.com/c/8yLSF4p7tLt",
-      "published": "2026-11-25T18:36:30+08:00",
+      "id": "a0b7da5182238cf283ff5",
+      "title": "特朗普念念不忘的“中国菜”到底是啥？国宴大厨详解",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8yLioJx3fc4",
+      "published": "2026-11-25T21:58:36+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a5c8af6adbb0bd9c10b94",
-      "title": "欧盟公布混动车进口“临时配额”，中国首期8.6万辆",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yLMojJEm4D",
-      "published": "2026-11-25T17:25:12+08:00",
+      "id": "a5cfa80acde658250252b",
+      "title": "华人女博士在美国被扣！案情极为离奇，争议巨大",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8yLfCdzRG5g",
+      "published": "2026-11-25T21:14:35+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a9d623e71cad250a67268",
-      "title": "美国青年活动人士盖伊·克里斯滕森：“中国威胁论”，夺走了美国人的自由社交空间",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuyChristensen/2026_11_25_909550_s.shtml",
-      "published": "2026-11-25 08:43:01",
+      "id": "a04cc591a6451a220d8cb",
+      "title": "陈吉宁被查，上海市人大常委会党组、市政府党组、市政协党组表态",
+      "source": "政知见",
+      "url": "https://news.ifeng.com/c/8yLSF4p7tLt",
+      "published": "2026-11-25T18:36:30+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,12 +520,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac4b04ec48e7f106055bf",
-      "title": "十家车企压了近万亿账款，中国车圈背着连环债的雷",
-      "source": "虎嗅网",
-      "url": "https://news.ifeng.com/c/8yAljtxc3ni",
-      "published": "2026-11-19T08:05:02+08:00",
-      "genre": "分析评论"
+      "id": "a5c8af6adbb0bd9c10b94",
+      "title": "欧盟公布混动车进口“临时配额”，中国首期8.6万辆",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yLMojJEm4D",
+      "published": "2026-11-25T17:25:12+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ab1ad8da6e9b5cc923825",
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a84c37a8d1346462b02f0",
-      "title": "365天，美国创猪肾移植存活纪录，中国异种移植还需跨3道门槛",
-      "source": "中国科学报",
-      "url": "https://news.ifeng.com/c/8yKhNmdUVQH",
-      "published": "2026-11-25T07:50:00+08:00",
+      "id": "a9d623e71cad250a67268",
+      "title": "美国青年活动人士盖伊·克里斯滕森：“中国威胁论”，夺走了美国人的自由社交空间",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuyChristensen/2026_11_25_909550_s.shtml",
+      "published": "2026-11-25 08:43:01",
       "genre": "新闻动态"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1ea28d78f08d2ef85a52",
-      "title": "这件事上，日本跟美国对着干了",
-      "source": "牛弹琴",
-      "url": "https://news.ifeng.com/c/8yKfFZYgFyf",
-      "published": "2026-11-25T07:14:55+08:00",
+      "id": "a84c37a8d1346462b02f0",
+      "title": "365天，美国创猪肾移植存活纪录，中国异种移植还需跨3道门槛",
+      "source": "中国科学报",
+      "url": "https://news.ifeng.com/c/8yKhNmdUVQH",
+      "published": "2026-11-25T07:50:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a6c68998a19787554997f",
-      "title": "欧洲航天员进天宫先过中文关，能背《论语》才够格！中国空间站凭什么这么牛？",
-      "source": "漫天消息",
-      "url": "https://www.360kuai.com/9ec6449d33af2d4f5",
-      "published": "2026-11-24T13:01:34.000Z",
+      "id": "a1ea28d78f08d2ef85a52",
+      "title": "这件事上，日本跟美国对着干了",
+      "source": "牛弹琴",
+      "url": "https://news.ifeng.com/c/8yKfFZYgFyf",
+      "published": "2026-11-25T07:14:55+08:00",
       "genre": "新闻动态"
     },
     {
@@ -744,11 +744,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0d053a74cd497756e6f0",
-      "title": "向美AI巨头开刀？民主党内部三派角力，外媒：中国或成赢家",
-      "source": "凤凰网天下事",
-      "url": "https://original.ifeng.com/c/8yJynJ4aISB",
-      "published": "2026-11-24T21:46:37+08:00",
+      "id": "a8b70b2d0e375d91203b8",
+      "title": "欧方解除对一中企制裁措施，商务部回应",
+      "source": "商务部",
+      "url": "https://news.ifeng.com/c/8yMdCooAn3y",
+      "published": "2026-11-26T11:35:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -776,11 +776,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a39661c9e1d994803a6af",
-      "title": "黄仁勋王者归来的背后：美国已离不开他的芯片帝国",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8yJp3WVdVIx",
-      "published": "2026-11-24T19:09:20+08:00",
+      "id": "a0d053a74cd497756e6f0",
+      "title": "向美AI巨头开刀？民主党内部三派角力，外媒：中国或成赢家",
+      "source": "凤凰网天下事",
+      "url": "https://original.ifeng.com/c/8yJynJ4aISB",
+      "published": "2026-11-24T21:46:37+08:00",
       "genre": "新闻动态"
     },
     {
@@ -800,11 +800,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3c96d2d6dec712aedec4",
-      "title": "杨建初：AI的生态账，美国科技巨头们还想赖到几时？",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/yangjianchu/2026_11_23_909518_s.shtml",
-      "published": "2026-11-23 09:58:52",
+      "id": "a6c68998a19787554997f",
+      "title": "欧洲航天员进天宫先过中文关，能背《论语》才够格！中国空间站凭什么这么牛？",
+      "source": "漫天消息",
+      "url": "https://www.360kuai.com/9ec6449d33af2d4f5",
+      "published": "2026-11-24T13:01:34.000Z",
       "genre": "新闻动态"
     }
   ]
