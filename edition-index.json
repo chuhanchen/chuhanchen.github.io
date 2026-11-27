@@ -1,9 +1,9 @@
 {
-  "revision": "1d2a40ed22a9f7f25c677ed6",
+  "revision": "e0b640c766e3644d874d0db7",
   "channels": {
-    "news": 26,
+    "news": 25,
     "military": 24,
-    "history": 25,
+    "history": 26,
     "culture": 25
   },
   "articles": [
@@ -24,19 +24,19 @@
       "genre": "战史回忆"
     },
     {
-      "id": "acc49f74c724ff7de801e",
-      "title": "绝食72小时，国民党新竹县长候选人被紧急送医",
-      "source": "海峡新干线新媒体",
-      "url": "https://news.ifeng.com/c/8yIKNgjTJl1",
-      "published": "2026-11-23T20:52:14+08:00",
+      "id": "a2728a189ae2176cdd3f3",
+      "title": "八年之后，国民党能否在高雄重现“韩流”？",
+      "source": "台湾日月谈",
+      "url": "https://original.ifeng.com/c/8yOZindNAHU",
+      "published": "2026-11-27T15:55:35+08:00",
       "genre": "历史故事"
     },
     {
-      "id": "a70d5f08f5bb55c326d38",
-      "title": "原创 与丈夫分居21年！叶檀在婚姻中的定力是满分",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1106485284_120617247",
-      "published": "2026-11-26 07:19",
+      "id": "a85c3aca2d09810b5bab0",
+      "title": "原创 王力宏前妻离婚后赴婚宴，身穿粉色蝴蝶裙，月领21万养三孩都花不完",
+      "source": "功标青史",
+      "url": "https://www.sohu.com/a/1106937035_122483045",
+      "published": "2026-11-27 04:47",
       "genre": "人物与往事"
     },
     {
@@ -56,19 +56,19 @@
       "genre": "战史回忆"
     },
     {
-      "id": "aff097fd7529d7fc3bb6c",
-      "title": "原创 最奇葩的国民党上将：明知道手下有两千共产党员，愣是一个都没抓",
-      "source": "朝史暮今",
-      "url": "https://www.sohu.com/a/1104711185_122157694",
-      "published": "2026-11-22 06:20",
+      "id": "a3a8fcec46ae3417ca78d",
+      "title": "绿营大佬欠台糖1.7亿还债遥遥无期，国民党团斥双标：根本是特权",
+      "source": "海峡导报",
+      "url": "https://news.ifeng.com/c/8yOM9PlYDT3",
+      "published": "2026-11-27T12:45:29+08:00",
       "genre": "历史故事"
     },
     {
-      "id": "af1da1f0b510aefb4f67b",
-      "title": "原创 张纪中妻子自曝领证才知真实年龄：婚姻里比年龄重要的东西太多了",
-      "source": "娱情予理说",
-      "url": "https://www.sohu.com/a/1106073571_122158040",
-      "published": "2026-11-25 10:49",
+      "id": "a70d5f08f5bb55c326d38",
+      "title": "原创 与丈夫分居21年！叶檀在婚姻中的定力是满分",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1106485284_120617247",
+      "published": "2026-11-26 07:19",
       "genre": "人物与往事"
     },
     {
@@ -88,19 +88,19 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a4241a7d83aa69b791688",
-      "title": "原创 新中国成立后，中央三次邀请她出任要职，她为何都婉拒了",
-      "source": "兴衰五千年V",
-      "url": "https://www.sohu.com/a/1104547816_122542765",
-      "published": "2026-11-21 15:09",
+      "id": "acc49f74c724ff7de801e",
+      "title": "绝食72小时，国民党新竹县长候选人被紧急送医",
+      "source": "海峡新干线新媒体",
+      "url": "https://news.ifeng.com/c/8yIKNgjTJl1",
+      "published": "2026-11-23T20:52:14+08:00",
       "genre": "历史故事"
     },
     {
-      "id": "addfdc346737fef724ea4",
-      "title": "原创 复婚传闻刚澄清七月！55岁的李亚鹏再迎喜讯，前妻王菲成主角",
-      "source": "Ggd娱乐",
-      "url": "https://www.sohu.com/a/1105016173_122434935",
-      "published": "2026-11-23 06:10",
+      "id": "af1da1f0b510aefb4f67b",
+      "title": "原创 张纪中妻子自曝领证才知真实年龄：婚姻里比年龄重要的东西太多了",
+      "source": "娱情予理说",
+      "url": "https://www.sohu.com/a/1106073571_122158040",
+      "published": "2026-11-25 10:49",
       "genre": "人物与往事"
     },
     {
@@ -120,19 +120,19 @@
       "genre": "分析评论"
     },
     {
-      "id": "a760013838ee8b4760771",
-      "title": "原创 1951年，国民党官员妻子闯入中南海，毛主席怒斥：没带点东西来？",
-      "source": "南书房V",
-      "url": "https://www.sohu.com/a/1104167335_122542758",
-      "published": "2026-11-20 16:15",
+      "id": "aff097fd7529d7fc3bb6c",
+      "title": "原创 最奇葩的国民党上将：明知道手下有两千共产党员，愣是一个都没抓",
+      "source": "朝史暮今",
+      "url": "https://www.sohu.com/a/1104711185_122157694",
+      "published": "2026-11-22 06:20",
       "genre": "历史故事"
     },
     {
-      "id": "ae7296e9aafe471894e60",
-      "title": "原创 著名演员宋晓英：离异后与男星再婚，丧偶5年独自坚强",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1104756886_120617247",
-      "published": "2026-11-22 10:12",
+      "id": "addfdc346737fef724ea4",
+      "title": "原创 复婚传闻刚澄清七月！55岁的李亚鹏再迎喜讯，前妻王菲成主角",
+      "source": "Ggd娱乐",
+      "url": "https://www.sohu.com/a/1105016173_122434935",
+      "published": "2026-11-23 06:10",
       "genre": "人物与往事"
     },
     {
@@ -152,11 +152,43 @@
       "genre": "分析评论"
     },
     {
-      "id": "aedc082fb68c44fa7ccfd",
-      "title": "原创 他是铁道游击队创始人，抗战胜利却叛变投敌，建国后被捕结局如何",
-      "source": "社会侃侃看",
-      "url": "https://www.sohu.com/a/1102905351_122499137",
-      "published": "2026-11-18 01:18",
+      "id": "a4241a7d83aa69b791688",
+      "title": "原创 新中国成立后，中央三次邀请她出任要职，她为何都婉拒了",
+      "source": "兴衰五千年V",
+      "url": "https://www.sohu.com/a/1104547816_122542765",
+      "published": "2026-11-21 15:09",
+      "genre": "历史故事"
+    },
+    {
+      "id": "ae7296e9aafe471894e60",
+      "title": "原创 著名演员宋晓英：离异后与男星再婚，丧偶5年独自坚强",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1104756886_120617247",
+      "published": "2026-11-22 10:12",
+      "genre": "人物与往事"
+    },
+    {
+      "id": "affcafdbb85c834871b5f",
+      "title": "美国对多国挥舞关税大棒，报告里却反复提到中国",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yOTuJ5spEI",
+      "published": "2026-11-27T14:24:10+08:00",
+      "genre": "新闻动态"
+    },
+    {
+      "id": "a08717d66d0413390262d",
+      "title": "港媒分析中国不放过高市言论背后棋局，将解决台湾问题称为“现代版平津战役”",
+      "source": "胡锡进",
+      "url": "https://news.ifeng.com/c/8y3JsaasaYO",
+      "published": "2026-11-14T20:22:14+08:00",
+      "genre": "分析评论"
+    },
+    {
+      "id": "a760013838ee8b4760771",
+      "title": "原创 1951年，国民党官员妻子闯入中南海，毛主席怒斥：没带点东西来？",
+      "source": "南书房V",
+      "url": "https://www.sohu.com/a/1104167335_122542758",
+      "published": "2026-11-20 16:15",
       "genre": "历史故事"
     },
     {
@@ -176,19 +208,19 @@
       "genre": "分析评论"
     },
     {
-      "id": "a08717d66d0413390262d",
-      "title": "港媒分析中国不放过高市言论背后棋局，将解决台湾问题称为“现代版平津战役”",
-      "source": "胡锡进",
-      "url": "https://news.ifeng.com/c/8y3JsaasaYO",
-      "published": "2026-11-14T20:22:14+08:00",
+      "id": "ae35b1bae56f8d0ef8fb8",
+      "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
+      "source": "环球网",
+      "url": "https://mil.ifeng.com/c/8xrQJdoqQxs",
+      "published": "2026-11-08T09:32:42+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "aa8baa6c988b751c5c35e",
-      "title": "原创 最聪明的国民党将领！登机赴台中途溜走，蒋介石终生未能等到他",
-      "source": "明月文史",
-      "url": "https://www.sohu.com/a/1102902870_122541827",
-      "published": "2026-11-18 01:10",
+      "id": "aedc082fb68c44fa7ccfd",
+      "title": "原创 他是铁道游击队创始人，抗战胜利却叛变投敌，建国后被捕结局如何",
+      "source": "社会侃侃看",
+      "url": "https://www.sohu.com/a/1102905351_122499137",
+      "published": "2026-11-18 01:18",
       "genre": "历史故事"
     },
     {
@@ -208,19 +240,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "ae35b1bae56f8d0ef8fb8",
-      "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xrQJdoqQxs",
-      "published": "2026-11-08T09:32:42+08:00",
+      "id": "adfaaf862727f230080fd",
+      "title": "美军导弹，又打向岛上",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8xmoY8CmKzF",
+      "published": "2026-11-04T21:50:00+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "a8c4e61ab75a48acbc6b5",
-      "title": "原创 宋念申：西塔“变形记”，就是东北400年近代史的缩影",
-      "source": "搜狐文化",
-      "url": "https://www.sohu.com/a/1102766331_120005162",
-      "published": "2026-11-17 16:43",
+      "id": "aa8baa6c988b751c5c35e",
+      "title": "原创 最聪明的国民党将领！登机赴台中途溜走，蒋介石终生未能等到他",
+      "source": "明月文史",
+      "url": "https://www.sohu.com/a/1102902870_122541827",
+      "published": "2026-11-18 01:10",
       "genre": "历史故事"
     },
     {
@@ -240,19 +272,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "adfaaf862727f230080fd",
-      "title": "美军导弹，又打向岛上",
-      "source": "中国新闻周刊",
-      "url": "https://news.ifeng.com/c/8xmoY8CmKzF",
-      "published": "2026-11-04T21:50:00+08:00",
+      "id": "a697367063de953696261",
+      "title": "美评论员称美方考虑对伊动用核武器，白宫驳斥：他根本不懂军事",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8xkmZ57RdGv",
+      "published": "2026-11-03T16:33:25+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "a2fb9eea8a2e24459f3d0",
-      "title": "台湾“九合一选举”倒计时15天！国民党召唤沉默选民拼双北胜选",
-      "source": "海峡导报",
-      "url": "https://news.ifeng.com/c/8y0p6HZUybH",
-      "published": "2026-11-13T08:42:21+08:00",
+      "id": "a8c4e61ab75a48acbc6b5",
+      "title": "原创 宋念申：西塔“变形记”，就是东北400年近代史的缩影",
+      "source": "搜狐文化",
+      "url": "https://www.sohu.com/a/1102766331_120005162",
+      "published": "2026-11-17 16:43",
       "genre": "历史故事"
     },
     {
@@ -272,19 +304,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a697367063de953696261",
-      "title": "美评论员称美方考虑对伊动用核武器，白宫驳斥：他根本不懂军事",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8xkmZ57RdGv",
-      "published": "2026-11-03T16:33:25+08:00",
+      "id": "a95ade0a68fde6b99debf",
+      "title": "飞行员培训不统一，“阵风”首降印度航母后麻烦多",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8xk7NX10Bc5",
+      "published": "2026-11-03T06:49:43+08:00",
       "genre": "分析评论"
     },
     {
-      "id": "ae3e7bd6076117c8b612a",
-      "title": "原创 1976年开国少将李彬山聚众数万企图顽抗，堵在虹桥机场截留中央大员，5天后阴谋土崩瓦解",
-      "source": "国际小表妹",
-      "url": "https://www.sohu.com/a/1099422973_122615833",
-      "published": "2026-11-10 08:26",
+      "id": "a2fb9eea8a2e24459f3d0",
+      "title": "台湾“九合一选举”倒计时15天！国民党召唤沉默选民拼双北胜选",
+      "source": "海峡导报",
+      "url": "https://news.ifeng.com/c/8y0p6HZUybH",
+      "published": "2026-11-13T08:42:21+08:00",
       "genre": "历史故事"
     },
     {
@@ -304,19 +336,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a95ade0a68fde6b99debf",
-      "title": "飞行员培训不统一，“阵风”首降印度航母后麻烦多",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xk7NX10Bc5",
-      "published": "2026-11-03T06:49:43+08:00",
+      "id": "a21fd1610d1fd7515a061",
+      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
+      "published": "2026-10-25 08:23:25",
       "genre": "分析评论"
     },
     {
-      "id": "a46d63dee91922b5b2cbe",
-      "title": "李恭忠、李里峰谈孙中山与中国革命",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1098651349_260616",
-      "published": "2026-11-08 07:59",
+      "id": "ae3e7bd6076117c8b612a",
+      "title": "原创 1976年开国少将李彬山聚众数万企图顽抗，堵在虹桥机场截留中央大员，5天后阴谋土崩瓦解",
+      "source": "国际小表妹",
+      "url": "https://www.sohu.com/a/1099422973_122615833",
+      "published": "2026-11-10 08:26",
       "genre": "历史故事"
     },
     {
@@ -336,19 +368,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a21fd1610d1fd7515a061",
-      "title": "张维为《这就是中国》第354期：工农红军踏出的山川战略密码",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/ZhangWeiWei/2026_10_25_905649_s.shtml",
-      "published": "2026-10-25 08:23:25",
+      "id": "aae3ff04123e16e1a792a",
+      "title": "陈赓的军事生涯：为何未能授予元帅军衔",
+      "source": "历史长河无尽头",
+      "url": "https://www.360kuai.com/9fbe51f1873d2c114",
+      "published": "2026-10-19T06:05:21.000Z",
       "genre": "分析评论"
     },
     {
-      "id": "a32625436832b0b0e4c94",
-      "title": "原创 11月6日：为何近代中国保住了西藏和新疆，却唯独没保住外蒙古",
-      "source": "机器猫小九",
-      "url": "https://www.sohu.com/a/1097834742_122065634",
-      "published": "2026-11-06 07:21",
+      "id": "a46d63dee91922b5b2cbe",
+      "title": "李恭忠、李里峰谈孙中山与中国革命",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1098651349_260616",
+      "published": "2026-11-08 07:59",
       "genre": "历史故事"
     },
     {
@@ -368,19 +400,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "aae3ff04123e16e1a792a",
-      "title": "陈赓的军事生涯：为何未能授予元帅军衔",
-      "source": "历史长河无尽头",
-      "url": "https://www.360kuai.com/9fbe51f1873d2c114",
-      "published": "2026-10-19T06:05:21.000Z",
+      "id": "ab9eebd2d8c252d688e07",
+      "title": "巴里·希利：“澳大利亚拿24枚导弹‘威慑中国’？这不是战略，是愚蠢”",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/BarryHealy/2026_10_16_903500_s.shtml",
+      "published": "2026-10-16 08:13:05",
       "genre": "分析评论"
     },
     {
-      "id": "ad684e8bd48abb4193b45",
-      "title": "原创 开国大典当天，毛主席为何下死命令禁止任弼时登城楼？原因简单",
-      "source": "凡人侃史",
-      "url": "https://www.sohu.com/a/1097545041_100139746",
-      "published": "2026-11-05 14:41",
+      "id": "a32625436832b0b0e4c94",
+      "title": "原创 11月6日：为何近代中国保住了西藏和新疆，却唯独没保住外蒙古",
+      "source": "机器猫小九",
+      "url": "https://www.sohu.com/a/1097834742_122065634",
+      "published": "2026-11-06 07:21",
       "genre": "历史故事"
     },
     {
@@ -400,19 +432,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "ab9eebd2d8c252d688e07",
-      "title": "巴里·希利：“澳大利亚拿24枚导弹‘威慑中国’？这不是战略，是愚蠢”",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/BarryHealy/2026_10_16_903500_s.shtml",
-      "published": "2026-10-16 08:13:05",
-      "genre": "分析评论"
+      "id": "a8c054800cc7f62323abc",
+      "title": "“赤子同心补金瓯”台胞抗日史料图文展河南省巡展启动",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720060.shtml",
+      "published": "2026年10月23日 21:27",
+      "genre": "战史回忆"
     },
     {
-      "id": "a144bb6478c50c40ee844",
-      "title": "原创 1967年深夜里朱老总遭围斗，，五位开国元帅星夜驰援，毛主席亲临现场掷下重话：动他先过我这关",
-      "source": "国际小表妹",
-      "url": "https://www.sohu.com/a/1096399388_122615833",
-      "published": "2026-11-03 08:54",
+      "id": "ad684e8bd48abb4193b45",
+      "title": "原创 开国大典当天，毛主席为何下死命令禁止任弼时登城楼？原因简单",
+      "source": "凡人侃史",
+      "url": "https://www.sohu.com/a/1097545041_100139746",
+      "published": "2026-11-05 14:41",
       "genre": "历史故事"
     },
     {
@@ -432,19 +464,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a8c054800cc7f62323abc",
-      "title": "“赤子同心补金瓯”台胞抗日史料图文展河南省巡展启动",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720060.shtml",
-      "published": "2026年10月23日 21:27",
-      "genre": "战史回忆"
+      "id": "a8d2b0381d4a0043980d3",
+      "title": "当营救变成“避险”，美军航母成了无人艇的陪衬",
+      "source": "前哨",
+      "url": "https://mil.ifeng.com/c/8tqOyU6X06L",
+      "published": "2026-06-10T15:53:57+08:00",
+      "genre": "分析评论"
     },
     {
-      "id": "acc2e5bca09b0bc202e7c",
-      "title": "美国人迟到一百年的道歉，揭开了“民国第一才女”被误读最深的3个真相",
-      "source": "南方都市报",
-      "url": "https://www.sohu.com/a/1096071339_161795",
-      "published": "2026-11-02 13:52",
+      "id": "a144bb6478c50c40ee844",
+      "title": "原创 1967年深夜里朱老总遭围斗，，五位开国元帅星夜驰援，毛主席亲临现场掷下重话：动他先过我这关",
+      "source": "国际小表妹",
+      "url": "https://www.sohu.com/a/1096399388_122615833",
+      "published": "2026-11-03 08:54",
       "genre": "历史故事"
     },
     {
@@ -464,19 +496,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a8d2b0381d4a0043980d3",
-      "title": "当营救变成“避险”，美军航母成了无人艇的陪衬",
-      "source": "前哨",
-      "url": "https://mil.ifeng.com/c/8tqOyU6X06L",
-      "published": "2026-06-10T15:53:57+08:00",
+      "id": "a1783c6539437d4dbfaad",
+      "title": "（长征胜利90周年）巍巍大别山红旗不倒，老区如何走好发展新路？",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722638.shtml",
+      "published": "2026年10月29日 11:38",
       "genre": "分析评论"
     },
     {
-      "id": "abda66de53a7da383b7aa",
-      "title": "台北市长辩论后蓝军态势稳定，国民党议员：“洋流”外溢效果已大幅限缩",
-      "source": "海峡导报",
-      "url": "https://news.ifeng.com/c/8xhSqC8O0bt",
-      "published": "2026-11-01T16:38:27+08:00",
+      "id": "acc2e5bca09b0bc202e7c",
+      "title": "美国人迟到一百年的道歉，揭开了“民国第一才女”被误读最深的3个真相",
+      "source": "南方都市报",
+      "url": "https://www.sohu.com/a/1096071339_161795",
+      "published": "2026-11-02 13:52",
       "genre": "历史故事"
     },
     {
@@ -496,19 +528,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a1783c6539437d4dbfaad",
-      "title": "（长征胜利90周年）巍巍大别山红旗不倒，老区如何走好发展新路？",
+      "id": "ab1ad8da6e9b5cc923825",
+      "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722638.shtml",
-      "published": "2026年10月29日 11:38",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
+      "published": "2026年10月26日 22:10",
       "genre": "分析评论"
     },
     {
-      "id": "a8e2ebcfee6d247f9802f",
-      "title": "台北市登上《纽约时报》，他惊呼：少见外媒肯定国民党籍市长的执政成果",
-      "source": "台海网",
-      "url": "https://news.ifeng.com/c/8xhBu60Jhur",
-      "published": "2026-11-01T11:57:18+08:00",
+      "id": "abda66de53a7da383b7aa",
+      "title": "台北市长辩论后蓝军态势稳定，国民党议员：“洋流”外溢效果已大幅限缩",
+      "source": "海峡导报",
+      "url": "https://news.ifeng.com/c/8xhSqC8O0bt",
+      "published": "2026-11-01T16:38:27+08:00",
       "genre": "历史故事"
     },
     {
@@ -528,19 +560,19 @@
       "genre": "分析评论"
     },
     {
-      "id": "ab1ad8da6e9b5cc923825",
-      "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
-      "published": "2026年10月26日 22:10",
-      "genre": "分析评论"
+      "id": "ac0c0dc2d0eed76a97875",
+      "title": "汾酒·凤凰军机处丨海空主力不断迭代 专家介绍航展上的“新质战斗力”",
+      "source": "军机处",
+      "url": "https://mil.ifeng.com/c/8xVPRezymQQ",
+      "published": "2026-11-09T16:05:14+08:00",
+      "genre": "战史回忆"
     },
     {
-      "id": "ada738e8bc86c858ddc72",
-      "title": "百柄民国折扇，再现百年湖社画会",
-      "source": "澎湃新闻",
-      "url": "https://www.sohu.com/a/1092181562_260616",
-      "published": "2026-10-24 17:04",
+      "id": "a8e2ebcfee6d247f9802f",
+      "title": "台北市登上《纽约时报》，他惊呼：少见外媒肯定国民党籍市长的执政成果",
+      "source": "台海网",
+      "url": "https://news.ifeng.com/c/8xhBu60Jhur",
+      "published": "2026-11-01T11:57:18+08:00",
       "genre": "历史故事"
     },
     {
@@ -552,27 +584,27 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a3d9e46ccc347b15fb4bf",
-      "title": "阿提拉·格朗皮埃尔：我曾不理解中国的生态文明理念，后来发现它与我的理论如此接近",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/AttilaGrandpierre/2026_11_20_909132_s.shtml",
-      "published": "2026-11-20 08:06:59",
-      "genre": "分析评论"
+      "id": "a0e3167b2d27ac950b63f",
+      "title": "美国关税风暴再起！黄国昌轰赖清德：还在位子上就好好承担责任",
+      "source": "海峡导报大台海",
+      "url": "https://news.ifeng.com/c/8yMXb7yXKtO",
+      "published": "2026-11-26T10:07:54+08:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "ac0c0dc2d0eed76a97875",
-      "title": "汾酒·凤凰军机处丨海空主力不断迭代 专家介绍航展上的“新质战斗力”",
-      "source": "军机处",
-      "url": "https://mil.ifeng.com/c/8xVPRezymQQ",
-      "published": "2026-11-09T16:05:14+08:00",
-      "genre": "战史回忆"
+      "id": "ab669c38bbcce09f41617",
+      "title": "参观万吨大驱、与准航母合影，这份航展特殊攻略请收好",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738655.shtml",
+      "published": "2026年11月27日 13:00",
+      "genre": "新闻动态"
     },
     {
-      "id": "aa5ccf73c9e4456c4991d",
-      "title": "原创 被徐帅记了几十年的“整人专家”开国中将，战功赫赫却晚景凄凉，去求韩先楚拉一把，换来一番掷地有声的回绝",
-      "source": "那一条历史长河",
-      "url": "https://www.sohu.com/a/1091979073_122993442",
-      "published": "2026-10-24 07:07",
+      "id": "ada738e8bc86c858ddc72",
+      "title": "百柄民国折扇，再现百年湖社画会",
+      "source": "澎湃新闻",
+      "url": "https://www.sohu.com/a/1092181562_260616",
+      "published": "2026-10-24 17:04",
       "genre": "历史故事"
     },
     {
@@ -584,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0e3167b2d27ac950b63f",
-      "title": "美国关税风暴再起！黄国昌轰赖清德：还在位子上就好好承担责任",
-      "source": "海峡导报大台海",
-      "url": "https://news.ifeng.com/c/8yMXb7yXKtO",
-      "published": "2026-11-26T10:07:54+08:00",
+      "id": "a4aae56de34747919aa53",
+      "title": "“普京已向美国保证不会使用核武器”",
+      "source": "全球速报",
+      "url": "https://original.ifeng.com/c/8yM8008foxv",
+      "published": "2026-11-26T05:19:20+08:00",
       "genre": "新闻动态"
     },
     {
@@ -600,11 +632,11 @@
       "genre": "战史回忆"
     },
     {
-      "id": "a7aa4ad225ae7acddef92",
-      "title": "国民党逼问沈伯洋认同谁的松山机场迁移？点名谢长廷姚文智都提过",
-      "source": "海峡导报",
-      "url": "https://news.ifeng.com/c/8xSEYhEL8jS",
-      "published": "2026-10-23T12:08:09+08:00",
+      "id": "aa5ccf73c9e4456c4991d",
+      "title": "原创 被徐帅记了几十年的“整人专家”开国中将，战功赫赫却晚景凄凉，去求韩先楚拉一把，换来一番掷地有声的回绝",
+      "source": "那一条历史长河",
+      "url": "https://www.sohu.com/a/1091979073_122993442",
+      "published": "2026-10-24 07:07",
       "genre": "历史故事"
     },
     {
@@ -616,11 +648,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a4aae56de34747919aa53",
-      "title": "“普京已向美国保证不会使用核武器”",
-      "source": "全球速报",
-      "url": "https://original.ifeng.com/c/8yM8008foxv",
-      "published": "2026-11-26T05:19:20+08:00",
+      "id": "a9d623e71cad250a67268",
+      "title": "美国青年活动人士盖伊·克里斯滕森：“中国威胁论”，夺走了美国人的自由社交空间",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/GuyChristensen/2026_11_25_909550_s.shtml",
+      "published": "2026-11-25 08:43:01",
       "genre": "新闻动态"
     },
     {
@@ -688,19 +720,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "a67231e103a2c091f0ed7",
-      "title": "专家解读辽宁舰编队中双055“万吨大驱”强大战力",
-      "source": "环球网",
-      "url": "https://mil.ifeng.com/c/8xU9C1Cxi78",
-      "published": "2026-10-26T06:43:10+08:00",
-      "genre": "分析评论"
+      "id": "ac076db246e14f5219d7f",
+      "title": "滥用AI恶搞红军形象，英雄荣光岂能拿来低俗二创？",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732993.shtml",
+      "published": "2026年11月16日 20:02",
+      "genre": "新闻动态"
     },
     {
-      "id": "ad1521b3e16634e0c316a",
-      "title": "2026文化抗战学术研讨会在桂林召开",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
-      "published": "2026年11月21日 18:48",
+      "id": "a7aa4ad225ae7acddef92",
+      "title": "国民党逼问沈伯洋认同谁的松山机场迁移？点名谢长廷姚文智都提过",
+      "source": "海峡导报",
+      "url": "https://news.ifeng.com/c/8xSEYhEL8jS",
+      "published": "2026-10-23T12:08:09+08:00",
       "genre": "历史故事"
     },
     {
@@ -720,19 +752,19 @@
       "genre": "新闻动态"
     },
     {
-      "id": "ac076db246e14f5219d7f",
-      "title": "滥用AI恶搞红军形象，英雄荣光岂能拿来低俗二创？",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732993.shtml",
-      "published": "2026年11月16日 20:02",
-      "genre": "新闻动态"
+      "id": "a67231e103a2c091f0ed7",
+      "title": "专家解读辽宁舰编队中双055“万吨大驱”强大战力",
+      "source": "环球网",
+      "url": "https://mil.ifeng.com/c/8xU9C1Cxi78",
+      "published": "2026-10-26T06:43:10+08:00",
+      "genre": "分析评论"
     },
     {
-      "id": "a7b035457eaaa80213311",
-      "title": "重庆“母城”推进革命文物活化利用 红色资源融入生活日常",
+      "id": "ad1521b3e16634e0c316a",
+      "title": "2026文化抗战学术研讨会在桂林召开",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733257.shtml",
-      "published": "2026年11月17日 10:27",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
+      "published": "2026年11月21日 18:48",
       "genre": "历史故事"
     },
     {
@@ -744,27 +776,19 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a1dcf8b9fcbb063a31e53",
-      "title": "美国又要发动全球关税战？赖岳谦：换汤不换药",
-      "source": "凤凰卫视资讯台",
-      "url": "https://original.ifeng.com/c/8yLgSr08Hxu",
-      "published": "2026-11-25T22:11:45+08:00",
+      "id": "a3c96d2d6dec712aedec4",
+      "title": "杨建初：AI的生态账，美国科技巨头们还想赖到几时？",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/yangjianchu/2026_11_23_909518_s.shtml",
+      "published": "2026-11-23 09:58:52",
       "genre": "新闻动态"
     },
     {
-      "id": "a60804e59c1f1c00be839",
-      "title": "美俄为何偏爱改装“爷爷辈”轰炸机？",
-      "source": "环球网",
-      "url": "https://news.ifeng.com/c/8xMtGPaQbpK",
-      "published": "2026-10-20T06:57:45+08:00",
-      "genre": "分析评论"
-    },
-    {
-      "id": "a4e30eb00cdb6edbe35e6",
-      "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
+      "id": "a7b035457eaaa80213311",
+      "title": "重庆“母城”推进革命文物活化利用 红色资源融入生活日常",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
-      "published": "2026年11月10日 22:03",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733257.shtml",
+      "published": "2026年11月17日 10:27",
       "genre": "历史故事"
     },
     {
@@ -776,36 +800,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0b7da5182238cf283ff5",
-      "title": "特朗普念念不忘的“中国菜”到底是啥？国宴大厨详解",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8yLioJx3fc4",
-      "published": "2026-11-25T21:58:36+08:00",
-      "genre": "新闻动态"
-    },
-    {
-      "id": "a799c3fbf5f563c6eeecb",
-      "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
+      "id": "a4e30eb00cdb6edbe35e6",
+      "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
       "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
-      "published": "2026年10月29日 10:52",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
+      "published": "2026年11月10日 22:03",
       "genre": "历史故事"
-    },
-    {
-      "id": "a5b33e6ef462d308942b3",
-      "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
-      "published": "2026年11月15日 17:15",
-      "genre": "人物与往事"
-    },
-    {
-      "id": "a9d623e71cad250a67268",
-      "title": "美国青年活动人士盖伊·克里斯滕森：“中国威胁论”，夺走了美国人的自由社交空间",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GuyChristensen/2026_11_25_909550_s.shtml",
-      "published": "2026-11-25 08:43:01",
-      "genre": "新闻动态"
     }
   ]
 }
