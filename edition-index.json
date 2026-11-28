@@ -1,9 +1,9 @@
 {
-  "revision": "90e5839ec07fa0f0804168e3",
+  "revision": "4de294cffba2b798be268303",
   "channels": {
-    "news": 24,
+    "news": 23,
     "military": 24,
-    "history": 26,
+    "history": 27,
     "culture": 26
   },
   "articles": [
@@ -32,11 +32,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a85c3aca2d09810b5bab0",
-      "title": "原创 王力宏前妻离婚后赴婚宴，身穿粉色蝴蝶裙，月领21万养三孩都花不完",
-      "source": "功标青史",
-      "url": "https://www.sohu.com/a/1106937035_122483045",
-      "published": "2026-11-27 04:47",
+      "id": "a05ebf4f994dad702b1ad",
+      "title": "原创 他是著名演员，是宋晓英的再婚丈夫，宋晓英喊了他15年“当家的”",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1107462595_120617247",
+      "published": "2026-11-28 07:23",
       "genre": "人物与往事"
     },
     {
@@ -64,11 +64,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "a70d5f08f5bb55c326d38",
-      "title": "原创 与丈夫分居21年！叶檀在婚姻中的定力是满分",
+      "id": "ac00454d27fa6be0c0cd5",
+      "title": "原创 著名导演王珈：与张力维离婚后崛起，两人的人生现状截然不同",
       "source": "细品名人",
-      "url": "https://www.sohu.com/a/1106485284_120617247",
-      "published": "2026-11-26 07:19",
+      "url": "https://www.sohu.com/a/1107462074_120617247",
+      "published": "2026-11-28 07:16",
       "genre": "人物与往事"
     },
     {
@@ -96,11 +96,11 @@
       "genre": "历史故事"
     },
     {
-      "id": "af1da1f0b510aefb4f67b",
-      "title": "原创 张纪中妻子自曝领证才知真实年龄：婚姻里比年龄重要的东西太多了",
-      "source": "娱情予理说",
-      "url": "https://www.sohu.com/a/1106073571_122158040",
-      "published": "2026-11-25 10:49",
+      "id": "a85c3aca2d09810b5bab0",
+      "title": "原创 王力宏前妻离婚后赴婚宴，身穿粉色蝴蝶裙，月领21万养三孩都花不完",
+      "source": "功标青史",
+      "url": "https://www.sohu.com/a/1106937035_122483045",
+      "published": "2026-11-27 04:47",
       "genre": "人物与往事"
     },
     {
@@ -128,19 +128,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "addfdc346737fef724ea4",
-      "title": "原创 复婚传闻刚澄清七月！55岁的李亚鹏再迎喜讯，前妻王菲成主角",
-      "source": "Ggd娱乐",
-      "url": "https://www.sohu.com/a/1105016173_122434935",
-      "published": "2026-11-23 06:10",
+      "id": "a70d5f08f5bb55c326d38",
+      "title": "原创 与丈夫分居21年！叶檀在婚姻中的定力是满分",
+      "source": "细品名人",
+      "url": "https://www.sohu.com/a/1106485284_120617247",
+      "published": "2026-11-26 07:19",
       "genre": "人物与往事"
     },
     {
-      "id": "a788d02dbab8bf738980f",
-      "title": "日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yP7gCXkg9Y",
-      "published": "2026-11-28T00:04:14+08:00",
+      "id": "af394b5e08b74ac202c07",
+      "title": "前总统心腹，“监听总统，密谋叛国”",
+      "source": "中国新闻周刊",
+      "url": "https://news.ifeng.com/c/8yPrSDAfjFt",
+      "published": "2026-11-28T10:21:31+08:00",
       "genre": "新闻动态"
     },
     {
@@ -160,19 +160,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "ae7296e9aafe471894e60",
-      "title": "原创 著名演员宋晓英：离异后与男星再婚，丧偶5年独自坚强",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1104756886_120617247",
-      "published": "2026-11-22 10:12",
+      "id": "af1da1f0b510aefb4f67b",
+      "title": "原创 张纪中妻子自曝领证才知真实年龄：婚姻里比年龄重要的东西太多了",
+      "source": "娱情予理说",
+      "url": "https://www.sohu.com/a/1106073571_122158040",
+      "published": "2026-11-25 10:49",
       "genre": "人物与往事"
     },
     {
-      "id": "a38ab89f678e7720f8204",
-      "title": "欧洲的“防火墙”，可能先在马德里塌一块",
-      "source": "总编辑时间",
-      "url": "https://original.ifeng.com/c/8yP2HoFQrkI",
-      "published": "2026-11-27T22:45:47+08:00",
+      "id": "acd5cd6412b4d138b432a",
+      "title": "改口了？外媒：泽连斯基承认，乌在利比亚有关行动未事先与欧洲伙伴协调",
+      "source": "环球网",
+      "url": "https://news.ifeng.com/c/8yPq6Z89jBU",
+      "published": "2026-11-28T10:05:46+08:00",
       "genre": "新闻动态"
     },
     {
@@ -192,19 +192,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a8a9b2299f0dc7e318f35",
-      "title": "伊能静一眼看破《后会友期》所有嘉宾，她的通透早在婚姻中体现出来",
-      "source": "扒小妹儿",
-      "url": "https://www.sohu.com/a/1103991457_356941",
-      "published": "2026-11-22 00:00",
+      "id": "addfdc346737fef724ea4",
+      "title": "原创 复婚传闻刚澄清七月！55岁的李亚鹏再迎喜讯，前妻王菲成主角",
+      "source": "Ggd娱乐",
+      "url": "https://www.sohu.com/a/1105016173_122434935",
+      "published": "2026-11-23 06:10",
       "genre": "人物与往事"
     },
     {
-      "id": "a51b7e2f1dd3f77e80247",
-      "title": "外媒爆料：美国施压委内瑞拉、伊拉克“退群”，沙特王储出面干预",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yP5P9gWZoc",
-      "published": "2026-11-27T22:37:42+08:00",
+      "id": "aec58470d105b9fdc6b8d",
+      "title": "荷兰首相暴露了：过度限制，只会加速中国创新",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yPn4lMTM1n",
+      "published": "2026-11-28T09:11:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -224,19 +224,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a073c1485a42237b00b61",
-      "title": "相差31岁，杜星霖坦言很难改嫁，一句话撕开豪门婚姻另一面",
-      "source": "极限的娱乐",
-      "url": "https://www.sohu.com/a/1104399075_123043499",
-      "published": "2026-11-21 08:46",
+      "id": "a8a9b2299f0dc7e318f35",
+      "title": "伊能静一眼看破《后会友期》所有嘉宾，她的通透早在婚姻中体现出来",
+      "source": "扒小妹儿",
+      "url": "https://www.sohu.com/a/1103991457_356941",
+      "published": "2026-11-22 00:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a0f399f8b0c05fc1e6b7b",
-      "title": "一名化学教授被提名为塞尔维亚总统候选人",
-      "source": "凤凰网天下事",
-      "url": "https://original.ifeng.com/c/8yOyhDFRXmS",
-      "published": "2026-11-27T21:57:57+08:00",
+      "id": "a99291ba7fe2ea0658599",
+      "title": "黄仁勋回归英伟达，当真尘埃落定？沈富雄铁口直断：全球经济非他不可",
+      "source": "海峡导报",
+      "url": "https://news.ifeng.com/c/8yPgaOnNMVY",
+      "published": "2026-11-28T08:14:50+08:00",
       "genre": "新闻动态"
     },
     {
@@ -256,19 +256,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "acfa9ac4c2df3a9a950db",
-      "title": "电影《试探》上演血腥爱情故事 三人痴爱成囚画地为牢",
-      "source": "凤凰网娱乐",
-      "url": "https://ent.ifeng.com/c/8yCb8ZwDAXj",
-      "published": "2026-11-20T10:53:01+08:00",
+      "id": "a073c1485a42237b00b61",
+      "title": "相差31岁，杜星霖坦言很难改嫁，一句话撕开豪门婚姻另一面",
+      "source": "极限的娱乐",
+      "url": "https://www.sohu.com/a/1104399075_123043499",
+      "published": "2026-11-21 08:46",
       "genre": "人物与往事"
     },
     {
-      "id": "a3336433243081f5fa654",
-      "title": "“卧底”中国电子市场，这家美国媒体闹了个大笑话",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yP0iS7z4zq",
-      "published": "2026-11-27T21:44:33+08:00",
+      "id": "a0127752c6d345dd9df27",
+      "title": "中国驻哥伦比亚大使回击：孔子反对“以德报怨”",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yPg4XZdXSs",
+      "published": "2026-11-28T07:52:26+08:00",
       "genre": "新闻动态"
     },
     {
@@ -288,19 +288,19 @@
       "genre": "历史故事"
     },
     {
-      "id": "a053e67eb19299b6d7940",
-      "title": "原创 汪峰晒与4个儿女的全家福！他是称职的父亲，但不适合婚姻",
-      "source": "细品名人",
-      "url": "https://www.sohu.com/a/1103496147_120617247",
-      "published": "2026-11-19 09:48",
+      "id": "acfa9ac4c2df3a9a950db",
+      "title": "电影《试探》上演血腥爱情故事 三人痴爱成囚画地为牢",
+      "source": "凤凰网娱乐",
+      "url": "https://ent.ifeng.com/c/8yCb8ZwDAXj",
+      "published": "2026-11-20T10:53:01+08:00",
       "genre": "人物与往事"
     },
     {
-      "id": "a9f9a29512249b43ee370",
-      "title": "“若勒庞上台，将为欧洲一体化敲响丧钟”",
-      "source": "凤凰网天下事",
-      "url": "https://original.ifeng.com/c/8yOkkqjRyOb",
-      "published": "2026-11-27T18:42:16+08:00",
+      "id": "a788d02dbab8bf738980f",
+      "title": "日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8yP7gCXkg9Y",
+      "published": "2026-11-28T00:04:14+08:00",
       "genre": "新闻动态"
     },
     {
@@ -328,12 +328,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a0ba481f2d7e377b53aa1",
-      "title": "“世界科先声”编译|“AI教父”杰弗里·辛顿：中国对AI的理解，比美国政府要深入得多",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/GeoffreyHinton/2026_11_21_909235_s.shtml",
-      "published": "2026-11-21 07:06:41",
-      "genre": "分析评论"
+      "id": "a38ab89f678e7720f8204",
+      "title": "欧洲的“防火墙”，可能先在马德里塌一块",
+      "source": "总编辑时间",
+      "url": "https://original.ifeng.com/c/8yP2HoFQrkI",
+      "published": "2026-11-27T22:45:47+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "a21fd1610d1fd7515a061",
@@ -360,12 +360,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "affcafdbb85c834871b5f",
-      "title": "美国对多国挥舞关税大棒，报告里却反复提到中国",
+      "id": "a0ba481f2d7e377b53aa1",
+      "title": "“世界科先声”编译|“AI教父”杰弗里·辛顿：中国对AI的理解，比美国政府要深入得多",
       "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yOTuJ5spEI",
-      "published": "2026-11-27T14:24:10+08:00",
-      "genre": "新闻动态"
+      "url": "https://www.guancha.cn/GeoffreyHinton/2026_11_21_909235_s.shtml",
+      "published": "2026-11-21 07:06:41",
+      "genre": "分析评论"
     },
     {
       "id": "aae3ff04123e16e1a792a",
@@ -392,12 +392,12 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a7cf7ac66185e9200778b",
-      "title": "“中国对AI的理解，比美国政府要深入得多”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yE0uQcxxAl",
-      "published": "2026-11-21T07:06:41+08:00",
-      "genre": "分析评论"
+      "id": "a51b7e2f1dd3f77e80247",
+      "title": "外媒爆料：美国施压委内瑞拉、伊拉克“退群”，沙特王储出面干预",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8yP5P9gWZoc",
+      "published": "2026-11-27T22:37:42+08:00",
+      "genre": "新闻动态"
     },
     {
       "id": "ab9eebd2d8c252d688e07",
@@ -424,11 +424,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ad030c6542f7ef022130b",
-      "title": "8：0！U17中国男足大胜，晋级世界杯淘汰赛",
-      "source": "大河报",
-      "url": "https://sports.ifeng.com/c/8yNZ7N00BKp",
-      "published": "2026-11-27T01:14:47+08:00",
+      "id": "a0f399f8b0c05fc1e6b7b",
+      "title": "一名化学教授被提名为塞尔维亚总统候选人",
+      "source": "凤凰网天下事",
+      "url": "https://original.ifeng.com/c/8yOyhDFRXmS",
+      "published": "2026-11-27T21:57:57+08:00",
       "genre": "新闻动态"
     },
     {
@@ -456,11 +456,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "af688ed14c29e1512068f",
-      "title": "特朗普怒斥美国经济数据造假，要求调查商务部",
-      "source": "凤凰网天下事",
-      "url": "https://original.ifeng.com/c/8yNWPNhxyD2",
-      "published": "2026-11-27T00:39:51+08:00",
+      "id": "a3336433243081f5fa654",
+      "title": "“卧底”中国电子市场，这家美国媒体闹了个大笑话",
+      "source": "环球时报",
+      "url": "https://news.ifeng.com/c/8yP0iS7z4zq",
+      "published": "2026-11-27T21:44:33+08:00",
       "genre": "新闻动态"
     },
     {
@@ -488,11 +488,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a9705fd4cd71e10fff005",
-      "title": "韩国总统“好感榜”公布：卢武铉第一，文在寅第五，尹锡悦、全斗焕垫底",
-      "source": "东西问",
-      "url": "https://news.ifeng.com/c/8yNa1lIhfOX",
-      "published": "2026-11-26T23:15:00+08:00",
+      "id": "a9f9a29512249b43ee370",
+      "title": "“若勒庞上台，将为欧洲一体化敲响丧钟”",
+      "source": "凤凰网天下事",
+      "url": "https://original.ifeng.com/c/8yOkkqjRyOb",
+      "published": "2026-11-27T18:42:16+08:00",
       "genre": "新闻动态"
     },
     {
@@ -520,11 +520,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a027608bc210fc0f5526a",
-      "title": "感恩节前夕，五角大楼给美国人送了个“毒礼包”",
-      "source": "补壹刀",
-      "url": "https://news.ifeng.com/c/8yNNSPbtd23",
-      "published": "2026-11-26T22:25:25+08:00",
+      "id": "affcafdbb85c834871b5f",
+      "title": "美国对多国挥舞关税大棒，报告里却反复提到中国",
+      "source": "观察者网",
+      "url": "https://news.ifeng.com/c/8yOTuJ5spEI",
+      "published": "2026-11-27T14:24:10+08:00",
       "genre": "新闻动态"
     },
     {
@@ -552,11 +552,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa6bc94370433af245e44",
-      "title": "商务部：各级政府机关、事业单位带头过紧日子，把闲置家底用起来，让闲置资产活起来、二手商品转起来",
-      "source": "政知见",
-      "url": "https://news.ifeng.com/c/8yNM0VhN95m",
-      "published": "2026-11-26T22:13:17+08:00",
+      "id": "ad030c6542f7ef022130b",
+      "title": "8：0！U17中国男足大胜，晋级世界杯淘汰赛",
+      "source": "大河报",
+      "url": "https://sports.ifeng.com/c/8yNZ7N00BKp",
+      "published": "2026-11-27T01:14:47+08:00",
       "genre": "新闻动态"
     },
     {
@@ -584,11 +584,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa0abe4a2606455003d74",
-      "title": "“美国加征关税，反而让企业更想留在中国”",
-      "source": "观察者网",
-      "url": "https://news.ifeng.com/c/8yNM0VhN8vb",
-      "published": "2026-11-26T22:10:14+08:00",
+      "id": "af688ed14c29e1512068f",
+      "title": "特朗普怒斥美国经济数据造假，要求调查商务部",
+      "source": "凤凰网天下事",
+      "url": "https://original.ifeng.com/c/8yNWPNhxyD2",
+      "published": "2026-11-27T00:39:51+08:00",
       "genre": "新闻动态"
     },
     {
@@ -616,11 +616,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "ac395e75f3eb5ab170563",
-      "title": "美国官方信息显示黄仁勋没问题，《纽约时报》还不死心",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yNJt2TunRV",
-      "published": "2026-11-26T21:08:27+08:00",
+      "id": "a9705fd4cd71e10fff005",
+      "title": "韩国总统“好感榜”公布：卢武铉第一，文在寅第五，尹锡悦、全斗焕垫底",
+      "source": "东西问",
+      "url": "https://news.ifeng.com/c/8yNa1lIhfOX",
+      "published": "2026-11-26T23:15:00+08:00",
       "genre": "新闻动态"
     },
     {
@@ -680,11 +680,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "aa8114cf0687e6a7b3c29",
-      "title": "2027年起，购买国际航班机票或将加付碳费",
-      "source": "财经杂志",
-      "url": "https://news.ifeng.com/c/8yNFa0VWABq",
-      "published": "2026-11-26T20:42:00+08:00",
+      "id": "a027608bc210fc0f5526a",
+      "title": "感恩节前夕，五角大楼给美国人送了个“毒礼包”",
+      "source": "补壹刀",
+      "url": "https://news.ifeng.com/c/8yNNSPbtd23",
+      "published": "2026-11-26T22:25:25+08:00",
       "genre": "新闻动态"
     },
     {
@@ -712,11 +712,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a57a66472e0674a03daae",
-      "title": "德国顶级智库负责人语出惊人：趁大众还值钱，赶紧卖给中国",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yNFa0VWAF9",
-      "published": "2026-11-26T19:36:04+08:00",
+      "id": "aa6bc94370433af245e44",
+      "title": "商务部：各级政府机关、事业单位带头过紧日子，把闲置家底用起来，让闲置资产活起来、二手商品转起来",
+      "source": "政知见",
+      "url": "https://news.ifeng.com/c/8yNM0VhN95m",
+      "published": "2026-11-26T22:13:17+08:00",
       "genre": "新闻动态"
     },
     {
@@ -742,14 +742,6 @@
       "url": "https://www.guancha.cn/guanshiyin/2026_10_23_905203_s.shtml",
       "published": "2026-10-23 08:14:02",
       "genre": "人物与往事"
-    },
-    {
-      "id": "accc0ea0c3e58d1d26b53",
-      "title": "美国刚亮出关税大棒，有人立刻滑跪了",
-      "source": "环球时报",
-      "url": "https://news.ifeng.com/c/8yNAHsvR1Zc",
-      "published": "2026-11-26T18:25:52+08:00",
-      "genre": "新闻动态"
     },
     {
       "id": "a67231e103a2c091f0ed7",
@@ -792,11 +784,11 @@
       "genre": "人物与往事"
     },
     {
-      "id": "a712dacb0d8a0419b5f23",
-      "title": "1938年武汉上空，22岁飞行员放弃跳伞撞向日军王牌，24天后20岁未婚妻穿月白旗袍纵身跳江，这段往事谁还记得",
-      "source": "细说周边事",
-      "url": "https://www.360kuai.com/94adccbfa15fcb9f7",
-      "published": "2026-11-04T16:50:46.000Z",
+      "id": "abda978608c050932e480",
+      "title": "一个厂三代女孩，挖出了家族里最隐秘的往事",
+      "source": "新周刊",
+      "url": "https://news.ifeng.com/c/8yPqBtUgk8b",
+      "published": "2026-11-28T08:29:00+08:00",
       "genre": "历史故事"
     },
     {
@@ -806,6 +798,14 @@
       "url": "https://www.sohu.com/a/1034545965_100289291",
       "published": "2026-06-11 11:53",
       "genre": "人物与往事"
+    },
+    {
+      "id": "a712dacb0d8a0419b5f23",
+      "title": "1938年武汉上空，22岁飞行员放弃跳伞撞向日军王牌，24天后20岁未婚妻穿月白旗袍纵身跳江，这段往事谁还记得",
+      "source": "细说周边事",
+      "url": "https://www.360kuai.com/94adccbfa15fcb9f7",
+      "published": "2026-11-04T16:50:46.000Z",
+      "genre": "历史故事"
     }
   ]
 }
